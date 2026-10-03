@@ -1,0 +1,330 @@
+# Nightly DreamDB rebuild — scheduler contract implementation.
+#
+# Contract: monorepo docs/docs/features/offline-db.md ("Nightly scheduler").
+# Pins live in `env` below (bumpable vars — no other line needs editing):
+#   MONOREPO_REF  — monorepo tag/SHA the scraper is checked out at.
+#   MANAMI_VERSION / MANAMI_SHA256 — manami dump pin, fail closed on mismatch.
+#   DART_SDK_VERSION — Dart SDK for the scraper.
+#
+# Cadence: nightly deltas (crawl changed pages only, cursors resume from
+# cache); full recrawl ignoring cursors on Sundays (or manual `full=true`).
+# Failed `verify` => job fails, logs uploaded, failure issue filed, NO PR.
+# Success with dirty chunks => dated branch nightly/YYYY-MM-DD + PR.
+# `registry.json` advances only through the PR merge — never force-pushed,
+# append-only (nextId monotonic, no id reuse; the job fails otherwise).
+
+name: nightly-rebuild
+
+on:
+  schedule:
+    - cron: '0 2 * * *' # nightly 02:00 UTC
+  workflow_dispatch:
+    inputs:
+      full:
+        description: 'Force full recrawl (ignore cursors)'
+        required: false
+        default: false
+        type: boolean
+
+env:
+  # TODO(re-pin): advance to the step-0 merge commit on monorepo main
+  # (monorepo PR bloomstick/dream#1 seeds tools/anime_db/registry.json
+  # from anime-db tag v0-partial). This SHA predates that merge and must
+  # NOT run live until bumped — the data PR checklist tracks it.
+  MONOREPO_REF: '088170ed08daa9835a8680d23c51d2b680f98d58'
+  MANAMI_VERSION: '2026-27'
+  MANAMI_SHA256: '8a63189782176fe19e00eca275288ba855ce54d6cb4d7ae97ec71450f861b1aa'
+  DART_SDK_VERSION: '3.13.4'
+  SCRAPER_DIR: 'monorepo/tools/anime_db'
+
+concurrency:
+  group: nightly-rebuild
+  cancel-in-progress: false # queue, never overlap two rebuilds
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - name: Checkout data repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Snapshot base allocator + manifest
+        run: |
+          mkdir -p "$RUNNER_TEMP/nightly-base" "$GITHUB_WORKSPACE/logs"
+          cp registry.json "$RUNNER_TEMP/nightly-base/registry.json"
+          cp manifest.json "$RUNNER_TEMP/nightly-base/manifest.json"
+          python3 -c "import json; d=json.load(open('registry.json')); print(f\"base nextId={d['nextId']} entries={len(d['entries'])}\")"
+
+      - name: Calendar (week key + full-recrawl day)
+        id: cal
+        run: |
+          echo "week=$(date -u +%G-W%V)" >> "$GITHUB_OUTPUT"
+          echo "dow=$(date -u +%u)" >> "$GITHUB_OUTPUT"
+          echo "today=$(date -u +%F)" >> "$GITHUB_OUTPUT"
+
+      - name: Decide full vs delta
+        id: mode
+        run: |
+          if [ "${{ github.event.inputs.full }}" = "true" ] || [ "${{ steps.cal.outputs.dow }}" = "7" ]; then
+            echo "full=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "full=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Restore build cache (raw + cursors, best-effort)
+        uses: actions/cache/restore@v4
+        with:
+          path: |
+            monorepo/tools/anime_db/build/raw
+            monorepo/tools/anime_db/build/cursors
+          key: nightly-build-${{ steps.cal.outputs.week }}-${{ github.run_id }}
+          restore-keys: |
+            nightly-build-${{ steps.cal.outputs.week }}-
+            nightly-build-
+
+      - name: Sparse-checkout monorepo at pin
+        uses: actions/checkout@v4
+        with:
+          repository: bloomstick/dream
+          ref: ${{ env.MONOREPO_REF }}
+          sparse-checkout: |
+            tools/anime_db
+            packages/dream_core
+          sparse-checkout-cone-mode: false
+          path: monorepo
+          fetch-depth: 1
+          persist-credentials: false
+
+      - name: Setup Dart
+        uses: dart-lang/setup-dart@v1
+        with:
+          sdk: ${{ env.DART_SDK_VERSION }}
+
+      - name: Manami dump re-download + sha check (fail closed)
+        working-directory: ${{ env.SCRAPER_DIR }}
+        run: |
+          mkdir -p build/raw
+          curl -fSL "https://github.com/manami-project/anime-offline-database/releases/download/${MANAMI_VERSION}/anime-offline-database.jsonl" \
+            -o "build/raw/manami_${MANAMI_VERSION}.jsonl"
+          echo "${MANAMI_SHA256}  build/raw/manami_${MANAMI_VERSION}.jsonl" | sha256sum -c -
+
+      - name: Dart pub get
+        working-directory: ${{ env.SCRAPER_DIR }}
+        run: dart pub get
+
+      - name: Full recrawl — drop cursors
+        if: steps.mode.outputs.full == 'true'
+        working-directory: ${{ env.SCRAPER_DIR }}
+        run: rm -f build/cursors/*.json
+
+      - name: Crawl
+        working-directory: ${{ env.SCRAPER_DIR }}
+        run: |
+          set -o pipefail
+          dart bin/anime_db.dart crawl 2>&1 | tee "$GITHUB_WORKSPACE/logs/crawl.log"
+
+      - name: Enrich
+        working-directory: ${{ env.SCRAPER_DIR }}
+        run: |
+          set -o pipefail
+          dart bin/anime_db.dart enrich 2>&1 | tee "$GITHUB_WORKSPACE/logs/enrich.log"
+
+      - name: Merge
+        working-directory: ${{ env.SCRAPER_DIR }}
+        run: |
+          set -o pipefail
+          dart bin/anime_db.dart merge 2>&1 | tee "$GITHUB_WORKSPACE/logs/merge.log"
+
+      - name: Emit
+        working-directory: ${{ env.SCRAPER_DIR }}
+        run: |
+          set -o pipefail
+          dart bin/anime_db.dart emit 2>&1 | tee "$GITHUB_WORKSPACE/logs/emit.log"
+
+      - name: Verify
+        id: verify
+        working-directory: ${{ env.SCRAPER_DIR }}
+        run: |
+          set -o pipefail
+          dart bin/anime_db.dart verify 2>&1 | tee "$GITHUB_WORKSPACE/logs/verify.log"
+
+      - name: Save build cache (always, so cursors survive failures)
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: |
+            monorepo/tools/anime_db/build/raw
+            monorepo/tools/anime_db/build/cursors
+          key: nightly-build-${{ steps.cal.outputs.week }}-${{ github.run_id }}
+
+      - name: Sync build output into data root
+        id: sync
+        run: |
+          python3 <<'EOF'
+          import json, os, shutil
+
+          ws = os.environ['GITHUB_WORKSPACE']
+          out = os.path.join(ws, os.environ['SCRAPER_DIR'], 'build', 'out')
+          base_manifest = json.load(open(os.path.join(os.environ['RUNNER_TEMP'], 'nightly-base', 'manifest.json')))
+          new_manifest = json.load(open(os.path.join(out, 'manifest.json')))
+
+          # Keep the previous manifest for the diff, then overwrite.
+          shutil.copyfile(os.path.join(ws, 'manifest.json'), os.path.join(ws, 'manifest.prev.json'))
+          for name in ('manifest.json', 'aliases.json'):
+              shutil.copyfile(os.path.join(out, name), os.path.join(ws, name))
+          for sub in ('videos', 'linked'):
+              os.makedirs(os.path.join(ws, sub), exist_ok=True)
+              for f in os.listdir(os.path.join(out, sub)):
+                  shutil.copyfile(os.path.join(out, sub, f), os.path.join(ws, sub, f))
+          # Dirty-chunks-only emit: unchanged chunks are byte-identical, so
+          # only changed shas show as dirty. Drop stale meta-* the emit
+          # no longer produces.
+          emitted = {c['name'] for c in new_manifest['chunks']}
+          for f in os.listdir(ws):
+              if f.startswith('meta-') and f.endswith('.json') and f not in emitted:
+                  os.remove(os.path.join(ws, f))
+          for c in new_manifest['chunks']:
+              shutil.copyfile(os.path.join(out, c['name']), os.path.join(ws, c['name']))
+          # Allocator advances only through the PR merge below (never rewritten).
+          shutil.copyfile(
+              os.path.join(ws, os.environ['SCRAPER_DIR'], 'registry.json'),
+              os.path.join(ws, 'registry.json'))
+
+          old_chunks = {c['name']: c['sha256'] for c in base_manifest['chunks']}
+          added = [n for n in emitted if n not in old_chunks]
+          removed = [n for n in old_chunks if n not in emitted]
+          changed = [n for n in emitted if n in old_chunks and old_chunks[n] != new_manifest['chunks'][[c['name'] for c in new_manifest['chunks']].index(n)]['sha256']]
+          notes = (
+              f"titles {base_manifest['titleCount']} -> {new_manifest['titleCount']} "
+              f"({new_manifest['titleCount'] - base_manifest['titleCount']:+d}); "
+              f"chunks {len(base_manifest['chunks'])} -> {len(new_manifest['chunks'])} "
+              f"(+{len(added)} added, -{len(removed)} removed, ~{len(changed)} changed); "
+              f"linkedCount {base_manifest.get('linkedCount')} -> {new_manifest.get('linkedCount')}"
+          )
+          print(f'diff: {notes}')
+          with open(os.path.join(os.environ['GITHUB_OUTPUT']), 'a') as fh:
+              fh.write(f'diff_notes<<DIFFEOF\n{notes}\nDIFFEOF\n')
+              fh.write(f"title_count={new_manifest['titleCount']}\n")
+              fh.write(f"chunk_count={len(new_manifest['chunks'])}\n")
+              fh.write(f"linked_count={new_manifest.get('linkedCount')}\n")
+          EOF
+
+      - name: Registry append-only gate (fail closed)
+        run: |
+          python3 <<'EOF'
+          import json, os
+          base = json.load(open(os.path.join(os.environ['RUNNER_TEMP'], 'nightly-base', 'registry.json')))
+          new = json.load(open('registry.json'))
+          errors = []
+          if new['nextId'] < base['nextId']:
+              errors.append(f"nextId went backwards: {base['nextId']} -> {new['nextId']}")
+          for key, entry in base['entries'].items():
+              if key not in new['entries']:
+                  errors.append(f'removed entry {key} (id reuse forbidden)')
+              elif new['entries'][key]['id'] != entry['id']:
+                  errors.append(f"id changed for {key}: {entry['id']} -> {new['entries'][key]['id']}")
+              elif entry.get('tombstone') and not new['entries'][key].get('tombstone'):
+                  errors.append(f'un-tombstoned {key}')
+          added = [k for k in new['entries'] if k not in base['entries']]
+          retomb = [k for k in base['entries']
+                    if not base['entries'][k].get('tombstone') and new['entries'].get(k, {}).get('tombstone')]
+          print(f"registry: nextId {base['nextId']} -> {new['nextId']} (+{len(added)} entries, +{len(retomb)} tombstones)")
+          if errors:
+              print('REGISTRY GATE FAIL:')
+              for e in errors[:20]:
+                  print(f'  - {e}')
+              raise SystemExit(1)
+          print('registry gate PASS (append-only)')
+          EOF
+
+      - name: Commit to dated branch + open PR
+        id: pr
+        run: |
+          set -e
+          BRANCH="nightly/${{ steps.cal.outputs.today }}"
+          git config user.name 'dreamdb-nightly'
+          git config user.email 'dreamdb-nightly@users.noreply.github.com'
+          if [ -z "$(git status --porcelain -- manifest.json meta-*.json aliases.json registry.json manifest.prev.json videos linked)" ]; then
+            echo 'No dirty chunks — nothing to publish, no PR.'
+            echo "opened=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git checkout -b "$BRANCH"
+          git add manifest.json manifest.prev.json meta-*.json aliases.json registry.json videos linked
+          git commit -m "nightly(${{ steps.cal.outputs.today }}): rebuild from monorepo ${MONOREPO_REF:0:7} ($([ '${{ steps.mode.outputs.full }}' = 'true' ] && echo 'full recrawl' || echo 'delta'))"
+          # Never force-push: a rejected push (same-date rerun raced) fails
+          # the job instead of rewriting the registry history.
+          git push origin "HEAD:$BRANCH"
+          tail -25 logs/verify.log > /tmp/verify_tail.txt
+          {
+            echo "Nightly rebuild \`${{ steps.cal.outputs.today }}\` ($( [ '${{ steps.mode.outputs.full }}' = 'true' ] && echo 'full recrawl' || echo 'delta' ))."
+            echo
+            echo "## Pins"
+            echo
+            echo "| pin | value |"
+            echo "|---|---|"
+            echo "| monorepo ref | \`${{ env.MONOREPO_REF }}\` |"
+            echo "| manami | \`${{ env.MANAMI_VERSION }}\` \`sha256:${{ env.MANAMI_SHA256 }}\` (checked, fail closed) |"
+            echo "| Dart SDK | \`${{ env.DART_SDK_VERSION }}\` |"
+            echo
+            echo "## Verify summary (exit 0)"
+            echo
+            echo '```'
+            cat /tmp/verify_tail.txt
+            echo '```'
+            echo
+            echo "titles=${{ steps.sync.outputs.title_count }} chunks=${{ steps.sync.outputs.chunk_count }} linked=${{ steps.sync.outputs.linked_count }}"
+            echo
+            echo "## Diff vs manifest.prev.json"
+            echo
+            echo '${{ steps.sync.outputs.diff_notes }}'
+            echo
+            echo '## Gate table'
+            echo
+            echo '| gate | result |'
+            echo '|---|---|'
+            echo '| schema + round-trip every TitleInfo field | PASS (verify exit 0) |'
+            echo '| leak gate (descriptions vs build/raw) | PASS (verify exit 0) |'
+            echo '| names gate (ruNames/enNames, yummy first) | PASS (verify exit 0) |'
+            echo '| vocab gate (genres/tags, cap-aware 24) | PASS (verify exit 0) |'
+            echo '| linked gate (dream: resolves, linkedCount) | PASS (verify exit 0) |'
+            echo '| registry append-only (nextId monotonic, no id reuse) | PASS (job gate above) |'
+          } > /tmp/pr_body.md
+          PR_URL=$(gh pr create --base main --head "$BRANCH" \
+            --title "nightly(${{ steps.cal.outputs.today }}): rebuild" \
+            --body-file /tmp/pr_body.md)
+          echo "opened=true" >> "$GITHUB_OUTPUT"
+          echo "pr_url=$PR_URL" >> "$GITHUB_OUTPUT"
+          echo "$PR_URL"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload pipeline logs on failure
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: nightly-logs-${{ steps.cal.outputs.today }}-${{ github.run_id }}
+          path: logs/
+          retention-days: 14
+
+      - name: File failure notice (no PR on failed verify)
+        if: failure()
+        run: |
+          TITLE="nightly failure ${{ steps.cal.outputs.today }}"
+          BODY="Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}. Verify (or an earlier stage) failed — no PR opened, registry untouched. Logs: nightly-logs-${{ steps.cal.outputs.today }}-${{ github.run_id }} artifact (14d retention). Raw scrape text never leaves the runner."
+          EXISTING=$(gh issue list --label nightly-failure --state open --search "$TITLE in:title" --json number --jq '.[0].number // empty')
+          if [ -n "$EXISTING" ]; then
+            gh issue comment "$EXISTING" --body "$BODY"
+          else
+            gh issue create --title "$TITLE" --label nightly-failure --body "$BODY"
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
