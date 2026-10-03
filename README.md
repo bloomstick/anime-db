@@ -88,3 +88,34 @@ outbound `shikimoriId`/`malId` kept on every row.
 - Field emptiness: `description`/`bannerUrl`/`episodeDates`/`director` 100%
   empty (vacuous — 0 rows). Alias coverage 0%.
 - `build/raw/` excluded via `.gitignore`; nothing raw was ever committed.
+
+## Current snapshot — v0-partial (tag `v0-partial`)
+
+- `titleCount: 22733`, chunks: 46 (`meta-0001.json` … `meta-0045.json` at
+  500 rows, `meta-0046.json` at 233 rows), `videos/` rows: 22733 files,
+  `linked/` rows: 22733 files (12789 titles with links, rest
+  `{"links": []}`),
+  `aliases.json`: 23719 entries (yummy 999, shikimori 22720),
+  `registry.json`: `nextId: 22734`.
+- Merge joins (from `build/merged.json` stats): by shikimoriId 967,
+  by MAL id 3, by exact name 1; yummy-only 31, shiki-only 21731;
+  Manami attached 26606, unmatched 14931 (unmatched rows are counted
+  and dropped — Manami never allocates `dream:<id>`).
+- Builder `verify` PASS on this snapshot (single note only:
+  `dream:2000` genre 38 → 24 truncation under the +24 cap).
+- Known gaps (v1 reserved for the full-detail rebuild off this same
+  registry): `bannerUrl` always empty (no banner source);
+  shiki-only rows are thin (details fetched for 2897/24005 so far —
+  list-row fields only for the rest); franchise links are partial
+  (yummy view-list side plus Shikimori related where details exist);
+  every `description` is empty (own-only policy, no manual rewrites yet).
+- Sources + attribution: YummyAnime `https://old.yummyani.me`, Shikimori
+  `https://shikimori.one`, Kodik embed `iframe_url` only (no stored HLS),
+  MyAnimeList outbound links only, plus
+  `manami-project/anime-offline-database` 2026-27 (ODbL-1.0, sha256
+  `8a631897…861b1aa`). Manami-derived fields (`enNames` unions, `linked`
+  edges, fill-when-empty `type`/`status`/`malId`) ship with this
+  attribution; ODbL share-alike fit stays a flagged open question.
+- ID stability: `dream:<id>` allocation is append-only from this tag
+  (`registry.json` committed here); v1 rebuilds off the same registry,
+  never renumbering.
