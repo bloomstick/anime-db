@@ -27,11 +27,10 @@ on:
         type: boolean
 
 env:
-  # TODO(re-pin): advance to the step-0 merge commit on monorepo main
+  # Pinned to the step-0 merge commit on monorepo main
   # (monorepo PR bloomstick/dream#1 seeds tools/anime_db/registry.json
-  # from anime-db tag v0-partial). This SHA predates that merge and must
-  # NOT run live until bumped — the data PR checklist tracks it.
-  MONOREPO_REF: '088170ed08daa9835a8680d23c51d2b680f98d58'
+  # from anime-db tag v0-partial; merged 2026-10-03 as 8a70f29).
+  MONOREPO_REF: '8a70f29ec4036dcedc025ec1e490689a3d85ce40'
   MANAMI_VERSION: '2026-27'
   MANAMI_SHA256: '8a63189782176fe19e00eca275288ba855ce54d6cb4d7ae97ec71450f861b1aa'
   DART_SDK_VERSION: '3.13.4'
@@ -52,7 +51,7 @@ jobs:
     timeout-minutes: 360
     steps:
       - name: Checkout data repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
         with:
           fetch-depth: 1
 
@@ -80,7 +79,8 @@ jobs:
           fi
 
       - name: Restore build cache (raw + cursors, best-effort)
-        uses: actions/cache/restore@v4
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        uses: actions/cache/restore@0057852bfaa89a56745cba8c7296529d2fc39830 # v4
         with:
           path: |
             monorepo/tools/anime_db/build/raw
@@ -90,11 +90,21 @@ jobs:
             nightly-build-${{ steps.cal.outputs.week }}-
             nightly-build-
 
+      - name: Check monorepo token present (fail closed)
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        run: |
+          if [ -z "${{ secrets.DREAM_READ_TOKEN }}" ]; then
+            echo "::error::DREAM_READ_TOKEN is unset — cross-repo checkout of private bloomstick/dream needs a fine-grained read-only PAT stored as the DREAM_READ_TOKEN secret. Ask a repo owner to create it; refusing to proceed without it."
+            exit 1
+          fi
+
       - name: Sparse-checkout monorepo at pin
-        uses: actions/checkout@v4
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
         with:
           repository: bloomstick/dream
           ref: ${{ env.MONOREPO_REF }}
+          token: ${{ secrets.DREAM_READ_TOKEN }}
           sparse-checkout: |
             tools/anime_db
             packages/dream_core
@@ -104,11 +114,13 @@ jobs:
           persist-credentials: false
 
       - name: Setup Dart
-        uses: dart-lang/setup-dart@v1
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        uses: dart-lang/setup-dart@6afc89df92d6eb3834022f73cd65adc8cdfcb92d # v1
         with:
           sdk: ${{ env.DART_SDK_VERSION }}
 
       - name: Manami dump re-download + sha check (fail closed)
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         working-directory: ${{ env.SCRAPER_DIR }}
         run: |
           mkdir -p build/raw
@@ -117,39 +129,45 @@ jobs:
           echo "${MANAMI_SHA256}  build/raw/manami_${MANAMI_VERSION}.jsonl" | sha256sum -c -
 
       - name: Dart pub get
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         working-directory: ${{ env.SCRAPER_DIR }}
         run: dart pub get
 
       - name: Full recrawl — drop cursors
-        if: steps.mode.outputs.full == 'true'
+        if: ${{ (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch') && steps.mode.outputs.full == 'true' }}
         working-directory: ${{ env.SCRAPER_DIR }}
         run: rm -f build/cursors/*.json
 
       - name: Crawl
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         working-directory: ${{ env.SCRAPER_DIR }}
         run: |
           set -o pipefail
           dart bin/anime_db.dart crawl 2>&1 | tee "$GITHUB_WORKSPACE/logs/crawl.log"
 
       - name: Enrich
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         working-directory: ${{ env.SCRAPER_DIR }}
         run: |
           set -o pipefail
           dart bin/anime_db.dart enrich 2>&1 | tee "$GITHUB_WORKSPACE/logs/enrich.log"
 
       - name: Merge
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         working-directory: ${{ env.SCRAPER_DIR }}
         run: |
           set -o pipefail
           dart bin/anime_db.dart merge 2>&1 | tee "$GITHUB_WORKSPACE/logs/merge.log"
 
       - name: Emit
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         working-directory: ${{ env.SCRAPER_DIR }}
         run: |
           set -o pipefail
           dart bin/anime_db.dart emit 2>&1 | tee "$GITHUB_WORKSPACE/logs/emit.log"
 
       - name: Verify
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         id: verify
         working-directory: ${{ env.SCRAPER_DIR }}
         run: |
@@ -157,8 +175,8 @@ jobs:
           dart bin/anime_db.dart verify 2>&1 | tee "$GITHUB_WORKSPACE/logs/verify.log"
 
       - name: Save build cache (always, so cursors survive failures)
-        if: always()
-        uses: actions/cache/save@v4
+        if: ${{ always() && (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch') }}
+        uses: actions/cache/save@0057852bfaa89a56745cba8c7296529d2fc39830 # v4
         with:
           path: |
             monorepo/tools/anime_db/build/raw
@@ -166,6 +184,7 @@ jobs:
           key: nightly-build-${{ steps.cal.outputs.week }}-${{ github.run_id }}
 
       - name: Sync build output into data root
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         id: sync
         run: |
           python3 <<'EOF'
@@ -218,6 +237,7 @@ jobs:
           EOF
 
       - name: Registry append-only gate (fail closed)
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         run: |
           python3 <<'EOF'
           import json, os
@@ -246,6 +266,7 @@ jobs:
           EOF
 
       - name: Commit to dated branch + open PR
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         id: pr
         run: |
           set -e
@@ -308,15 +329,15 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Upload pipeline logs on failure
-        if: failure()
-        uses: actions/upload-artifact@v4
+        if: ${{ failure() && (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch') }}
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
         with:
           name: nightly-logs-${{ steps.cal.outputs.today }}-${{ github.run_id }}
           path: logs/
           retention-days: 14
 
       - name: File failure notice (no PR on failed verify)
-        if: failure()
+        if: ${{ failure() && (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch') }}
         run: |
           TITLE="nightly failure ${{ steps.cal.outputs.today }}"
           BODY="Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}. Verify (or an earlier stage) failed — no PR opened, registry untouched. Logs: nightly-logs-${{ steps.cal.outputs.today }}-${{ github.run_id }} artifact (14d retention). Raw scrape text never leaves the runner."
