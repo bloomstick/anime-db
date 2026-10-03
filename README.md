@@ -78,6 +78,7 @@ print(f'rows={n} nonempty={v} overrides={len(ov)} gate=PASS')"
 Bundled: facts/ids/URLs (titles, ids, episode numbers, iframe URLs).
 Creative text only as own rewrites (`overrides/`). Attribution above +
 outbound `shikimoriId`/`malId` kept on every row.
+See NOTICE for manami-derived portions (ODbL-1.0 + DbCL).
 
 ## Current snapshot — 20261003 (v0 scaffold)
 
@@ -115,7 +116,7 @@ outbound `shikimoriId`/`malId` kept on every row.
   `manami-project/anime-offline-database` 2026-27 (ODbL-1.0, sha256
   `8a631897…861b1aa`). Manami-derived fields (`enNames` unions, `linked`
   edges, fill-when-empty `type`/`status`/`malId`) ship with this
-  attribution; ODbL share-alike fit stays a flagged open question.
+  attribution; see NOTICE for the ODbL-1.0 + DbCL statement (comply in place — no rebuild, no retag).
 - ID stability: `dream:<id>` allocation is append-only from this tag
   (`registry.json` committed here); v1 rebuilds off the same registry,
   never renumbering.
