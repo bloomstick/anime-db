@@ -181,7 +181,7 @@
       "isCurrent": false
     },
     {
-      "slug": "mal:1521",
+      "slug": "dream:1175",
       "title": "https://myanimelist.net/anime/1521",
       "detail": "",
       "kindLabel": "",
@@ -190,7 +190,7 @@
       "isCurrent": false
     },
     {
-      "slug": "mal:2213",
+      "slug": "dream:1683",
       "title": "https://myanimelist.net/anime/2213",
       "detail": "",
       "kindLabel": "",
@@ -208,7 +208,7 @@
       "isCurrent": false
     },
     {
-      "slug": "mal:6246",
+      "slug": "dream:23193",
       "title": "https://myanimelist.net/anime/6246",
       "detail": "",
       "kindLabel": "",
@@ -226,7 +226,7 @@
       "isCurrent": false
     },
     {
-      "slug": "mal:9991",
+      "slug": "dream:4446",
       "title": "https://myanimelist.net/anime/9991",
       "detail": "",
       "kindLabel": "",
@@ -237,6 +237,15 @@
     {
       "slug": "anidb:11226",
       "title": "https://anidb.net/anime/11226",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "anidb:2389",
+      "title": "https://anidb.net/anime/2389",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -334,42 +343,6 @@
       "isCurrent": false
     },
     {
-      "slug": "anidb:8845",
-      "title": "https://anidb.net/anime/8845",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "anilist:101347",
-      "title": "https://anilist.co/anime/101347",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "anilist:1371",
-      "title": "https://anilist.co/anime/1371",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "anilist:1373",
-      "title": "https://anilist.co/anime/1373",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "anilist:1520",
       "title": "https://anilist.co/anime/1520",
       "detail": "",
@@ -379,179 +352,8 @@
       "isCurrent": false
     },
     {
-      "slug": "anilist:1572",
-      "title": "https://anilist.co/anime/1572",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "anilist:18669",
-      "title": "https://anilist.co/anime/18669",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "anilist:1983",
-      "title": "https://anilist.co/anime/1983",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "anilist:21187",
-      "title": "https://anilist.co/anime/21187",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "anilist:2214",
-      "title": "https://anilist.co/anime/2214",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "anilist:2427",
-      "title": "https://anilist.co/anime/2427",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "anilist:4071",
-      "title": "https://anilist.co/anime/4071",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "anilist:5249",
-      "title": "https://anilist.co/anime/5249",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "anilist:6246",
-      "title": "https://anilist.co/anime/6246",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "anilist:7229",
-      "title": "https://anilist.co/anime/7229",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "https://anime-planet.com/anime/black-jack-2001",
-      "title": "https://anime-planet.com/anime/black-jack-2001",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "https://anime-planet.com/anime/black-jack-21",
-      "title": "https://anime-planet.com/anime/black-jack-21",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "https://anime-planet.com/anime/black-jack-heian-sento",
-      "title": "https://anime-planet.com/anime/black-jack-heian-sento",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "https://anime-planet.com/anime/black-jack-karte-ng-extras",
-      "title": "https://anime-planet.com/anime/black-jack-karte-ng-extras",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://anime-planet.com/anime/black-jack-ova",
       "title": "https://anime-planet.com/anime/black-jack-ova",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "https://anime-planet.com/anime/black-jack-special-the-4-miracles-of-life",
-      "title": "https://anime-planet.com/anime/black-jack-special-the-4-miracles-of-life",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "https://anime-planet.com/anime/black-jack-the-lost-episodes",
-      "title": "https://anime-planet.com/anime/black-jack-the-lost-episodes",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "https://anime-planet.com/anime/black-jack-the-two-doctors-of-darkness",
-      "title": "https://anime-planet.com/anime/black-jack-the-two-doctors-of-darkness",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "https://anime-planet.com/anime/young-black-jack",
-      "title": "https://anime-planet.com/anime/young-black-jack",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "https://animecountdown.com/1572465",
-      "title": "https://animecountdown.com/1572465",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -570,6 +372,15 @@
     {
       "slug": "https://animecountdown.com/37192",
       "title": "https://animecountdown.com/37192",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://animecountdown.com/37838",
+      "title": "https://animecountdown.com/37838",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -685,35 +496,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://animenewsnetwork.com/encyclopedia/anime.php?id=6060",
-      "title": "https://animenewsnetwork.com/encyclopedia/anime.php?id=6060",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "https://animenewsnetwork.com/encyclopedia/anime.php?id=6412",
-      "title": "https://animenewsnetwork.com/encyclopedia/anime.php?id=6412",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "https://anisearch.com/anime/10425",
-      "title": "https://anisearch.com/anime/10425",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "https://anisearch.com/anime/11137",
-      "title": "https://anisearch.com/anime/11137",
+      "slug": "https://animenewsnetwork.com/encyclopedia/anime.php?id=525",
+      "title": "https://animenewsnetwork.com/encyclopedia/anime.php?id=525",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -723,213 +507,6 @@
     {
       "slug": "https://anisearch.com/anime/1353",
       "title": "https://anisearch.com/anime/1353",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "https://anisearch.com/anime/3526",
-      "title": "https://anisearch.com/anime/3526",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "https://anisearch.com/anime/3582",
-      "title": "https://anisearch.com/anime/3582",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "https://anisearch.com/anime/7959",
-      "title": "https://anisearch.com/anime/7959",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "https://anisearch.com/anime/827",
-      "title": "https://anisearch.com/anime/827",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "kitsu:1227",
-      "title": "https://kitsu.app/anime/1227",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "kitsu:1364",
-      "title": "https://kitsu.app/anime/1364",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "kitsu:1785",
-      "title": "https://kitsu.app/anime/1785",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "kitsu:2005",
-      "title": "https://kitsu.app/anime/2005",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "kitsu:3446",
-      "title": "https://kitsu.app/anime/3446",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "kitsu:3447",
-      "title": "https://kitsu.app/anime/3447",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "kitsu:819",
-      "title": "https://kitsu.app/anime/819",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "kitsu:8780",
-      "title": "https://kitsu.app/anime/8780",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "https://livechart.me/anime/4709",
-      "title": "https://livechart.me/anime/4709",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:1069",
-      "title": "https://myanimelist.net/anime/1373",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:1174",
-      "title": "https://myanimelist.net/anime/1520",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": true
-    },
-    {
-      "slug": "dream:5977",
-      "title": "https://myanimelist.net/anime/18669",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:1515",
-      "title": "https://myanimelist.net/anime/1983",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:1684",
-      "title": "https://myanimelist.net/anime/2214",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:2644",
-      "title": "https://myanimelist.net/anime/4070",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "mal:4071",
-      "title": "https://myanimelist.net/anime/4071",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:22117",
-      "title": "https://myanimelist.net/anime/63275",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:722",
-      "title": "https://myanimelist.net/anime/919",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "https://simkl.com/anime/1572465",
-      "title": "https://simkl.com/anime/1572465",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -948,6 +525,15 @@
     {
       "slug": "https://simkl.com/anime/37192",
       "title": "https://simkl.com/anime/37192",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://simkl.com/anime/37838",
+      "title": "https://simkl.com/anime/37838",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -1063,35 +649,8 @@
       "isCurrent": false
     },
     {
-      "slug": "anidb:2389",
-      "title": "https://anidb.net/anime/2389",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "https://animecountdown.com/37838",
-      "title": "https://animecountdown.com/37838",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "https://animenewsnetwork.com/encyclopedia/anime.php?id=525",
-      "title": "https://animenewsnetwork.com/encyclopedia/anime.php?id=525",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "https://simkl.com/anime/37838",
-      "title": "https://simkl.com/anime/37838",
+      "slug": "anidb:8845",
+      "title": "https://anidb.net/anime/8845",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -1135,6 +694,15 @@
       "isCurrent": false
     },
     {
+      "slug": "anilist:21187",
+      "title": "https://anilist.co/anime/21187",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
       "slug": "anilist:2213",
       "title": "https://anilist.co/anime/2213",
       "detail": "",
@@ -1146,6 +714,15 @@
     {
       "slug": "anilist:6513",
       "title": "https://anilist.co/anime/6513",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "anilist:7229",
+      "title": "https://anilist.co/anime/7229",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -1180,8 +757,35 @@
       "isCurrent": false
     },
     {
+      "slug": "https://anime-planet.com/anime/black-jack-2001",
+      "title": "https://anime-planet.com/anime/black-jack-2001",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
       "slug": "https://anime-planet.com/anime/black-jack-final",
       "title": "https://anime-planet.com/anime/black-jack-final",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/black-jack-heian-sento",
+      "title": "https://anime-planet.com/anime/black-jack-heian-sento",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/black-jack-special-the-4-miracles-of-life",
+      "title": "https://anime-planet.com/anime/black-jack-special-the-4-miracles-of-life",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -1200,6 +804,24 @@
     {
       "slug": "https://anime-planet.com/anime/black-jack-the-movie",
       "title": "https://anime-planet.com/anime/black-jack-the-movie",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/young-black-jack",
+      "title": "https://anime-planet.com/anime/young-black-jack",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://animecountdown.com/1572465",
+      "title": "https://animecountdown.com/1572465",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -1288,8 +910,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://anisearch.com/anime/6082",
-      "title": "https://anisearch.com/anime/6082",
+      "slug": "https://simkl.com/anime/1572465",
+      "title": "https://simkl.com/anime/1572465",
       "detail": "",
       "kindLabel": "",
       "relation": "",

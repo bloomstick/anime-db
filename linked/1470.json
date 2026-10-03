@@ -1,8 +1,8 @@
 {
   "links": [
     {
-      "slug": "kitsu:1944",
-      "title": "https://kitsu.app/anime/1944",
+      "slug": "kitsu:1737",
+      "title": "https://kitsu.app/anime/1737",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -10,8 +10,8 @@
       "isCurrent": false
     },
     {
-      "slug": "kitsu:3488",
-      "title": "https://kitsu.app/anime/3488",
+      "slug": "kitsu:1944",
+      "title": "https://kitsu.app/anime/1944",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -28,6 +28,15 @@
       "isCurrent": false
     },
     {
+      "slug": "dream:1470",
+      "title": "https://myanimelist.net/anime/1927",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": true
+    },
+    {
       "slug": "dream:1640",
       "title": "https://myanimelist.net/anime/2147",
       "detail": "",
@@ -37,8 +46,8 @@
       "isCurrent": false
     },
     {
-      "slug": "mal:4149",
-      "title": "https://myanimelist.net/anime/4149",
+      "slug": "dream:3263",
+      "title": "https://myanimelist.net/anime/6061",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -46,8 +55,17 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:3263",
-      "title": "https://myanimelist.net/anime/6061",
+      "slug": "kitsu:3488",
+      "title": "https://kitsu.app/anime/3488",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "mal:4149",
+      "title": "https://myanimelist.net/anime/4149",
       "detail": "",
       "kindLabel": "",
       "relation": "",

@@ -10,17 +10,8 @@
       "isCurrent": false
     },
     {
-      "slug": "anilist:179687",
-      "title": "https://anilist.co/anime/179687",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "anilist:3754",
-      "title": "https://anilist.co/anime/3754",
+      "slug": "anidb:2040",
+      "title": "https://anidb.net/anime/2040",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -30,6 +21,15 @@
     {
       "slug": "https://anime-planet.com/anime/tongari-boushi-no-memoru",
       "title": "https://anime-planet.com/anime/tongari-boushi-no-memoru",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://animecountdown.com/37057",
+      "title": "https://animecountdown.com/37057",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -55,24 +55,6 @@
       "isCurrent": false
     },
     {
-      "slug": "kitsu:3231",
-      "title": "https://kitsu.app/anime/3231",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "https://livechart.me/anime/11959",
-      "title": "https://livechart.me/anime/11959",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:2503",
       "title": "https://myanimelist.net/anime/3754",
       "detail": "",
@@ -82,35 +64,17 @@
       "isCurrent": false
     },
     {
-      "slug": "https://simkl.com/anime/41499",
-      "title": "https://simkl.com/anime/41499",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "anidb:2040",
-      "title": "https://anidb.net/anime/2040",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "https://animecountdown.com/37057",
-      "title": "https://animecountdown.com/37057",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/37057",
       "title": "https://simkl.com/anime/37057",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://simkl.com/anime/41499",
+      "title": "https://simkl.com/anime/41499",
       "detail": "",
       "kindLabel": "",
       "relation": "",

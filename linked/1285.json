@@ -1,3 +1,751 @@
 {
-  "links": []
+  "links": [
+    {
+      "slug": "anidb:12277",
+      "title": "https://anidb.net/anime/12277",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "anidb:1527",
+      "title": "https://anidb.net/anime/1527",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "anidb:7994",
+      "title": "https://anidb.net/anime/7994",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "anidb:8699",
+      "title": "https://anidb.net/anime/8699",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "anilist:11755",
+      "title": "https://anilist.co/anime/11755",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "anilist:4690",
+      "title": "https://anilist.co/anime/4690",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "anilist:7336",
+      "title": "https://anilist.co/anime/7336",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "anilist:8394",
+      "title": "https://anilist.co/anime/8394",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/009-re-cyborg",
+      "title": "https://anime-planet.com/anime/009-re-cyborg",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/amon-apocalypse-of-devilman",
+      "title": "https://anime-planet.com/anime/amon-apocalypse-of-devilman",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/cb-chara-go-nagai-world",
+      "title": "https://anime-planet.com/anime/cb-chara-go-nagai-world",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/cyborg-009-1966",
+      "title": "https://anime-planet.com/anime/cyborg-009-1966",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/cyborg-009-1968",
+      "title": "https://anime-planet.com/anime/cyborg-009-1968",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/cyborg-009-1979",
+      "title": "https://anime-planet.com/anime/cyborg-009-1979",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/cyborg-009-kaijuu-sensou",
+      "title": "https://anime-planet.com/anime/cyborg-009-kaijuu-sensou",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/cyborg-009-legend-of-the-super-galaxy",
+      "title": "https://anime-planet.com/anime/cyborg-009-legend-of-the-super-galaxy",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/cyborg-009-the-cyborg-soldier-recap",
+      "title": "https://anime-planet.com/anime/cyborg-009-the-cyborg-soldier-recap",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/cyborg-009-the-cyborg-soldier-the-birth-of-a-new-universe",
+      "title": "https://anime-planet.com/anime/cyborg-009-the-cyborg-soldier-the-birth-of-a-new-universe",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/cyborg-009-the-reopening",
+      "title": "https://anime-planet.com/anime/cyborg-009-the-reopening",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/cyborg-009-vs-devilman",
+      "title": "https://anime-planet.com/anime/cyborg-009-vs-devilman",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/devilman-crybaby",
+      "title": "https://anime-planet.com/anime/devilman-crybaby",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/devilman-the-birth",
+      "title": "https://anime-planet.com/anime/devilman-the-birth",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/devilman-the-demon-bird",
+      "title": "https://anime-planet.com/anime/devilman-the-demon-bird",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/great-mazinger",
+      "title": "https://anime-planet.com/anime/great-mazinger",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/great-mazinger-vs-getter-robo",
+      "title": "https://anime-planet.com/anime/great-mazinger-vs-getter-robo",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/great-mazinger-vs-getter-robo-g-the-great-space-encounter",
+      "title": "https://anime-planet.com/anime/great-mazinger-vs-getter-robo-g-the-great-space-encounter",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/grendizer-getter-robo-g-great-mazinger-kessen-daikaijuu",
+      "title": "https://anime-planet.com/anime/grendizer-getter-robo-g-great-mazinger-kessen-daikaijuu",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/mazinger-z",
+      "title": "https://anime-planet.com/anime/mazinger-z",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/mazinger-z-1973",
+      "title": "https://anime-planet.com/anime/mazinger-z-1973",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/mazinger-z-vs-dark-general",
+      "title": "https://anime-planet.com/anime/mazinger-z-vs-dark-general",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/mazinger-z-vs-devilman",
+      "title": "https://anime-planet.com/anime/mazinger-z-vs-devilman",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/the-devil-lady",
+      "title": "https://anime-planet.com/anime/the-devil-lady",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/ufo-robo-grendizer-vs-great-mazinger",
+      "title": "https://anime-planet.com/anime/ufo-robo-grendizer-vs-great-mazinger",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/violence-jack-harlem-bomber",
+      "title": "https://anime-planet.com/anime/violence-jack-harlem-bomber",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/violence-jack-hells-wind",
+      "title": "https://anime-planet.com/anime/violence-jack-hells-wind",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://animecountdown.com/38463",
+      "title": "https://animecountdown.com/38463",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://animecountdown.com/38933",
+      "title": "https://animecountdown.com/38933",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://animecountdown.com/40492",
+      "title": "https://animecountdown.com/40492",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://animecountdown.com/41092",
+      "title": "https://animecountdown.com/41092",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://animecountdown.com/601721",
+      "title": "https://animecountdown.com/601721",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://animenewsnetwork.com/encyclopedia/anime.php?id=1838",
+      "title": "https://animenewsnetwork.com/encyclopedia/anime.php?id=1838",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://animenewsnetwork.com/encyclopedia/anime.php?id=7467",
+      "title": "https://animenewsnetwork.com/encyclopedia/anime.php?id=7467",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anisearch.com/anime/1426",
+      "title": "https://anisearch.com/anime/1426",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anisearch.com/anime/15545",
+      "title": "https://anisearch.com/anime/15545",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anisearch.com/anime/15546",
+      "title": "https://anisearch.com/anime/15546",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anisearch.com/anime/6550",
+      "title": "https://anisearch.com/anime/6550",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "kitsu:11114",
+      "title": "https://kitsu.app/anime/11114",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "kitsu:12543",
+      "title": "https://kitsu.app/anime/12543",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "kitsu:12577",
+      "title": "https://kitsu.app/anime/12577",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "kitsu:12578",
+      "title": "https://kitsu.app/anime/12578",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "kitsu:3741",
+      "title": "https://kitsu.app/anime/3741",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "kitsu:44555",
+      "title": "https://kitsu.app/anime/44555",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "kitsu:44556",
+      "title": "https://kitsu.app/anime/44556",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "kitsu:4945",
+      "title": "https://kitsu.app/anime/4945",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "kitsu:6588",
+      "title": "https://kitsu.app/anime/6588",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "kitsu:7868",
+      "title": "https://kitsu.app/anime/7868",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/13248",
+      "title": "https://livechart.me/anime/13248",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/1668",
+      "title": "https://livechart.me/anime/1668",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/2257",
+      "title": "https://livechart.me/anime/2257",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/2331",
+      "title": "https://livechart.me/anime/2331",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/2332",
+      "title": "https://livechart.me/anime/2332",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/6271",
+      "title": "https://livechart.me/anime/6271",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/7088",
+      "title": "https://livechart.me/anime/7088",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/7536",
+      "title": "https://livechart.me/anime/7536",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/7544",
+      "title": "https://livechart.me/anime/7544",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/8611",
+      "title": "https://livechart.me/anime/8611",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/8649",
+      "title": "https://livechart.me/anime/8649",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/966",
+      "title": "https://livechart.me/anime/966",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:4903",
+      "title": "https://myanimelist.net/anime/11755",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:8312",
+      "title": "https://myanimelist.net/anime/31050",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:9260",
+      "title": "https://myanimelist.net/anime/33685",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:9261",
+      "title": "https://myanimelist.net/anime/33686",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:9262",
+      "title": "https://myanimelist.net/anime/33687",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:12198",
+      "title": "https://myanimelist.net/anime/40250",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:12199",
+      "title": "https://myanimelist.net/anime/40251",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:2834",
+      "title": "https://myanimelist.net/anime/4690",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:3678",
+      "title": "https://myanimelist.net/anime/7336",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:23282",
+      "title": "https://myanimelist.net/anime/8394",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://simkl.com/anime/38463",
+      "title": "https://simkl.com/anime/38463",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://simkl.com/anime/38933",
+      "title": "https://simkl.com/anime/38933",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://simkl.com/anime/40492",
+      "title": "https://simkl.com/anime/40492",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://simkl.com/anime/41092",
+      "title": "https://simkl.com/anime/41092",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://simkl.com/anime/601721",
+      "title": "https://simkl.com/anime/601721",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    }
+  ]
 }

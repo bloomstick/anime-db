@@ -1,33 +1,6 @@
 {
   "links": [
     {
-      "slug": "anilist:11589",
-      "title": "https://anilist.co/anime/11589",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "kitsu:6543",
-      "title": "https://kitsu.app/anime/6543",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "mal:11589",
-      "title": "https://myanimelist.net/anime/11589",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "anilist:10459",
       "title": "https://anilist.co/anime/10459",
       "detail": "",
@@ -46,13 +19,13 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:4862",
+      "slug": "dream:4601",
       "title": "https://myanimelist.net/anime/10459",
       "detail": "",
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": true
+      "isCurrent": false
     }
   ]
 }

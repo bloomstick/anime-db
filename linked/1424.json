@@ -1,6 +1,15 @@
 {
   "links": [
     {
+      "slug": "anidb:10198",
+      "title": "https://anidb.net/anime/10198",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
       "slug": "anidb:11964",
       "title": "https://anidb.net/anime/11964",
       "detail": "",
@@ -55,15 +64,6 @@
       "isCurrent": false
     },
     {
-      "slug": "anidb:4530",
-      "title": "https://anidb.net/anime/4530",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "anidb:5970",
       "title": "https://anidb.net/anime/5970",
       "detail": "",
@@ -91,17 +91,8 @@
       "isCurrent": false
     },
     {
-      "slug": "anilist:6381",
-      "title": "https://anilist.co/anime/6381",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "anilist:9751",
-      "title": "https://anilist.co/anime/9751",
+      "slug": "anilist:3667",
+      "title": "https://anilist.co/anime/3667",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -154,8 +145,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://anime-planet.com/anime/strike-witches-ova",
-      "title": "https://anime-planet.com/anime/strike-witches-ova",
+      "slug": "https://anime-planet.com/anime/strike-witches-operation-victory-arrow",
+      "title": "https://anime-planet.com/anime/strike-witches-operation-victory-arrow",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -199,15 +190,6 @@
       "isCurrent": false
     },
     {
-      "slug": "https://animecountdown.com/38199",
-      "title": "https://animecountdown.com/38199",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://animecountdown.com/39482",
       "title": "https://animecountdown.com/39482",
       "detail": "",
@@ -219,6 +201,15 @@
     {
       "slug": "https://animecountdown.com/41666",
       "title": "https://animecountdown.com/41666",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://animecountdown.com/48746",
+      "title": "https://animecountdown.com/48746",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -280,6 +271,24 @@
       "isCurrent": false
     },
     {
+      "slug": "https://animenewsnetwork.com/encyclopedia/anime.php?id=16102",
+      "title": "https://animenewsnetwork.com/encyclopedia/anime.php?id=16102",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://animenewsnetwork.com/encyclopedia/anime.php?id=18118",
+      "title": "https://animenewsnetwork.com/encyclopedia/anime.php?id=18118",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
       "slug": "https://animenewsnetwork.com/encyclopedia/anime.php?id=21189",
       "title": "https://animenewsnetwork.com/encyclopedia/anime.php?id=21189",
       "detail": "",
@@ -289,8 +298,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://anisearch.com/anime/5278",
-      "title": "https://anisearch.com/anime/5278",
+      "slug": "https://animenewsnetwork.com/encyclopedia/anime.php?id=21876",
+      "title": "https://animenewsnetwork.com/encyclopedia/anime.php?id=21876",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -298,8 +307,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://anisearch.com/anime/6900",
-      "title": "https://anisearch.com/anime/6900",
+      "slug": "https://animenewsnetwork.com/encyclopedia/anime.php?id=22342",
+      "title": "https://animenewsnetwork.com/encyclopedia/anime.php?id=22342",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -307,8 +316,8 @@
       "isCurrent": false
     },
     {
-      "slug": "kitsu:4540",
-      "title": "https://kitsu.app/anime/4540",
+      "slug": "https://animenewsnetwork.com/encyclopedia/anime.php?id=23240",
+      "title": "https://animenewsnetwork.com/encyclopedia/anime.php?id=23240",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -316,8 +325,8 @@
       "isCurrent": false
     },
     {
-      "slug": "kitsu:5851",
-      "title": "https://kitsu.app/anime/5851",
+      "slug": "https://animenewsnetwork.com/encyclopedia/anime.php?id=23727",
+      "title": "https://animenewsnetwork.com/encyclopedia/anime.php?id=23727",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -325,8 +334,8 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:3366",
-      "title": "https://myanimelist.net/anime/6381",
+      "slug": "https://animenewsnetwork.com/encyclopedia/anime.php?id=24669",
+      "title": "https://animenewsnetwork.com/encyclopedia/anime.php?id=24669",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -334,8 +343,161 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:4346",
-      "title": "https://myanimelist.net/anime/9751",
+      "slug": "https://animenewsnetwork.com/encyclopedia/anime.php?id=9139",
+      "title": "https://animenewsnetwork.com/encyclopedia/anime.php?id=9139",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anisearch.com/anime/4934",
+      "title": "https://anisearch.com/anime/4934",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "kitsu:3179",
+      "title": "https://kitsu.app/anime/3179",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/10078",
+      "title": "https://livechart.me/anime/10078",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/10135",
+      "title": "https://livechart.me/anime/10135",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/2495",
+      "title": "https://livechart.me/anime/2495",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/276",
+      "title": "https://livechart.me/anime/276",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/277",
+      "title": "https://livechart.me/anime/277",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/3379",
+      "title": "https://livechart.me/anime/3379",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/3380",
+      "title": "https://livechart.me/anime/3380",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/3381",
+      "title": "https://livechart.me/anime/3381",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/3382",
+      "title": "https://livechart.me/anime/3382",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/3383",
+      "title": "https://livechart.me/anime/3383",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/612",
+      "title": "https://livechart.me/anime/612",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/613",
+      "title": "https://livechart.me/anime/613",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/9480",
+      "title": "https://livechart.me/anime/9480",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/990",
+      "title": "https://livechart.me/anime/990",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:2469",
+      "title": "https://myanimelist.net/anime/3667",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -370,15 +532,6 @@
       "isCurrent": false
     },
     {
-      "slug": "https://simkl.com/anime/38199",
-      "title": "https://simkl.com/anime/38199",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/39482",
       "title": "https://simkl.com/anime/39482",
       "detail": "",
@@ -390,6 +543,15 @@
     {
       "slug": "https://simkl.com/anime/41666",
       "title": "https://simkl.com/anime/41666",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://simkl.com/anime/48746",
+      "title": "https://simkl.com/anime/48746",
       "detail": "",
       "kindLabel": "",
       "relation": "",

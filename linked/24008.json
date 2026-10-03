@@ -1,0 +1,805 @@
+{
+  "links": [
+    {
+      "slug": "yummy:van-pis-pajlot",
+      "title": "Ван-Пис: Победить пирата Ганзака! &mdash; Пилот",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:22735",
+      "title": "Ван-Пис",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-zapasnoy-plan-idealnyy-metod-zahvata-van-pis",
+      "title": "Ван-Пис: Запасной план. Идеальный метод захвата Ван-Пис",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-fil-m-pervyj",
+      "title": "Ван-Пис: Великий Золотой Пират &mdash; Фильм 1",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-priklyuchenie-v-glubi-okeana",
+      "title": "Ван-Пис: Приключение в глуби океана",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-fil-m-vtoroj",
+      "title": "Ван-Пис: Приключение на Заводном Острове &mdash; Фильм 2",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-tanceval-nyj-marafon-dzhango",
+      "title": "Ван-Пис: Танцевальный марафон Джанго",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-fil-m-tretij",
+      "title": "Ван-Пис: Королевство Чоппера на Острове Необычных Животных &mdash; Фильм 3",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-futbol-nyj-korol-mechty",
+      "title": "Ван-Пис: Футбольный король мечты",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-fil-m-chetvertyj",
+      "title": "Ван-Пис: Путешествие в один конец &mdash; Фильм 4",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-otkrytie-v-bol-shom-more-bol-shaya-mechta-otca",
+      "title": "Ван-Пис: Открытие в большом море! Большая мечта отца!",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-zashitit-poslednee-velikoe-predstavlenie",
+      "title": "Ван-Пис: Защитить! Последнее великое представление!",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-fil-m-pyatyj",
+      "title": "Ван-Пис: Проклятие Святого Меча &mdash; Фильм 5",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:vanpis",
+      "title": "Ван-Пис: Цельсь! Пиратские короли бейсбола",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-fil-m-shestoj",
+      "title": "Ван-Пис: Барон Омацури и Секретный Остров &mdash; Фильм 6",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-vospominaniya-detektiva-v-solomennoj-shlyape",
+      "title": "Ван-Пис: Воспоминания детектива в соломенной шляпе",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-fil-m-sed-moj",
+      "title": "Ван-Пис: Гигантский механический солдат замка Каракури &mdash; Фильм 7",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-teatr-mugivary",
+      "title": "Ван-Пис: Театр Мугивары",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-fil-m-vos-moj",
+      "title": "Ван-Пис: Приключение в Алабасте &mdash; Принцесса пустыни и пираты &mdash; Фильм 8",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-kosmos-eto-veselo-ostrov-zvezdnogo-neba",
+      "title": "Ван-Пис: Космос &mdash; это весело! Остров звёздного неба",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-fil-m-devyatyj",
+      "title": "Ван-Пис: Эпизод Чоппера Плюс &mdash; Зимнее цветение, чудесная сакура &mdash; Фильм 9",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-prototip",
+      "title": "Ван-Пис: Начало приключений",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-fil-m-desyatyj",
+      "title": "Ван-Пис: Жестокий мир &mdash; Фильм 10",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-ova",
+      "title": "Ван-Пис: Жестокий мир &mdash; Эпизод 0",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-rekap-ova",
+      "title": "Ван-Пис &mdash; Рекап",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-fil-m-odinnadcatyj",
+      "title": "Ван-Пис: Погоня за соломенной шляпой &mdash; Фильм 11",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-3d",
+      "title": "Ван-Пис 3D: Дикая гонка &mdash; Аттракцион-ловушка",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-epizod-nami-slezy-navigatora-i-uzy-druzej",
+      "title": "Ван-Пис: Эпизод Нами - Слёзы навигатора и узы друзей",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-fil-m-dvenadcatyj",
+      "title": "Ван-Пис: Зет &mdash; Фильм 12",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-epizod-luffi-priklyucheniya-na-ladonevom-ostrove",
+      "title": "Ван-Пис: Эпизод Луффи - Приключения на Ладоневом острове",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-ostrov-mechty",
+      "title": "Ван-Пис: Остров мечты",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-epizod-merri-istoriya-ob-eshe-odnom-nakame",
+      "title": "Ван-Пис: Эпизод Мерри - История об ещё одном накаме",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-3d2y-perezhit-smert-ejsa-obeshanie-luffi-svoim-nakama",
+      "title": "Ван-Пис 3D2Y: Обещание Луффи своим накама",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-krik-serdca",
+      "title": "Ван-Пис: Крик сердца",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-priklyuchenie-v-nebulandii",
+      "title": "Ван-Пис: Приключение в Небуландии",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-epizod-sabo-uzy-treh-brat-ev-chudesnoe-vossoedinenie-i-unasledovannaya-volya",
+      "title": "Ван-Пис: Эпизод Сабо &mdash; Узы трёх братьев, чудесное воссоединение и унаследованная воля",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-zolotoe-serdce",
+      "title": "Ван-Пис: Золотое сердце",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-zoloto-epizod-0-1",
+      "title": "Ван-Пис: Золото. Эпизод 0",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-fil-m-trinadcatyj",
+      "title": "Ван-Пис: Золото &mdash; Фильм 13",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-epizod-ist-blyu-bol-shoe-priklyuchenie-luffi-i-ego-komandy",
+      "title": "Ван-Пис: Эпизод Ист Блю - Большое приключение Луффи и его команды",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-epizod-nebesnogo-ostrova",
+      "title": "Ван-Пис: Эпизод Небесного Острова",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-begstvo",
+      "title": "Ван-Пис: Бегство &mdash; Фильм 14",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-plan-pomoschi-luffi-sekretnaya-komnata-bartolomeo",
+      "title": "Ван-Пис: План помощи Луффи! Секретная комната Бартоломео",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-legenda-ob-odene-kodzuki",
+      "title": "Ван-Пис: Легенда об Одэне Кодзуки",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-krasnyy",
+      "title": "Ван-Пис: Красный &mdash; Фильм 15",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-legendarnie-zapisi-rizhevolosiy-shanks",
+      "title": "Ван Пис: Легендарные записи &mdash; Рыжеволосый Шанкс!",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-zhestokaya-bitva-pyaterka-novogo-pokoleniya",
+      "title": "Ван-Пис: Жестокая битва! Пятёрка нового поколения",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-zhestokiy-boy-solomennaya-shlyapa-protiv-tobiroppo",
+      "title": "Ван Пис: Жестокий бой! Соломенная шляпа против Тобироппо",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-obzor-zhestokoy-bitvy-zoro-protiv-superzvezdy",
+      "title": "Ван-Пис: Обзор жестокой битвы! Зоро против суперзвезды!",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-obzor-zhestokoy-bitvy-alyans-protiv-bolshoy-mamochki",
+      "title": "Ван-Пис: Обзор жестокой битвы! Альянс против Большой Мамочки",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-put-momonosuke-stanovleniyu-velikim-segunom",
+      "title": "Ван-Пис: Путь Момоносукэ к становлению великим сёгуном",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:monsters-ippyaku-sanjou-hiryuu-jigoku",
+      "title": "Монстры: Сто три милости &mdash; Проклятие дракона",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-kampaniya-po-proslavleniyu-hirurg-smerti-trafalgar-lo",
+      "title": "Ван-Пис: Кампания по прославлению! Хирург смерти Трафальгар Ло!",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-dnevnik-vrazhdy-solomennye-shlyapy-protiv-sayferpola",
+      "title": "Ван-Пис: Дневник вражды! Соломенные шляпы против Сайфер Пола",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-istoriya-vysechennaya-v-kamne-starye-i-novye-imperatory-morya",
+      "title": "Ван-Пис: История, высеченная в камне! Старые и новые императоры моря!",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:one-piece-araburu-henkaku-no-log-anyaku-suru-kakumeigun",
+      "title": "Ван-Пис: Хроника бурных перемен! Закулисная деятельность революционеров!",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:24008",
+      "title": "Ван-Пис: Письмо от поклонника",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": true
+    },
+    {
+      "slug": "yummy:one-piece-yuruganu-seigi-kaigun-no-hokoritakaki-log",
+      "title": "Ван-Пис: Незыблемое правосудие! Хроника морского дозора!",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-ostrov-rybolyudey",
+      "title": "Ван-Пис: Остров Рыболюдей",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-ostrov-yaichnaya-golova",
+      "title": "Ван-Пис: Остров Яичная Голова",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-zapis-priklyucheniy-doktora-choppera-ballada-otca-i-docheri",
+      "title": "Ван-Пис: Запись приключений доктора Чоппера &mdash; Баллада отца и дочери",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:lyubovnyy-van-pis",
+      "title": "Любовный Ван-Пис",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:one-piece-dr-chopper-no-bouken-karte-uragirimono-tachi-no-masquerade",
+      "title": "Ван-Пис: Приключения доктора Чоппера &mdash; Маскарад предателей",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-priklyucheniya-doktora-choppera-poslednyaya-vsemirnaya-translyaciya-geniya",
+      "title": "Ван-Пис: Приключения доктора Чоппера &mdash; Последняя всемирная трансляция гения",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-geroini",
+      "title": "Ван-Пис: Героини",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-remeyk",
+      "title": "Ван-Пис. Ремейк",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-dolina-boga",
+      "title": "Ван-Пис: Долина Бога",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "yummy:van-pis-baad",
+      "title": "Ван-Пис: Baad",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "anilist:183423",
+      "title": "https://anilist.co/anime/183423",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "anilist:21",
+      "title": "https://anilist.co/anime/21",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/one-piece",
+      "title": "https://anime-planet.com/anime/one-piece",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://animenewsnetwork.com/encyclopedia/anime.php?id=836",
+      "title": "https://animenewsnetwork.com/encyclopedia/anime.php?id=836",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anisearch.com/anime/2227",
+      "title": "https://anisearch.com/anime/2227",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "kitsu:12",
+      "title": "https://kitsu.app/anime/12",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/321",
+      "title": "https://livechart.me/anime/321",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/4028",
+      "title": "https://livechart.me/anime/4028",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/4104",
+      "title": "https://livechart.me/anime/4104",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/4166",
+      "title": "https://livechart.me/anime/4166",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/4187",
+      "title": "https://livechart.me/anime/4187",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/4199",
+      "title": "https://livechart.me/anime/4199",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/4208",
+      "title": "https://livechart.me/anime/4208",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/4720",
+      "title": "https://livechart.me/anime/4720",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/4723",
+      "title": "https://livechart.me/anime/4723",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/4817",
+      "title": "https://livechart.me/anime/4817",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/4938",
+      "title": "https://livechart.me/anime/4938",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/5000",
+      "title": "https://livechart.me/anime/5000",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/5174",
+      "title": "https://livechart.me/anime/5174",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/5208",
+      "title": "https://livechart.me/anime/5208",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/6598",
+      "title": "https://livechart.me/anime/6598",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    }
+  ]
+}

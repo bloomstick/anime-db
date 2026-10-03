@@ -1,6 +1,15 @@
 {
   "links": [
     {
+      "slug": "anidb:2684",
+      "title": "https://anidb.net/anime/2684",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
       "slug": "anidb:5227",
       "title": "https://anidb.net/anime/5227",
       "detail": "",
@@ -19,8 +28,8 @@
       "isCurrent": false
     },
     {
-      "slug": "anidb:6273",
-      "title": "https://anidb.net/anime/6273",
+      "slug": "anilist:3023",
+      "title": "https://anilist.co/anime/3023",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -28,44 +37,8 @@
       "isCurrent": false
     },
     {
-      "slug": "anilist:10000",
-      "title": "https://anilist.co/anime/10000",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "anilist:168626",
-      "title": "https://anilist.co/anime/168626",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "anilist:9880",
-      "title": "https://anilist.co/anime/9880",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "https://anime-planet.com/anime/esper-mami-hoshizora-no-dancing-doll",
-      "title": "https://anime-planet.com/anime/esper-mami-hoshizora-no-dancing-doll",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "https://anime-planet.com/anime/esper-mami-my-angel-mami-chan",
-      "title": "https://anime-planet.com/anime/esper-mami-my-angel-mami-chan",
+      "slug": "https://anime-planet.com/anime/esper-mami",
+      "title": "https://anime-planet.com/anime/esper-mami",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -91,8 +64,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://animecountdown.com/38921",
-      "title": "https://animecountdown.com/38921",
+      "slug": "https://animecountdown.com/39430",
+      "title": "https://animecountdown.com/39430",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -100,8 +73,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://animenewsnetwork.com/encyclopedia/anime.php?id=6822",
-      "title": "https://animenewsnetwork.com/encyclopedia/anime.php?id=6822",
+      "slug": "https://animenewsnetwork.com/encyclopedia/anime.php?id=1037",
+      "title": "https://animenewsnetwork.com/encyclopedia/anime.php?id=1037",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -109,8 +82,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://anisearch.com/anime/20516",
-      "title": "https://anisearch.com/anime/20516",
+      "slug": "https://anisearch.com/anime/1288",
+      "title": "https://anisearch.com/anime/1288",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -118,8 +91,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://anisearch.com/anime/5202",
-      "title": "https://anisearch.com/anime/5202",
+      "slug": "kitsu:2731",
+      "title": "https://kitsu.app/anime/2731",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -127,26 +100,8 @@
       "isCurrent": false
     },
     {
-      "slug": "kitsu:5917",
-      "title": "https://kitsu.app/anime/5917",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "kitsu:5988",
-      "title": "https://kitsu.app/anime/5988",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "https://livechart.me/anime/10873",
-      "title": "https://livechart.me/anime/10873",
+      "slug": "https://livechart.me/anime/10872",
+      "title": "https://livechart.me/anime/10872",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -163,17 +118,8 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:4450",
-      "title": "https://myanimelist.net/anime/10000",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "mal:9880",
-      "title": "https://myanimelist.net/anime/9880",
+      "slug": "dream:22748",
+      "title": "https://myanimelist.net/anime/3023",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -199,8 +145,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://simkl.com/anime/38921",
-      "title": "https://simkl.com/anime/38921",
+      "slug": "https://simkl.com/anime/39430",
+      "title": "https://simkl.com/anime/39430",
       "detail": "",
       "kindLabel": "",
       "relation": "",

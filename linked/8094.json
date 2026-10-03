@@ -1,8 +1,8 @@
 {
   "links": [
     {
-      "slug": "anilist:2222",
-      "title": "https://anilist.co/anime/2222",
+      "slug": "https://anime-planet.com/anime/dr-slump-arale-chan",
+      "title": "https://anime-planet.com/anime/dr-slump-arale-chan",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -19,6 +19,15 @@
       "isCurrent": false
     },
     {
+      "slug": "anilist:2222",
+      "title": "https://anilist.co/anime/2222",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
       "slug": "kitsu:2013",
       "title": "https://kitsu.app/anime/2013",
       "detail": "",
@@ -28,7 +37,7 @@
       "isCurrent": false
     },
     {
-      "slug": "mal:2222",
+      "slug": "dream:22984",
       "title": "https://myanimelist.net/anime/2222",
       "detail": "",
       "kindLabel": "",
