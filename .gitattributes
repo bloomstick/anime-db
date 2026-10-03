@@ -1,0 +1,6 @@
+# Keep published JSON byte-stable across platforms: chunk/manifest
+# sha256 values must verify against checkout bytes on any OS.
+*.json text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf

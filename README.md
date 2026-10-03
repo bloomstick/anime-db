@@ -24,6 +24,44 @@ host migration needs zero client change.
   rows. Consumers poll `manifest.json` and fetch only chunks whose `sha256`
   changed.
 
+## Nightly scheduler (`.github/workflows/nightly.yml`)
+
+- **What runs when.** `0 2 * * *` nightly UTC (+ manual
+  `workflow_dispatch`, optional `full=true`). Nightly runs are **deltas**:
+  crawl changed pages only, cursors resume from the Actions cache.
+  **Sundays** (and any `full=true` dispatch) run a **full recrawl**: all
+  yummy + Shikimori pages with cursors dropped, then full
+  enrich → merge → emit → verify — catching reshuffles delta cursors
+  cannot see. Single run at a time (`concurrency`, no cancel: queued,
+  never overlapping).
+- **Where logs live.** Each stage streams to the job log and to
+  `logs/<stage>.log`; on failure the logs upload as the
+  `nightly-logs-<date>-<run>` artifact (14-day retention) and a
+  `nightly-failure` issue is filed (one per date — reruns comment).
+  `build/raw/` scrape text **never** leaves the runner (never an
+  artifact, never committed).
+- **How to re-pin.** All pins are `env` vars at the top of
+  `nightly.yml` — edit, no other line changes:
+  - `MONOREPO_REF` (monorepo tag/SHA the scraper checks out via
+    sparse-checkout of `tools/anime_db` + `packages/dream_core`).
+  - `MANAMI_VERSION` + `MANAMI_SHA256` (dump re-downloaded every run;
+    sha mismatch fails the job closed — fetch the new digest from the
+    release page when moving weeks).
+  - `DART_SDK_VERSION` (scraper toolchain).
+- **Cache.** `build/raw` + `build/cursors` persist in the Actions
+  cache keyed by ISO week (`nightly-build-<week>-<run>`, falling back
+  to the newest older key). Best-effort: a cold cache refetches
+  everything — slower, but correctness is unaffected (cursors are
+  idempotent resume state). Cache always saves, even on failure, so a
+  timed-out full recrawl resumes the next night.
+- **Registry inviolability.** `registry.json` is append-only:
+  `nextId` only grows, entries are never removed or renumbered,
+  tombstones never unset. The job enforces this (base-vs-new diff —
+  any violation fails the run with no PR), pushes with plain
+  `git push` (force-push would fail closed by policy — the command is
+  never used), and advances the allocator only through the dated-branch
+  PR merge. Failed `verify` opens no PR at all.
+
 ## Layout
 
 | Path | Shape |
