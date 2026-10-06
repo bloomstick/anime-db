@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка Netflix",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/79470/37e3e1b480d7d9cdbd97358af43c2b86/720p?translations=false&only_episode=true&only_season=true",
+    "date": 0,
+    "durationSec": 5994
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Дубляж Netflix",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=netflix&anime_id=40881&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+Netflix",
+    "date": 1789142328,
+    "durationSec": 0
+  }
+]

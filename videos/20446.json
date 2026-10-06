@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка Crunchyroll",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/112102/e10e845568362db20774a4ca50d29bbe/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1752380730,
+    "durationSec": 7180
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры Crunchyroll",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/112103/053f0814606780bed59b960a2eeed20c/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1752380730,
+    "durationSec": 7180
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Дубляж Crunchyroll",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=crunchyroll&anime_id=59489&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+Crunchyroll",
+    "date": 1789145615,
+    "durationSec": 7180
+  }
+]

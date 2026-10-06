@@ -1,8 +1,8 @@
 {
   "links": [
     {
-      "slug": "anidb:13224",
-      "title": "https://anidb.net/anime/13224",
+      "slug": "dream:472",
+      "title": "Безответственный капитан Тайлор",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -10,98 +10,17 @@
       "isCurrent": false
     },
     {
-      "slug": "anidb:18",
-      "title": "https://anidb.net/anime/18",
+      "slug": "dream:924",
+      "title": "Безответственный капитан Тайлор &mdash; OVA",
       "detail": "",
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": true
     },
     {
-      "slug": "anidb:71",
-      "title": "https://anidb.net/anime/71",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "anidb:8733",
-      "title": "https://anidb.net/anime/8733",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "https://animecountdown.com/37501",
-      "title": "https://animecountdown.com/37501",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "https://animecountdown.com/38805",
-      "title": "https://animecountdown.com/38805",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "https://animecountdown.com/38909",
-      "title": "https://animecountdown.com/38909",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "https://animecountdown.com/693325",
-      "title": "https://animecountdown.com/693325",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "https://simkl.com/anime/37501",
-      "title": "https://simkl.com/anime/37501",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "https://simkl.com/anime/38805",
-      "title": "https://simkl.com/anime/38805",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "https://simkl.com/anime/38909",
-      "title": "https://simkl.com/anime/38909",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "https://simkl.com/anime/693325",
-      "title": "https://simkl.com/anime/693325",
+      "slug": "dream:10275",
+      "title": "Безответственная галактика Тайлора",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -190,8 +109,26 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:472",
-      "title": "https://myanimelist.net/anime/569",
+      "slug": "anidb:13224",
+      "title": "https://anidb.net/anime/13224",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "anidb:18",
+      "title": "https://anidb.net/anime/18",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "anidb:71",
+      "title": "https://anidb.net/anime/71",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -217,8 +154,89 @@
       "isCurrent": false
     },
     {
+      "slug": "https://animecountdown.com/37501",
+      "title": "https://animecountdown.com/37501",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://animecountdown.com/38805",
+      "title": "https://animecountdown.com/38805",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://animecountdown.com/693325",
+      "title": "https://animecountdown.com/693325",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
       "slug": "https://simkl.com/anime/36648",
       "title": "https://simkl.com/anime/36648",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://simkl.com/anime/37501",
+      "title": "https://simkl.com/anime/37501",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://simkl.com/anime/38805",
+      "title": "https://simkl.com/anime/38805",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://simkl.com/anime/693325",
+      "title": "https://simkl.com/anime/693325",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "anidb:8733",
+      "title": "https://anidb.net/anime/8733",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://animecountdown.com/38909",
+      "title": "https://animecountdown.com/38909",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://simkl.com/anime/38909",
+      "title": "https://simkl.com/anime/38909",
       "detail": "",
       "kindLabel": "",
       "relation": "",

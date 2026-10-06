@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniFilm",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/48529/d7e2de7a2449ac3db498a602dd1d846f/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674826999,
+    "durationSec": 2582
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniFilm",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anifilm&anime_id=6276&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniFilm",
+    "date": 1789135017,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Persona99",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=persona99&anime_id=6276&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Persona99",
+    "date": 1789135017,
+    "durationSec": 0
+  }
+]

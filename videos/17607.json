@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Субтитры",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/95303/c97d99a30d26dede5337868067def140/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1685884629,
+    "durationSec": 4675
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Animy",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/108657/05a160eae5f75125c2c158966d758e27/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1737699587,
+    "durationSec": 4675
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Simargl9",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/97554/cb511aa626a8ebd0e58a91d1bc08f48e/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1700948372,
+    "durationSec": 4675
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Simargl9",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=simargl9&anime_id=51834&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Simargl9",
+    "date": 1789135543,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Люб. Одноголосый",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/97554/cb511aa626a8ebd0e58a91d1bc08f48e/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1693284930,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniMy / RuChiMe",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=animy&anime_id=51834&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniMy+%2F+RuChiMe",
+    "date": 1789135543,
+    "durationSec": 0
+  }
+]

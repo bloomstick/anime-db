@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/47638/be53465993c4460ad1d7f42e2c046330/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674826965,
+    "durationSec": 3719
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anidub&anime_id=34136&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniDUB",
+    "date": 1789134954,
+    "durationSec": 3719
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка StudioBand",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/20479/e08397444e99c80479e1a5664e88b0f9/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1751851190,
+    "durationSec": 3726
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка StudioBand",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=studioband&anime_id=34136&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+StudioBand",
+    "date": 1789134954,
+    "durationSec": 3719
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка SHIZA Project",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/49002/375875aeb08dda91215b7fee25219b86/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674826965,
+    "durationSec": 0
+  }
+]

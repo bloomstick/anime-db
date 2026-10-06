@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=b3f4a2c1050600a75def72aa8d8fa4&translation=158&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677783384,
+    "durationSec": 6614
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/89721/304a504af67c1e0b95a01776432fb02b/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776068,
+    "durationSec": 6568
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anistar&anime_id=38373&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniStar",
+    "date": 1789133508,
+    "durationSec": 6568
+  }
+]

@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка Fronda Studio",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/75902/3c6d4639c3bb7d72f08e519773ce3a78/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776288,
+    "durationSec": 5785
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=4e26ac371bace97ef7e299b424e48f&translation=158&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677770349,
+    "durationSec": 5783
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniBaza",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=4e26ac371bace97ef7e299b424e48f&translation=271&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1707735547,
+    "durationSec": 5741
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniBaza",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/101087/c6e722bb95b26bb3a1914cf81931eb0f/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1707368812,
+    "durationSec": 5741
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniBaza",
+    "player": "Плеер Sibnet",
+    "iframeUrl": "https://video.sibnet.ru/shell.php?videoid=5425512",
+    "date": 1707377677,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры Netflix",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/77203/d7cd4e8d4df133b72ac082e4372a95b5/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776288,
+    "durationSec": 5741
+  }
+]

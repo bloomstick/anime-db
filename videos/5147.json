@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/55267/6a519cbe172af335dc6fe921565e4f7f/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1674826972,
+    "durationSec": 1800
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/55267/6a519cbe172af335dc6fe921565e4f7f/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1674826972,
+    "durationSec": 1803
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnilibriaTV&anime_id=13283&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
+    "date": 1751854511,
+    "durationSec": 1800
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnilibriaTV&anime_id=13283&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
+    "date": 1751854511,
+    "durationSec": 1803
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/53275/0a8730203ae54b0cbe4447eeca13185b/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1674826972,
+    "durationSec": 0
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/53275/0a8730203ae54b0cbe4447eeca13185b/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1674826972,
+    "durationSec": 0
+  }
+]

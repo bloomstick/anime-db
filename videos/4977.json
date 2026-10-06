@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/47152/2e07d971997a72c1e39aab412a06837c/720p",
+    "date": 0,
+    "durationSec": 1198
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка RyukenDub Studio",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/97654/930508e7015914c4a5a389b7963cc0c0/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1693600463,
+    "durationSec": 1241
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры",
+    "player": "Плеер Sibnet",
+    "iframeUrl": "https://video.sibnet.ru/shell.php?videoid=2784194",
+    "date": 0,
+    "durationSec": 0
+  }
+]

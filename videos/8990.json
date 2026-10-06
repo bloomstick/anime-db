@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/81681/afd54db74f7a4b84d5c66c9b7efa94e3/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1674776114,
+    "durationSec": 1439
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/81681/afd54db74f7a4b84d5c66c9b7efa94e3/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1674776114,
+    "durationSec": 1428
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniStar&anime_id=33033&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniStar",
+    "date": 1760637482,
+    "durationSec": 1440
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniStar&anime_id=33033&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniStar",
+    "date": 1760637482,
+    "durationSec": 1428
+  }
+]

@@ -1,6 +1,33 @@
 {
   "links": [
     {
+      "slug": "dream:12149",
+      "title": "ARP. Пропуск в закулисье",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": true
+    },
+    {
+      "slug": "dream:12588",
+      "title": "ARP. Пропуск в закулисье: Спецвыпуск",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:23837",
+      "title": "ARP. Пропуск в закулисье: Спецвыпуск Рай",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
       "slug": "anilist:116246",
       "title": "https://anilist.co/anime/116246",
       "detail": "",
@@ -127,24 +154,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:12588",
-      "title": "https://myanimelist.net/anime/41360",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:23837",
-      "title": "https://myanimelist.net/anime/41568",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "mal:50698",
       "title": "https://myanimelist.net/anime/50698",
       "detail": "",
@@ -170,15 +179,6 @@
       "relation": "",
       "year": "",
       "isCurrent": false
-    },
-    {
-      "slug": "dream:12149",
-      "title": "https://myanimelist.net/anime/40137",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": true
     }
   ]
 }

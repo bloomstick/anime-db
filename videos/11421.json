@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка Дублированная",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=b94e6cc8189ddaad76a1788bbcb82a&translation=66&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677783348,
+    "durationSec": 5601
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Дублированная",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/44777/0d9044b729871caddbd0be20866b0c05/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776032,
+    "durationSec": 5601
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Force Media",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/53118/46dd922caaa52997cd37773bcafc1af3/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776032,
+    "durationSec": 5601
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Force Media",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=forcemedia&anime_id=38464&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Force+Media",
+    "date": 1789133438,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры FSG YakuSub Studio",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/90741/7a2fb09d306cdb928f588a5b67ba4dfa/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776032,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры YakuSub Studio",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/90741/7a2fb09d306cdb928f588a5b67ba4dfa/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1787175321,
+    "durationSec": 0
+  }
+]

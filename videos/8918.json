@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/84757/a3fc9f81fcb23b35fe4b6b124677b4f9/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1679313981,
+    "durationSec": 5059
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Sibnet",
+    "iframeUrl": "https://video.sibnet.ru/shell.php?videoid=2737713",
+    "date": 1679253346,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Amber",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/95242/4f468f781357f1869f984eb5683606e7/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1685629495,
+    "durationSec": 5288
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Amber",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=amber&anime_id=32871&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Amber",
+    "date": 1789132598,
+    "durationSec": 5288
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры",
+    "player": "Плеер Sibnet",
+    "iframeUrl": "https://video.sibnet.ru/shell.php?videoid=2966917",
+    "date": 1679252221,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Naruto-Base",
+    "player": "Плеер Sibnet",
+    "iframeUrl": "https://video.sibnet.ru/shell.php?videoid=2760370",
+    "date": 1679252265,
+    "durationSec": 0
+  }
+]

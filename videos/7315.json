@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка MiraiDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/80712/ff8522454ce594cfd6496db0bb079f2c/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776244,
+    "durationSec": 698
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Kansai",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/49013/da6661d020b7d6ed53fe587690548040/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776244,
+    "durationSec": 698
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Kansai",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=kansai&anime_id=27417&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Kansai",
+    "date": 1789133871,
+    "durationSec": 698
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка KANSAI Studio",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/49013/da6661d020b7d6ed53fe587690548040/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1713275017,
+    "durationSec": 698
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDub",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=df2bf96a54ec66702a222b775e011f&translation=9&season=1&episode=13&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1722261227,
+    "durationSec": 699
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDub",
+    "player": "Плеер Sibnet",
+    "iframeUrl": "https://video.sibnet.ru/shell.php?videoid=3321706",
+    "date": 1702982615,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка MiraiDub",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=miraidub&anime_id=27417&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+MiraiDub",
+    "date": 1789133871,
+    "durationSec": 0
+  }
+]

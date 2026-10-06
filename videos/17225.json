@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=eb10cb9b40773a449d21355793fa51&translation=158&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677783264,
+    "durationSec": 7693
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/89413/1fa61b751e96d99aae66e0a3677e0f04/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674775991,
+    "durationSec": 7661
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anistar&anime_id=50653&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniStar",
+    "date": 1789133347,
+    "durationSec": 7693
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры Crunchyroll",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/89176/95f3a9aed4f29002b47f42c34b5d9de1/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674775991,
+    "durationSec": 7661
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры Crunchyroll",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=crunchyroll&anime_id=50653&episode=1&dubbing=%D0%A1%D1%83%D0%B1%D1%82%D0%B8%D1%82%D1%80%D1%8B+Crunchyroll",
+    "date": 1789142768,
+    "durationSec": 7661
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка J&N Union",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/91623/fe2212bd18af5475a79b5c9bd3287405/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674775991,
+    "durationSec": 7661
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка J&N Union",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=jnunion&anime_id=50653&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+J%26N+Union",
+    "date": 1789133347,
+    "durationSec": 7630
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniMaunt",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=animaunt&anime_id=50653&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniMaunt",
+    "date": 1789133347,
+    "durationSec": 7630
+  }
+]

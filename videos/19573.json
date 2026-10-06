@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=ad17757a77c69a880ccf064c8cb3da&translation=10&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1782493730,
+    "durationSec": 3236
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=ad17757a77c69a880ccf064c8cb3da&translation=10&season=1&episode=2&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1782493730,
+    "durationSec": 3343
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=ad17757a77c69a880ccf064c8cb3da&translation=158&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1782493730,
+    "durationSec": 3271
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=ad17757a77c69a880ccf064c8cb3da&translation=158&season=1&episode=2&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1782493730,
+    "durationSec": 3382
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка FumoDub",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/118038/dddcea11c3550ac1cd603c7e49cfd22b/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1782490582,
+    "durationSec": 3588
+  }
+]

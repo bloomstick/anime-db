@@ -1,6 +1,24 @@
 {
   "links": [
     {
+      "slug": "dream:2099",
+      "title": "Ариэль",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:2098",
+      "title": "Роскошная Ариэль",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": true
+    },
+    {
       "slug": "anidb:2368",
       "title": "https://anidb.net/anime/2368",
       "detail": "",
@@ -66,15 +84,6 @@
     {
       "slug": "https://livechart.me/anime/7535",
       "title": "https://livechart.me/anime/7535",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:2099",
-      "title": "https://myanimelist.net/anime/2839",
       "detail": "",
       "kindLabel": "",
       "relation": "",

@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка JAM",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/77084/5ff8add7acf1e55c814f0b2475edae27/720p",
+    "date": 1706469339,
+    "durationSec": 168
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка JAM",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=jabclub&anime_id=38699&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+JAM",
+    "date": 1789132867,
+    "durationSec": 166
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/90651/a5cf2912b0028625b793aaed4ca9e5c5/720p",
+    "date": 1706469339,
+    "durationSec": 167
+  },
+  {
+    "episode": 2,
+    "dub": "Субтитры",
+    "player": "Плеер YouTube",
+    "iframeUrl": "https://www.youtube.com/embed/mld5ymrza9U?si=8i4ib2XXhdLjeTeR",
+    "date": 1706469191,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка TVShows",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/77085/9a706e080b5b52da99cae63e7d87ab6d/720p",
+    "date": 1706469339,
+    "durationSec": 166
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка TVShows",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=tvshows&anime_id=38699&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+TVShows",
+    "date": 1789132867,
+    "durationSec": 166
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры SovetRomantica",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/90651/a5cf2912b0028625b793aaed4ca9e5c5/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1706497755,
+    "durationSec": 167
+  }
+]

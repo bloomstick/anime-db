@@ -1,6 +1,24 @@
 {
   "links": [
     {
+      "slug": "dream:99",
+      "title": "Любовь близнецов",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": true
+    },
+    {
+      "slug": "dream:100",
+      "title": "Любовь близнецов 2",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
       "slug": "anidb:2984",
       "title": "https://anidb.net/anime/2984",
       "detail": "",
@@ -57,15 +75,6 @@
     {
       "slug": "kitsu:105",
       "title": "https://kitsu.app/anime/105",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:100",
-      "title": "https://myanimelist.net/anime/126",
       "detail": "",
       "kindLabel": "",
       "relation": "",

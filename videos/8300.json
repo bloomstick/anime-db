@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=5983e04be56a072e2db82b695b9973&translation=10&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677784420,
+    "durationSec": 4782
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/27070/834e996c965ce2b0ca8c42c5d461ab83/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674826998,
+    "durationSec": 4782
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/47683/25bf84131844862a46ca298cbf8a324d/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674826998,
+    "durationSec": 4782
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка SHIZA Project",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/48447/e48c2ad0c68b1e9dc1c73f0cbe2cf7ec/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674826998,
+    "durationSec": 4783
+  }
+]

@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Субтитры",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=af4882487e2186b4442a07d8085af7&translation=79&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677764712,
+    "durationSec": 2803
+  },
+  {
+    "episode": 2,
+    "dub": "Субтитры",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=af4882487e2186b4442a07d8085af7&translation=79&season=1&episode=2&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677764712,
+    "durationSec": 2404
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/9916/90f7ff553fca2323defc2c6c2cbebc9e/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1698848225,
+    "durationSec": 6102
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Люб. Одноголосый",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/44811/f0b96caa9d322df5b96b0efcee13bc90/720p?translations=false&only_episode=true&only_season=true",
+    "date": 0,
+    "durationSec": 4411
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Suzaku",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/44811/f0b96caa9d322df5b96b0efcee13bc90/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1775656681,
+    "durationSec": 4411
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Е. Лурье",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=elurje&anime_id=31&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%95.+%D0%9B%D1%83%D1%80%D1%8C%D0%B5",
+    "date": 1789132706,
+    "durationSec": 4411
+  }
+]

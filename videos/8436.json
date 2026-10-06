@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=199e058892431bb219d1024cc456c9&translation=10&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677783276,
+    "durationSec": 5586
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/20653/0736003ed9906887bc1dc0d5bf82d017/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674775999,
+    "durationSec": 5586
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anilibriatv&anime_id=31418&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
+    "date": 1789133365,
+    "durationSec": 5586
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка StudioBand",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=199e058892431bb219d1024cc456c9&translation=95&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677783276,
+    "durationSec": 5586
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка StudioBand",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/20654/53d36ecdf090d44a4158b6b3b993ed89/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1751850787,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры SovetRomantica",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/91341/df0af5d297f250b201391c1e5a41e8cd/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674775999,
+    "durationSec": 0
+  }
+]

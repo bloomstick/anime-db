@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/46821/a82e19822e2248cbcf20b9c396d188a0/720p",
+    "date": 0,
+    "durationSec": 1999
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Sibnet",
+    "iframeUrl": "https://video.sibnet.ru/shell.php?videoid=2846043",
+    "date": 0,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка CACTUS team",
+    "player": "Плеер Sibnet",
+    "iframeUrl": "https://video.sibnet.ru/shell.php?videoid=2015142",
+    "date": 0,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры",
+    "player": "Плеер Sibnet",
+    "iframeUrl": "https://video.sibnet.ru/shell.php?videoid=2846041",
+    "date": 0,
+    "durationSec": 0
+  }
+]

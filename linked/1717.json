@@ -1,6 +1,24 @@
 {
   "links": [
     {
+      "slug": "dream:1234",
+      "title": "Красный сад",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:1717",
+      "title": "Красный сад OVA",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": true
+    },
+    {
       "slug": "anidb:4522",
       "title": "https://anidb.net/anime/4522",
       "detail": "",
@@ -66,15 +84,6 @@
     {
       "slug": "https://livechart.me/anime/4678",
       "title": "https://livechart.me/anime/4678",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:1234",
-      "title": "https://myanimelist.net/anime/1601",
       "detail": "",
       "kindLabel": "",
       "relation": "",

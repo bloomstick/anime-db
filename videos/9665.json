@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/84704/3bef04183277685c968155dd9bac03fd/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776148,
+    "durationSec": 2441
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anistar&anime_id=34589&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniStar",
+    "date": 1789133689,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры Crunchyroll",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/84933/8d5bb14a133d1a23db8b139eaf95336e/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776148,
+    "durationSec": 2431
+  }
+]

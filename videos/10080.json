@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/79659/e75dec289786d7633bedc7475d54918f/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 0,
+    "durationSec": 1420
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/79659/e75dec289786d7633bedc7475d54918f/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 0,
+    "durationSec": 1420
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка SovetRomantica",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=SovetRomantica&anime_id=35315&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+SovetRomantica",
+    "date": 1751850413,
+    "durationSec": 1426
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка SovetRomantica",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=SovetRomantica&anime_id=35315&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+SovetRomantica",
+    "date": 1751850413,
+    "durationSec": 1532
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniMaunt",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniMaunt&anime_id=35315&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniMaunt",
+    "date": 1751850413,
+    "durationSec": 1426
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniMaunt",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniMaunt&anime_id=35315&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniMaunt",
+    "date": 1751850413,
+    "durationSec": 1533
+  }
+]

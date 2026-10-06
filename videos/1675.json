@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка SDI Media",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/10002/293c1c61d250bb305388729891dd176a/720p?translations=false&only_episode=true&only_season=true",
+    "date": 0,
+    "durationSec": 6317
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Blackbird Sound",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/10002/293c1c61d250bb305388729891dd176a/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1723077790,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Дубляж SDI Media Russia",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=sdimediarussia&anime_id=2201&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+SDI+Media+Russia",
+    "date": 1790628608,
+    "durationSec": 0
+  }
+]

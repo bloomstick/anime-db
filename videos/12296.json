@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/55358/5a231cb45102a16703f33ab4f02996ca/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776439,
+    "durationSec": 1606
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anilibriatv&anime_id=40486&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
+    "date": 1789134282,
+    "durationSec": 1606
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/58664/80321af6546b4a38f48a72b8928247c6/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776439,
+    "durationSec": 1606
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anidub&anime_id=40486&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniDUB",
+    "date": 1789134282,
+    "durationSec": 1606
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/63625/9ba1ad3f2b1e013772a4be3a474b5df8/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776439,
+    "durationSec": 1606
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/49373/53246305261dc7135c708ea67ffa18e1/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776439,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/48429/d3fcf8849e5464cc978e7aeadb9a6ab9/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776439,
+    "durationSec": 0
+  }
+]

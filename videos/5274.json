@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=5eb70b469bd59b33c9734e1a1e27c2&translation=9&season=1&episode=11&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1707319024,
+    "durationSec": 1583
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/45736/f12ce6effb383a8afae3559a5045f355/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674826992,
+    "durationSec": 1583
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Sibnet",
+    "iframeUrl": "https://video.sibnet.ru/shell.php?videoid=774130",
+    "date": 1707319024,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка SHIZA Project",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/48669/c81cc39071b58529fd96a4502183b89c/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674826992,
+    "durationSec": 1583
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры FSG YakuSub Studio",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/92510/c31467e0a37ecea763336e55d6200a9f/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674924710,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры YakuSub Studio",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/92510/c31467e0a37ecea763336e55d6200a9f/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1787175505,
+    "durationSec": 0
+  }
+]

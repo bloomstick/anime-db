@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniJoy",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/100218/8cdd6bf5585dff4d6044fd34702986a7/720p",
+    "date": 1703937364,
+    "durationSec": 1220
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniJoy",
+    "player": "Плеер Sibnet",
+    "iframeUrl": "https://video.sibnet.ru/shell.php?videoid=5381142",
+    "date": 1706447345,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniJoy",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anijoy&anime_id=42829&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniJoy",
+    "date": 1789135708,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры Манипулятор",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/97318/91a9c12fcd87b3278249e1cae0c960b4/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1692470023,
+    "durationSec": 1220
+  }
+]

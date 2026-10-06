@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка Дублированная",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/44911/494a2dff3ca4eda9f85c53c49b883d16/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1774644618,
+    "durationSec": 5130
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Студия «Сонотек»",
+    "player": "Плеер Sibnet",
+    "iframeUrl": "https://video.sibnet.ru/shell.php?videoid=1509253",
+    "date": 1702057428,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Дубляж Сонотек",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=sonotech&anime_id=2756&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A1%D0%BE%D0%BD%D0%BE%D1%82%D0%B5%D0%BA",
+    "date": 1789145266,
+    "durationSec": 5106
+  }
+]

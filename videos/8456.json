@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/9824/f351d8434622ab31f6de9b61accf7e32/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674826811,
+    "durationSec": 1441
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anilibriatv&anime_id=31483&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
+    "date": 1789134618,
+    "durationSec": 1443
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/41044/9bf1f4a5d4f3c9fd8412382d4066474f/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674826811,
+    "durationSec": 1441
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anidub&anime_id=31483&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniDUB",
+    "date": 1789134618,
+    "durationSec": 1443
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniFilm",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/54860/ee2f765d7f3abd741bb145482c926a70/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674826811,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniFilm",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anifilm&anime_id=31483&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniFilm",
+    "date": 1789134618,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Anything Group",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anithinggroup&anime_id=31483&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Anything+Group",
+    "date": 1789134618,
+    "durationSec": 0
+  }
+]

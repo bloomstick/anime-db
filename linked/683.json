@@ -1,6 +1,33 @@
 {
   "links": [
     {
+      "slug": "dream:683",
+      "title": "Дзэгапэйн",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": true
+    },
+    {
+      "slug": "dream:9001",
+      "title": "Дзэгапэйн (фильм)",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:19344",
+      "title": "Дзэгапэйн: STA",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
       "slug": "anidb:12045",
       "title": "https://anidb.net/anime/12045",
       "detail": "",
@@ -145,24 +172,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:9001",
-      "title": "https://myanimelist.net/anime/33048",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:19344",
-      "title": "https://myanimelist.net/anime/56488",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:21145",
       "title": "https://myanimelist.net/anime/60955",
       "detail": "",
@@ -197,15 +206,6 @@
       "relation": "",
       "year": "",
       "isCurrent": false
-    },
-    {
-      "slug": "dream:683",
-      "title": "https://myanimelist.net/anime/878",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": true
     }
   ]
 }

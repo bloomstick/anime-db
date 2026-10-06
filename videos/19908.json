@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка FoxForce",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/101294/62e204ed8a2d0cff895854845e30ef05/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1708301056,
+    "durationSec": 60
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка FoxForce",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=foxforce&anime_id=58159&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+FoxForce",
+    "date": 1791268878,
+    "durationSec": 60
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Panzu.info",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/101435/fcd1d7134e5a161d54e82c64fcf4c3b8/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1708775839,
+    "durationSec": 61
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Panzu.info",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=panzuinfo&anime_id=58159&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Panzu.info",
+    "date": 1791268878,
+    "durationSec": 0
+  }
+]

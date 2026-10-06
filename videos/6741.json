@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Оригинал",
+    "player": "Плеер Aksor",
+    "iframeUrl": "https://player.aksor.tv/video/e779d01235e6a3d7e29fb272f548d47d",
+    "date": 1724742218,
+    "durationSec": 217
+  },
+  {
+    "episode": 1,
+    "dub": "Оригинал",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/100451/4c3527b6fd3124cdd185157181375529/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1724742127,
+    "durationSec": 217
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Не требуется",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/100451/4c3527b6fd3124cdd185157181375529/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1724757812,
+    "durationSec": 217
+  }
+]

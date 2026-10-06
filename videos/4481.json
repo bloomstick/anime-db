@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Sibnet",
+    "iframeUrl": "https://video.sibnet.ru/shell.php?videoid=1198733",
+    "date": 1774351983,
+    "durationSec": 1405
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Sibnet",
+    "iframeUrl": "https://video.sibnet.ru/shell.php?videoid=1198736",
+    "date": 1774351983,
+    "durationSec": 1405
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры",
+    "player": "Плеер Sibnet",
+    "iframeUrl": "https://video.sibnet.ru/shell.php?videoid=1867760",
+    "date": 1774352138,
+    "durationSec": 0
+  },
+  {
+    "episode": 2,
+    "dub": "Субтитры",
+    "player": "Плеер Sibnet",
+    "iframeUrl": "https://video.sibnet.ru/shell.php?videoid=1867769",
+    "date": 1774352138,
+    "durationSec": 0
+  }
+]

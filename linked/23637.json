@@ -1,6 +1,24 @@
 {
   "links": [
     {
+      "slug": "dream:8374",
+      "title": "Лига Легенд",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:23637",
+      "title": "Лига Легенд 2",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": true
+    },
+    {
       "slug": "anidb:12824",
       "title": "https://anidb.net/anime/12824",
       "detail": "",
@@ -48,15 +66,6 @@
     {
       "slug": "kitsu:11282",
       "title": "https://kitsu.app/anime/11282",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:8374",
-      "title": "https://myanimelist.net/anime/31233",
       "detail": "",
       "kindLabel": "",
       "relation": "",

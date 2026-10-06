@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=7a80099bae10647aeafe766d457de8&translation=10&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1687988841,
+    "durationSec": 1428
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/28586/a78e2065a168a8c19268b1695ac9ed43/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674827211,
+    "durationSec": 1428
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка OnWave",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/94040/89052b2fd3d5fad8f6d99663e4a70bee/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1695844880,
+    "durationSec": 1440
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка OnWave",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anwave&anime_id=37377&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+OnWave",
+    "date": 1789135377,
+    "durationSec": 1440
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=7a80099bae10647aeafe766d457de8&translation=79&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1687988841,
+    "durationSec": 1428
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/93554/b9d5ee92278c6a803c723de0d1612846/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1679227826,
+    "durationSec": 1428
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Persona99",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/97367/215245dd4895dedb5b9880b981c8dd98/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1692658822,
+    "durationSec": 1428
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры MedusaSub",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/94040/89052b2fd3d5fad8f6d99663e4a70bee/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1680977968,
+    "durationSec": 1440
+  }
+]

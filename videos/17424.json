@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=67206c570f8ed8553f90aa5266b19b&translation=158&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1694978895,
+    "durationSec": 7243
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/96010/9672690ac5c97e5c051a7ca67fcb8fee/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1697030960,
+    "durationSec": 7243
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anistar&anime_id=51307&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniStar",
+    "date": 1789135479,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniLane",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/96126/cc88bd5ba4f733dba9467fa0d1401b51/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1688371256,
+    "durationSec": 7243
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Люб. Многоголосый",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=67206c570f8ed8553f90aa5266b19b&translation=123&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1703433060,
+    "durationSec": 7243
+  }
+]

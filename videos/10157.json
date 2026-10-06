@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка TVShows",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/77104/bef71ede3c91b05b95b1c53ba231d83c/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1677270120,
+    "durationSec": 1378
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка TVShows",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=tvshows&anime_id=35459&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+TVShows",
+    "date": 1789132870,
+    "durationSec": 1379
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/94183/f4c1370dbd69c4980fce98524f797b88/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1681669832,
+    "durationSec": 1377
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniMaunt",
+    "player": "Плеер Sibnet",
+    "iframeUrl": "https://video.sibnet.ru/shell.php?videoid=3136786",
+    "date": 0,
+    "durationSec": 0
+  }
+]

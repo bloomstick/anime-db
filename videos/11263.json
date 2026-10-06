@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка StudioBand",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/83186/32f4f2546bb9fb8a1c3adba5f0137e00/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1751850687,
+    "durationSec": 5754
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=9f4496dbb16fee7b9f001f2e8f048c&translation=158&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677783069,
+    "durationSec": 5798
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры Wakanim",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/92801/1819ffab7c1327937ab92fe69d1f1b7e/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1676313834,
+    "durationSec": 5772
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniMaunt",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/82597/219d287e442dd0a2de957c50070a8efa/720p?translations=false&only_episode=true&only_season=true",
+    "date": 0,
+    "durationSec": 5765
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Дубляж StudioBand",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=studioband&anime_id=38086&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+StudioBand",
+    "date": 1789142428,
+    "durationSec": 5765
+  }
+]

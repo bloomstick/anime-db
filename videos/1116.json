@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка Евгения Лурье",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/58065/32ff726b2a6c3fd655ce7238329e308b/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776517,
+    "durationSec": 5407
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=fe933cde7328bb3df977f02fdd9b6e&translation=79&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1711572773,
+    "durationSec": 5407
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Persona99",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=fe933cde7328bb3df977f02fdd9b6e&translation=195&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1711572773,
+    "durationSec": 5407
+  }
+]

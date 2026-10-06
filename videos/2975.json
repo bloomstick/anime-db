@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка Дублированная",
+    "player": "Плеер Aksor",
+    "iframeUrl": "https://player.aksor.tv/video/06a219e0d6a483bc73b48401724b70d6",
+    "date": 1730275295,
+    "durationSec": 3587
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Дублированная",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/9983/b2a2acd4a54776d338dc2e61947580ae/720p?translations=false&only_episode=true&only_season=true",
+    "date": 0,
+    "durationSec": 3587
+  }
+]

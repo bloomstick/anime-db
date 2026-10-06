@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка StudioBand",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/83187/84391d9762e8cc31539827ede1722c02/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1751850691,
+    "durationSec": 5656
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=c18138621fd8be5230135c1645c902&translation=79&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677783078,
+    "durationSec": 5649
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=c18138621fd8be5230135c1645c902&translation=158&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677783078,
+    "durationSec": 5699
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/82978/c698001ccd8fc7df874f48c9e7945db5/720p?translations=false&only_episode=true&only_season=true",
+    "date": 0,
+    "durationSec": 5664
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры Wakanim",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/92771/324e52a3f17f2302418f40ce49e94dce/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1676051796,
+    "durationSec": 5649
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Профессиональный многоголосый",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=c18138621fd8be5230135c1645c902&translation=87&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677783078,
+    "durationSec": 5650
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniStar Многоголосый",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/82978/c698001ccd8fc7df874f48c9e7945db5/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1753039700,
+    "durationSec": 5664
+  }
+]

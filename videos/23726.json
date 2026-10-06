@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Субтитры",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/47200/31918bedf4782750dcec1fa30d4b7f19/720p?translations=false&only_episode=true&only_season=true",
+    "date": 0,
+    "durationSec": 404
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniTime",
+    "player": "Плеер Sibnet",
+    "iframeUrl": "https://video.sibnet.ru/shell.php?videoid=3339241",
+    "date": 1732443842,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniTime",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anitime&anime_id=36833&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniTime",
+    "date": 1789132685,
+    "durationSec": 0
+  }
+]

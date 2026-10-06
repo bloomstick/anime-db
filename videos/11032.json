@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Aksor",
+    "iframeUrl": "https://player.aksor.tv/video/45c5ae1ccd940fc4aa367c91a5e2a7ed",
+    "date": 1728532699,
+    "durationSec": 1416
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=a3f6b8a915c78b6c4b727571f6aaa4&translation=10&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677783008,
+    "durationSec": 1416
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/49041/67d6c3a9fae46373359ef6b0a4631dc0/720p?translations=false&only_episode=true&only_season=true",
+    "date": 0,
+    "durationSec": 1416
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/93445/4ad701ca89d4d4e9551e4f4d4a23f418/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1678664788,
+    "durationSec": 1418
+  }
+]

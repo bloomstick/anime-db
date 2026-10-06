@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Субтитры",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/seria/784817/12cdbe736a58d51413ef2955b169ef50/720p",
+    "date": 1700651428,
+    "durationSec": 1435
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Sibnet",
+    "iframeUrl": "http://video.sibnet.ru/shell.php?videoid=3602995&share=1",
+    "date": 1752347188,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Rutube",
+    "iframeUrl": "https://rutube.ru/play/embed/a1dfaaacc349b51da30427b901e20ba7",
+    "date": 1752347188,
+    "durationSec": 0
+  }
+]

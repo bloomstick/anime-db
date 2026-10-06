@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/116509/441b4d28569855303b498dcf1352e893/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1773819394,
+    "durationSec": 6654
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anistar&anime_id=60610&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniStar",
+    "date": 1789145757,
+    "durationSec": 6795
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/116529/ad1be9066b8e8cc611f7c62cab4d147d/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1773907600,
+    "durationSec": 6654
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Force Media",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/116678/6ddf33affc0655967937f1174006ad4d/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1774508509,
+    "durationSec": 6677
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/116679/93f39189c7cbb6dd1d105dac1fb042c0/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1774508509,
+    "durationSec": 6677
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Дубляж Force Media",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=forcemedia&anime_id=60610&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+Force+Media",
+    "date": 1789145757,
+    "durationSec": 6677
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniMaunt",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=animaunt&anime_id=60610&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniMaunt",
+    "date": 1789145757,
+    "durationSec": 0
+  }
+]

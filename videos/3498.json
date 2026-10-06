@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Люб. субтитры",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=8c715472b1886564d100a15930dd6c&translation=79&season=1&episode=25&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1702410449,
+    "durationSec": 1599
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Amazing Dubbing",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=amazingdubbing&anime_id=6793&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Amazing+Dubbing",
+    "date": 1789135825,
+    "durationSec": 1600
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Anything Group",
+    "player": "Плеер Sibnet",
+    "iframeUrl": "https://video.sibnet.ru/shell.php?videoid=3427095",
+    "date": 1702409414,
+    "durationSec": 1603
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Get Smart Group",
+    "player": "Плеер Sibnet",
+    "iframeUrl": "https://video.sibnet.ru/shell.php?videoid=2702122",
+    "date": 1702409468,
+    "durationSec": 1604
+  }
+]

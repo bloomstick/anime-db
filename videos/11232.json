@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка FumoDub",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/89631/dfab3ed107b7f6b289d5c9fee8af97e9/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776066,
+    "durationSec": 1422
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка FumoDub",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=fumodub&anime_id=38027&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+FumoDub",
+    "date": 1789133504,
+    "durationSec": 1422
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры FSG YakuSub Studio",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/84801/bacf8adc2a24981a143eed0ab4470d0c/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776066,
+    "durationSec": 1422
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры FSG YakuSub Studio",
+    "player": "Плеер Sibnet",
+    "iframeUrl": "https://video.sibnet.ru/shell.php?videoid=3507564",
+    "date": 1709987338,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры YakuSub Studio",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/84801/bacf8adc2a24981a143eed0ab4470d0c/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1787175330,
+    "durationSec": 0
+  }
+]

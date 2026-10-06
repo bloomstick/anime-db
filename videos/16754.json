@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка Fronda Studio",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/79929/563d0c40b6fe48d49b632b55a559b3c3/720p?translations=false&only_episode=true&only_season=true",
+    "date": 0,
+    "durationSec": 4840
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=c7df07d21bc07ffd1c66e89d392af2&token=8b5512267a2a52e9de06d67d342e0c&translation=79&only_episode=true&episode=1&hidden=translation,season,episode",
+    "date": 0,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=c7df07d21bc07ffd1c66e89d392af2&translation=158&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677783129,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка FRONDA",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=c7df07d21bc07ffd1c66e89d392af2&token=8b5512267a2a52e9de06d67d342e0c&translation=207&only_episode=true&episode=1&hidden=translation,season,episode",
+    "date": 0,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка FRONDA",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/79929/563d0c40b6fe48d49b632b55a559b3c3/720p?only_episode=true",
+    "date": 0,
+    "durationSec": 0
+  }
+]

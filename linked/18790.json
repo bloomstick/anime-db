@@ -1,6 +1,24 @@
 {
   "links": [
     {
+      "slug": "dream:18790",
+      "title": "Зять",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": true
+    },
+    {
+      "slug": "dream:20312",
+      "title": "Зять 2",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
       "slug": "anidb:18790",
       "title": "https://anidb.net/anime/18790",
       "detail": "",
@@ -48,15 +66,6 @@
     {
       "slug": "kitsu:49160",
       "title": "https://kitsu.app/anime/49160",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:20312",
-      "title": "https://myanimelist.net/anime/59178",
       "detail": "",
       "kindLabel": "",
       "relation": "",

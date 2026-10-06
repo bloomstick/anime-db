@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Оригинал",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/100490/7d628edd731de23ecf7e4017ef532305/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1705860777,
+    "durationSec": 542
+  },
+  {
+    "episode": 1,
+    "dub": "Оригинал",
+    "player": "Плеер YouTube",
+    "iframeUrl": "https://www.youtube.com/embed/pQwezUgvkzE?si=tSPO3Heuedmelind",
+    "date": 1705860777,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Не требуется",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/100490/7d628edd731de23ecf7e4017ef532305/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1705875641,
+    "durationSec": 542
+  }
+]

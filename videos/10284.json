@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=053a1e8e61e8387f31b31fd213c80f&translation=158&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677783266,
+    "durationSec": 6586
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/91388/5835ba208f1fb6b860d0f83602bae7f5/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776000,
+    "durationSec": 6552
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anistar&anime_id=35759&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniStar",
+    "date": 1789133369,
+    "durationSec": 6552
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры FSG YakuSub Studio",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/103569/4528b226ca9840183e0a1efc7757d679/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1716917465,
+    "durationSec": 6554
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры YakuSub Studio",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/103569/4528b226ca9840183e0a1efc7757d679/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1787175313,
+    "durationSec": 6554
+  }
+]

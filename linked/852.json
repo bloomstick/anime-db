@@ -1,6 +1,24 @@
 {
   "links": [
     {
+      "slug": "dream:852",
+      "title": "Айдзу",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": true
+    },
+    {
+      "slug": "dream:629",
+      "title": "Айдзу 2",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
       "slug": "anidb:3706",
       "title": "https://anidb.net/anime/3706",
       "detail": "",
@@ -57,15 +75,6 @@
     {
       "slug": "kitsu:718",
       "title": "https://kitsu.app/anime/718",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:629",
-      "title": "https://myanimelist.net/anime/811",
       "detail": "",
       "kindLabel": "",
       "relation": "",

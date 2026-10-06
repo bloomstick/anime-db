@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=d16f4842b0741d58ce9ca2961ae214&translation=9&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677784309,
+    "durationSec": 1757
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/47566/90e0de723f897cbbc9b1296c7359f6b7/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674826904,
+    "durationSec": 1757
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Люб. Двухголосый",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/50965/d62112da978c9ddec8c92f7826ffdc4f/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1697059999,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка LampStudio",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=lampstudio&anime_id=29301&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+LampStudio",
+    "date": 1789134773,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Cuba77",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=cuba77&anime_id=29301&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Cuba77",
+    "date": 1789134773,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniFame",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anifame&anime_id=29301&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniFame",
+    "date": 1789134773,
+    "durationSec": 0
+  }
+]

@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка Дублированная",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/16091/ec8da59b2b8639c939edf3ab81d1120a/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1782805739,
+    "durationSec": 5319
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Дублированная",
+    "player": "Плеер YouTube",
+    "iframeUrl": "https://www.youtube.com/embed/uX3V6XtLk0Y?si=HvpQcYqh_PXFP85Y",
+    "date": 1719128340,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Колобок",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/18301/1838bf03ec82f7a42bae18b342a547a1/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1782805739,
+    "durationSec": 5354
+  }
+]

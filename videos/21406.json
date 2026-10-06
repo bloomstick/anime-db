@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/111660/992d5473badbb1ecd409987a3260f895/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1750614684,
+    "durationSec": 3235
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anistar&anime_id=61616&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniStar",
+    "date": 1789136360,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка LE-Production",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/112399/a37a09317cce02707066ff22d8a3028e/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1753658782,
+    "durationSec": 3238
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniMaunt",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=animaunt&anime_id=61616&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniMaunt",
+    "date": 1789136360,
+    "durationSec": 0
+  }
+]

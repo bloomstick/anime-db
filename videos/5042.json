@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Субтитры",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/52746/9eea69ee4bc8a105fdcb5d7b9ddd4dd6/720p",
+    "date": 1703759930,
+    "durationSec": 1668
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка animereactor",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/58230/bf4dd0b9c7f85d580ddaef74a2b19e3f/720p?translations=false&only_episode=true&only_season=true",
+    "date": 0,
+    "durationSec": 1681
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка MiraiDuB",
+    "player": "Плеер Sibnet",
+    "iframeUrl": "https://video.sibnet.ru/shell.php?videoid=3868701",
+    "date": 1769266272,
+    "durationSec": 0
+  }
+]

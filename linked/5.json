@@ -1,6 +1,24 @@
 {
   "links": [
     {
+      "slug": "dream:5",
+      "title": "Приключения короля Бита",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": true
+    },
+    {
+      "slug": "dream:886",
+      "title": "Приключения короля Бита 2",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
       "slug": "anidb:3703",
       "title": "https://anidb.net/anime/3703",
       "detail": "",
@@ -57,15 +75,6 @@
     {
       "slug": "kitsu:1007",
       "title": "https://kitsu.app/anime/1007",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:886",
-      "title": "https://myanimelist.net/anime/1123",
       "detail": "",
       "kindLabel": "",
       "relation": "",

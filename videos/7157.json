@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=976c49632ebd1b5cfbc02d7f9b1365&translation=9&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677783853,
+    "durationSec": 3996
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/10060/72924678d80cde056f4bfab6fed65bc1/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776386,
+    "durationSec": 3996
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anidub&anime_id=25907&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniDUB",
+    "date": 1789134163,
+    "durationSec": 3996
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка SHIZA Project",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/48674/1853c5291dc46889950094c378967169/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776386,
+    "durationSec": 3996
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Cactus Team",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/53125/4f3906e801576fd2a282ad9cd36fd986/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776386,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniFilm",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/50970/31c92c5d459a077e77a5422bb8671d91/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776386,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=animevost&anime_id=25907&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
+    "date": 1789134163,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anistar&anime_id=25907&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniStar",
+    "date": 1789134163,
+    "durationSec": 0
+  }
+]

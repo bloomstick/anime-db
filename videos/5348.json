@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/20441/33a08a890f8f62a6caa575a97265c0fb/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674826826,
+    "durationSec": 1404
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniFilm",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/54467/bb5eefd2bf2ff0d2841cb830c276a28c/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674826826,
+    "durationSec": 1404
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка MiraiDUB",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=878fca571a5603631902f0b150019d&translation=210&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1762246328,
+    "durationSec": 1404
+  }
+]

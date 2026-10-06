@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка Reanimedia",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/63431/82d47d39a01dd1599ec96289306a2cea/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776437,
+    "durationSec": 5656
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Reanimedia",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=reanimedia&anime_id=37682&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Reanimedia",
+    "date": 1789134279,
+    "durationSec": 5656
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=5920d16b1933349c0446ca41dd5e28&translation=79&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677783930,
+    "durationSec": 5656
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/56860/af7a899d987e2fb27255b3c067dd0cb5/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776437,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Дублированная",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=5920d16b1933349c0446ca41dd5e28&translation=66&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1753887560,
+    "durationSec": 5656
+  }
+]

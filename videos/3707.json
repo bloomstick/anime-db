@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=8100a3186ffd5d088b562b863b4c90&translation=10&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677783157,
+    "durationSec": 6400
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/48984/be357de9efa4c644f2386d42209391f3/720p?translations=false&only_episode=true&only_season=true",
+    "date": 0,
+    "durationSec": 6400
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/25134/50d91f961307178c14d63e99f01be90d/720p?translations=false&only_episode=true&only_season=true",
+    "date": 0,
+    "durationSec": 6400
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anidub&anime_id=7465&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniDUB",
+    "date": 1789133174,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Animedia",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/65805/a1223076fface83d02591c95c2310df2/720p?translations=false&only_episode=true&only_season=true",
+    "date": 0,
+    "durationSec": 6400
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniHouseTV",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/77026/914db01c0cf43ba8a9e51f22a5817276/720p?translations=false&only_episode=true&only_season=true",
+    "date": 0,
+    "durationSec": 6408
+  }
+]

@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка Дублированная",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/33039/480b112b0039de37d5b9bf5b10d5f706/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776026,
+    "durationSec": 5879
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Дублированная",
+    "player": "Плеер Sibnet",
+    "iframeUrl": "https://video.sibnet.ru/shell.php?videoid=4141200",
+    "date": 1706514123,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/91017/55aa00b911638043ae980b5fa32e70fd/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776026,
+    "durationSec": 5879
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры",
+    "player": "Плеер Sibnet",
+    "iframeUrl": "https://video.sibnet.ru/shell.php?videoid=4141201",
+    "date": 1706514123,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/51874/e0314294ccbce90671b5b2eba4490af6/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776026,
+    "durationSec": 0
+  }
+]

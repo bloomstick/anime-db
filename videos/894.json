@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка Люб. Одноголосый",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/91234/e5bc7dd59d4288fe5a8c36627ecfb03a/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776012,
+    "durationSec": 3619
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Люб. Одноголосый",
+    "player": "Плеер Sibnet",
+    "iframeUrl": "https://video.sibnet.ru/shell.php?videoid=1781157",
+    "date": 1712238206,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/91233/cbe21e9bf9c389ef89bc1e4ca3138c8f/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776012,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры",
+    "player": "Плеер Sibnet",
+    "iframeUrl": "https://video.sibnet.ru/shell.php?videoid=1781460",
+    "date": 1712238320,
+    "durationSec": 0
+  }
+]

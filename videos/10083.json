@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка LE-Production",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/49362/e12c4d541890bac42f8ede49a7ebae56/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776301,
+    "durationSec": 1603
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка LE-Production",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=leproduction&anime_id=35320&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+LE-Production",
+    "date": 1789133981,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка StudioBand",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/76897/2e691393807ddb7c035e27dad5f431d6/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1751850957,
+    "durationSec": 1600
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры MedusaSub",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/94051/a58914dda163df17033363bb663e06ce/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1681064782,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Дубляж StudioBand",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=studioband&anime_id=35320&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+StudioBand",
+    "date": 1789143445,
+    "durationSec": 0
+  }
+]

@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/32416/f3fd5e8e866527318a1300b511cd450c/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776296,
+    "durationSec": 5871
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anilibriatv&anime_id=33378&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
+    "date": 1789133985,
+    "durationSec": 5871
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/42631/0602482a6f1bf5ee427466525db680f3/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776296,
+    "durationSec": 5871
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniPlague",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/33038/16d8b587f32434b456551f17fddca577/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776296,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Amazing Dubbing",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/77000/467cbba3223224a76cffc200ba9a73e8/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776296,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Amazing Dubbing",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=amazingdubbing&anime_id=33378&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Amazing+Dubbing",
+    "date": 1789133985,
+    "durationSec": 0
+  }
+]

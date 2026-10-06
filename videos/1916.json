@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniDUB&anime_id=2591&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniDUB",
+    "date": 1751854783,
+    "durationSec": 1872
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniDUB&anime_id=2591&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniDUB",
+    "date": 1751854783,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/47017/3c9e5a69de62befba2d4b059a50e5010/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674827107,
+    "durationSec": 4303
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Агата Филин",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/105241/a898da75d191b92d2a1e73e4f0ef37a8/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1723379474,
+    "durationSec": 4088
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/53985/64a63233d6a6b40f3dafec6912c60405/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1784497984,
+    "durationSec": 0
+  }
+]

@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniClub",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/92502/9b98c8e4e6f39b52cccc81b96dc5ce94/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1686664976,
+    "durationSec": 1442
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка VoiceWay",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/85026/6281f37f301f519bf09b61ab1cc18632/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1686664976,
+    "durationSec": 1440
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка VoiceWay",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=voiceway&anime_id=30921&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+VoiceWay",
+    "date": 1789135548,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Невинный Кружок",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/103255/d0b8ff5ffd284b256954bc2b09ebb424/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1715713274,
+    "durationSec": 1440
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Невинный Кружок",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=nevinniikrujok&anime_id=30921&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%9D%D0%B5%D0%B2%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9+%D0%9A%D1%80%D1%83%D0%B6%D0%BE%D0%BA",
+    "date": 1789135548,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniRai",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anirai&anime_id=30921&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniRai",
+    "date": 1789135548,
+    "durationSec": 0
+  }
+]

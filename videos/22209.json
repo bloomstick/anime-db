@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/118124/5950577d267e873775c30b8daa2141d7/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1775503303,
+    "durationSec": 5676
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anistar&anime_id=63606&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniStar",
+    "date": 1789136517,
+    "durationSec": 5680
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка LightFamily",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/118197/e944edc03fb01b679591610e5ade4b92/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1783366873,
+    "durationSec": 5641
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Animy",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/117242/24a2919c1f6f8a3ea88d7f3702190acd/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1777907292,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniMy / RuChiMe",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=animy&anime_id=63606&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniMy+%2F+RuChiMe",
+    "date": 1789136517,
+    "durationSec": 5675
+  }
+]

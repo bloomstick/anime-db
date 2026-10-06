@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/20564/3f942d75b17757e9c30d80d84b9c0107/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674827232,
+    "durationSec": 1670
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anidub&anime_id=33363&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniDUB",
+    "date": 1789135416,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры BADBADNOTGOOD",
+    "player": "Плеер Sibnet",
+    "iframeUrl": "https://video.sibnet.ru/shell.php?videoid=2856411",
+    "date": 1709992182,
+    "durationSec": 0
+  }
+]

@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Sibnet",
+    "iframeUrl": "https://video.sibnet.ru/shell.php?videoid=1587571",
+    "date": 1727603347,
+    "durationSec": 1236
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер VK",
+    "iframeUrl": "https://ru.yummyani.me/iframeVK.html?id=6668243_170228535",
+    "date": 1727603494,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры YakuSub Studio",
+    "player": "Плеер Sibnet",
+    "iframeUrl": "https://video.sibnet.ru/shell.php?videoid=1592349",
+    "date": 1727603660,
+    "durationSec": 0
+  }
+]

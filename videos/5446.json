@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/10043/428b91fe7152a0e53331207602a2a7aa/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674827211,
+    "durationSec": 5379
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anidub&anime_id=15771&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniDUB",
+    "date": 1789135379,
+    "durationSec": 5379
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка OnWave",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/99580/ccb508ccff78aa139954b5a41267751c/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1701640534,
+    "durationSec": 5392
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка OnWave",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anwave&anime_id=15771&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+OnWave",
+    "date": 1789135379,
+    "durationSec": 0
+  }
+]

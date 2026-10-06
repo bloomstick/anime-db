@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/40328/26ae43838062bb7cc3dce5a110134fc0/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776022,
+    "durationSec": 1936
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anidub&anime_id=834&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniDUB",
+    "date": 1789133417,
+    "durationSec": 1936
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/91092/6318558aa62aa7999a44d734f412debb/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776022,
+    "durationSec": 2051
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Комната Диди",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/100251/eeac6da9b5c7e2a6d7a17e6c36731e70/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1704162782,
+    "durationSec": 1937
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Люб. Одноголосый",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/51987/907926b431f21d700731e6535d291675/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776022,
+    "durationSec": 2051
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Люб. Двухголосый",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=da94ba19cfa23bc9d7d299ed56d50f&translation=88&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1699985012,
+    "durationSec": 2051
+  }
+]

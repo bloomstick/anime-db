@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/89504/dd1d0e8a3f736d63de1ffe005eaf0f17/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776058,
+    "durationSec": 2195
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anilibriatv&anime_id=40778&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
+    "date": 1789133485,
+    "durationSec": 2195
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры Alisma",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/93751/57037ba219cf338ae1795e7e450580e4/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1679926523,
+    "durationSec": 2195
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка J&N Union",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/73315/70040098d6601de12fc0e200ba439a7c/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776058,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Panzu.info",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=panzuinfo&anime_id=40778&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Panzu.info",
+    "date": 1791218658,
+    "durationSec": 0
+  }
+]

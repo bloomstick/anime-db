@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=dd128f25ad843ef8280a1cd7819d69&translation=10&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677783310,
+    "durationSec": 1600
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/46159/03d24d773512e4ac7ef69763891ef078/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776026,
+    "durationSec": 1600
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка SHIZA Project",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/48883/9e261528bce876ea6240a73474acc55c/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776026,
+    "durationSec": 1600
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/90993/c420c0f69b47b38d20353e583600a502/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776026,
+    "durationSec": 1598
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anidub&anime_id=28285&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniDUB",
+    "date": 1789133425,
+    "durationSec": 1606
+  }
+]

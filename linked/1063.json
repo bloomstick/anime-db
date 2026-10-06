@@ -1,6 +1,546 @@
 {
   "links": [
     {
+      "slug": "dream:185",
+      "title": "Детектив Конан",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:610",
+      "title": "Детектив Конан: Заминированный небоскрёб &mdash; Фильм",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:611",
+      "title": "Детектив Конан: Четырнадцатая цель &mdash; Фильм 2",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:612",
+      "title": "Детектив Конан: Последний маг века &mdash; Фильм 3",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:1059",
+      "title": "Детектив Конан: Потерянное в памяти &mdash; Фильм 4",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:1065",
+      "title": "Детектив Конан: Конан против Кида против Яйбы &mdash; OVA",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:1060",
+      "title": "Детектив Конан: Отсчёт до небес &mdash; Фильм 5",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:1061",
+      "title": "Детектив Конан: Призрак Бэйкер-стрит &mdash; Фильм 6",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:1856",
+      "title": "Детектив Конан: 16 подозреваемых &mdash; OVA 2",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:1062",
+      "title": "Детектив Конан: На перекрёстках древней столицы &mdash; Фильм 7",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:1857",
+      "title": "Детектив Конан: Конан, Хэйджи и исчезнувший мальчик &mdash; OVA 3",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:1063",
+      "title": "Детектив Конан: Волшебник серебряного неба &mdash; Фильм 8",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": true
+    },
+    {
+      "slug": "dream:1858",
+      "title": "Детектив Конан: Конан, Кид и Мать Кристаллов &mdash; OVA 4",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:1166",
+      "title": "Детектив Конан: Стратегия над бездной &mdash; Фильм 9",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:1859",
+      "title": "Детектив Конан: Цель &mdash; Когоро! Секретное расследование &mdash; OVA 5",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:1064",
+      "title": "Детектив Конан: Вперёд за пропавшим алмазом! Конан и Хэйджи против Кида! &mdash; OVA 6",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:1167",
+      "title": "Детектив Конан: Реквием детективов &mdash; Фильм 10",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:1919",
+      "title": "Детектив Конан: Вызов от Агасы! Агаса против Конана и его команды &mdash; OVA 7",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:1660",
+      "title": "Детектив Конан: Джолли Роджер в глубине лазури &mdash; Фильм 11",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:3310",
+      "title": "Детектив Конан: Детектив-старшеклассница Соноко Сузуки &mdash; OVA 8",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:2757",
+      "title": "Детектив Конан: Партитура, вызывающая трепет &mdash; Фильм 12",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:3046",
+      "title": "Детектив Конан: Дело о таинственной стене и чёрном лабрадоре",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:3069",
+      "title": "Детектив Конан: Охота на ворона &mdash; Фильм 13",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:3321",
+      "title": "Детектив Конан: Дело о Шиничи и Ран &mdash; Воспоминания Танабаты",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:3382",
+      "title": "Детектив Конан: Незнакомец через 10 лет... &mdash; OVA 9",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:3391",
+      "title": "Детектив Конан: Потерянный корабль в небе &mdash; Фильм 14",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:3951",
+      "title": "Детектив Конан: Дело о блинной одиссее в Осаке",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:4039",
+      "title": "Детектив Конан: Кид на острове-ловушке &mdash; OVA 10",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:3945",
+      "title": "Волшебник Кайто",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:4433",
+      "title": "Детектив Конан: Квартал молчания &mdash; Фильм 15",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:4632",
+      "title": "Детектив Конан: Дело о сувенирной лихорадке",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:4685",
+      "title": "Детектив Конан: Секретный приказ от Лондона &mdash; OVA 11",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:4958",
+      "title": "Детектив Конан: Одиннадцатый нападающий &mdash; Фильм 16",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:5241",
+      "title": "Детектив Конан: Дело о волшебном цветке",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:5242",
+      "title": "Детектив Конан: Чудо Экскалибура &mdash; OVA 12",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:5328",
+      "title": "Детектив Конан: Частный сыщик в далёком море &mdash; Фильм 17",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:6376",
+      "title": "Детектив Конан: Снайпер из другого измерения &mdash; Фильм 18",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:7111",
+      "title": "Волшебник Кайто 1412",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:6455",
+      "title": "Исчезновение Конана Эдогавы: Два самых худших дня в истории",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:7496",
+      "title": "Детектив Конан: Подсолнухи из адского пламени &mdash; Фильм 19",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:7688",
+      "title": "Детектив Конан: С Новым Годом",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:8652",
+      "title": "Детектив Конан: Самый страшный кошмар &mdash; Фильм 20",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:9598",
+      "title": "Детектив Конан: Любовное послание в багровых тонах  &mdash; Фильм 21",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:9438",
+      "title": "Детектив Конан: Первый эпизод &mdash; Уменьшившийся великий детектив",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:11577",
+      "title": "Детектив Конан: Тайный звонок Амуро",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:10292",
+      "title": "Детектив Конан: Палач Зеро &mdash; Фильм 22",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:11564",
+      "title": "Детектив Конан: Кулак голубого сапфира &mdash; Фильм 23",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:15823",
+      "title": "Детектив Конан: Алое алиби",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:12039",
+      "title": "Детектив Конан: Алая пуля &mdash; Фильм 24",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:17022",
+      "title": "Детектив Конан: Чаепитие Зеро",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:16809",
+      "title": "Детектив Конан 25: Хэллоуинская невеста",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:17021",
+      "title": "Детектив Конан: Преступник Ханзава",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:17587",
+      "title": "Детектив Конан: История любви в штаб-квартире полиции &mdash; Накануне свадьбы",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:18781",
+      "title": "Детектив Конан: Полицейская академия &mdash; Дело Рэя Фуруи",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:18232",
+      "title": "Детектив Конан: Железная подводная лодка &mdash; Фильм 26",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:19693",
+      "title": "Детектив Конан против Кайто Кида",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:19459",
+      "title": "Детектив Конан: Пентаграмма на миллион долларов &mdash; Фильм 27",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:20866",
+      "title": "Детектив Конан: Воспоминания одноглазого &mdash; Фильм 28",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:21733",
+      "title": "Детектив Конан: Падший ангел автострады &mdash; Фильм 29",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:22656",
+      "title": "Детектив Конан: Дело о тридцатом убийстве",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
       "slug": "anidb:10290",
       "title": "https://anidb.net/anime/10290",
       "detail": "",
@@ -1848,15 +2388,6 @@
     {
       "slug": "https://livechart.me/anime/8185",
       "title": "https://livechart.me/anime/8185",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:185",
-      "title": "https://myanimelist.net/anime/235",
       "detail": "",
       "kindLabel": "",
       "relation": "",

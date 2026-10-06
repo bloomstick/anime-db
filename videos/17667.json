@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/83513/8533304b878cfd77239e413b93961d6f/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1674776090,
+    "durationSec": 1420
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/83513/8533304b878cfd77239e413b93961d6f/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1674776090,
+    "durationSec": 1420
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniDUB&anime_id=51989&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniDUB",
+    "date": 1758831663,
+    "durationSec": 1464
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniDUB&anime_id=51989&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniDUB",
+    "date": 1758831663,
+    "durationSec": 1464
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры BanG Dream! Translations",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/96508/d5396a0ee2967a5e10460716cc431af0/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1700163194,
+    "durationSec": 0
+  },
+  {
+    "episode": 2,
+    "dub": "Субтитры BanG Dream! Translations",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/96508/d5396a0ee2967a5e10460716cc431af0/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1700163194,
+    "durationSec": 0
+  }
+]

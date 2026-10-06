@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Субтитры",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/90631/6e03a9a41ea0d8cbcaa2a028d47fd513/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776043,
+    "durationSec": 1493
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniFilm",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/46210/2caf2c9a4119cb32f010f12e8df1ce6f/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776043,
+    "durationSec": 1496
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniFilm",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anifilm&anime_id=14027&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniFilm",
+    "date": 1789133442,
+    "durationSec": 1496
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка OpenDub",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/46209/6c2193fdcd648ccbf8814f5ad6725561/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776043,
+    "durationSec": 1495
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка OpenDub",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=opendub&anime_id=14027&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+OpenDub",
+    "date": 1789133442,
+    "durationSec": 0
+  }
+]

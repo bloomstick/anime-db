@@ -1,1 +1,130 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=621046177c2214c608afcef26ac2b5&translation=10&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1701287882,
+    "durationSec": 3827
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=621046177c2214c608afcef26ac2b5&translation=10&season=1&episode=2&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677765762,
+    "durationSec": 4582
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Aksor",
+    "iframeUrl": "https://player.aksor.tv/video/dbb4e49e05a22ade14eae739231c66a3",
+    "date": 1727794050,
+    "durationSec": 3827
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/50189/c0a94a16d574e57a517416c29120962a/720p?translations=false&only_episode=true&only_season=true",
+    "date": 0,
+    "durationSec": 3828
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anilibriatv&anime_id=36286&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
+    "date": 1789132989,
+    "durationSec": 3828
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=621046177c2214c608afcef26ac2b5&translation=9&season=1&episode=2&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677765762,
+    "durationSec": 4597
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=621046177c2214c608afcef26ac2b5&translation=9&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1701287882,
+    "durationSec": 3611
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/39530/24437f8abd7a69e4b3e11872027bc994/720p?translations=false&only_episode=true&only_season=true",
+    "date": 0,
+    "durationSec": 3611
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=621046177c2214c608afcef26ac2b5&translation=79&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677765762,
+    "durationSec": 3827
+  },
+  {
+    "episode": 2,
+    "dub": "Субтитры",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=621046177c2214c608afcef26ac2b5&translation=79&season=1&episode=2&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1724459208,
+    "durationSec": 4762
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры Crunchyroll",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/81396/b58a41be166ce6eccea251dbaa68df5f/720p?translations=false&only_episode=true&only_season=true",
+    "date": 0,
+    "durationSec": 3570
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка SHIZA Project",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/39893/5b08219a8e5c31890a00c59fe6b81434/720p?translations=false&only_episode=true&only_season=true",
+    "date": 0,
+    "durationSec": 3611
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/39178/d4d935f6dee744ee44374a2a6af88fa9/720p?translations=false&only_episode=true&only_season=true",
+    "date": 0,
+    "durationSec": 3657
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры SovetRomantica",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/93001/b789614faf34a2236086ef00cf8a12ea/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1676988319,
+    "durationSec": 3828
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Amazing Dubbing",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/64180/491dc832722c66d2595e4dcdec5d4912/720p?translations=false&only_episode=true&only_season=true",
+    "date": 0,
+    "durationSec": 3828
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка OBELISK Project",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/105643/a872d2bad7f16071121de9883a9df446/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1725129091,
+    "durationSec": 3619
+  }
+]

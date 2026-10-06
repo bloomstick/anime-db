@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=6e7f4b5641d065afcf0b48216243ff&translation=9&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677783056,
+    "durationSec": 5340
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/20291/ca72daafc5678b3bab9eddbeb01e4707/720p?translations=false&only_episode=true&only_season=true",
+    "date": 0,
+    "durationSec": 5340
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anidub&anime_id=31280&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniDUB",
+    "date": 1789133022,
+    "durationSec": 5340
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Saturn Union",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/82141/2bff3c2ac11e1a4dbacec52e147674fe/720p?translations=false&only_episode=true&only_season=true",
+    "date": 0,
+    "durationSec": 5348
+  }
+]

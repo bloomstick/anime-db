@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка SMX Studios",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/85172/35fb769d806898fe57ff054a55c13cdf/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776137,
+    "durationSec": 1605
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка SMX Studios",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=smxstudios&anime_id=36436&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+SMX+Studios",
+    "date": 1789133670,
+    "durationSec": 1605
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры SMXStudios",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/85173/78ce90078e3f25c46539665f2fc06a45/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776137,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры SMX Studios",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/85173/78ce90078e3f25c46539665f2fc06a45/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1704235043,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniMaunt",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=animaunt&anime_id=36436&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniMaunt",
+    "date": 1789133670,
+    "durationSec": 0
+  }
+]

@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=b7a8b7dd02f02d13b7f2468a89723d&translation=9&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677783296,
+    "durationSec": 3141
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/20591/44978dd40ded93ef4fd18dc692106c60/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776018,
+    "durationSec": 3141
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anidub&anime_id=16700&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniDUB",
+    "date": 1789133410,
+    "durationSec": 2905
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка MiraiDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/73881/a9fb514db972fca4182f5697e75f8c0c/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776018,
+    "durationSec": 3131
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/91151/6f370593514dfe5735006bdbf5bd1d98/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776018,
+    "durationSec": 3131
+  }
+]

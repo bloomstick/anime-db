@@ -1,1 +1,706 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=29d37add8907bac82f0f62076b08c7&translation=10&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677772542,
+    "durationSec": 1387
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=29d37add8907bac82f0f62076b08c7&translation=10&season=1&episode=2&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677772542,
+    "durationSec": 1387
+  },
+  {
+    "episode": 3,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=29d37add8907bac82f0f62076b08c7&translation=10&season=1&episode=3&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677772542,
+    "durationSec": 0
+  },
+  {
+    "episode": 4,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=29d37add8907bac82f0f62076b08c7&translation=10&season=1&episode=4&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677772542,
+    "durationSec": 0
+  },
+  {
+    "episode": 5,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=29d37add8907bac82f0f62076b08c7&translation=10&season=1&episode=5&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677772542,
+    "durationSec": 0
+  },
+  {
+    "episode": 6,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=29d37add8907bac82f0f62076b08c7&translation=10&season=1&episode=6&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677772542,
+    "durationSec": 0
+  },
+  {
+    "episode": 7,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=29d37add8907bac82f0f62076b08c7&translation=10&season=1&episode=7&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677772542,
+    "durationSec": 0
+  },
+  {
+    "episode": 8,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=29d37add8907bac82f0f62076b08c7&translation=10&season=1&episode=8&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677772542,
+    "durationSec": 0
+  },
+  {
+    "episode": 9,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=29d37add8907bac82f0f62076b08c7&translation=10&season=1&episode=9&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677772542,
+    "durationSec": 0
+  },
+  {
+    "episode": 10,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=29d37add8907bac82f0f62076b08c7&translation=10&season=1&episode=10&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677772542,
+    "durationSec": 0
+  },
+  {
+    "episode": 11,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=29d37add8907bac82f0f62076b08c7&translation=10&season=1&episode=11&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677772542,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/53901/0f0c224883b4cee155eee3a29b2f5ebe/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1674776436,
+    "durationSec": 1387
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/53901/0f0c224883b4cee155eee3a29b2f5ebe/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1674776436,
+    "durationSec": 1387
+  },
+  {
+    "episode": 3,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/53901/0f0c224883b4cee155eee3a29b2f5ebe/720p?translations=false&only_episode=true&only_season=true&episode=3",
+    "date": 1674776436,
+    "durationSec": 0
+  },
+  {
+    "episode": 4,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/53901/0f0c224883b4cee155eee3a29b2f5ebe/720p?translations=false&only_episode=true&only_season=true&episode=4",
+    "date": 1674776436,
+    "durationSec": 0
+  },
+  {
+    "episode": 5,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/53901/0f0c224883b4cee155eee3a29b2f5ebe/720p?translations=false&only_episode=true&only_season=true&episode=5",
+    "date": 1674776436,
+    "durationSec": 0
+  },
+  {
+    "episode": 6,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/53901/0f0c224883b4cee155eee3a29b2f5ebe/720p?translations=false&only_episode=true&only_season=true&episode=6",
+    "date": 1674776436,
+    "durationSec": 0
+  },
+  {
+    "episode": 7,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/53901/0f0c224883b4cee155eee3a29b2f5ebe/720p?translations=false&only_episode=true&only_season=true&episode=7",
+    "date": 1674776436,
+    "durationSec": 0
+  },
+  {
+    "episode": 8,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/53901/0f0c224883b4cee155eee3a29b2f5ebe/720p?translations=false&only_episode=true&only_season=true&episode=8",
+    "date": 1674776436,
+    "durationSec": 0
+  },
+  {
+    "episode": 9,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/53901/0f0c224883b4cee155eee3a29b2f5ebe/720p?translations=false&only_episode=true&only_season=true&episode=9",
+    "date": 1674776436,
+    "durationSec": 0
+  },
+  {
+    "episode": 10,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/53901/0f0c224883b4cee155eee3a29b2f5ebe/720p?translations=false&only_episode=true&only_season=true&episode=10",
+    "date": 1674776436,
+    "durationSec": 0
+  },
+  {
+    "episode": 11,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/53901/0f0c224883b4cee155eee3a29b2f5ebe/720p?translations=false&only_episode=true&only_season=true&episode=11",
+    "date": 1674776436,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniLibria&anime_id=39942&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
+    "date": 1751853605,
+    "durationSec": 0
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniLibria&anime_id=39942&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
+    "date": 1751853605,
+    "durationSec": 0
+  },
+  {
+    "episode": 3,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniLibria&anime_id=39942&episode=3&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
+    "date": 1751853605,
+    "durationSec": 0
+  },
+  {
+    "episode": 4,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniLibria&anime_id=39942&episode=4&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
+    "date": 1751853605,
+    "durationSec": 0
+  },
+  {
+    "episode": 5,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniLibria&anime_id=39942&episode=5&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
+    "date": 1751853605,
+    "durationSec": 0
+  },
+  {
+    "episode": 6,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniLibria&anime_id=39942&episode=6&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
+    "date": 1751853605,
+    "durationSec": 0
+  },
+  {
+    "episode": 7,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniLibria&anime_id=39942&episode=7&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
+    "date": 1751853605,
+    "durationSec": 0
+  },
+  {
+    "episode": 8,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniLibria&anime_id=39942&episode=8&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
+    "date": 1751853605,
+    "durationSec": 0
+  },
+  {
+    "episode": 9,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniLibria&anime_id=39942&episode=9&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
+    "date": 1751853605,
+    "durationSec": 0
+  },
+  {
+    "episode": 10,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniLibria&anime_id=39942&episode=10&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
+    "date": 1751853605,
+    "durationSec": 0
+  },
+  {
+    "episode": 11,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniLibria&anime_id=39942&episode=11&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
+    "date": 1751853605,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/53924/e5a421319fde2082f9c93033c00c7296/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1674776436,
+    "durationSec": 0
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/53924/e5a421319fde2082f9c93033c00c7296/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1674776436,
+    "durationSec": 0
+  },
+  {
+    "episode": 3,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/53924/e5a421319fde2082f9c93033c00c7296/720p?translations=false&only_episode=true&only_season=true&episode=3",
+    "date": 1674776436,
+    "durationSec": 0
+  },
+  {
+    "episode": 4,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/53924/e5a421319fde2082f9c93033c00c7296/720p?translations=false&only_episode=true&only_season=true&episode=4",
+    "date": 1674776436,
+    "durationSec": 0
+  },
+  {
+    "episode": 5,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/53924/e5a421319fde2082f9c93033c00c7296/720p?translations=false&only_episode=true&only_season=true&episode=5",
+    "date": 1674776436,
+    "durationSec": 0
+  },
+  {
+    "episode": 6,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/53924/e5a421319fde2082f9c93033c00c7296/720p?translations=false&only_episode=true&only_season=true&episode=6",
+    "date": 1674776436,
+    "durationSec": 0
+  },
+  {
+    "episode": 7,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/53924/e5a421319fde2082f9c93033c00c7296/720p?translations=false&only_episode=true&only_season=true&episode=7",
+    "date": 1674776436,
+    "durationSec": 0
+  },
+  {
+    "episode": 8,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/53924/e5a421319fde2082f9c93033c00c7296/720p?translations=false&only_episode=true&only_season=true&episode=8",
+    "date": 1674776436,
+    "durationSec": 0
+  },
+  {
+    "episode": 9,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/53924/e5a421319fde2082f9c93033c00c7296/720p?translations=false&only_episode=true&only_season=true&episode=9",
+    "date": 1674776436,
+    "durationSec": 0
+  },
+  {
+    "episode": 10,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/53924/e5a421319fde2082f9c93033c00c7296/720p?translations=false&only_episode=true&only_season=true&episode=10",
+    "date": 1674776436,
+    "durationSec": 0
+  },
+  {
+    "episode": 11,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/53924/e5a421319fde2082f9c93033c00c7296/720p?translations=false&only_episode=true&only_season=true&episode=11",
+    "date": 1674776436,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка StudioBand",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=29d37add8907bac82f0f62076b08c7&translation=95&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677772542,
+    "durationSec": 1373
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка StudioBand",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=29d37add8907bac82f0f62076b08c7&translation=95&season=1&episode=2&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677772542,
+    "durationSec": 0
+  },
+  {
+    "episode": 3,
+    "dub": "Озвучка StudioBand",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=29d37add8907bac82f0f62076b08c7&translation=95&season=1&episode=3&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677772542,
+    "durationSec": 0
+  },
+  {
+    "episode": 4,
+    "dub": "Озвучка StudioBand",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=29d37add8907bac82f0f62076b08c7&translation=95&season=1&episode=4&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677772542,
+    "durationSec": 0
+  },
+  {
+    "episode": 5,
+    "dub": "Озвучка StudioBand",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=29d37add8907bac82f0f62076b08c7&translation=95&season=1&episode=5&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677772542,
+    "durationSec": 0
+  },
+  {
+    "episode": 6,
+    "dub": "Озвучка StudioBand",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=29d37add8907bac82f0f62076b08c7&translation=95&season=1&episode=6&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677772542,
+    "durationSec": 0
+  },
+  {
+    "episode": 7,
+    "dub": "Озвучка StudioBand",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=29d37add8907bac82f0f62076b08c7&translation=95&season=1&episode=7&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677772542,
+    "durationSec": 0
+  },
+  {
+    "episode": 8,
+    "dub": "Озвучка StudioBand",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=29d37add8907bac82f0f62076b08c7&translation=95&season=1&episode=8&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677772542,
+    "durationSec": 0
+  },
+  {
+    "episode": 9,
+    "dub": "Озвучка StudioBand",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=29d37add8907bac82f0f62076b08c7&translation=95&season=1&episode=9&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677772542,
+    "durationSec": 0
+  },
+  {
+    "episode": 10,
+    "dub": "Озвучка StudioBand",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=29d37add8907bac82f0f62076b08c7&translation=95&season=1&episode=10&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677772542,
+    "durationSec": 0
+  },
+  {
+    "episode": 11,
+    "dub": "Озвучка StudioBand",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=29d37add8907bac82f0f62076b08c7&translation=95&season=1&episode=11&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677772542,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка StudioBand",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/54276/53c32fb1f949de0ab8c7a7b3b3eb4cdf/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1751851035,
+    "durationSec": 1373
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка StudioBand",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/54276/53c32fb1f949de0ab8c7a7b3b3eb4cdf/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1751851035,
+    "durationSec": 1375
+  },
+  {
+    "episode": 3,
+    "dub": "Озвучка StudioBand",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/54276/53c32fb1f949de0ab8c7a7b3b3eb4cdf/720p?translations=false&only_episode=true&only_season=true&episode=3",
+    "date": 1751851035,
+    "durationSec": 1375
+  },
+  {
+    "episode": 4,
+    "dub": "Озвучка StudioBand",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/54276/53c32fb1f949de0ab8c7a7b3b3eb4cdf/720p?translations=false&only_episode=true&only_season=true&episode=4",
+    "date": 1751851035,
+    "durationSec": 1375
+  },
+  {
+    "episode": 5,
+    "dub": "Озвучка StudioBand",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/54276/53c32fb1f949de0ab8c7a7b3b3eb4cdf/720p?translations=false&only_episode=true&only_season=true&episode=5",
+    "date": 1751851035,
+    "durationSec": 1375
+  },
+  {
+    "episode": 6,
+    "dub": "Озвучка StudioBand",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/54276/53c32fb1f949de0ab8c7a7b3b3eb4cdf/720p?translations=false&only_episode=true&only_season=true&episode=6",
+    "date": 1751851035,
+    "durationSec": 1375
+  },
+  {
+    "episode": 7,
+    "dub": "Озвучка StudioBand",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/54276/53c32fb1f949de0ab8c7a7b3b3eb4cdf/720p?translations=false&only_episode=true&only_season=true&episode=7",
+    "date": 1751851035,
+    "durationSec": 1374
+  },
+  {
+    "episode": 8,
+    "dub": "Озвучка StudioBand",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/54276/53c32fb1f949de0ab8c7a7b3b3eb4cdf/720p?translations=false&only_episode=true&only_season=true&episode=8",
+    "date": 1751851035,
+    "durationSec": 1375
+  },
+  {
+    "episode": 9,
+    "dub": "Озвучка StudioBand",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/54276/53c32fb1f949de0ab8c7a7b3b3eb4cdf/720p?translations=false&only_episode=true&only_season=true&episode=9",
+    "date": 1751851035,
+    "durationSec": 1375
+  },
+  {
+    "episode": 10,
+    "dub": "Озвучка StudioBand",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/54276/53c32fb1f949de0ab8c7a7b3b3eb4cdf/720p?translations=false&only_episode=true&only_season=true&episode=10",
+    "date": 1751851035,
+    "durationSec": 1372
+  },
+  {
+    "episode": 11,
+    "dub": "Озвучка StudioBand",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/54276/53c32fb1f949de0ab8c7a7b3b3eb4cdf/720p?translations=false&only_episode=true&only_season=true&episode=11",
+    "date": 1751851035,
+    "durationSec": 1374
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/56706/2f85f6b123bb7acb43ee37c933f072da/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1674776436,
+    "durationSec": 0
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/56706/2f85f6b123bb7acb43ee37c933f072da/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1674776436,
+    "durationSec": 0
+  },
+  {
+    "episode": 3,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/56706/2f85f6b123bb7acb43ee37c933f072da/720p?translations=false&only_episode=true&only_season=true&episode=3",
+    "date": 1674776436,
+    "durationSec": 0
+  },
+  {
+    "episode": 4,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/56706/2f85f6b123bb7acb43ee37c933f072da/720p?translations=false&only_episode=true&only_season=true&episode=4",
+    "date": 1674776436,
+    "durationSec": 0
+  },
+  {
+    "episode": 5,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/56706/2f85f6b123bb7acb43ee37c933f072da/720p?translations=false&only_episode=true&only_season=true&episode=5",
+    "date": 1674776436,
+    "durationSec": 0
+  },
+  {
+    "episode": 6,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/56706/2f85f6b123bb7acb43ee37c933f072da/720p?translations=false&only_episode=true&only_season=true&episode=6",
+    "date": 1674776436,
+    "durationSec": 0
+  },
+  {
+    "episode": 7,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/56706/2f85f6b123bb7acb43ee37c933f072da/720p?translations=false&only_episode=true&only_season=true&episode=7",
+    "date": 1674776436,
+    "durationSec": 0
+  },
+  {
+    "episode": 8,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/56706/2f85f6b123bb7acb43ee37c933f072da/720p?translations=false&only_episode=true&only_season=true&episode=8",
+    "date": 1674776436,
+    "durationSec": 0
+  },
+  {
+    "episode": 9,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/56706/2f85f6b123bb7acb43ee37c933f072da/720p?translations=false&only_episode=true&only_season=true&episode=9",
+    "date": 1674776436,
+    "durationSec": 0
+  },
+  {
+    "episode": 10,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/56706/2f85f6b123bb7acb43ee37c933f072da/720p?translations=false&only_episode=true&only_season=true&episode=10",
+    "date": 1674776436,
+    "durationSec": 0
+  },
+  {
+    "episode": 11,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/56706/2f85f6b123bb7acb43ee37c933f072da/720p?translations=false&only_episode=true&only_season=true&episode=11",
+    "date": 1674776436,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/53374/58c619d486b7b637291016a6a8472d57/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1674776436,
+    "durationSec": 0
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/53374/58c619d486b7b637291016a6a8472d57/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1674776436,
+    "durationSec": 0
+  },
+  {
+    "episode": 3,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/53374/58c619d486b7b637291016a6a8472d57/720p?translations=false&only_episode=true&only_season=true&episode=3",
+    "date": 1674776436,
+    "durationSec": 0
+  },
+  {
+    "episode": 4,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/53374/58c619d486b7b637291016a6a8472d57/720p?translations=false&only_episode=true&only_season=true&episode=4",
+    "date": 1674776436,
+    "durationSec": 0
+  },
+  {
+    "episode": 5,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/53374/58c619d486b7b637291016a6a8472d57/720p?translations=false&only_episode=true&only_season=true&episode=5",
+    "date": 1674776436,
+    "durationSec": 0
+  },
+  {
+    "episode": 6,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/53374/58c619d486b7b637291016a6a8472d57/720p?translations=false&only_episode=true&only_season=true&episode=6",
+    "date": 1674776436,
+    "durationSec": 0
+  },
+  {
+    "episode": 7,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/53374/58c619d486b7b637291016a6a8472d57/720p?translations=false&only_episode=true&only_season=true&episode=7",
+    "date": 1674776436,
+    "durationSec": 0
+  },
+  {
+    "episode": 8,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/53374/58c619d486b7b637291016a6a8472d57/720p?translations=false&only_episode=true&only_season=true&episode=8",
+    "date": 1674776436,
+    "durationSec": 0
+  },
+  {
+    "episode": 9,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/53374/58c619d486b7b637291016a6a8472d57/720p?translations=false&only_episode=true&only_season=true&episode=9",
+    "date": 1674776436,
+    "durationSec": 0
+  },
+  {
+    "episode": 10,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/53374/58c619d486b7b637291016a6a8472d57/720p?translations=false&only_episode=true&only_season=true&episode=10",
+    "date": 1674776436,
+    "durationSec": 0
+  },
+  {
+    "episode": 11,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/53374/58c619d486b7b637291016a6a8472d57/720p?translations=false&only_episode=true&only_season=true&episode=11",
+    "date": 1674776436,
+    "durationSec": 0
+  }
+]

@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка Animy",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/115460/0c484bbe0a1ea9e73b88871eeabb0f88/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1784878495,
+    "durationSec": 1320
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка Animy",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/115460/0c484bbe0a1ea9e73b88871eeabb0f88/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1784878495,
+    "durationSec": 944
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniMy / RuChiMe",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniMy+%2F+RuChiMe&anime_id=63335&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniMy+%2F+RuChiMe",
+    "date": 1787534840,
+    "durationSec": 0
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniMy / RuChiMe",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniMy+%2F+RuChiMe&anime_id=63335&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniMy+%2F+RuChiMe",
+    "date": 1787534840,
+    "durationSec": 0
+  }
+]

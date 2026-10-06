@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка Indie Dub",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/65997/fb66b73a87094c40d4c8699b8a6c5b1f/720p?translations=false&only_episode=true&only_season=true",
+    "date": 0,
+    "durationSec": 3605
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Indie Dub",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=indiedub&anime_id=33280&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Indie+Dub",
+    "date": 1789133141,
+    "durationSec": 3605
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка KANSAI Studio",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/34419/d213c74c666250908ec9e85544424ca0/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1713274831,
+    "durationSec": 3605
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры SovetRomantica",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/91116/450ff4a61e1b2a72589e6566a525dac1/720p?translations=false&only_episode=true&only_season=true",
+    "date": 0,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Kansai",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=kansai&anime_id=33280&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Kansai",
+    "date": 1789133141,
+    "durationSec": 0
+  }
+]

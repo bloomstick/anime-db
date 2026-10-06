@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=110f56247db62a8337beb545100bc8&translation=9&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1696293426,
+    "durationSec": 6708
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/45447/cf26cd91d95e5ba21c633df47bbf0f45/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674775979,
+    "durationSec": 6708
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anidub&anime_id=34792&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniDUB",
+    "date": 1789133322,
+    "durationSec": 6708
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Swimming Cat",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/91679/d10b6851fe7a27acd2f8924e4de3c15e/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674775979,
+    "durationSec": 6711
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка SovetRomantica",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=sovetromantica&anime_id=34792&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+SovetRomantica",
+    "date": 1789133322,
+    "durationSec": 0
+  }
+]

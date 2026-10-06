@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка Видеосервис",
+    "player": "Плеер Aksor",
+    "iframeUrl": "https://player.aksor.tv/video/4a729a55f50fe66bf42278ffce236c5a",
+    "date": 1730657702,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Видеосервис",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/54575/9f381cb85b22ee3aff3027409d39913c/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674826827,
+    "durationSec": 6637
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Проф. Многоголосый",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/3169/9c8b65e3604072eeda9e283aa452da4b/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1730669679,
+    "durationSec": 6637
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры dai_kon",
+    "player": "Плеер Aksor",
+    "iframeUrl": "https://player.aksor.tv/video/7fd7e0da47831a652109a288caa6be94",
+    "date": 1730657702,
+    "durationSec": 6637
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка KARASU",
+    "player": "Плеер Aksor",
+    "iframeUrl": "https://player.aksor.tv/video/f919d9e0dfe13be43297cccaf9fed45a",
+    "date": 1730657702,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Профессиональный многоголосый",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=7486d273e486c4b0f4265cc119845a&translation=87&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1730668971,
+    "durationSec": 6637
+  }
+]

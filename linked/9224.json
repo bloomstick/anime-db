@@ -1,6 +1,24 @@
 {
   "links": [
     {
+      "slug": "dream:23232",
+      "title": "Фасоль",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:9224",
+      "title": "Странная фасоль",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": true
+    },
+    {
       "slug": "anidb:9829",
       "title": "https://anidb.net/anime/9829",
       "detail": "",
@@ -30,15 +48,6 @@
     {
       "slug": "kitsu:4918",
       "title": "https://kitsu.app/anime/4918",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:23232",
-      "title": "https://myanimelist.net/anime/7261",
       "detail": "",
       "kindLabel": "",
       "relation": "",

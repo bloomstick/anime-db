@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/20548/058cdb24c0568ebd70a00321dba4dc58/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674826877,
+    "durationSec": 2933
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anidub&anime_id=10713&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniDUB",
+    "date": 1789134735,
+    "durationSec": 2933
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Animedia",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/52051/ee4d9ec8d847c259c02dc568ba40b0f5/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674826877,
+    "durationSec": 2933
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка animereactor",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/52052/ee6ecdb532227925a363d4b9becb3a69/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674826877,
+    "durationSec": 2933
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AnimeReactor",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=animereactor&anime_id=10713&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeReactor",
+    "date": 1789134735,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniMedia",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=animedia&anime_id=10713&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniMedia",
+    "date": 1789134735,
+    "durationSec": 0
+  }
+]

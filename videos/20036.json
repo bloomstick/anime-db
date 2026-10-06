@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/103817/b7c88259ccc1710a7ae3360635cf5b35/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1717702090,
+    "durationSec": 3761
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anistar&anime_id=58510&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniStar",
+    "date": 1789135994,
+    "durationSec": 3761
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка LDA TEAM",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/103961/bd3fa55ad7c1fbed8551c8482bba14c5/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1718223570,
+    "durationSec": 3761
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка KawaiiTV",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/104181/131263de0dd1665f87ba8ff61d3a6873/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1719163081,
+    "durationSec": 3760
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Дубляж LDA TEAM",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=ldateam&anime_id=58510&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+LDA+TEAM",
+    "date": 1789145453,
+    "durationSec": 3761
+  }
+]

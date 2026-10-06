@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка DeadLine Studio",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/55605/8c92909332108113986a61611257a075/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776584,
+    "durationSec": 1690
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка VoiceWay",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=voiceway&anime_id=32461&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+VoiceWay",
+    "date": 1789134580,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка LapkiDub",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=lapkidub&anime_id=32461&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+LapkiDub",
+    "date": 1789134580,
+    "durationSec": 0
+  }
+]

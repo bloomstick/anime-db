@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniMur",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/79671/039c18605ba55efbbef079e208c9c853/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1702033066,
+    "durationSec": 1602
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniMur",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/79671/039c18605ba55efbbef079e208c9c853/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1702033066,
+    "durationSec": 1600
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка JAM",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/107300/e70f6afad4d5b674f369ac6d6f08665f/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1736710301,
+    "durationSec": 1630
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка JAM",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/107300/e70f6afad4d5b674f369ac6d6f08665f/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1736710301,
+    "durationSec": 1737
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniFilm",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniFilm&anime_id=36480&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniFilm",
+    "date": 1751856312,
+    "durationSec": 1602
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniFilm",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniFilm&anime_id=36480&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniFilm",
+    "date": 1751856312,
+    "durationSec": 1600
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры Risens Team",
+    "player": "Плеер Sibnet",
+    "iframeUrl": "https://video.sibnet.ru/shell.php?videoid=3270961",
+    "date": 1709359030,
+    "durationSec": 0
+  },
+  {
+    "episode": 2,
+    "dub": "Субтитры Risens Team",
+    "player": "Плеер Sibnet",
+    "iframeUrl": "https://video.sibnet.ru/shell.php?videoid=3270963",
+    "date": 1709359030,
+    "durationSec": 0
+  }
+]

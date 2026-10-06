@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Субтитры",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=b17655e19e4b268008b0e69dca581f&translation=79&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677783825,
+    "durationSec": 5042
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры FSG YakuSub Studio",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/70433/e9071732bcb8e414607df0389bea0ba2/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776366,
+    "durationSec": 5042
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры YakuSub Studio",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/70433/e9071732bcb8e414607df0389bea0ba2/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1787175406,
+    "durationSec": 5042
+  }
+]

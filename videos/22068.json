@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка Дублированная",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123270/323d3afcae00f84787ab9b1c840b5256/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1791218808,
+    "durationSec": 1419
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры Crunchyroll",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123271/9509cb6b4ad59a30ec9d6607eb170731/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1791218808,
+    "durationSec": 1420
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123283/cd2e0bf8334d07f9782a911448c26487/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1791222201,
+    "durationSec": 1420
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=animevost&anime_id=63098&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
+    "date": 1791219641,
+    "durationSec": 1420
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123288/ae29892580764efde29dabcb83f7f785/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1791227747,
+    "durationSec": 1420
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры SubVost",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=subvost&anime_id=63098&episode=1&dubbing=%D0%A1%D1%83%D0%B1%D1%82%D0%B8%D1%82%D1%80%D1%8B+SubVost",
+    "date": 1791223656,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniTime Voice",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123294/691c39015c84876fb1c803442ee4094e/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1791233256,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniTime voice",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anitimevoice&anime_id=63098&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniTime+voice",
+    "date": 1791259154,
+    "durationSec": 0
+  }
+]
