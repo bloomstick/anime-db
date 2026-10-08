@@ -8,12 +8,108 @@
     "durationSec": 1421
   },
   {
+    "episode": 2,
+    "dub": "Озвучка Flowers Media",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123020/497460d04d4a30d01bf55b690a50e399/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1791398052,
+    "durationSec": 1422
+  },
+  {
     "episode": 1,
     "dub": "Озвучка Flowers Media",
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=flowersmedia&anime_id=53913&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Flowers+Media",
     "date": 1791049193,
     "durationSec": 1427
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка Flowers Media",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=flowersmedia&anime_id=53913&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Flowers+Media",
+    "date": 1791396847,
+    "durationSec": 1423
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123019/0aabe7f249488a525dbdddcaaa208ee8/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1790802991,
+    "durationSec": 1420
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123019/0aabe7f249488a525dbdddcaaa208ee8/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1791397133,
+    "durationSec": 1423
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=animevost&anime_id=53913&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
+    "date": 1790803972,
+    "durationSec": 1420
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Dream Cast",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123060/d9a6a95c29cf8f142477f28c15ba9a4f/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1790885368,
+    "durationSec": 1427
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка Dream Cast",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123060/d9a6a95c29cf8f142477f28c15ba9a4f/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1791494694,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Dream Cast",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=dreamcast&anime_id=53913&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Dream+Cast",
+    "date": 1790891961,
+    "durationSec": 1427
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123023/9c92263c3dc61b36a45035341a7ba03e/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1790802991,
+    "durationSec": 1421
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123023/9c92263c3dc61b36a45035341a7ba03e/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1791402645,
+    "durationSec": 1423
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123056/36c4342e79ef0bebd736e003e4a59549/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1790879873,
+    "durationSec": 1423
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123056/36c4342e79ef0bebd736e003e4a59549/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1791463108,
+    "durationSec": 1423
   },
   {
     "episode": 1,
@@ -33,50 +129,10 @@
   },
   {
     "episode": 1,
-    "dub": "Озвучка Dream Cast",
+    "dub": "Озвучка JAM",
     "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123060/d9a6a95c29cf8f142477f28c15ba9a4f/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1790885368,
-    "durationSec": 1427
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка Dream Cast",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=dreamcast&anime_id=53913&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Dream+Cast",
-    "date": 1790891961,
-    "durationSec": 1427
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка AnimeVost",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123019/0aabe7f249488a525dbdddcaaa208ee8/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1790802991,
-    "durationSec": 1420
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка AnimeVost",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=animevost&anime_id=53913&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
-    "date": 1790803972,
-    "durationSec": 1420
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка AniStar",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123023/9c92263c3dc61b36a45035341a7ba03e/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1790802991,
-    "durationSec": 1421
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка AniDUB",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123056/36c4342e79ef0bebd736e003e4a59549/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1790879873,
-    "durationSec": 1423
+    "iframeUrl": "https://kodikplayer.com/season/123393/22bf65c58bc2c08d5e76f2f76af77e0f/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1791388867,
+    "durationSec": 1445
   }
 ]

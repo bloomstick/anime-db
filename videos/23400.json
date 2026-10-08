@@ -1,26 +1,58 @@
 [
   {
     "episode": 1,
-    "dub": "Озвучка Люб. Двухголосый",
-    "player": "Плеер Alloha",
-    "iframeUrl": "https://alloha.yani.tv/?token_movie=e2cc1d29b3a74ccff8436d812270d3&translation=88&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
-    "date": 1677784496,
-    "durationSec": 5799
-  },
-  {
-    "episode": 0,
-    "dub": "Озвучка Люб. Двухголосый",
-    "player": "Плеер Alloha",
-    "iframeUrl": "https://alloha.yani.tv/?token_movie=e2cc1d29b3a74ccff8436d812270d3&translation=88&season=1&episode=0&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
-    "date": 1740998314,
-    "durationSec": 5799
-  },
-  {
-    "episode": 1,
     "dub": "Озвучка AniDUB",
     "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/video/47525/28b160ce1040b9a24b50efe513bf13fe/720p?translations=false&only_episode=true&only_season=true",
-    "date": 1674827072,
-    "durationSec": 5799
+    "iframeUrl": "https://kodikplayer.com/season/53243/885411ee74ef888053ab6eeaf32404a8/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1674827086,
+    "durationSec": 1240
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/53243/885411ee74ef888053ab6eeaf32404a8/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1674827086,
+    "durationSec": 0
+  },
+  {
+    "episode": 3,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/53243/885411ee74ef888053ab6eeaf32404a8/720p?translations=false&only_episode=true&only_season=true&episode=3",
+    "date": 1674827086,
+    "durationSec": 0
+  },
+  {
+    "episode": 4,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/53243/885411ee74ef888053ab6eeaf32404a8/720p?translations=false&only_episode=true&only_season=true&episode=4",
+    "date": 1674827086,
+    "durationSec": 0
+  },
+  {
+    "episode": 5,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/53243/885411ee74ef888053ab6eeaf32404a8/720p?translations=false&only_episode=true&only_season=true&episode=5",
+    "date": 1674827086,
+    "durationSec": 0
+  },
+  {
+    "episode": 6,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/53243/885411ee74ef888053ab6eeaf32404a8/720p?translations=false&only_episode=true&only_season=true&episode=6",
+    "date": 1674827086,
+    "durationSec": 0
+  },
+  {
+    "episode": 7,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/53243/885411ee74ef888053ab6eeaf32404a8/720p?translations=false&only_episode=true&only_season=true&episode=7",
+    "date": 1674827086,
+    "durationSec": 0
   }
 ]

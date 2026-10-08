@@ -27898,8 +27898,10 @@
     "malId": 27899,
     "isAgeRestricted": true,
     "isLicensed": true,
-    "blockedIn": [],
-    "licenseNameRu": "",
+    "blockedIn": [
+      "RU"
+    ],
+    "licenseNameRu": "Токийский гуль",
     "licensors": [
       "Русский Репортаж",
       "Netflix"

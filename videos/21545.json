@@ -49,6 +49,22 @@
   },
   {
     "episode": 1,
+    "dub": "Озвучка JAM",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=bfbe2595353b6e21c502eeb82ffae3&translation=128&season=2&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1791200045,
+    "durationSec": 1430
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка JAM",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123195/8ade4a470e19fb4468710f9d2a492970/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1791123313,
+    "durationSec": 1452
+  },
+  {
+    "episode": 1,
     "dub": "Озвучка AnimeVost",
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=bfbe2595353b6e21c502eeb82ffae3&translation=213&season=2&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
@@ -73,22 +89,6 @@
   },
   {
     "episode": 1,
-    "dub": "Озвучка JAM",
-    "player": "Плеер Alloha",
-    "iframeUrl": "https://alloha.yani.tv/?token_movie=bfbe2595353b6e21c502eeb82ffae3&translation=128&season=2&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
-    "date": 1791200045,
-    "durationSec": 1430
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка JAM",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123195/8ade4a470e19fb4468710f9d2a492970/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1791123313,
-    "durationSec": 1452
-  },
-  {
-    "episode": 1,
     "dub": "Субтитры Crunchyroll",
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123124/59d231783bb3b5626a4e2e14b0ab14c6/720p?translations=false&only_episode=true&only_season=true&episode=1",
@@ -105,11 +105,11 @@
   },
   {
     "episode": 1,
-    "dub": "Субтитры SubVost",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=subvost&anime_id=61967&episode=1&dubbing=%D0%A1%D1%83%D0%B1%D1%82%D0%B8%D1%82%D1%80%D1%8B+SubVost",
-    "date": 1791054126,
-    "durationSec": 1430
+    "dub": "Озвучка StudioBand",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123403/f6d42297e811dc4d18a7c03caf3e9e2a/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1791394387,
+    "durationSec": 1374
   },
   {
     "episode": 1,
@@ -126,6 +126,14 @@
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=volkofrenia&anime_id=61967&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+VOLKOFRENIA",
     "date": 1791054126,
     "durationSec": 1429
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры SubVost",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=subvost&anime_id=61967&episode=1&dubbing=%D0%A1%D1%83%D0%B1%D1%82%D0%B8%D1%82%D1%80%D1%8B+SubVost",
+    "date": 1791054126,
+    "durationSec": 1430
   },
   {
     "episode": 1,
@@ -158,6 +166,14 @@
     "iframeUrl": "https://kodikplayer.com/season/123217/e8ae342f5cf737e49743f4fc0eeb9eca/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1791136148,
     "durationSec": 1430
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Amediateka",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123403/f6d42297e811dc4d18a7c03caf3e9e2a/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1791393468,
+    "durationSec": 1374
   },
   {
     "episode": 1,

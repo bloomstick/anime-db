@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/9865/4e6f13b58ca630ed38e44f3fe2dfb344/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674826883,
+    "durationSec": 1755
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anidub&anime_id=9924&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniDUB",
+    "date": 1789134744,
+    "durationSec": 1755
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Eladiel",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/51955/54ddc4ad5860d8489d5932b9e3289092/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674826883,
+    "durationSec": 1755
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Eladiel",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=eladiel&anime_id=9924&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Eladiel",
+    "date": 1789134744,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка MetalRus",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=metalrus&anime_id=9924&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+MetalRus",
+    "date": 1789134744,
+    "durationSec": 0
+  }
+]

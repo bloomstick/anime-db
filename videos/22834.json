@@ -1,58 +1,98 @@
 [
   {
     "episode": 1,
-    "dub": "Озвучка MC Entertainment",
+    "dub": "Озвучка AniDUB",
     "player": "Плеер Alloha",
-    "iframeUrl": "https://alloha.yani.tv/?token_movie=8bdf56f0d54687d24649b4fb04ca84&translation=36&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
-    "date": 1695998510,
-    "durationSec": 5400
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=153b51f6f9b2ba5d60704e03cafbfc&translation=9&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677776294,
+    "durationSec": 1761
   },
   {
-    "episode": 1,
-    "dub": "Озвучка MC Entertainment",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/video/20480/0c15d4ce668029e7c71cd09928892217/720p?translations=false&only_episode=true&only_season=true",
-    "date": 0,
-    "durationSec": 5402
+    "episode": 2,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=153b51f6f9b2ba5d60704e03cafbfc&translation=9&season=1&episode=2&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677776294,
+    "durationSec": 1766
   },
   {
-    "episode": 1,
-    "dub": "Озвучка MC Entertainment",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=mcentertaiment&anime_id=492&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+MC+Entertainment",
-    "date": 1789132588,
-    "durationSec": 5396
+    "episode": 3,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=153b51f6f9b2ba5d60704e03cafbfc&translation=9&season=1&episode=3&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677776294,
+    "durationSec": 1789
   },
   {
-    "episode": 1,
-    "dub": "Субтитры",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/video/99541/d747d14839b2d93ef7b06162c1c1c26b/720p?translations=false&only_episode=true&only_season=true",
-    "date": 1701378248,
+    "episode": 4,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=153b51f6f9b2ba5d60704e03cafbfc&translation=9&season=1&episode=4&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677776294,
     "durationSec": 0
   },
   {
     "episode": 1,
-    "dub": "Озвучка Эй Би Видео",
+    "dub": "Озвучка AniDUB",
     "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/video/99534/3570a1c6b69c85a828fc652a7a45cafc/720p?translations=false&only_episode=true&only_season=true",
-    "date": 1701378248,
-    "durationSec": 5398
+    "iframeUrl": "https://kodikplayer.com/season/31271/aa9a2b8865bb0c8ceb3eb36b3f9508f6/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1674827178,
+    "durationSec": 1761
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/31271/aa9a2b8865bb0c8ceb3eb36b3f9508f6/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1674827178,
+    "durationSec": 1766
+  },
+  {
+    "episode": 3,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/31271/aa9a2b8865bb0c8ceb3eb36b3f9508f6/720p?translations=false&only_episode=true&only_season=true&episode=3",
+    "date": 1674827178,
+    "durationSec": 1789
+  },
+  {
+    "episode": 4,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/31271/aa9a2b8865bb0c8ceb3eb36b3f9508f6/720p?translations=false&only_episode=true&only_season=true&episode=4",
+    "date": 1674827178,
+    "durationSec": 1768
   },
   {
     "episode": 1,
-    "dub": "Озвучка Тимофеев",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/video/99535/c920916ff7417967ad8470d0ab9c5e07/720p?translations=false&only_episode=true&only_season=true",
-    "date": 1701378248,
-    "durationSec": 5398
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка Дубляж Первый канал | ОРТ",
+    "dub": "Озвучка AniDUB",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=perviykanal&anime_id=492&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9+%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB+%7C+%D0%9E%D0%A0%D0%A2",
-    "date": 1789141939,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniDUB&anime_id=1398&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniDUB",
+    "date": 1751855047,
+    "durationSec": 1761
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniDUB&anime_id=1398&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniDUB",
+    "date": 1751855047,
+    "durationSec": 0
+  },
+  {
+    "episode": 3,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniDUB&anime_id=1398&episode=3&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniDUB",
+    "date": 1751855047,
+    "durationSec": 0
+  },
+  {
+    "episode": 4,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniDUB&anime_id=1398&episode=4&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniDUB",
+    "date": 1751855047,
     "durationSec": 0
   }
 ]

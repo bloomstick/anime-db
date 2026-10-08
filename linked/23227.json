@@ -1,17 +1,620 @@
 {
   "links": [
     {
-      "slug": "anidb:715",
-      "title": "https://anidb.net/anime/715",
+      "slug": "dream:23227",
+      "title": "Щелкунчик Китаро: Корпус ёкаев",
       "detail": "",
       "kindLabel": "",
       "relation": "",
       "year": "",
+      "isCurrent": true
+    },
+    {
+      "slug": "dream:3891",
+      "title": "Щелкунчик Китаро: Война ёкаев",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:3889",
+      "title": "Щелкунчик Китаро: Гигантский кайдзю",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:2485",
+      "title": "Китаро с кладбища",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:10808",
+      "title": "Щелкунчик Китаро (2018)",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:16537",
+      "title": "Рождение Китаро: Тайна Щелкунчика",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "anidb:11317",
+      "title": "https://anidb.net/anime/11317",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "anidb:1451",
+      "title": "https://anidb.net/anime/1451",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "anilist:5688",
+      "title": "https://anilist.co/anime/5688",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/gegege-no-kitarou",
+      "title": "https://anime-planet.com/anime/gegege-no-kitarou",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/gegege-no-kitarou-1971",
+      "title": "https://anime-planet.com/anime/gegege-no-kitarou-1971",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/gegege-no-kitarou-1985",
+      "title": "https://anime-planet.com/anime/gegege-no-kitarou-1985",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/gegege-no-kitarou-1996",
+      "title": "https://anime-planet.com/anime/gegege-no-kitarou-1996",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/gegege-no-kitarou-2007",
+      "title": "https://anime-planet.com/anime/gegege-no-kitarou-2007",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/gegege-no-kitarou-2018",
+      "title": "https://anime-planet.com/anime/gegege-no-kitarou-2018",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/gegege-no-kitarou-chisougan",
+      "title": "https://anime-planet.com/anime/gegege-no-kitarou-chisougan",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/gegege-no-kitarou-daikaijuu",
+      "title": "https://anime-planet.com/anime/gegege-no-kitarou-daikaijuu",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/gegege-no-kitarou-gekitotsu-ijigen-youkai-no-daihanran",
+      "title": "https://anime-planet.com/anime/gegege-no-kitarou-gekitotsu-ijigen-youkai-no-daihanran",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/gegege-no-kitarou-jigoku-hen",
+      "title": "https://anime-planet.com/anime/gegege-no-kitarou-jigoku-hen",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/gegege-no-kitarou-kitarou-no-yuurei-densha",
+      "title": "https://anime-planet.com/anime/gegege-no-kitarou-kitarou-no-yuurei-densha",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/gegege-no-kitarou-kitarou-tanjou-hen",
+      "title": "https://anime-planet.com/anime/gegege-no-kitarou-kitarou-tanjou-hen",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/gegege-no-kitarou-movie-1985",
+      "title": "https://anime-planet.com/anime/gegege-no-kitarou-movie-1985",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/gegege-no-kitarou-nippon-bakuretsu",
+      "title": "https://anime-planet.com/anime/gegege-no-kitarou-nippon-bakuretsu",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/gegege-no-kitarou-obake-nighter",
+      "title": "https://anime-planet.com/anime/gegege-no-kitarou-obake-nighter",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/gegege-no-kitarou-saikyou-youkai-gundan-nihon-jouriku",
+      "title": "https://anime-planet.com/anime/gegege-no-kitarou-saikyou-youkai-gundan-nihon-jouriku",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/gegege-no-kitarou-youkai-daisensou",
+      "title": "https://anime-planet.com/anime/gegege-no-kitarou-youkai-daisensou",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/gegege-no-kitarou-youkai-japan-rally-3d",
+      "title": "https://anime-planet.com/anime/gegege-no-kitarou-youkai-japan-rally-3d",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/gegege-no-kitarou-youkai-tokkyuu-maboroshi-no-kisha",
+      "title": "https://anime-planet.com/anime/gegege-no-kitarou-youkai-tokkyuu-maboroshi-no-kisha",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/hakaba-kitarou",
+      "title": "https://anime-planet.com/anime/hakaba-kitarou",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://animecountdown.com/37515",
+      "title": "https://animecountdown.com/37515",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://animecountdown.com/504120",
+      "title": "https://animecountdown.com/504120",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "kitsu:4246",
+      "title": "https://kitsu.app/anime/4246",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/10454",
+      "title": "https://livechart.me/anime/10454",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/10813",
+      "title": "https://livechart.me/anime/10813",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/12421",
+      "title": "https://livechart.me/anime/12421",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/3050",
+      "title": "https://livechart.me/anime/3050",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/6548",
+      "title": "https://livechart.me/anime/6548",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/7176",
+      "title": "https://livechart.me/anime/7176",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/7326",
+      "title": "https://livechart.me/anime/7326",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/7365",
+      "title": "https://livechart.me/anime/7365",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/7981",
+      "title": "https://livechart.me/anime/7981",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/8059",
+      "title": "https://livechart.me/anime/8059",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/8082",
+      "title": "https://livechart.me/anime/8082",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/8093",
+      "title": "https://livechart.me/anime/8093",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/8817",
+      "title": "https://livechart.me/anime/8817",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/9113",
+      "title": "https://livechart.me/anime/9113",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://simkl.com/anime/37515",
+      "title": "https://simkl.com/anime/37515",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://simkl.com/anime/504120",
+      "title": "https://simkl.com/anime/504120",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "anidb:11267",
+      "title": "https://anidb.net/anime/11267",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "anidb:11478",
+      "title": "https://anidb.net/anime/11478",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "anidb:12577",
+      "title": "https://anidb.net/anime/12577",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "anidb:13742",
+      "title": "https://anidb.net/anime/13742",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "anidb:1452",
+      "title": "https://anidb.net/anime/1452",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "anidb:1453",
+      "title": "https://anidb.net/anime/1453",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "anidb:1454",
+      "title": "https://anidb.net/anime/1454",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "anidb:1455",
+      "title": "https://anidb.net/anime/1455",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "anidb:16107",
+      "title": "https://anidb.net/anime/16107",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "anidb:2284",
+      "title": "https://anidb.net/anime/2284",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "anidb:2310",
+      "title": "https://anidb.net/anime/2310",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "anidb:2315",
+      "title": "https://anidb.net/anime/2315",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "anidb:5049",
+      "title": "https://anidb.net/anime/5049",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "anidb:5614",
+      "title": "https://anidb.net/anime/5614",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "anidb:7163",
+      "title": "https://anidb.net/anime/7163",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "anidb:7356",
+      "title": "https://anidb.net/anime/7356",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "anidb:7357",
+      "title": "https://anidb.net/anime/7357",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "anidb:7358",
+      "title": "https://anidb.net/anime/7358",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "anidb:7455",
+      "title": "https://anidb.net/anime/7455",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "anidb:7472",
+      "title": "https://anidb.net/anime/7472",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
       "isCurrent": false
     },
     {
-      "slug": "anilist:2581",
-      "title": "https://anilist.co/anime/2581",
+      "slug": "anidb:7474",
+      "title": "https://anidb.net/anime/7474",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -19,8 +622,8 @@
       "isCurrent": false
     },
     {
-      "slug": "anilist:6336",
-      "title": "https://anilist.co/anime/6336",
+      "slug": "anidb:9360",
+      "title": "https://anidb.net/anime/9360",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -28,8 +631,8 @@
       "isCurrent": false
     },
     {
-      "slug": "anilist:80",
-      "title": "https://anilist.co/anime/80",
+      "slug": "anilist:7307",
+      "title": "https://anilist.co/anime/7307",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -37,8 +640,8 @@
       "isCurrent": false
     },
     {
-      "slug": "anilist:81",
-      "title": "https://anilist.co/anime/81",
+      "slug": "https://anime-planet.com/anime/gegege-no-kitarou-1968",
+      "title": "https://anime-planet.com/anime/gegege-no-kitarou-1968",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -46,8 +649,8 @@
       "isCurrent": false
     },
     {
-      "slug": "anilist:82",
-      "title": "https://anilist.co/anime/82",
+      "slug": "https://animecountdown.com/1031273",
+      "title": "https://animecountdown.com/1031273",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -55,8 +658,8 @@
       "isCurrent": false
     },
     {
-      "slug": "anilist:84",
-      "title": "https://anilist.co/anime/84",
+      "slug": "https://animecountdown.com/1560055",
+      "title": "https://animecountdown.com/1560055",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -64,8 +667,8 @@
       "isCurrent": false
     },
     {
-      "slug": "anilist:85",
-      "title": "https://anilist.co/anime/85",
+      "slug": "https://animecountdown.com/1571545",
+      "title": "https://animecountdown.com/1571545",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -73,8 +676,8 @@
       "isCurrent": false
     },
     {
-      "slug": "anilist:86",
-      "title": "https://anilist.co/anime/86",
+      "slug": "https://animecountdown.com/1571587",
+      "title": "https://animecountdown.com/1571587",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -82,8 +685,8 @@
       "isCurrent": false
     },
     {
-      "slug": "anilist:87",
-      "title": "https://anilist.co/anime/87",
+      "slug": "https://animecountdown.com/1571591",
+      "title": "https://animecountdown.com/1571591",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -91,8 +694,8 @@
       "isCurrent": false
     },
     {
-      "slug": "anilist:88",
-      "title": "https://anilist.co/anime/88",
+      "slug": "https://animecountdown.com/1572519",
+      "title": "https://animecountdown.com/1572519",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -100,8 +703,8 @@
       "isCurrent": false
     },
     {
-      "slug": "anilist:89",
-      "title": "https://anilist.co/anime/89",
+      "slug": "https://animecountdown.com/1572781",
+      "title": "https://animecountdown.com/1572781",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -109,8 +712,8 @@
       "isCurrent": false
     },
     {
-      "slug": "anilist:90",
-      "title": "https://anilist.co/anime/90",
+      "slug": "https://animecountdown.com/37174",
+      "title": "https://animecountdown.com/37174",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -118,8 +721,8 @@
       "isCurrent": false
     },
     {
-      "slug": "anilist:91",
-      "title": "https://anilist.co/anime/91",
+      "slug": "https://animecountdown.com/37235",
+      "title": "https://animecountdown.com/37235",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -127,8 +730,8 @@
       "isCurrent": false
     },
     {
-      "slug": "anilist:92",
-      "title": "https://anilist.co/anime/92",
+      "slug": "https://animecountdown.com/37586",
+      "title": "https://animecountdown.com/37586",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -136,8 +739,8 @@
       "isCurrent": false
     },
     {
-      "slug": "anilist:93",
-      "title": "https://anilist.co/anime/93",
+      "slug": "https://animecountdown.com/38590",
+      "title": "https://animecountdown.com/38590",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -145,8 +748,8 @@
       "isCurrent": false
     },
     {
-      "slug": "anilist:94",
-      "title": "https://anilist.co/anime/94",
+      "slug": "https://animecountdown.com/38594",
+      "title": "https://animecountdown.com/38594",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -154,8 +757,8 @@
       "isCurrent": false
     },
     {
-      "slug": "anilist:95",
-      "title": "https://anilist.co/anime/95",
+      "slug": "https://animecountdown.com/39152",
+      "title": "https://animecountdown.com/39152",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -163,8 +766,8 @@
       "isCurrent": false
     },
     {
-      "slug": "anilist:96",
-      "title": "https://anilist.co/anime/96",
+      "slug": "https://animecountdown.com/41321",
+      "title": "https://animecountdown.com/41321",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -172,8 +775,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://anime-planet.com/anime/after-war-gundam-x",
-      "title": "https://anime-planet.com/anime/after-war-gundam-x",
+      "slug": "https://animecountdown.com/515722",
+      "title": "https://animecountdown.com/515722",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -181,8 +784,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://anime-planet.com/anime/all-that-gundam",
-      "title": "https://anime-planet.com/anime/all-that-gundam",
+      "slug": "https://animecountdown.com/534804",
+      "title": "https://animecountdown.com/534804",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -190,8 +793,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://anime-planet.com/anime/chou-denei-ban-sd-gundam-sangokuden-brave-battle-warriors",
-      "title": "https://anime-planet.com/anime/chou-denei-ban-sd-gundam-sangokuden-brave-battle-warriors",
+      "slug": "https://animecountdown.com/640519",
+      "title": "https://animecountdown.com/640519",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -199,8 +802,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://anime-planet.com/anime/collection-of-key-animation-films",
-      "title": "https://anime-planet.com/anime/collection-of-key-animation-films",
+      "slug": "https://animecountdown.com/659175",
+      "title": "https://animecountdown.com/659175",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -208,8 +811,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://anime-planet.com/anime/gundam-mission-to-the-rise",
-      "title": "https://anime-planet.com/anime/gundam-mission-to-the-rise",
+      "slug": "https://animecountdown.com/666265",
+      "title": "https://animecountdown.com/666265",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -217,8 +820,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://anime-planet.com/anime/mobile-fighter-g-gundam",
-      "title": "https://anime-planet.com/anime/mobile-fighter-g-gundam",
+      "slug": "https://animecountdown.com/757299",
+      "title": "https://animecountdown.com/757299",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -226,8 +829,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://anime-planet.com/anime/mobile-suit-gundam",
-      "title": "https://anime-planet.com/anime/mobile-suit-gundam",
+      "slug": "https://animecountdown.com/953303",
+      "title": "https://animecountdown.com/953303",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -235,8 +838,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://anime-planet.com/anime/mobile-suit-gundam-00",
-      "title": "https://anime-planet.com/anime/mobile-suit-gundam-00",
+      "slug": "https://animecountdown.com/981463",
+      "title": "https://animecountdown.com/981463",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -244,8 +847,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://anime-planet.com/anime/mobile-suit-gundam-00-second-season",
-      "title": "https://anime-planet.com/anime/mobile-suit-gundam-00-second-season",
+      "slug": "https://anisearch.com/anime/3014",
+      "title": "https://anisearch.com/anime/3014",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -253,8 +856,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://anime-planet.com/anime/mobile-suit-gundam-00-special-edition-i-celestial-being",
-      "title": "https://anime-planet.com/anime/mobile-suit-gundam-00-special-edition-i-celestial-being",
+      "slug": "kitsu:4936",
+      "title": "https://kitsu.app/anime/4936",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -262,8 +865,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://anime-planet.com/anime/mobile-suit-gundam-00-special-edition-ii-end-of-world",
-      "title": "https://anime-planet.com/anime/mobile-suit-gundam-00-special-edition-ii-end-of-world",
+      "slug": "dream:3672",
+      "title": "https://myanimelist.net/anime/7307",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -271,8 +874,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://anime-planet.com/anime/mobile-suit-gundam-00-special-edition-iii-return-the-world",
-      "title": "https://anime-planet.com/anime/mobile-suit-gundam-00-special-edition-iii-return-the-world",
+      "slug": "https://simkl.com/anime/1031273",
+      "title": "https://simkl.com/anime/1031273",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -280,8 +883,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://anime-planet.com/anime/mobile-suit-gundam-00-the-movie-a-wakening-of-the-trailblazer",
-      "title": "https://anime-planet.com/anime/mobile-suit-gundam-00-the-movie-a-wakening-of-the-trailblazer",
+      "slug": "https://simkl.com/anime/1560055",
+      "title": "https://simkl.com/anime/1560055",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -289,8 +892,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://anime-planet.com/anime/mobile-suit-gundam-0083-stardust-memory-the-mayfly-of-space",
-      "title": "https://anime-planet.com/anime/mobile-suit-gundam-0083-stardust-memory-the-mayfly-of-space",
+      "slug": "https://simkl.com/anime/1571545",
+      "title": "https://simkl.com/anime/1571545",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -298,8 +901,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://anime-planet.com/anime/mobile-suit-gundam-0083-the-afterglow-of-zeon",
-      "title": "https://anime-planet.com/anime/mobile-suit-gundam-0083-the-afterglow-of-zeon",
+      "slug": "https://simkl.com/anime/1571587",
+      "title": "https://simkl.com/anime/1571587",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -307,8 +910,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://anime-planet.com/anime/mobile-suit-gundam-age",
-      "title": "https://anime-planet.com/anime/mobile-suit-gundam-age",
+      "slug": "https://simkl.com/anime/1571591",
+      "title": "https://simkl.com/anime/1571591",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -316,8 +919,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://anime-planet.com/anime/mobile-suit-gundam-age-memory-of-eden",
-      "title": "https://anime-planet.com/anime/mobile-suit-gundam-age-memory-of-eden",
+      "slug": "https://simkl.com/anime/1572519",
+      "title": "https://simkl.com/anime/1572519",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -325,8 +928,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://anime-planet.com/anime/mobile-suit-gundam-evolve",
-      "title": "https://anime-planet.com/anime/mobile-suit-gundam-evolve",
+      "slug": "https://simkl.com/anime/1572781",
+      "title": "https://simkl.com/anime/1572781",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -334,8 +937,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://anime-planet.com/anime/mobile-suit-gundam-iron-blooded-orphans",
-      "title": "https://anime-planet.com/anime/mobile-suit-gundam-iron-blooded-orphans",
+      "slug": "https://simkl.com/anime/37174",
+      "title": "https://simkl.com/anime/37174",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -343,8 +946,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://anime-planet.com/anime/mobile-suit-gundam-iron-blooded-orphans-2nd-season",
-      "title": "https://anime-planet.com/anime/mobile-suit-gundam-iron-blooded-orphans-2nd-season",
+      "slug": "https://simkl.com/anime/37235",
+      "title": "https://simkl.com/anime/37235",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -352,8 +955,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://anime-planet.com/anime/mobile-suit-gundam-seed",
-      "title": "https://anime-planet.com/anime/mobile-suit-gundam-seed",
+      "slug": "https://simkl.com/anime/37586",
+      "title": "https://simkl.com/anime/37586",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -361,8 +964,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://anime-planet.com/anime/mobile-suit-gundam-seed-after-phase-in-the-valley-of-stars",
-      "title": "https://anime-planet.com/anime/mobile-suit-gundam-seed-after-phase-in-the-valley-of-stars",
+      "slug": "https://simkl.com/anime/38590",
+      "title": "https://simkl.com/anime/38590",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -370,8 +973,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny",
-      "title": "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny",
+      "slug": "https://simkl.com/anime/38594",
+      "title": "https://simkl.com/anime/38594",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -379,8 +982,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://anime-planet.com/anime/mobile-suit-gundam-wing",
-      "title": "https://anime-planet.com/anime/mobile-suit-gundam-wing",
+      "slug": "https://simkl.com/anime/39152",
+      "title": "https://simkl.com/anime/39152",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -388,8 +991,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://anime-planet.com/anime/mobile-suit-gundam-wing-endless-waltz",
-      "title": "https://anime-planet.com/anime/mobile-suit-gundam-wing-endless-waltz",
+      "slug": "https://simkl.com/anime/41321",
+      "title": "https://simkl.com/anime/41321",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -397,8 +1000,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://anime-planet.com/anime/mobile-suit-gundam-wing-endless-waltz-special-edition",
-      "title": "https://anime-planet.com/anime/mobile-suit-gundam-wing-endless-waltz-special-edition",
+      "slug": "https://simkl.com/anime/515722",
+      "title": "https://simkl.com/anime/515722",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -406,8 +1009,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://anime-planet.com/anime/mobile-suit-gundam-zz-gundam-frag",
-      "title": "https://anime-planet.com/anime/mobile-suit-gundam-zz-gundam-frag",
+      "slug": "https://simkl.com/anime/534804",
+      "title": "https://simkl.com/anime/534804",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -415,8 +1018,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://anime-planet.com/anime/mobile-suit-sd-gundam-mk-i",
-      "title": "https://anime-planet.com/anime/mobile-suit-sd-gundam-mk-i",
+      "slug": "https://simkl.com/anime/640519",
+      "title": "https://simkl.com/anime/640519",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -424,8 +1027,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://anime-planet.com/anime/mobile-suit-sd-gundam-no-gyakushuu-arashi-wo-yobu-gakuensai",
-      "title": "https://anime-planet.com/anime/mobile-suit-sd-gundam-no-gyakushuu-arashi-wo-yobu-gakuensai",
+      "slug": "https://simkl.com/anime/659175",
+      "title": "https://simkl.com/anime/659175",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -433,8 +1036,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://anime-planet.com/anime/mokei-senshi-gunpla-builders-beginning-g",
-      "title": "https://anime-planet.com/anime/mokei-senshi-gunpla-builders-beginning-g",
+      "slug": "https://simkl.com/anime/666265",
+      "title": "https://simkl.com/anime/666265",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -442,8 +1045,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://anime-planet.com/anime/ring-of-gundam",
-      "title": "https://anime-planet.com/anime/ring-of-gundam",
+      "slug": "https://simkl.com/anime/757299",
+      "title": "https://simkl.com/anime/757299",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -451,8 +1054,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://anime-planet.com/anime/turn-a-gundam",
-      "title": "https://anime-planet.com/anime/turn-a-gundam",
+      "slug": "https://simkl.com/anime/953303",
+      "title": "https://simkl.com/anime/953303",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -460,8 +1063,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://animecountdown.com/40573",
-      "title": "https://animecountdown.com/40573",
+      "slug": "https://simkl.com/anime/981463",
+      "title": "https://simkl.com/anime/981463",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -469,8 +1072,8 @@
       "isCurrent": false
     },
     {
-      "slug": "kitsu:59",
-      "title": "https://kitsu.app/anime/59",
+      "slug": "https://animenewsnetwork.com/encyclopedia/anime.php?id=20562",
+      "title": "https://animenewsnetwork.com/encyclopedia/anime.php?id=20562",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -478,8 +1081,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://livechart.me/anime/3938",
-      "title": "https://livechart.me/anime/3938",
+      "slug": "https://animenewsnetwork.com/encyclopedia/anime.php?id=2212",
+      "title": "https://animenewsnetwork.com/encyclopedia/anime.php?id=2212",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -487,8 +1090,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://livechart.me/anime/4607",
-      "title": "https://livechart.me/anime/4607",
+      "slug": "https://animenewsnetwork.com/encyclopedia/anime.php?id=2214",
+      "title": "https://animenewsnetwork.com/encyclopedia/anime.php?id=2214",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -496,8 +1099,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://livechart.me/anime/4659",
-      "title": "https://livechart.me/anime/4659",
+      "slug": "https://animenewsnetwork.com/encyclopedia/anime.php?id=2215",
+      "title": "https://animenewsnetwork.com/encyclopedia/anime.php?id=2215",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -505,8 +1108,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://livechart.me/anime/4683",
-      "title": "https://livechart.me/anime/4683",
+      "slug": "https://animenewsnetwork.com/encyclopedia/anime.php?id=24111",
+      "title": "https://animenewsnetwork.com/encyclopedia/anime.php?id=24111",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -514,8 +1117,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://livechart.me/anime/4695",
-      "title": "https://livechart.me/anime/4695",
+      "slug": "https://animenewsnetwork.com/encyclopedia/anime.php?id=29502",
+      "title": "https://animenewsnetwork.com/encyclopedia/anime.php?id=29502",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -523,8 +1126,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://livechart.me/anime/4944",
-      "title": "https://livechart.me/anime/4944",
+      "slug": "https://animenewsnetwork.com/encyclopedia/anime.php?id=33504",
+      "title": "https://animenewsnetwork.com/encyclopedia/anime.php?id=33504",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -532,8 +1135,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://livechart.me/anime/5926",
-      "title": "https://livechart.me/anime/5926",
+      "slug": "https://animenewsnetwork.com/encyclopedia/anime.php?id=3661",
+      "title": "https://animenewsnetwork.com/encyclopedia/anime.php?id=3661",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -541,8 +1144,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://livechart.me/anime/5947",
-      "title": "https://livechart.me/anime/5947",
+      "slug": "https://animenewsnetwork.com/encyclopedia/anime.php?id=3664",
+      "title": "https://animenewsnetwork.com/encyclopedia/anime.php?id=3664",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -550,8 +1153,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://livechart.me/anime/6906",
-      "title": "https://livechart.me/anime/6906",
+      "slug": "https://animenewsnetwork.com/encyclopedia/anime.php?id=3666",
+      "title": "https://animenewsnetwork.com/encyclopedia/anime.php?id=3666",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -559,8 +1162,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://livechart.me/anime/6987",
-      "title": "https://livechart.me/anime/6987",
+      "slug": "https://animenewsnetwork.com/encyclopedia/anime.php?id=3698",
+      "title": "https://animenewsnetwork.com/encyclopedia/anime.php?id=3698",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -568,8 +1171,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://livechart.me/anime/7514",
-      "title": "https://livechart.me/anime/7514",
+      "slug": "https://animenewsnetwork.com/encyclopedia/anime.php?id=3699",
+      "title": "https://animenewsnetwork.com/encyclopedia/anime.php?id=3699",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -577,8 +1180,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://livechart.me/anime/7582",
-      "title": "https://livechart.me/anime/7582",
+      "slug": "https://animenewsnetwork.com/encyclopedia/anime.php?id=3700",
+      "title": "https://animenewsnetwork.com/encyclopedia/anime.php?id=3700",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -586,8 +1189,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://livechart.me/anime/7717",
-      "title": "https://livechart.me/anime/7717",
+      "slug": "https://animenewsnetwork.com/encyclopedia/anime.php?id=3857",
+      "title": "https://animenewsnetwork.com/encyclopedia/anime.php?id=3857",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -595,8 +1198,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://livechart.me/anime/7848",
-      "title": "https://livechart.me/anime/7848",
+      "slug": "https://animenewsnetwork.com/encyclopedia/anime.php?id=7616",
+      "title": "https://animenewsnetwork.com/encyclopedia/anime.php?id=7616",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -604,8 +1207,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://livechart.me/anime/8121",
-      "title": "https://livechart.me/anime/8121",
+      "slug": "https://animenewsnetwork.com/encyclopedia/anime.php?id=8955",
+      "title": "https://animenewsnetwork.com/encyclopedia/anime.php?id=8955",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -613,8 +1216,8 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:56",
-      "title": "https://myanimelist.net/anime/80",
+      "slug": "https://animenewsnetwork.com/encyclopedia/anime.php?id=9865",
+      "title": "https://animenewsnetwork.com/encyclopedia/anime.php?id=9865",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -622,8 +1225,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://simkl.com/anime/40573",
-      "title": "https://simkl.com/anime/40573",
+      "slug": "https://animenewsnetwork.com/encyclopedia/anime.php?id=2213",
+      "title": "https://animenewsnetwork.com/encyclopedia/anime.php?id=2213",
       "detail": "",
       "kindLabel": "",
       "relation": "",

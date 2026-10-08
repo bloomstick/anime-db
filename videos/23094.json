@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/9859/fd223550cb28ed39bdea957c0cf043a5/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776340,
+    "durationSec": 7072
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anilibriatv&anime_id=4983&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
+    "date": 1789134066,
+    "durationSec": 7072
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/47204/571fc4248ae1128303f0147b686ea71d/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776340,
+    "durationSec": 7072
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Persona99",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/74254/51d14f10a04e2fec58c7d80e92a41c09/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776340,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Люб. Двухголосый",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=dbf47ba28bef670a45c0107fb2acb8&translation=88&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1677783789,
+    "durationSec": 7072
+  }
+]

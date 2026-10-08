@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "episode": 1,
+    "dub": "Озвучка Комната Диди",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/119061/27d54835eab6bbf01248685ecfb452ef/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1787817538,
+    "durationSec": 7482
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Комната Диди",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=komnatadidi&anime_id=62277&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%9A%D0%BE%D0%BC%D0%BD%D0%B0%D1%82%D0%B0+%D0%94%D0%B8%D0%B4%D0%B8",
+    "date": 1789136425,
+    "durationSec": 7482
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры SubVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/119102/3ba059fd3bd3bdb24c4e2b78fc8638e6/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1788048309,
+    "durationSec": 7480
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры SubVost",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=subvost&anime_id=62277&episode=1&dubbing=%D0%A1%D1%83%D0%B1%D1%82%D0%B8%D1%82%D1%80%D1%8B+SubVost",
+    "date": 1789145913,
+    "durationSec": 7480
+  }
+]

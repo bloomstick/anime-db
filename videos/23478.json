@@ -1,26 +1,18 @@
 [
   {
     "episode": 1,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/9973/a452d97e47aaf4ae2772132f49d5e45d/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674414407,
+    "durationSec": 2695
+  },
+  {
+    "episode": 1,
     "dub": "Озвучка AniDUB",
     "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/video/48547/11cda2a8db5b86e5b564e23545a41566/720p?translations=false&only_episode=true&only_season=true",
-    "date": 1674826967,
-    "durationSec": 1485
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка SHIZA Project",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/video/49019/86a8e1018d0c149ab828f65ee734a178/720p?translations=false&only_episode=true&only_season=true",
-    "date": 1674826967,
-    "durationSec": 1485
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка Persona99",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=persona99&anime_id=18851&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Persona99",
-    "date": 1789134958,
-    "durationSec": 0
+    "iframeUrl": "https://kodikplayer.com/video/47469/252d79fac08a9aedcf62c4c3f6c31f17/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674414407,
+    "durationSec": 2696
   }
 ]

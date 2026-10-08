@@ -1464,6 +1464,14 @@
     "durationSec": 1331
   },
   {
+    "episode": 184,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/90888/771e2fe28ae5e4cfc49cdf2cda9648b4/720p?translations=false&only_episode=true&only_season=true&episode=184",
+    "date": 1791386115,
+    "durationSec": 1242
+  },
+  {
     "episode": 1,
     "dub": "Озвучка AniStar",
     "player": "Плеер CVH",
@@ -2928,6 +2936,14 @@
     "durationSec": 1063
   },
   {
+    "episode": 184,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anistar&anime_id=51289&episode=184&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniStar",
+    "date": 1791323754,
+    "durationSec": 980
+  },
+  {
     "episode": 159,
     "dub": "Озвучка Animy",
     "player": "Плеер Kodik",
@@ -3334,5 +3350,13 @@
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=animy&anime_id=51289&episode=183&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniMy+%2F+RuChiMe",
     "date": 1790711800,
     "durationSec": 985
+  },
+  {
+    "episode": 184,
+    "dub": "Озвучка AniMy / RuChiMe",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=animy&anime_id=51289&episode=184&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniMy+%2F+RuChiMe",
+    "date": 1791322762,
+    "durationSec": 897
   }
 ]

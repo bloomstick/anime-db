@@ -1,10 +1,26 @@
 [
   {
     "episode": 1,
-    "dub": "Озвучка Люб. Двухголосый",
+    "dub": "Субтитры",
     "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/video/59274/ba0d325bb1da7b0168e627b0942e7db9/720p?translations=false&only_episode=true&only_season=true",
-    "date": 1697059908,
-    "durationSec": 1785
+    "iframeUrl": "https://kodikplayer.com/video/101445/8923eede67854e4f9022792f3dc2ba75/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1708892290,
+    "durationSec": 4243
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Helona",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/video/91216/f4115aeaaf4c0227febc7ddd992fda38/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674776014,
+    "durationSec": 4245
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Helona",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=helona&anime_id=6527&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Helona",
+    "date": 1791266233,
+    "durationSec": 0
   }
 ]

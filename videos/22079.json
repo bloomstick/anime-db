@@ -17,38 +17,6 @@
   },
   {
     "episode": 1,
-    "dub": "Озвучка Dream Cast",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/122923/3df94a12182c8d01f3a4249989061692/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1790506768,
-    "durationSec": 1427
-  },
-  {
-    "episode": 2,
-    "dub": "Озвучка Dream Cast",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/122923/3df94a12182c8d01f3a4249989061692/720p?translations=false&only_episode=true&only_season=true&episode=2",
-    "date": 1791121482,
-    "durationSec": 1427
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка Dream Cast",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=dreamcast&anime_id=63140&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Dream+Cast",
-    "date": 1790518269,
-    "durationSec": 1427
-  },
-  {
-    "episode": 2,
-    "dub": "Озвучка Dream Cast",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=dreamcast&anime_id=63140&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Dream+Cast",
-    "date": 1791115696,
-    "durationSec": 1427
-  },
-  {
-    "episode": 1,
     "dub": "Озвучка AniLibria",
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123008/e221e44489df4460123a0b50601b5e79/720p?translations=false&only_episode=true&only_season=true&episode=1",
@@ -78,6 +46,38 @@
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=aniliberty&anime_id=63140&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
     "date": 1791300080,
     "durationSec": 1420
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Dream Cast",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/122923/3df94a12182c8d01f3a4249989061692/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1790506768,
+    "durationSec": 1427
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка Dream Cast",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/122923/3df94a12182c8d01f3a4249989061692/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1791121482,
+    "durationSec": 1427
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Dream Cast",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=dreamcast&anime_id=63140&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Dream+Cast",
+    "date": 1790518269,
+    "durationSec": 1427
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка Dream Cast",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=dreamcast&anime_id=63140&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Dream+Cast",
+    "date": 1791115696,
+    "durationSec": 1427
   },
   {
     "episode": 1,
@@ -161,6 +161,30 @@
   },
   {
     "episode": 1,
+    "dub": "Озвучка Комната Диди",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/122946/5bb2d8922b15bc8b172577c881a28417/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1790562898,
+    "durationSec": 1427
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка Комната Диди",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/122946/5bb2d8922b15bc8b172577c881a28417/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1791356574,
+    "durationSec": 1426
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Комната Диди",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=komnatadidi&anime_id=63140&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%9A%D0%BE%D0%BC%D0%BD%D0%B0%D1%82%D0%B0+%D0%94%D0%B8%D0%B4%D0%B8",
+    "date": 1791139388,
+    "durationSec": 1426
+  },
+  {
+    "episode": 1,
     "dub": "Озвучка SHIZA Project",
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123021/e8d9cef5c9a9aa2b8617574cec836b3a/720p?translations=false&only_episode=true&only_season=true&episode=1",
@@ -222,21 +246,5 @@
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=manipulyator&anime_id=63140&episode=2&dubbing=%D0%A1%D1%83%D0%B1%D1%82%D0%B8%D1%82%D1%80%D1%8B+%D0%9C%D0%B0%D0%BD%D0%B8%D0%BF%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80",
     "date": 1791037389,
     "durationSec": 1420
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка Комната Диди",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/122946/5bb2d8922b15bc8b172577c881a28417/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1790562898,
-    "durationSec": 1427
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка Комната Диди",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=komnatadidi&anime_id=63140&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%9A%D0%BE%D0%BC%D0%BD%D0%B0%D1%82%D0%B0+%D0%94%D0%B8%D0%B4%D0%B8",
-    "date": 1791139388,
-    "durationSec": 1426
   }
 ]

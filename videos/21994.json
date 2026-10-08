@@ -73,6 +73,22 @@
   },
   {
     "episode": 1,
+    "dub": "Озвучка Ушастая озвучка",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123302/67d8410bc7d7c36223f0bcddcc92f8c2/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1791267189,
+    "durationSec": 1425
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Ушастая озвучка",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=uschastajaozvuchka&anime_id=62907&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%A3%D1%88%D0%B0%D1%81%D1%82%D0%B0%D1%8F+%D0%BE%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0",
+    "date": 1791250329,
+    "durationSec": 1426
+  },
+  {
+    "episode": 1,
     "dub": "Субтитры Манипулятор",
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=manipulyator&anime_id=62907&episode=1&dubbing=%D0%A1%D1%83%D0%B1%D1%82%D0%B8%D1%82%D1%80%D1%8B+%D0%9C%D0%B0%D0%BD%D0%B8%D0%BF%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80",
@@ -105,6 +121,14 @@
   },
   {
     "episode": 1,
+    "dub": "Озвучка SHIZA Project",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123398/fc82e458b5481c539be02221148b4d73/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1791390716,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
     "dub": "Субтитры SubVost",
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=subvost&anime_id=62907&episode=1&dubbing=%D0%A1%D1%83%D0%B1%D1%82%D0%B8%D1%82%D1%80%D1%8B+SubVost",
@@ -129,26 +153,26 @@
   },
   {
     "episode": 1,
-    "dub": "Озвучка Ушастая озвучка",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123302/67d8410bc7d7c36223f0bcddcc92f8c2/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1791267189,
-    "durationSec": 0
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка Ушастая озвучка",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=uschastajaozvuchka&anime_id=62907&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%A3%D1%88%D0%B0%D1%81%D1%82%D0%B0%D1%8F+%D0%BE%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0",
-    "date": 1791250329,
-    "durationSec": 0
-  },
-  {
-    "episode": 1,
     "dub": "Озвучка AniJoy",
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123346/97421b6f32c28a0445580859a2ad2301/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1791305750,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Kazoku Project",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123386/2dab742fff49a9e80427f63276a680cf/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1791385209,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Kazoku Project",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=kazokuproject&anime_id=62907&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Kazoku+Project",
+    "date": 1791445214,
     "durationSec": 0
   }
 ]

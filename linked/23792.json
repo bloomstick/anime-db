@@ -1,8 +1,17 @@
 {
   "links": [
     {
-      "slug": "dream:346",
-      "title": "Спригган",
+      "slug": "dream:11321",
+      "title": "Мы не можем учиться!",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:12053",
+      "title": "Мы не можем учиться! &mdash; OVA",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -11,7 +20,7 @@
     },
     {
       "slug": "dream:23792",
-      "title": "Спригган ONA",
+      "title": "Мы не можем учиться! 2",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -19,8 +28,8 @@
       "isCurrent": true
     },
     {
-      "slug": "anidb:218",
-      "title": "https://anidb.net/anime/218",
+      "slug": "dream:12926",
+      "title": "Мы не можем учиться! 2: Благословение церковных колоколов",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -28,8 +37,8 @@
       "isCurrent": false
     },
     {
-      "slug": "anilist:420",
-      "title": "https://anilist.co/anime/420",
+      "slug": "anidb:14289",
+      "title": "https://anidb.net/anime/14289",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -37,8 +46,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://anime-planet.com/anime/spriggan",
-      "title": "https://anime-planet.com/anime/spriggan",
+      "slug": "anidb:14918",
+      "title": "https://anidb.net/anime/14918",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -46,8 +55,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://animecountdown.com/40921",
-      "title": "https://animecountdown.com/40921",
+      "slug": "anidb:16111",
+      "title": "https://anidb.net/anime/16111",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -55,8 +64,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://anisearch.com/anime/701",
-      "title": "https://anisearch.com/anime/701",
+      "slug": "anilist:103900",
+      "title": "https://anilist.co/anime/103900",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -64,8 +73,8 @@
       "isCurrent": false
     },
     {
-      "slug": "kitsu:384",
-      "title": "https://kitsu.app/anime/384",
+      "slug": "anilist:109492",
+      "title": "https://anilist.co/anime/109492",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -73,8 +82,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://livechart.me/anime/5799",
-      "title": "https://livechart.me/anime/5799",
+      "slug": "https://anime-planet.com/anime/we-never-learn-bokuben",
+      "title": "https://anime-planet.com/anime/we-never-learn-bokuben",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -82,8 +91,134 @@
       "isCurrent": false
     },
     {
-      "slug": "https://simkl.com/anime/40921",
-      "title": "https://simkl.com/anime/40921",
+      "slug": "https://anime-planet.com/anime/we-never-learn-ova",
+      "title": "https://anime-planet.com/anime/we-never-learn-ova",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://animecountdown.com/1093409",
+      "title": "https://animecountdown.com/1093409",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://animecountdown.com/1560723",
+      "title": "https://animecountdown.com/1560723",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://animecountdown.com/882817",
+      "title": "https://animecountdown.com/882817",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://animenewsnetwork.com/encyclopedia/anime.php?id=21294",
+      "title": "https://animenewsnetwork.com/encyclopedia/anime.php?id=21294",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anisearch.com/anime/13838",
+      "title": "https://anisearch.com/anime/13838",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anisearch.com/anime/16053",
+      "title": "https://anisearch.com/anime/16053",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "kitsu:41956",
+      "title": "https://kitsu.app/anime/41956",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "kitsu:43429",
+      "title": "https://kitsu.app/anime/43429",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/3463",
+      "title": "https://livechart.me/anime/3463",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/9439",
+      "title": "https://livechart.me/anime/9439",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/9624",
+      "title": "https://livechart.me/anime/9624",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://simkl.com/anime/1093409",
+      "title": "https://simkl.com/anime/1093409",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://simkl.com/anime/1560723",
+      "title": "https://simkl.com/anime/1560723",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://simkl.com/anime/882817",
+      "title": "https://simkl.com/anime/882817",
       "detail": "",
       "kindLabel": "",
       "relation": "",

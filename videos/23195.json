@@ -1,42 +1,58 @@
 [
   {
     "episode": 1,
-    "dub": "Озвучка AniFilm",
+    "dub": "Озвучка AniDUB",
     "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/video/55822/01535e6a783aa4b28473bd57fba48488/720p?translations=false&only_episode=true&only_season=true",
-    "date": 1674776070,
-    "durationSec": 1309
+    "iframeUrl": "https://kodikplayer.com/season/53828/0afd05c435eca7da03766bae1e5d6bac/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1722453525,
+    "durationSec": 1614
   },
   {
     "episode": 1,
-    "dub": "Озвучка 2x2",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/video/89538/482d7089d997598093e4a7b02de41bf4/720p?translations=false&only_episode=true&only_season=true",
-    "date": 1674776070,
-    "durationSec": 1307
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Sibnet",
+    "iframeUrl": "https://video.sibnet.ru/shell.php?videoid=3646285",
+    "date": 1722453525,
+    "durationSec": 0
   },
   {
     "episode": 1,
-    "dub": "Озвучка Профессиональный двухголосый",
+    "dub": "Озвучка Дублированная",
     "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/video/55009/a2212debb03338437afba0edb0e91747/720p?translations=false&only_episode=true&only_season=true",
-    "date": 1697059744,
-    "durationSec": 1316
+    "iframeUrl": "https://kodikplayer.com/video/59278/f2216c8b24d3c690e1c411116c32a0f4/720p?translations=false&only_episode=true&only_season=true",
+    "date": 0,
+    "durationSec": 1604
   },
   {
     "episode": 1,
-    "dub": "Озвучка Animedia",
+    "dub": "Озвучка SHIZA Project",
     "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/video/49874/62f4aeeebdbb3ddea3c63dfd60aded13/720p?translations=false&only_episode=true&only_season=true",
-    "date": 1674776070,
-    "durationSec": 1303
+    "iframeUrl": "https://kodikplayer.com/uv/260144/2216e8d2a7ec4a18995c/720p",
+    "date": 0,
+    "durationSec": 1614
   },
   {
     "episode": 1,
-    "dub": "Озвучка SmutyDub",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/video/115365/feedd5405ac7b154a085837856f74dd2/720p?translations=false&only_episode=true&only_season=true",
-    "date": 1768064837,
-    "durationSec": 1305
+    "dub": "Озвучка SHIZA Project",
+    "player": "Плеер Sibnet",
+    "iframeUrl": "https://video.sibnet.ru/shell.php?videoid=3190201",
+    "date": 0,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Saint-Sound",
+    "player": "Плеер VK",
+    "iframeUrl": "https://ru.yummyani.me/iframeVK.html?id=-37144692_456239256",
+    "date": 1722453525,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры",
+    "player": "Плеер Sibnet",
+    "iframeUrl": "https://video.sibnet.ru/shell.php?videoid=5093800",
+    "date": 1722453525,
+    "durationSec": 0
   }
 ]

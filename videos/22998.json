@@ -1,10 +1,26 @@
 [
   {
     "episode": 1,
-    "dub": "Субтитры",
+    "dub": "Озвучка SHIZA Project",
     "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/video/91228/b51a23f11d17629f1558724cb1e863be/720p?translations=false&only_episode=true&only_season=true",
-    "date": 1674776010,
-    "durationSec": 1387
+    "iframeUrl": "https://kodikplayer.com/season/54141/bb6db7ae7f5497ae9a65bde1d43b0bea/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1674827026,
+    "durationSec": 2912
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка SHIZA Project",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/54141/bb6db7ae7f5497ae9a65bde1d43b0bea/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1674827026,
+    "durationSec": 2653
+  },
+  {
+    "episode": 3,
+    "dub": "Озвучка SHIZA Project",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/54141/bb6db7ae7f5497ae9a65bde1d43b0bea/720p?translations=false&only_episode=true&only_season=true&episode=3",
+    "date": 1674827026,
+    "durationSec": 0
   }
 ]

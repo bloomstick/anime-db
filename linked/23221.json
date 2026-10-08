@@ -1,8 +1,35 @@
 {
   "links": [
     {
-      "slug": "dream:2798",
-      "title": "Хьякко",
+      "slug": "yummy:nesravnennaya-princessa-lyubvi-1",
+      "title": "Несравненная принцесса любви",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:23114",
+      "title": "Несравненная принцесса любви &mdash; OVA",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:23140",
+      "title": "Несравненная принцесса любви 2",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:4045",
+      "title": "Несравненная принцесса любви 2: Живая революция",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -11,7 +38,7 @@
     },
     {
       "slug": "dream:23221",
-      "title": "Хьякко Экстра",
+      "title": "Несравненная принцесса любви 3",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -19,8 +46,8 @@
       "isCurrent": true
     },
     {
-      "slug": "anidb:5910",
-      "title": "https://anidb.net/anime/5910",
+      "slug": "dream:23213",
+      "title": "Несравненная принцесса любви 2 &mdash; OVA",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -28,8 +55,8 @@
       "isCurrent": false
     },
     {
-      "slug": "anilist:4550",
-      "title": "https://anilist.co/anime/4550",
+      "slug": "anidb:5922",
+      "title": "https://anidb.net/anime/5922",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -37,8 +64,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://anime-planet.com/anime/hyakko",
-      "title": "https://anime-planet.com/anime/hyakko",
+      "slug": "anidb:6400",
+      "title": "https://anidb.net/anime/6400",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -46,8 +73,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://animecountdown.com/41090",
-      "title": "https://animecountdown.com/41090",
+      "slug": "anidb:7470",
+      "title": "https://anidb.net/anime/7470",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -55,8 +82,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://animenewsnetwork.com/encyclopedia/anime.php?id=10051",
-      "title": "https://animenewsnetwork.com/encyclopedia/anime.php?id=10051",
+      "slug": "anilist:10297",
+      "title": "https://anilist.co/anime/10297",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -64,8 +91,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://anisearch.com/anime/4825",
-      "title": "https://anisearch.com/anime/4825",
+      "slug": "anilist:6112",
+      "title": "https://anilist.co/anime/6112",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -73,8 +100,8 @@
       "isCurrent": false
     },
     {
-      "slug": "kitsu:3677",
-      "title": "https://kitsu.app/anime/3677",
+      "slug": "https://anime-planet.com/anime/koihime-musou",
+      "title": "https://anime-planet.com/anime/koihime-musou",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -82,8 +109,8 @@
       "isCurrent": false
     },
     {
-      "slug": "https://livechart.me/anime/4254",
-      "title": "https://livechart.me/anime/4254",
+      "slug": "https://anime-planet.com/anime/koihime-musou-koihime-flash",
+      "title": "https://anime-planet.com/anime/koihime-musou-koihime-flash",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -91,8 +118,233 @@
       "isCurrent": false
     },
     {
-      "slug": "https://simkl.com/anime/41090",
-      "title": "https://simkl.com/anime/41090",
+      "slug": "https://anime-planet.com/anime/koihime-musou-ova",
+      "title": "https://anime-planet.com/anime/koihime-musou-ova",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/shin-koihime-musou",
+      "title": "https://anime-planet.com/anime/shin-koihime-musou",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/shin-koihime-musou-live-revolution",
+      "title": "https://anime-planet.com/anime/shin-koihime-musou-live-revolution",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/shin-koihime-musou-otome-tairan-ova",
+      "title": "https://anime-planet.com/anime/shin-koihime-musou-otome-tairan-ova",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/shin-koihime-musou-otome-tairan-ova-omake",
+      "title": "https://anime-planet.com/anime/shin-koihime-musou-otome-tairan-ova-omake",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/shin-koihime-musou-ova-omake",
+      "title": "https://anime-planet.com/anime/shin-koihime-musou-ova-omake",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anime-planet.com/anime/shin-koihime-musou-rival-warlords-vacation-on-a-tropical-island-there-will-also-be-tentacles",
+      "title": "https://anime-planet.com/anime/shin-koihime-musou-rival-warlords-vacation-on-a-tropical-island-there-will-also-be-tentacles",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://animecountdown.com/36576",
+      "title": "https://animecountdown.com/36576",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://animecountdown.com/39015",
+      "title": "https://animecountdown.com/39015",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://animecountdown.com/41479",
+      "title": "https://animecountdown.com/41479",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://animenewsnetwork.com/encyclopedia/anime.php?id=10655",
+      "title": "https://animenewsnetwork.com/encyclopedia/anime.php?id=10655",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anisearch.com/anime/5275",
+      "title": "https://anisearch.com/anime/5275",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://anisearch.com/anime/7184",
+      "title": "https://anisearch.com/anime/7184",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "kitsu:4429",
+      "title": "https://kitsu.app/anime/4429",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "kitsu:6117",
+      "title": "https://kitsu.app/anime/6117",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/4525",
+      "title": "https://livechart.me/anime/4525",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/5003",
+      "title": "https://livechart.me/anime/5003",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/6078",
+      "title": "https://livechart.me/anime/6078",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/7036",
+      "title": "https://livechart.me/anime/7036",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/7094",
+      "title": "https://livechart.me/anime/7094",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/7809",
+      "title": "https://livechart.me/anime/7809",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://livechart.me/anime/8417",
+      "title": "https://livechart.me/anime/8417",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:23315",
+      "title": "https://myanimelist.net/anime/10297",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://simkl.com/anime/36576",
+      "title": "https://simkl.com/anime/36576",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://simkl.com/anime/39015",
+      "title": "https://simkl.com/anime/39015",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "https://simkl.com/anime/41479",
+      "title": "https://simkl.com/anime/41479",
       "detail": "",
       "kindLabel": "",
       "relation": "",

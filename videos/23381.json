@@ -1,18 +1,26 @@
 [
   {
     "episode": 1,
-    "dub": "Озвучка MiraiDUB",
+    "dub": "Озвучка SHIZA Project",
     "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/video/73880/f9723d567f4505d02acb24bb317a4e7c/720p?translations=false&only_episode=true&only_season=true",
-    "date": 1674776344,
-    "durationSec": 1481
+    "iframeUrl": "https://kodikplayer.com/video/48147/396d789d06d08e89e9df8ddd30168560/720p?translations=false&only_episode=true&only_season=true",
+    "date": 1674827017,
+    "durationSec": 4446
   },
   {
     "episode": 1,
-    "dub": "Озвучка Люб. Двухголосый",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/video/47871/25b5ef8b83c17345d0bdb6db6e815e49/720p?translations=false&only_episode=true&only_season=true",
-    "date": 1697059858,
+    "dub": "Озвучка BMIRussian",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=bmirussian&anime_id=12745&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+BMIRussian",
+    "date": 1791005286,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Azazel",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=azazel&anime_id=12745&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Azazel",
+    "date": 1791005286,
     "durationSec": 0
   }
 ]
