@@ -62,6 +62,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -130,6 +132,8 @@
       1775231695,
       1790678579
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "krugosvetnoe-puteshestvie-kota-v-sapogah"
   },
   {
@@ -137,7 +141,7 @@
     "slugUrl": "dream:2503",
     "name": "Крошка Мемоль",
     "rusName": "Крошка Мемоль",
-    "engName": "null",
+    "engName": "Memoru in the Pointed Hat",
     "coverUrl": "https://static.yani.tv/posters/full/17691.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -162,7 +166,6 @@
       "Крошка Мемоль"
     ],
     "enNames": [
-      "null",
       "Memoru in the Pointed Hat",
       "Tongari Boushi no Memoru",
       "Wee Wendy",
@@ -173,7 +176,8 @@
       "Little Beret Memoru",
       "Little Memole",
       "Manóvári Manók",
-      "Memole dolce Memole"
+      "Memole dolce Memole",
+      "Memole, dolce Memole"
     ],
     "shikimoriId": 3754,
     "malId": 3754,
@@ -490,6 +494,8 @@
       1788267982,
       1788267982
     ],
+    "totalEpisodes": 50,
+    "airedEpisodes": 50,
     "yummyAlias": "kroshka-memol-tv"
   },
   {
@@ -554,6 +560,8 @@
     "episodeDates": [
       1674776490
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "dyuymovochka"
   },
   {
@@ -618,6 +626,8 @@
     "episodeDates": [
       1674826903
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "volshebnaya-lampa-aladdina"
   },
   {
@@ -625,7 +635,7 @@
     "slugUrl": "dream:2506",
     "name": "Panda no Daibouken",
     "rusName": "Удивительные приключения Панды",
-    "engName": "null",
+    "engName": "The Panda's Great Adventure",
     "coverUrl": "https://shikimori.one/system/animes/original/3758.jpg?1711968334",
     "coverFallbackUrl": "",
     "status": "released",
@@ -652,7 +662,6 @@
       "Удивительные приключения Панды"
     ],
     "enNames": [
-      "null",
       "The Panda's Great Adventure",
       "As Aventuras do Panda",
       "As Aventuras do Ursinho Panda",
@@ -663,7 +672,8 @@
       "Les Aventures de Panda",
       "Les aventures de Panda",
       "Orsetto Panda e gli amici della foresta",
-      "Panda no Daibōken"
+      "Panda no Daibōken",
+      "Panda på eventyr"
     ],
     "shikimoriId": 3758,
     "malId": 3758,
@@ -679,6 +689,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -686,7 +698,7 @@
     "slugUrl": "dream:2507",
     "name": "Школьные дни: Дни святого Валентина",
     "rusName": "Школьные дни: Дни святого Валентина",
-    "engName": "null",
+    "engName": "Школьные дни: День святого Валентина",
     "coverUrl": "https://static.yani.tv/posters/full/1636721322.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -715,11 +727,10 @@
       "Школьные дни: Дни святого Валентина"
     ],
     "enNames": [
-      "null",
       "Школьные дни: День святого Валентина",
       "School Days LxH",
       "School Days: Valentine Days",
-      "School Days <Valentine Days>",
+      "School Days",
       "School Days OVA",
       "School Days 「Valentine Days」",
       "School Days: Walentynki",
@@ -744,6 +755,8 @@
       1719911841,
       1719927012
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "shkolnie-dni-dni-svyatogo-valentina"
   },
   {
@@ -803,6 +816,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -917,6 +932,8 @@
       1722062258,
       1722062258
     ],
+    "totalEpisodes": 26,
+    "airedEpisodes": 26,
     "yummyAlias": "d-artangav-tri-psa-mushketera"
   },
   {
@@ -983,6 +1000,8 @@
       1674776323,
       1674776323
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "akusticheskiy-voin-borgmen-poslednyaya-bitva"
   },
   {
@@ -1050,6 +1069,8 @@
       1789134028,
       1674776323
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "akusticheskiy-voin-borgmen-dozhd-vlyublennyh"
   },
   {
@@ -1120,6 +1141,8 @@
       1674776323,
       1674776323
     ],
+    "totalEpisodes": 3,
+    "airedEpisodes": 3,
     "yummyAlias": "akusticheskiy-voin-borgmen"
   },
   {
@@ -1127,7 +1150,7 @@
     "slugUrl": "dream:2513",
     "name": "Pygmalio",
     "rusName": "Пигмалио",
-    "engName": "null",
+    "engName": "Pygmalion",
     "coverUrl": "https://shikimori.one/system/animes/original/3765.jpg?1711969592",
     "coverFallbackUrl": "",
     "status": "released",
@@ -1156,7 +1179,6 @@
       "Пигмалио"
     ],
     "enNames": [
-      "null",
       "Pygmalion",
       "Pigumario",
       "Pigmaleão",
@@ -1179,6 +1201,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 39,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -1234,6 +1258,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 13,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -1289,6 +1315,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 13,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -1350,6 +1378,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 26,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -1357,7 +1387,7 @@
     "slugUrl": "dream:2517",
     "name": "Go! Go! Itsutsugo Land",
     "rusName": "Близняшки-пятерняшки",
-    "engName": "null",
+    "engName": "Let's Go Quintuplets",
     "coverUrl": "https://shikimori.one/system/animes/original/3776.jpg?1711951482",
     "coverFallbackUrl": "",
     "status": "released",
@@ -1382,7 +1412,6 @@
       "Близняшки-пятерняшки"
     ],
     "enNames": [
-      "null",
       "Let's Go Quintuplets",
       "Cinque gemelli diversi",
       "De bende van Vijf",
@@ -1393,7 +1422,8 @@
       "Let's Go Quintuplets!",
       "Let’s Go Quintuplets",
       "Let’s Go Quintuplets!",
-      "Los Quintillizos"
+      "Los Quintillizos",
+      "Los quintillizos"
     ],
     "shikimoriId": 3776,
     "malId": 3776,
@@ -1409,6 +1439,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 50,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -1416,7 +1448,7 @@
     "slugUrl": "dream:2518",
     "name": "Yuukan Club",
     "rusName": "Клуб весёлого времяпровождения",
-    "engName": "null",
+    "engName": "Клуб Юкан",
     "coverUrl": "https://shikimori.one/system/animes/original/3778.jpg?1711983349",
     "coverFallbackUrl": "",
     "status": "released",
@@ -1447,7 +1479,6 @@
       "Клуб весёлого времяпровождения"
     ],
     "enNames": [
-      "null",
       "Клуб Юкан",
       "Клуб развлечений",
       "Клуб праздного времяпрепровождения",
@@ -1472,6 +1503,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 2,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -1554,6 +1587,8 @@
       1722872422,
       1674776380
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "granica-pustoty-sad-greshnikov-film-vtoroy"
   },
   {
@@ -1635,6 +1670,8 @@
       0,
       0
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "granica-pustoty-3-ostavsheesya-chuvstvo-boli"
   },
   {
@@ -1729,6 +1766,8 @@
       0,
       0
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "evangelion-po-novomy-film-vtoroj"
   },
   {
@@ -1809,6 +1848,8 @@
       0,
       1789142079
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "evangelion-po-novomu-film-tretij"
   },
   {
@@ -1893,6 +1934,8 @@
       1674776231,
       1674776231
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "evangelion-3-0-1-0-1"
   },
   {
@@ -1964,6 +2007,8 @@
       1701727693,
       1702147633
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "maris-silneyshaya"
   },
   {
@@ -2098,6 +2143,8 @@
       1771433905,
       1722950718
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 26,
     "yummyAlias": "eyr-gir-spetsialniy-epizod"
   },
   {
@@ -2105,7 +2152,7 @@
     "slugUrl": "dream:2526",
     "name": "Speed",
     "rusName": "Скорость",
-    "engName": "null",
+    "engName": "Kousoku Shakai to Ningen",
     "coverUrl": "https://shikimori.one/system/animes/original/3799.jpg?1711975058",
     "coverFallbackUrl": "",
     "status": "released",
@@ -2130,7 +2177,6 @@
       "Скорость"
     ],
     "enNames": [
-      "null",
       "Kousoku Shakai to Ningen",
       "Man and a High Speed Society",
       "Kōsoku Shakai to Ningen",
@@ -2152,6 +2198,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -2348,6 +2396,8 @@
       1790360953,
       1790360953
     ],
+    "totalEpisodes": 44,
+    "airedEpisodes": 44,
     "yummyAlias": "gran-pri"
   },
   {
@@ -2411,6 +2461,8 @@
     "episodeDates": [
       1674776488
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "drakula"
   },
   {
@@ -2418,7 +2470,7 @@
     "slugUrl": "dream:2529",
     "name": "Небесные воровки, близняшки-ангелочки — OVA",
     "rusName": "Небесные воровки, близняшки-ангелочки — OVA",
-    "engName": "null",
+    "engName": "Kaitou Tenshi Twin Angel (OVA)",
     "coverUrl": "https://static.yani.tv/posters/full/16761.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -2444,7 +2496,6 @@
       "Двойной ангел"
     ],
     "enNames": [
-      "null",
       "Kaitou Tenshi Twin Angel (OVA)",
       "Kaitō Tenshi Twin Angel",
       "Phantom Thieves Twin Angel",
@@ -2471,6 +2522,8 @@
       1674776313,
       1674776313
     ],
+    "totalEpisodes": 2,
+    "airedEpisodes": 2,
     "yummyAlias": "nebesnye-vorovki-bliznyashki-angelochki-ova-1"
   },
   {
@@ -2538,6 +2591,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 69,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -2603,6 +2658,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 20,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -2662,6 +2719,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 36,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -3032,6 +3091,8 @@
       1788268727,
       1788268727
     ],
+    "totalEpisodes": 52,
+    "airedEpisodes": 51,
     "yummyAlias": "legenda-o-princesse-belosnezhke"
   },
   {
@@ -3120,6 +3181,8 @@
       1674776530,
       1674776530
     ],
+    "totalEpisodes": 26,
+    "airedEpisodes": 23,
     "yummyAlias": "veselye-lesnye-gnomy-belfi-i-lilbit"
   },
   {
@@ -3179,6 +3242,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 35,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -3240,6 +3305,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 26,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -3307,6 +3374,8 @@
     "episodeDates": [
       1674827100
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "lunnaya-serga-yumemi-i-rycari-ordena-roz"
   },
   {
@@ -3350,7 +3419,6 @@
       "アイドルファイト スーチーパイ2",
       "アイドルファイト スーチーパイ2 ～いかにも第一話ってカンジ？～",
       "アイドルファイト スーチーパイ２",
-      "アイドルファイト　スーチーパイ２",
       "アイドル・ファイト スーチーパイⅡ"
     ],
     "shikimoriId": 3816,
@@ -3367,6 +3435,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -3423,6 +3493,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -3486,6 +3558,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 26,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -3547,6 +3621,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 26,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -3610,6 +3686,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 26,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -3669,6 +3747,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 28,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -3676,7 +3756,7 @@
     "slugUrl": "dream:2544",
     "name": "Maegami Tarou",
     "rusName": "Маэгами Таро",
-    "engName": "null",
+    "engName": "As Aventuras de Maegami Taro",
     "coverUrl": "https://shikimori.one/system/animes/original/3828.jpg?1711962137",
     "coverFallbackUrl": "",
     "status": "released",
@@ -3701,7 +3781,6 @@
       "Маэгами Таро"
     ],
     "enNames": [
-      "null",
       "As Aventuras de Maegami Taro",
       "Der goldene Feuervogel",
       "Maegami Tarō",
@@ -3723,6 +3802,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -3785,6 +3866,8 @@
       1674775963,
       1674775963
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "dnevnik-anny-frank"
   },
   {
@@ -3792,7 +3875,7 @@
     "slugUrl": "dream:2546",
     "name": "Rebirth Moon Divergence",
     "rusName": "Возрождение лунного рассеивания",
-    "engName": "null",
+    "engName": "リバース ムーン ディバージェンス",
     "coverUrl": "https://shikimori.one/system/animes/original/3832.jpg?1711970294",
     "coverFallbackUrl": "",
     "status": "released",
@@ -3819,7 +3902,6 @@
       "Возрождение лунного рассеивания"
     ],
     "enNames": [
-      "null",
       "リバース ムーン ディバージェンス"
     ],
     "shikimoriId": 3832,
@@ -3836,6 +3918,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -3895,6 +3979,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 26,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -3956,6 +4042,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 52,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -3963,7 +4051,7 @@
     "slugUrl": "dream:2549",
     "name": "Маленькие спасатели",
     "rusName": "Маленькие спасатели",
-    "engName": "null",
+    "engName": "Mashin Eiyuden Wataru",
     "coverUrl": "https://static.yani.tv/posters/full/1636666948.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -3994,7 +4082,6 @@
       "Маленькие спасатели"
     ],
     "enNames": [
-      "null",
       "Mashin Eiyuden Wataru",
       "Spirit Hero Wataru",
       "Keith Courage",
@@ -4357,6 +4444,8 @@
       1674776371,
       1674776371
     ],
+    "totalEpisodes": 45,
+    "airedEpisodes": 45,
     "yummyAlias": "malenkie-spasateli-1"
   },
   {
@@ -4439,6 +4528,8 @@
       1751854353,
       1751854353
     ],
+    "totalEpisodes": 12,
+    "airedEpisodes": 12,
     "yummyAlias": "blesk-stekla"
   },
   {
@@ -4446,7 +4537,7 @@
     "slugUrl": "dream:2551",
     "name": "Милый дом Чи",
     "rusName": "Милый дом Чи",
-    "engName": "null",
+    "engName": "Chii's Sweet Home",
     "coverUrl": "https://static.yani.tv/posters/full/1636670987.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -4473,7 +4564,6 @@
       "Милый дом Чи"
     ],
     "enNames": [
-      "null",
       "Chii's Sweet Home",
       "Chiizu",
       "Chi",
@@ -4484,7 +4574,8 @@
       "Chi, une vie de chat",
       "Chi: Casa Dolce Casa",
       "Chii’s Sweet Home",
-      "Chi’s Sweet Home"
+      "Chi’s Sweet Home",
+      "El Dulce Hogar de Chi"
     ],
     "shikimoriId": 3841,
     "malId": 3841,
@@ -5184,6 +5275,8 @@
       1779733490,
       1677782960
     ],
+    "totalEpisodes": 104,
+    "airedEpisodes": 104,
     "yummyAlias": "milyj-dom-ti-tv-1"
   },
   {
@@ -5251,6 +5344,8 @@
       1674776328,
       1789134055
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "ostrov-sokrovisch"
   },
   {
@@ -5258,7 +5353,7 @@
     "slugUrl": "dream:2553",
     "name": "Али-баба и сорок разбойников",
     "rusName": "Али-баба и сорок разбойников",
-    "engName": "null",
+    "engName": "Ali Baba to Yonju-hiki no Touzoku",
     "coverUrl": "https://static.yani.tv/posters/full/19899.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -5286,7 +5381,6 @@
       "Али-Баба и сорок разбойников"
     ],
     "enNames": [
-      "null",
       "Ali Baba to Yonju-hiki no Touzoku",
       "Alibaba and the Forty Thieves",
       "Alibaba's Revenge",
@@ -5297,7 +5391,8 @@
       "Ali Baba et les 40 Voleurs",
       "Ali Baba et les quarante voleurs",
       "Ali Baba to 40-hiki no Tōzoku",
-      "Ali Baba und die 40 Räuber"
+      "Ali Baba und die 40 Räuber",
+      "Ali Babà e i 40 ladroni"
     ],
     "shikimoriId": 3843,
     "malId": 3843,
@@ -5317,6 +5412,8 @@
     "episodeDates": [
       1674827188
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "ali-baba-i-sorok-razboynikov"
   },
   {
@@ -5375,6 +5472,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 26,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -5382,7 +5481,7 @@
     "slugUrl": "dream:2555",
     "name": "Mahoutsukai Chappy",
     "rusName": "Кудесница Чаппи",
-    "engName": "null",
+    "engName": "Chappy",
     "coverUrl": "https://shikimori.one/system/animes/original/3845.jpg?1711962372",
     "coverFallbackUrl": "",
     "status": "released",
@@ -5409,7 +5508,6 @@
       "Кудесница Чаппи"
     ],
     "enNames": [
-      "null",
       "Chappy",
       "Chappy the Magic User",
       "Chappie the Witch",
@@ -5420,7 +5518,8 @@
       "La maga Chappy",
       "Mahou Tsukai Chappy",
       "Mahō Tsukai Chappy",
-      "Mahōtsukai Chappy"
+      "Mahōtsukai Chappy",
+      "魔法使いチャッピー"
     ],
     "shikimoriId": 3845,
     "malId": 3845,
@@ -5436,6 +5535,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 39,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -5443,7 +5544,7 @@
     "slugUrl": "dream:2556",
     "name": "Microid S",
     "rusName": "Микроид Эс",
-    "engName": "null",
+    "engName": "Microsuperman",
     "coverUrl": "https://shikimori.one/system/animes/original/3846.jpg?1711963707",
     "coverFallbackUrl": "",
     "status": "released",
@@ -5470,7 +5571,6 @@
       "Микроид Эс"
     ],
     "enNames": [
-      "null",
       "Microsuperman",
       "ミクロイドS",
       "ミクロイドＳ"
@@ -5489,6 +5589,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 26,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -5551,6 +5653,8 @@
     "episodeDates": [
       1674826822
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "princy-lebedi"
   },
   {
@@ -5623,6 +5727,8 @@
       0,
       0
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "van-pis-fil-m-devyatyj"
   },
   {
@@ -5630,7 +5736,7 @@
     "slugUrl": "dream:2559",
     "name": "The SoulTaker: Tamashii-gari - Komugi Daisakusen",
     "rusName": "Похититель душ: Спецвыпуски",
-    "engName": "null",
+    "engName": "SoulTaker Omake",
     "coverUrl": "https://shikimori.one/system/animes/original/3849.jpg?1711977390",
     "coverFallbackUrl": "",
     "status": "released",
@@ -5655,7 +5761,6 @@
       "Похититель душ: Спецвыпуски"
     ],
     "enNames": [
-      "null",
       "SoulTaker Omake",
       "Komugi Daisakusen",
       "SoulTaker: Tamashii-gari - Komugi Daisakusen",
@@ -5677,6 +5782,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 3,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -5742,6 +5849,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -5808,6 +5917,8 @@
       1674827065,
       1751854727
     ],
+    "totalEpisodes": 4,
+    "airedEpisodes": 4,
     "yummyAlias": "galakticheskie-zheleznye-dorogi-ova"
   },
   {
@@ -5963,6 +6074,8 @@
       1683405408,
       1683405408
     ],
+    "totalEpisodes": 91,
+    "airedEpisodes": 91,
     "yummyAlias": "legenda-nasekomom-pchelka-hatch"
   },
   {
@@ -5970,7 +6083,7 @@
     "slugUrl": "dream:2563",
     "name": "Совершенно секретно: Откровение",
     "rusName": "Совершенно секретно: Откровение",
-    "engName": "null",
+    "engName": "Himitsu: Top Secret - The Revelation",
     "coverUrl": "https://static.yani.tv/posters/full/18419.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -6003,7 +6116,6 @@
       "Совершенно секретно: Откровение"
     ],
     "enNames": [
-      "null",
       "Himitsu: Top Secret - The Revelation",
       "Himitsu ~The Revelation~",
       "Himitsu: The Revelation",
@@ -6014,7 +6126,8 @@
       "المكتب رقم تسعة",
       "秘密",
       "秘密 トップ・シークレット",
-      "秘密 ～The Revelation～"
+      "秘密 ～The Revelation～",
+      "秘密: The Revelation"
     ],
     "shikimoriId": 3859,
     "malId": 3859,
@@ -6076,6 +6189,8 @@
       1780167871,
       1780167871
     ],
+    "totalEpisodes": 26,
+    "airedEpisodes": 26,
     "yummyAlias": "sovershenno-sekretno-otkrovenie"
   },
   {
@@ -6083,7 +6198,7 @@
     "slugUrl": "dream:2564",
     "name": "Король шаманов — Спешлы",
     "rusName": "Король шаманов — Спешлы",
-    "engName": "null",
+    "engName": "The Form that Love Takes",
     "coverUrl": "https://static.yani.tv/posters/full/1636667102.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -6115,7 +6230,6 @@
       "Шаман Кинг: Спецвыпуски"
     ],
     "enNames": [
-      "null",
       "The Form that Love Takes",
       "Ai no Katachi",
       "The Form that Sadness Takes",
@@ -6153,6 +6267,8 @@
       1684936307,
       1684936307
     ],
+    "totalEpisodes": 5,
+    "airedEpisodes": 5,
     "yummyAlias": "korol-shamanov-spetsvipuski"
   },
   {
@@ -6160,7 +6276,7 @@
     "slugUrl": "dream:2565",
     "name": "Sweet Valerian Specials",
     "rusName": "Сладкая валерьянка: Спецвыпуски",
-    "engName": "null",
+    "engName": "スウィート・ヴァレリアン",
     "coverUrl": "https://shikimori.one/system/animes/original/3863.jpg?1711975856",
     "coverFallbackUrl": "",
     "status": "released",
@@ -6187,7 +6303,6 @@
       "Сладкая валерьянка: Спецвыпуски"
     ],
     "enNames": [
-      "null",
       "スウィート・ヴァレリアン",
       "スウィート・ヴァレリアン Specials",
       "スウィート・ヴァレリアン 特別"
@@ -6206,6 +6321,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 8,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -6269,6 +6386,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 4,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -6276,7 +6395,7 @@
     "slugUrl": "dream:2567",
     "name": "Лето с Куро",
     "rusName": "Лето с Куро",
-    "engName": "null",
+    "engName": "Summer With Kuro",
     "coverUrl": "https://static.yani.tv/posters/full/1636666658.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -6303,7 +6422,6 @@
       "Лето с Куро"
     ],
     "enNames": [
-      "null",
       "Summer With Kuro",
       "Kuro",
       "Mały Kuro",
@@ -6327,6 +6445,8 @@
     "episodeDates": [
       1679700212
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "leto-s-kuro"
   },
   {
@@ -6388,6 +6508,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 100,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -6449,6 +6571,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 26,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -6512,6 +6636,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 29,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -6519,7 +6645,7 @@
     "slugUrl": "dream:2571",
     "name": "Ashita e Free Kick",
     "rusName": "Свободный удар в завтра",
-    "engName": "null",
+    "engName": "Free Kick Toward Tomorrow",
     "coverUrl": "https://shikimori.one/system/animes/original/3874.jpg?1711942642",
     "coverFallbackUrl": "",
     "status": "released",
@@ -6544,7 +6670,6 @@
       "Свободный удар в завтра"
     ],
     "enNames": [
-      "null",
       "Free Kick Toward Tomorrow",
       "Forza campioni",
       "Graine de Champion",
@@ -6555,7 +6680,8 @@
       "Σαν",
       "Свободный удар в завтра",
       "الضربة الصاعقة",
-      "الضربة القاضية"
+      "الضربة القاضية",
+      "あしたへ フリーキック"
     ],
     "shikimoriId": 3874,
     "malId": 3874,
@@ -6571,6 +6697,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 52,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -6632,6 +6760,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 26,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -6639,7 +6769,7 @@
     "slugUrl": "dream:2573",
     "name": "Paris no Isabelle",
     "rusName": "Парижанка Изабель",
-    "engName": "null",
+    "engName": "Paris no Isabel",
     "coverUrl": "https://shikimori.one/system/animes/original/3879.jpg?1711968549",
     "coverFallbackUrl": "",
     "status": "released",
@@ -6666,7 +6796,6 @@
       "Парижанка Изабель"
     ],
     "enNames": [
-      "null",
       "Paris no Isabel",
       "Isabelle of Paris",
       "Isabell de Paris",
@@ -6693,6 +6822,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 13,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -6700,7 +6831,7 @@
     "slugUrl": "dream:2574",
     "name": "Makyou Densetsu Acrobunch",
     "rusName": "Акробунч, легенда волшебной страны",
-    "engName": "null",
+    "engName": "Acrobunch",
     "coverUrl": "https://shikimori.one/system/animes/original/3880.jpg?1711962717",
     "coverFallbackUrl": "",
     "status": "released",
@@ -6729,7 +6860,6 @@
       "Акробунч, легенда волшебной страны"
     ],
     "enNames": [
-      "null",
       "Acrobunch",
       "Demon Regions Legend Acrobunch",
       "Askadis",
@@ -6740,7 +6870,8 @@
       "Acrobunch, la leggenda del paese magico",
       "Acrobunch: The Quest for Treasure",
       "Askadis - La légende de l’empire perdu",
-      "Askadis : La Légende de l'Empire Perdu"
+      "Askadis : La Légende de l'Empire Perdu",
+      "Askadis : La Légende de l’Empire Perdu"
     ],
     "shikimoriId": 3880,
     "malId": 3880,
@@ -6756,6 +6887,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 24,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -6763,7 +6896,7 @@
     "slugUrl": "dream:2575",
     "name": "Majokko Tickle",
     "rusName": "Волшебная щекотка",
-    "engName": "null",
+    "engName": "Magical Girl Tickle",
     "coverUrl": "https://shikimori.one/system/animes/original/3881.jpg?1711962531",
     "coverFallbackUrl": "",
     "status": "released",
@@ -6788,7 +6921,6 @@
       "Волшебная щекотка"
     ],
     "enNames": [
-      "null",
       "Magical Girl Tickle",
       "Majokko Chikkuru",
       "Magic Tikkle",
@@ -6799,7 +6931,8 @@
       "Lilli un guaio tira l'altro",
       "Lilli, un guaio tira l’altro",
       "Magic Tickle",
-      "Magical Girl Chickle"
+      "Magical Girl Chickle",
+      "Magical Girl Chikkle"
     ],
     "shikimoriId": 3881,
     "malId": 3881,
@@ -6815,6 +6948,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 45,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -6880,6 +7015,8 @@
       1674827084,
       1789135130
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "kiberneticheskiy-strazh"
   },
   {
@@ -6945,6 +7082,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -6991,8 +7130,7 @@
       "Super Mario Brothers: The Great Mission to Rescue Princess Peach!",
       "スーパーマリオブラザーズ ピーチひめきゅうしゅつだいさくせん!",
       "スーパーマリオブラザーズ ピーチ姫救出大作戦!",
-      "スーパーマリオブラザーズ ピーチ姫救出大作戦！",
-      "スーパーマリオブラザーズ　ピーチ姫救出大作戦!"
+      "スーパーマリオブラザーズ ピーチ姫救出大作戦！"
     ],
     "shikimoriId": 3886,
     "malId": 3886,
@@ -7010,6 +7148,8 @@
     "episodeDates": [
       1674826904
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "superbratya-mario"
   },
   {
@@ -7073,6 +7213,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -7136,6 +7278,8 @@
     "episodeDates": [
       1674827014
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "povesa"
   },
   {
@@ -7204,6 +7348,8 @@
     "episodeDates": [
       1674776502
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "mazinger-zet-protiv-cheloveka-demona"
   },
   {
@@ -7267,6 +7413,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 52,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -7337,6 +7485,8 @@
       1701934776,
       1701934858
     ],
+    "totalEpisodes": 3,
+    "airedEpisodes": 3,
     "yummyAlias": "shumiha-spetsvipuski"
   },
   {
@@ -7400,6 +7550,8 @@
     "episodeDates": [
       1674776378
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "princ-kusinagu-ohotitsya-na-bolshogo-zmeya"
   },
   {
@@ -7441,8 +7593,8 @@
       "H.P. Lovecraft’s Dunwich Horror and Other Stories",
       "H.P.ラヴクラフトの ダニッチ・ホラー",
       "H・P・ラヴクラフトの ダニッチ・ホラー",
-      "H・P・ラヴクラフトの　ダニッチ・ホラー　その他の物語",
-      "H・P・ラヴクラフトのダニッチ・ホラー　その他の物語",
+      "H・P・ラヴクラフトの ダニッチ・ホラー その他の物語",
+      "H・P・ラヴクラフトのダニッチ・ホラー その他の物語",
       "The Picture in the House / The Dunwich Horror / The Festival"
     ],
     "shikimoriId": 3906,
@@ -7459,6 +7611,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -7526,6 +7680,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 52,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -7589,6 +7745,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -7652,6 +7810,8 @@
       1674776479,
       1674776479
     ],
+    "totalEpisodes": 4,
+    "airedEpisodes": 4,
     "yummyAlias": "istrebitel-demonov"
   },
   {
@@ -7659,7 +7819,7 @@
     "slugUrl": "dream:2589",
     "name": "1001 Nights",
     "rusName": "Тысяча и одна ночь Ёситаки Амано",
-    "engName": "null",
+    "engName": "1001 Nights~ワン・サウザンド・ワン・ナイツ~",
     "coverUrl": "https://shikimori.one/system/animes/original/3914.jpg?1711937388",
     "coverFallbackUrl": "",
     "status": "released",
@@ -7688,7 +7848,6 @@
       "Тысяча и одна ночь Ёситаки Амано"
     ],
     "enNames": [
-      "null",
       "1001 Nights~ワン・サウザンド・ワン・ナイツ~",
       "A Thousand and One Nights (1998)",
       "One Thousand and One Arabian Nights (1998)",
@@ -7714,6 +7873,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -7777,6 +7938,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 61,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -7784,7 +7947,7 @@
     "slugUrl": "dream:2591",
     "name": "Kamen Rider Den-O: Imagin Anime",
     "rusName": "Наездник в маске Дэн-О",
-    "engName": "null",
+    "engName": "Masked Rider Den-O: Imagin Anime",
     "coverUrl": "https://shikimori.one/system/animes/original/3923.jpg?1711957262",
     "coverFallbackUrl": "",
     "status": "released",
@@ -7817,7 +7980,6 @@
       "Наездник в маске Дэн-О"
     ],
     "enNames": [
-      "null",
       "Masked Rider Den-O: Imagin Anime",
       "仮面ライダー電王: イマジンあにめ"
     ],
@@ -7835,6 +7997,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 10,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -7955,6 +8119,8 @@
       1751855041,
       1751855041
     ],
+    "totalEpisodes": 25,
+    "airedEpisodes": 25,
     "yummyAlias": "mobilnyy-voin-gandam-00-vtoroy-sezon"
   },
   {
@@ -7962,7 +8128,7 @@
     "slugUrl": "dream:2593",
     "name": "Ugokie Kori no Tatehiki",
     "rusName": "Лиса против Енота",
-    "engName": "null",
+    "engName": "Movie: The Fox Versus the Racoon",
     "coverUrl": "https://shikimori.one/system/animes/original/3929.jpg?1711979109",
     "coverFallbackUrl": "",
     "status": "released",
@@ -7989,7 +8155,6 @@
       "Лиса против Енота"
     ],
     "enNames": [
-      "null",
       "Movie: The Fox Versus the Racoon",
       "The Fox Versus the Racoon",
       "うごきえこりのたてひき",
@@ -8011,6 +8176,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -8062,6 +8229,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -8069,7 +8238,7 @@
     "slugUrl": "dream:2595",
     "name": "Инициал D: Боевая стадия 2",
     "rusName": "Инициал D: Боевая стадия 2",
-    "engName": "null",
+    "engName": "IDBS S2",
     "coverUrl": "https://static.yani.tv/posters/full/17222.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -8099,15 +8268,14 @@
       "Инициал Ди: Боевая стадия 2"
     ],
     "enNames": [
-      "null",
       "IDBS S2",
       "Initial D BATTLE STAGE 2",
       "Initial D: Battle Stage 2",
       "Initial D: Battle Stage II",
       "頭文字D Battle Stage 2",
       "頭文字D Extra Stage 2",
-      "頭文字[イニシャル]D BATTLE STAGE 2",
-      "頭文字[イニシャル]D Battle Stage 2",
+      "頭文字(イニシャル)D BATTLE STAGE 2",
+      "頭文字(イニシャル)D Battle Stage 2",
       "頭文字〈イニシャル〉D BATTLE STAGE 2"
     ],
     "shikimoriId": 3931,
@@ -8127,6 +8295,8 @@
       1674776401,
       1674776401
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "inicial-di-boevaya-stadiya-2"
   },
   {
@@ -8350,6 +8520,8 @@
       1788278371,
       1788278371
     ],
+    "totalEpisodes": 26,
+    "airedEpisodes": 26,
     "yummyAlias": "zavodnye-boycy-voyna-hio"
   },
   {
@@ -8466,6 +8638,8 @@
       1790454448,
       1790454448
     ],
+    "totalEpisodes": 26,
+    "airedEpisodes": 26,
     "yummyAlias": "superkniga-2"
   },
   {
@@ -8521,6 +8695,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 77,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -8588,6 +8764,8 @@
       1674827083,
       1674827083
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "huliganka-tie-film"
   },
   {
@@ -8595,7 +8773,7 @@
     "slugUrl": "dream:2600",
     "name": "Blue Seed 1.5",
     "rusName": "Голубое семя 1.5",
-    "engName": "null",
+    "engName": "Blue Seed Ver. 1.5 (Premium)",
     "coverUrl": "https://shikimori.one/system/animes/original/3952.jpg?1711944219",
     "coverFallbackUrl": "",
     "status": "released",
@@ -8619,13 +8797,12 @@
     ],
     "tags": [],
     "tagIds": [],
-    "anotherName": "Blue Seed Ver. 1.5 [Premium]",
+    "anotherName": "Blue Seed Ver. 1.5 (Premium)",
     "ruNames": [
       "Голубое семя 1.5"
     ],
     "enNames": [
-      "null",
-      "Blue Seed Ver. 1.5 [Premium]",
+      "Blue Seed Ver. 1.5 (Premium)",
       "Blue Seed Version 1.5",
       "ブルーシード 1.5"
     ],
@@ -8643,6 +8820,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 2,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -8650,7 +8829,7 @@
     "slugUrl": "dream:2601",
     "name": "Жгучий взор Шаны 2 — Спешлы",
     "rusName": "Жгучий взор Шаны 2 — Спешлы",
-    "engName": "null",
+    "engName": "Shakugan no Shana-tan Begins",
     "coverUrl": "https://static.yani.tv/posters/full/1636669193.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -8676,7 +8855,6 @@
       "Пламенный взор Шаны II: Спецвыпуски"
     ],
     "enNames": [
-      "null",
       "Shakugan no Shana-tan Begins",
       "Shakugan no Shana-tan & Yoshida: Fumina Konoe Strikes Back!",
       "Shakugan no Shana-tan Revenge",
@@ -8687,7 +8865,8 @@
       "Konoe Fumina Strikes Back",
       "Shakugan no Shana II (Second) Specials",
       "Shakugan no Shana II Specials",
-      "Shakugan no Shana II: Shana-tan"
+      "Shakugan no Shana II: Shana-tan",
+      "Shakugan no Shana Second Specials"
     ],
     "shikimoriId": 3956,
     "malId": 3956,
@@ -8710,6 +8889,8 @@
       1696425129,
       1696425129
     ],
+    "totalEpisodes": 3,
+    "airedEpisodes": 3,
     "yummyAlias": "zhguchiy-vzor-shani-spetsvipuski"
   },
   {
@@ -8907,6 +9088,8 @@
       1692296069,
       1692296069
     ],
+    "totalEpisodes": 13,
+    "airedEpisodes": 14,
     "yummyAlias": "kannagi-bogini-svyashennogo-dreva"
   },
   {
@@ -8914,7 +9097,7 @@
     "slugUrl": "dream:2603",
     "name": "Armored Core: Fort Tower Song",
     "rusName": "Бронированное Ядро",
-    "engName": "null",
+    "engName": "ARMORED CORE -FORT TOWER SONG-",
     "coverUrl": "https://shikimori.one/system/animes/original/3960.jpg?1711942327",
     "coverFallbackUrl": "",
     "status": "released",
@@ -8943,7 +9126,6 @@
       "Бронированное Ядро"
     ],
     "enNames": [
-      "null",
       "ARMORED CORE -FORT TOWER SONG-",
       "ARMORED CORE: FORT TOWER SONG"
     ],
@@ -8961,6 +9143,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -8968,7 +9152,7 @@
     "slugUrl": "dream:2604",
     "name": "Нелегальный шоколад",
     "rusName": "Нелегальный шоколад",
-    "engName": "null",
+    "engName": "Подземен Шоколад",
     "coverUrl": "https://static.yani.tv/posters/full/17607.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -8997,7 +9181,6 @@
       "Нелегальный шоколад"
     ],
     "enNames": [
-      "null",
       "Подземен Шоколад",
       "Подпольный Шоколад",
       "Шоколадне підпілля",
@@ -9096,6 +9279,8 @@
       1788267920,
       1788267920
     ],
+    "totalEpisodes": 13,
+    "airedEpisodes": 13,
     "yummyAlias": "nelegalnyy-shokolad"
   },
   {
@@ -9169,6 +9354,8 @@
       1677783942,
       1674776446
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "gandam-obedinenie-film-pervyy"
   },
   {
@@ -9242,6 +9429,8 @@
       1677783942,
       1674776446
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "gandam-obedinenie-film-vtoroy"
   },
   {
@@ -9249,7 +9438,7 @@
     "slugUrl": "dream:2607",
     "name": "Nodame Cantabile: Nodame to Chiaki no Umi Monogatari",
     "rusName": "Нодамэ Кантабиле: Спецвыпуск",
-    "engName": "null",
+    "engName": "Nodame and Chiaki Summer Tales",
     "coverUrl": "https://shikimori.one/system/animes/original/3965.jpg?1711966468",
     "coverFallbackUrl": "",
     "status": "released",
@@ -9278,7 +9467,6 @@
       "Нодамэ Кантабиле: Спецвыпуск"
     ],
     "enNames": [
-      "null",
       "Nodame and Chiaki Summer Tales",
       "Nodame Cantabile Special",
       "Nodame Cantabile",
@@ -9304,6 +9492,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -9374,6 +9564,8 @@
       1788266271,
       1788266271
     ],
+    "totalEpisodes": 3,
+    "airedEpisodes": 3,
     "yummyAlias": "dragun"
   },
   {
@@ -9441,6 +9633,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 24,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -10428,6 +10622,8 @@
       1788276887,
       1788276887
     ],
+    "totalEpisodes": 154,
+    "airedEpisodes": 154,
     "yummyAlias": "yugio-5d"
   },
   {
@@ -10435,7 +10631,7 @@
     "slugUrl": "dream:2611",
     "name": "Ikuze! Gen-san",
     "rusName": "Гэн",
-    "engName": "null",
+    "engName": "Ikuze Gensan",
     "coverUrl": "https://shikimori.one/system/animes/original/3973.jpg?1711954903",
     "coverFallbackUrl": "",
     "status": "released",
@@ -10460,7 +10656,6 @@
       "Гэн"
     ],
     "enNames": [
-      "null",
       "Ikuze Gensan",
       "Iku ze! Gen-san",
       "いくぜっ! 源さん",
@@ -10480,6 +10675,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 24,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -10487,7 +10684,7 @@
     "slugUrl": "dream:2612",
     "name": "Uchi no 3 Shimai",
     "rusName": "Три моих дочери",
-    "engName": "null",
+    "engName": "Uchi no 3Shimai",
     "coverUrl": "https://shikimori.one/system/animes/original/3975.jpg?1711978893",
     "coverFallbackUrl": "",
     "status": "released",
@@ -10514,7 +10711,6 @@
       "Три моих дочери"
     ],
     "enNames": [
-      "null",
       "Uchi no 3Shimai",
       "Uchi no San Shimai",
       "My 3 Daughters",
@@ -10540,6 +10736,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 102,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -10547,7 +10745,7 @@
     "slugUrl": "dream:2613",
     "name": "To Heart Omake",
     "rusName": "Для сердца: Спецвыпуски",
-    "engName": "null",
+    "engName": "To Heart Special Mini-Episodes",
     "coverUrl": "https://shikimori.one/system/animes/original/3977.jpg?1711977708",
     "coverFallbackUrl": "",
     "status": "released",
@@ -10576,7 +10774,6 @@
       "Для сердца: Спецвыпуски"
     ],
     "enNames": [
-      "null",
       "To Heart Special Mini-Episodes",
       "To Heart Specials",
       "To Heart: Eizou Tokuten",
@@ -10599,6 +10796,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 6,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -10642,7 +10841,7 @@
       "沙漠蔷薇 雪之默示录",
       "砂の薔薇",
       "砂の薔薇 雪の黙示録",
-      "砂の薔薇[デザート・ローズ] 雪の黙示録"
+      "砂の薔薇(デザート・ローズ) 雪の黙示録"
     ],
     "shikimoriId": 3989,
     "malId": 3989,
@@ -10660,6 +10859,8 @@
     "episodeDates": [
       1674776480
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "roza-pustyni-snezhnyy-apokalipsis"
   },
   {
@@ -10715,6 +10916,8 @@
     "episodeDates": [
       1674776284
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "pauk-i-tyulpan"
   },
   {
@@ -10786,6 +10989,8 @@
       1674776475,
       1674776475
     ],
+    "totalEpisodes": 6,
+    "airedEpisodes": 6,
     "yummyAlias": "otryad-volshebnic-alisy-ova"
   },
   {
@@ -10793,7 +10998,7 @@
     "slugUrl": "dream:2617",
     "name": "Рэм, охотница на мечту",
     "rusName": "Рэм, охотница на мечту",
-    "engName": "null",
+    "engName": "Рэм, ловец снов",
     "coverUrl": "https://static.yani.tv/posters/full/1636666936.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -10824,7 +11029,6 @@
       "Рэм, охотница на мечту"
     ],
     "enNames": [
-      "null",
       "Рэм, ловец снов",
       "DREAM HUNTER 麗夢",
       "Dream Hunter REM",
@@ -10849,6 +11053,8 @@
       1682617523,
       1682617523
     ],
+    "totalEpisodes": 4,
+    "airedEpisodes": 3,
     "yummyAlias": "rem-ohotnitsa-na-mechtu"
   },
   {
@@ -10912,6 +11118,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 50,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -10979,6 +11187,8 @@
       1674776187,
       1674776187
     ],
+    "totalEpisodes": 3,
+    "airedEpisodes": 3,
     "yummyAlias": "sverhchelovek-lok-ova-1"
   },
   {
@@ -11060,6 +11270,8 @@
       1787924803,
       1787924803
     ],
+    "totalEpisodes": 2,
+    "airedEpisodes": 2,
     "yummyAlias": "shkolnyy-perepoloh-ova-2"
   },
   {
@@ -11115,6 +11327,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 16,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -11122,7 +11336,7 @@
     "slugUrl": "dream:2622",
     "name": "Asobou! Hello Kitty",
     "rusName": "Китти: Рассказы",
-    "engName": "null",
+    "engName": "Hello Kitty: Let's Play",
     "coverUrl": "https://shikimori.one/system/animes/original/4025.jpg?1711942629",
     "coverFallbackUrl": "",
     "status": "released",
@@ -11151,7 +11365,6 @@
       "Китти: Рассказы"
     ],
     "enNames": [
-      "null",
       "Hello Kitty: Let's Play",
       "Hello Kitty & Friends",
       "Asobou!! Hello Kitty",
@@ -11162,7 +11375,8 @@
       "Kizia i Mizia",
       "Kocie opowieści",
       "Let's play! Hello Kitty",
-      "Let’s play! Hello Kitty"
+      "Let’s play! Hello Kitty",
+      "あそぼう!! ハローキティ"
     ],
     "shikimoriId": 4025,
     "malId": 4025,
@@ -11178,6 +11392,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 26,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -11247,6 +11463,8 @@
       1717322554,
       1717322554
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "pokemon-almaz-i-zhemchug-giratina-i-nebesnyj-buket-shejmi"
   },
   {
@@ -11254,7 +11472,7 @@
     "slugUrl": "dream:2624",
     "name": "Рубаки: Революция",
     "rusName": "Рубаки: Революция",
-    "engName": "null",
+    "engName": "Slayers 4th Season",
     "coverUrl": "https://static.yani.tv/posters/full/16727.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -11283,7 +11501,6 @@
       "Рубаки: Революция"
     ],
     "enNames": [
-      "null",
       "Slayers 4th Season",
       "Slayers 4th Series",
       "Slayers (TV 2008)",
@@ -11294,7 +11511,8 @@
       "Slayers -A kis boszorkány",
       "Slayers REVOLUTION",
       "Slayers Series 4",
-      "Slayers: A kis boszorkány IV/I"
+      "Slayers: A kis boszorkány IV/I",
+      "Slayers: Magiczni wojownicy IV"
     ],
     "shikimoriId": 4028,
     "malId": 4028,
@@ -11385,6 +11603,8 @@
       1697024334,
       1697024334
     ],
+    "totalEpisodes": 13,
+    "airedEpisodes": 13,
     "yummyAlias": "rubaki-revolyuciya"
   },
   {
@@ -11456,6 +11676,8 @@
       1674826827,
       1760973223
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "vpered-shkolnik-film"
   },
   {
@@ -11522,6 +11744,8 @@
     "episodeDates": [
       1674776469
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "idolmaster-zhivu-dlya-vas"
   },
   {
@@ -11589,6 +11813,8 @@
       1674776017,
       1697024200
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "kovboy-bibop-sessiya-xx"
   },
   {
@@ -12012,6 +12238,8 @@
       1788265589,
       1788265589
     ],
+    "totalEpisodes": 51,
+    "airedEpisodes": 51,
     "yummyAlias": "voshititelnye-deti"
   },
   {
@@ -12380,6 +12608,8 @@
       1788275559,
       1788275559
     ],
+    "totalEpisodes": 50,
+    "airedEpisodes": 50,
     "yummyAlias": "golgo-13-tv"
   },
   {
@@ -12439,6 +12669,8 @@
       1674826863,
       1674826863
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "bazuka-hanappe"
   },
   {
@@ -12500,6 +12732,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 26,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -12564,6 +12798,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 26,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -12623,6 +12859,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 52,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -12688,6 +12926,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 51,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -12751,6 +12991,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 39,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -12856,6 +13098,8 @@
       1788266139,
       1788266139
     ],
+    "totalEpisodes": 7,
+    "airedEpisodes": 7,
     "yummyAlias": "princ-tennisa-ova-3"
   },
   {
@@ -12898,7 +13142,7 @@
     "enNames": [
       "Clannad: Another World, Tomoyo Chapter",
       "Clannad OVA",
-      "-クラナド-　もうひとつの世界　智代編",
+      "-クラナド- もうひとつの世界 智代編",
       "Another World: Tomoyo Arc",
       "CLANNAD: Mou Hitotsu no Sekai, Tomoyo-hen",
       "Clannad : Un autre monde - Tomoyo After",
@@ -12928,6 +13172,8 @@
       1789145352,
       1704628492
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "klannad-drugoy-mir-glava-tomoe"
   },
   {
@@ -12993,6 +13239,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 24,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -13058,6 +13306,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 23,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -13065,7 +13315,7 @@
     "slugUrl": "dream:2640",
     "name": "Меч Мусаси",
     "rusName": "Меч Мусаси",
-    "engName": "null",
+    "engName": "The Sword of Musashi",
     "coverUrl": "https://static.yani.tv/posters/full/16095.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -13092,7 +13342,6 @@
       "Меч Мусаси"
     ],
     "enNames": [
-      "null",
       "The Sword of Musashi",
       "六三四の剣",
       "劍擊小精靈"
@@ -13544,6 +13793,8 @@
       1788266327,
       1788266327
     ],
+    "totalEpisodes": 72,
+    "airedEpisodes": 72,
     "yummyAlias": "mech-musasi"
   },
   {
@@ -13710,6 +13961,8 @@
       1697024457,
       1697024457
     ],
+    "totalEpisodes": 12,
+    "airedEpisodes": 13,
     "yummyAlias": "sekirey-1"
   },
   {
@@ -13882,6 +14135,8 @@
       1697060058,
       1697060058
     ],
+    "totalEpisodes": 26,
+    "airedEpisodes": 26,
     "yummyAlias": "titaniya"
   },
   {
@@ -13964,6 +14219,8 @@
       1724608340,
       1724608340
     ],
+    "totalEpisodes": 46,
+    "airedEpisodes": 10,
     "yummyAlias": "pukka-ona"
   },
   {
@@ -14021,6 +14278,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -14082,6 +14341,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -14089,7 +14350,7 @@
     "slugUrl": "dream:2646",
     "name": "Отныне Мао, король демонов! 3",
     "rusName": "Отныне Мао, король демонов! 3",
-    "engName": "null",
+    "engName": "Kyou Kara Maou! Dai San Series",
     "coverUrl": "https://static.yani.tv/posters/full/17475.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -14120,7 +14381,6 @@
       "Отныне Мао, король демонов! 3"
     ],
     "enNames": [
-      "null",
       "Kyou Kara Maou! Dai San Series",
       "Kyou Kara Maoh! Third Series",
       "Kyou Kara Maoh! Season 3",
@@ -14131,7 +14391,8 @@
       "Kyo kara Maoh! 3rd Series",
       "Kyou Kara Maoh! - 3rd Series",
       "Kyou Kara Maou! - 3rd Series",
-      "Kyou Kara Maou! 3rd Series"
+      "Kyou Kara Maou! 3rd Series",
+      "Kyou kara Maou!"
     ],
     "shikimoriId": 4080,
     "malId": 4080,
@@ -14265,6 +14526,8 @@
       1674776444,
       1674776444
     ],
+    "totalEpisodes": 39,
+    "airedEpisodes": 39,
     "yummyAlias": "otnyne-mao-korol-demonov-tretiy-sezon"
   },
   {
@@ -14467,6 +14730,8 @@
       1766533419,
       1766533419
     ],
+    "totalEpisodes": 13,
+    "airedEpisodes": 13,
     "yummyAlias": "tetrad-druzhby-nacume-pervyy-sezon"
   },
   {
@@ -14519,7 +14784,7 @@
       "Princess Resurrection Episode 26",
       "Princess Resurrection: Princess Comatose",
       "怪物王女 昏睡王女",
-      "怪物王女　第26話「昏睡王女」",
+      "怪物王女 第26話「昏睡王女」",
       "怪物王女：昏睡王女"
     ],
     "shikimoriId": 4082,
@@ -14538,6 +14803,8 @@
     "episodeDates": [
       1710824643
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "printsessa-chudovishch-spyashchaya-printsessa"
   },
   {
@@ -14545,7 +14812,7 @@
     "slugUrl": "dream:2649",
     "name": "Yonimo Osoroshii Grimm Douwa",
     "rusName": "Исключительно ужасные сказки Гримм",
-    "engName": "null",
+    "engName": "The Truth of Grimm Brothers' Fairy Tale",
     "coverUrl": "https://shikimori.one/system/animes/original/4085.jpg?1711982647",
     "coverFallbackUrl": "",
     "status": "released",
@@ -14574,7 +14841,6 @@
       "Исключительно ужасные сказки Гримм"
     ],
     "enNames": [
-      "null",
       "The Truth of Grimm Brothers' Fairy Tale",
       "Otona no Douwa",
       "Otona no Dowa",
@@ -14585,7 +14851,8 @@
       "Otona no Douwa Series: Yonimo Osoroshii Grimm Douwa",
       "The Truth of Grimm Brother’s Fairy Tales",
       "Yonimo Osoroshī Grimm Dōwa",
-      "オトナの童話シリーズ 世にも恐ろしいグリム童話"
+      "オトナの童話シリーズ 世にも恐ろしいグリム童話",
+      "世にも恐ろしいグリム童話"
     ],
     "shikimoriId": 4085,
     "malId": 4085,
@@ -14601,6 +14868,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 3,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -14608,7 +14877,7 @@
     "slugUrl": "dream:2650",
     "name": "Mukamuka Paradise",
     "rusName": "Рай для динозаврика Мука-Мука",
-    "engName": "null",
+    "engName": "Mukamuka",
     "coverUrl": "https://shikimori.one/system/animes/original/4086.jpg?1711964921",
     "coverFallbackUrl": "",
     "status": "released",
@@ -14635,7 +14904,6 @@
       "Рай для динозаврика Мука-Мука"
     ],
     "enNames": [
-      "null",
       "Mukamuka",
       "Khủng Long Con Ham Ăn",
       "Muka Muka",
@@ -14646,7 +14914,8 @@
       "muka",
       "Рай для динозаврика Мука-Мука",
       "موكا موكا",
-      "ムカムカパラダイス"
+      "ムカムカパラダイス",
+      "为食龙少爷"
     ],
     "shikimoriId": 4086,
     "malId": 4086,
@@ -14662,6 +14931,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 51,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -14879,6 +15150,8 @@
       1787731465,
       1787731465
     ],
+    "totalEpisodes": 22,
+    "airedEpisodes": 22,
     "yummyAlias": "mitiko-i-hattin"
   },
   {
@@ -14927,8 +15200,8 @@
       "The Amazing Three",
       "W 3",
       "W3(ワンダースリー)",
-      "W3[ワンダースリー]",
-      "wonder3"
+      "wonder3",
+      "ワンダースリー"
     ],
     "shikimoriId": 4088,
     "malId": 4088,
@@ -14944,6 +15217,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 52,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -15001,6 +15276,8 @@
     "episodeDates": [
       1674826933
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "illyuzornye-zvuki-zerkala"
   },
   {
@@ -15068,6 +15345,8 @@
     "episodeDates": [
       1697060100
     ],
+    "totalEpisodes": 6,
+    "airedEpisodes": 1,
     "yummyAlias": "betmen-rycar-gotema"
   },
   {
@@ -15075,7 +15354,7 @@
     "slugUrl": "dream:2655",
     "name": "Ресторан многих заказов",
     "rusName": "Ресторан многих заказов",
-    "engName": "null",
+    "engName": "Ресторан многих заказов",
     "coverUrl": "https://static.yani.tv/posters/full/17098.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -15105,7 +15384,6 @@
       "Популярный ресторан (1991)"
     ],
     "enNames": [
-      "null",
       "Ресторан многих заказов",
       "Ресторан, где много заказов",
       "A Well-Ordered Restaurant",
@@ -15116,7 +15394,8 @@
       "Lokal pełen próśb",
       "The Restaurant of Many Orders (1991)",
       "注文の多い料理店",
-      "注文の多い料理店 (1991)"
+      "注文の多い料理店 (1991)",
+      "注文の多い料理店 （1991）"
     ],
     "shikimoriId": 4095,
     "malId": 4095,
@@ -15134,6 +15413,8 @@
     "episodeDates": [
       1674776379
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "restoran-mnogih-zakazov"
   },
   {
@@ -15183,6 +15464,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -15239,6 +15522,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -15246,7 +15531,7 @@
     "slugUrl": "dream:2658",
     "name": "Urarochi Diamond",
     "rusName": "Алмаз Урародзи",
-    "engName": "null",
+    "engName": "Uraroji Diamond",
     "coverUrl": "https://shikimori.one/system/animes/original/4098.jpg?1711979442",
     "coverFallbackUrl": "",
     "status": "released",
@@ -15271,7 +15556,6 @@
       "Алмаз Урародзи"
     ],
     "enNames": [
-      "null",
       "Uraroji Diamond",
       "裏路地ダイヤモンド"
     ],
@@ -15289,6 +15573,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -15296,7 +15582,7 @@
     "slugUrl": "dream:2659",
     "name": "Appaga Piryohae",
     "rusName": "Папочка Волк",
-    "engName": "null",
+    "engName": "Wolf Daddy",
     "coverUrl": "https://shikimori.one/system/animes/original/4099.jpg?1711941801",
     "coverFallbackUrl": "",
     "status": "released",
@@ -15321,7 +15607,6 @@
       "Папочка Волк"
     ],
     "enNames": [
-      "null",
       "Wolf Daddy",
       "Wolf Daddy (ウルフ・ダディ)",
       "아빠가 필요해"
@@ -15340,6 +15625,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -15347,7 +15634,7 @@
     "slugUrl": "dream:2660",
     "name": "Oval x Over",
     "rusName": "Овал х Овер",
-    "engName": "null",
+    "engName": "OVAL x OVER",
     "coverUrl": "https://shikimori.one/system/animes/original/4103.jpg?1711968211",
     "coverFallbackUrl": "",
     "status": "released",
@@ -15372,7 +15659,6 @@
       "Овал х Овер"
     ],
     "enNames": [
-      "null",
       "OVAL x OVER",
       "OVAL × OVER",
       "OVALxOVER",
@@ -15393,6 +15679,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -15400,7 +15688,7 @@
     "slugUrl": "dream:2661",
     "name": "Mini Moni the TV",
     "rusName": "Мини Мони (2003)",
-    "engName": "null",
+    "engName": "Mini Moni ja TV",
     "coverUrl": "https://shikimori.one/system/animes/original/4104.jpg?1711963941",
     "coverFallbackUrl": "",
     "status": "released",
@@ -15425,7 +15713,6 @@
       "Мини Мони (2003)"
     ],
     "enNames": [
-      "null",
       "Mini Moni ja TV",
       "Mini Moni",
       "ミニモニ. じゃてーびぃ",
@@ -15446,6 +15733,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 15,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -15527,6 +15816,8 @@
       1706949273,
       1789133171
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "trugan-zavaryshka-v-nystoshax"
   },
   {
@@ -15592,6 +15883,8 @@
     "episodeDates": [
       0
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "gurren-lagann-fil-m-pervyj"
   },
   {
@@ -15599,7 +15892,7 @@
     "slugUrl": "dream:2664",
     "name": "Пожалуйста, Моя Мелодия 2",
     "rusName": "Пожалуйста, Моя Мелодия 2",
-    "engName": "null",
+    "engName": "My Melody: Segunda Temporada",
     "coverUrl": "https://static.yani.tv/posters/full/1636824582.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -15626,7 +15919,6 @@
       "Пожалуйста, Моя Мелодия 2"
     ],
     "enNames": [
-      "null",
       "My Melody: Segunda Temporada",
       "My Melody: Sogni di magia",
       "Onegai My Melody - Kuru Kuru Shuffle!",
@@ -15953,6 +16245,8 @@
       1746560671,
       1746560671
     ],
+    "totalEpisodes": 52,
+    "airedEpisodes": 52,
     "yummyAlias": "pozhaluysta-moya-melodiya-2"
   },
   {
@@ -16014,6 +16308,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 43,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -16072,6 +16368,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 40,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -16079,7 +16377,7 @@
     "slugUrl": "dream:2667",
     "name": "Чиби-Ева: Школьные дни",
     "rusName": "Чиби-Ева: Школьные дни",
-    "engName": "null",
+    "engName": "Ева: Школьные дни",
     "coverUrl": "https://static.yani.tv/posters/full/1636668271.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -16107,7 +16405,6 @@
       "Тиби-Ева: Школьные дни"
     ],
     "enNames": [
-      "null",
       "Ева: Школьные дни",
       "Puchi Eva",
       "Eva-School",
@@ -16118,7 +16415,8 @@
       "Klein-Eva: Evangelion in der Schule",
       "Petit Eva - Evangelion@School",
       "Puchi Eva: Evangelion@School",
-      "eva (2007)"
+      "eva (2007)",
+      "Чиби Ева"
     ],
     "shikimoriId": 4130,
     "malId": 4130,
@@ -16140,6 +16438,8 @@
       1674776009,
       1674776009
     ],
+    "totalEpisodes": 24,
+    "airedEpisodes": 2,
     "yummyAlias": "tibi-eva-shkolnye-dni"
   },
   {
@@ -16207,6 +16507,8 @@
       1722701572,
       1722701572
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "naruto-uragannie-hroniki-shkola-konohi"
   },
   {
@@ -16337,6 +16639,8 @@
       1697024542,
       1697024542
     ],
+    "totalEpisodes": 22,
+    "airedEpisodes": 22,
     "yummyAlias": "devochka-pingvin"
   },
   {
@@ -16406,6 +16710,8 @@
     "sourceWork": "Оригинальная идея",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 3,
+    "airedEpisodes": 0,
     "yummyAlias": "priklyucheniya-pingvinenka-lolo"
   },
   {
@@ -16463,6 +16769,8 @@
       1722088610,
       1722088610
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "sobachya-kakashka"
   },
   {
@@ -16470,7 +16778,7 @@
     "slugUrl": "dream:2672",
     "name": "Розовый космический шок",
     "rusName": "Розовый космический шок",
-    "engName": "null",
+    "engName": "COSMOS ピンクショック",
     "coverUrl": "https://static.yani.tv/posters/full/16310.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -16499,11 +16807,9 @@
       "Розовый космический шок"
     ],
     "enNames": [
-      "null",
       "COSMOS ピンクショック",
       "COSMOSピンクショック",
       "コスモス ピンクショック",
-      "コスモス　ピンクショック",
       "コスモスピンクショック",
       "コスモス・ピンクショック"
     ],
@@ -16524,6 +16830,8 @@
       1674776233,
       1697059819
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "rozovyy-kosmicheskiy-shok"
   },
   {
@@ -16703,6 +17011,8 @@
       1724552277,
       1724552277
     ],
+    "totalEpisodes": 13,
+    "airedEpisodes": 13,
     "yummyAlias": "klinok-bessmertnogo"
   },
   {
@@ -16752,9 +17062,9 @@
       "Yattodetaman",
       "Ο Αγγελιοφόρος από το μέλλον",
       "タイムボカンシリーズ ヤットデタマン",
-      "タイムボカンシリーズ　ヤットデタマン",
       "Calendar Man - Yattodetaman",
-      "W Królestwie Kalendarza"
+      "W Królestwie Kalendarza",
+      "ヤットデタマン"
     ],
     "shikimoriId": 4154,
     "malId": 4154,
@@ -16770,6 +17080,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 52,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -16846,6 +17158,8 @@
       1753435533,
       1789133102
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "van-pis-fil-m-desyatyj"
   },
   {
@@ -16903,6 +17217,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -16973,6 +17289,8 @@
       1719771612,
       1719764736
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "vi-arestovani-zanyatniy-trafik-na-plyazhe"
   },
   {
@@ -17056,6 +17374,8 @@
       1788263910,
       1788263910
     ],
+    "totalEpisodes": 2,
+    "airedEpisodes": 2,
     "yummyAlias": "morskaya-nevesta-ova"
   },
   {
@@ -17121,6 +17441,8 @@
       1674776181,
       1674776181
     ],
+    "totalEpisodes": 2,
+    "airedEpisodes": 2,
     "yummyAlias": "dlya-serdca-2-ova-2"
   },
   {
@@ -17128,7 +17450,7 @@
     "slugUrl": "dream:2680",
     "name": "Shigofumi Picture Drama",
     "rusName": "Сигофуми: Спецвыпуски",
-    "engName": "null",
+    "engName": "Shigofumi ~Stories of Last Letter~ Picture Drama",
     "coverUrl": "https://shikimori.one/system/animes/original/4173.jpg?1711973194",
     "coverFallbackUrl": "",
     "status": "released",
@@ -17153,7 +17475,6 @@
       "Сигофуми: Спецвыпуски"
     ],
     "enNames": [
-      "null",
       "Shigofumi ~Stories of Last Letter~ Picture Drama",
       "Shigofumi Picture Dramas",
       "Shigofumi: Letters from the Departed Picture Dramas",
@@ -17174,6 +17495,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 7,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -17181,7 +17504,7 @@
     "slugUrl": "dream:2681",
     "name": "Претендентки",
     "rusName": "Претендентки",
-    "engName": "null",
+    "engName": "Упорные",
     "coverUrl": "https://static.yani.tv/posters/full/17950.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -17210,7 +17533,6 @@
       "Претендентки"
     ],
     "enNames": [
-      "null",
       "Упорные",
       "Wannabes",
       "Wanna-Be’s",
@@ -17232,6 +17554,8 @@
     "episodeDates": [
       1674776533
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "pretendentki"
   },
   {
@@ -17428,6 +17752,8 @@
       1674776370,
       1674776370
     ],
+    "totalEpisodes": 26,
+    "airedEpisodes": 26,
     "yummyAlias": "ksamd-pozabyvshiy-nevzgody"
   },
   {
@@ -17669,6 +17995,8 @@
       1755174153,
       1755174153
     ],
+    "totalEpisodes": 24,
+    "airedEpisodes": 25,
     "yummyAlias": "klannad-2"
   },
   {
@@ -17734,6 +18062,8 @@
       1701980095,
       1701980175
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "temnee-chernogo-cherniy-kontraktor"
   },
   {
@@ -17796,6 +18126,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 50,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -17971,6 +18303,8 @@
       1678402726,
       1678664920
     ],
+    "totalEpisodes": 24,
+    "airedEpisodes": 24,
     "yummyAlias": "hromirovannyy-regios"
   },
   {
@@ -18021,6 +18355,8 @@
     "sourceWork": "Манга",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": "megumi"
   },
   {
@@ -18028,7 +18364,7 @@
     "slugUrl": "dream:2688",
     "name": "Волшебный учитель Нэгима! — OVA-3",
     "rusName": "Волшебный учитель Нэгима! — OVA-3",
-    "engName": "null",
+    "engName": "Magister Negi Magi: Ala Alba",
     "coverUrl": "https://static.yani.tv/posters/full/17637.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -18068,7 +18404,6 @@
       "Волшебный учитель Нэгима! Белые крылья"
     ],
     "enNames": [
-      "null",
       "Magister Negi Magi: Ala Alba",
       "Magical Teacher Negima! ~The White Wing~",
       "Magical Teacher Negima! - The White Wing",
@@ -18079,7 +18414,8 @@
       "Mahō Sensei Negima!: Shiroki Tsubasa Ala Alba",
       "msn ova 3",
       "negima ova 3",
-      "negimagi ova 3"
+      "negimagi ova 3",
+      "魔法先生ネギま! ~白き翼 ALA ALBA~"
     ],
     "shikimoriId": 4188,
     "malId": 4188,
@@ -18102,6 +18438,8 @@
       1751853749,
       1751853749
     ],
+    "totalEpisodes": 3,
+    "airedEpisodes": 3,
     "yummyAlias": "volshebnyy-uchitel-negima-ova-3"
   },
   {
@@ -18325,6 +18663,8 @@
       1674827158,
       1674827158
     ],
+    "totalEpisodes": 26,
+    "airedEpisodes": 27,
     "yummyAlias": "zimnyaya-sonata"
   },
   {
@@ -18332,7 +18672,7 @@
     "slugUrl": "dream:2690",
     "name": "Harukanaru Toki no Naka de 3: Kurenai no Tsuki Special",
     "rusName": "В далёкие времена: Алая луна — Спецвыпуск",
-    "engName": "null",
+    "engName": "Ryuujin Onsen Batsu Game no Maki",
     "coverUrl": "https://shikimori.one/system/animes/original/4190.jpg?1711952853",
     "coverFallbackUrl": "",
     "status": "released",
@@ -18359,7 +18699,6 @@
       "В далёкие времена: Алая луна — Спецвыпуск"
     ],
     "enNames": [
-      "null",
       "Ryuujin Onsen Batsu Game no Maki",
       "Ryuujin Onsen Punishment Game Chapter",
       "Haruka Naru Toki no Naka de 3: Kurenai no Tsuki Special",
@@ -18383,6 +18722,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -18441,6 +18782,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 25,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -18448,7 +18791,7 @@
     "slugUrl": "dream:2692",
     "name": "Детское время: Второй семестр",
     "rusName": "Детское время: Второй семестр",
-    "engName": "null",
+    "engName": "Детское время 2",
     "coverUrl": "https://static.yani.tv/posters/full/1636667476.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -18477,7 +18820,6 @@
       "Детское время: Второй семестр"
     ],
     "enNames": [
-      "null",
       "Детское время 2",
       "Kodomo no Jikan: Second Term",
       "Kodomo no Jikan OVA 3",
@@ -18488,7 +18830,8 @@
       "Kodomo no Jikan: Ni Gakki",
       "Kojika",
       "kojikan 2",
-      "kojikan ova"
+      "kojikan ova",
+      "こどものじかん 2学期"
     ],
     "shikimoriId": 4195,
     "malId": 4195,
@@ -18512,6 +18855,8 @@
       1674776390,
       1674776390
     ],
+    "totalEpisodes": 3,
+    "airedEpisodes": 3,
     "yummyAlias": "detskoe-vremya-ova-1"
   },
   {
@@ -18681,6 +19026,8 @@
       1751854468,
       1751854468
     ],
+    "totalEpisodes": 51,
+    "airedEpisodes": 51,
     "yummyAlias": "siniy-drakon-vtoroy-sezon"
   },
   {
@@ -18688,7 +19035,7 @@
     "slugUrl": "dream:2694",
     "name": "Koutetsu Jeeg",
     "rusName": "Стальной Джиг",
-    "engName": "null",
+    "engName": "Kotetsu Jeeg",
     "coverUrl": "https://shikimori.one/system/animes/original/4198.jpg?1711959847",
     "coverFallbackUrl": "",
     "status": "released",
@@ -18719,7 +19066,6 @@
       "Стальной Джиг"
     ],
     "enNames": [
-      "null",
       "Kotetsu Jeeg",
       "Steel Jeeg",
       "Zieg",
@@ -18730,7 +19076,8 @@
       "Jeeg Robot, uomo d’acciaio",
       "Jeeg robot d’acciaio",
       "Jeeg, the Steel Robot",
-      "Kotetsu Jeegu"
+      "Kotetsu Jeegu",
+      "Kotetsu Zieg"
     ],
     "shikimoriId": 4198,
     "malId": 4198,
@@ -18746,6 +19093,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 46,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -18753,7 +19102,7 @@
     "slugUrl": "dream:2695",
     "name": "Грязная парочка — OVA",
     "rusName": "Грязная парочка — OVA",
-    "engName": "null",
+    "engName": "Original Dirty Pair",
     "coverUrl": "https://static.yani.tv/posters/full/16856.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -18785,7 +19134,6 @@
       "Грязная парочка OVA"
     ],
     "enNames": [
-      "null",
       "Original Dirty Pair",
       "Dirty Pair (1987)",
       "ダーティペア",
@@ -18839,6 +19187,8 @@
       1754874183,
       1754874183
     ],
+    "totalEpisodes": 10,
+    "airedEpisodes": 10,
     "yummyAlias": "gryaznaya-parochka-ova"
   },
   {
@@ -18895,6 +19245,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 2,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -18956,6 +19308,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 51,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -18963,7 +19317,7 @@
     "slugUrl": "dream:2698",
     "name": "Миссия-Е",
     "rusName": "Миссия-Е",
-    "engName": "null",
+    "engName": "Code-E 2nd Season",
     "coverUrl": "https://static.yani.tv/posters/full/1636818056.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -18994,7 +19348,6 @@
       "Миссия-Е"
     ],
     "enNames": [
-      "null",
       "Code-E 2nd Season",
       "MISSION-E"
     ],
@@ -19025,6 +19378,8 @@
       1674826854,
       1674826854
     ],
+    "totalEpisodes": 12,
+    "airedEpisodes": 12,
     "yummyAlias": "missiya-e"
   },
   {
@@ -19078,6 +19433,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -19142,6 +19499,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 25,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -19149,7 +19508,7 @@
     "slugUrl": "dream:2701",
     "name": "Кудзира: Последний экзамен OVA",
     "rusName": "Кудзира: Последний экзамен OVA",
-    "engName": "null",
+    "engName": "Saishuu Shiken Kujira OVA",
     "coverUrl": "https://static.yani.tv/posters/full/16612.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -19176,7 +19535,6 @@
       "Кудзира: Последний экзамен OVA"
     ],
     "enNames": [
-      "null",
       "Saishuu Shiken Kujira OVA",
       "Final Examination Kujira Progressive",
       "Saishū Shiken Kujira Progressive",
@@ -19198,6 +19556,8 @@
     "episodeDates": [
       1674776289
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "kudzira-posledniy-ekzamen-ova"
   },
   {
@@ -19337,6 +19697,8 @@
       1674775944,
       1674775944
     ],
+    "totalEpisodes": 13,
+    "airedEpisodes": 13,
     "yummyAlias": "rozario-vampir-2"
   },
   {
@@ -19389,6 +19751,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -19396,7 +19760,7 @@
     "slugUrl": "dream:2704",
     "name": "Okon Joururi",
     "rusName": "Баллада Окона",
-    "engName": "null",
+    "engName": "The Ballad Drama of Okon",
     "coverUrl": "https://shikimori.one/system/animes/original/4220.jpg?1711967375",
     "coverFallbackUrl": "",
     "status": "released",
@@ -19425,7 +19789,6 @@
       "Баллада Окона"
     ],
     "enNames": [
-      "null",
       "The Ballad Drama of Okon",
       "The Magic Ballad",
       "The Magic Fox",
@@ -19447,6 +19810,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -20026,6 +20391,8 @@
       1751851209,
       1701465594
     ],
+    "totalEpisodes": 25,
+    "airedEpisodes": 26,
     "yummyAlias": "toradora"
   },
   {
@@ -20107,6 +20474,8 @@
       1788275265,
       1788275265
     ],
+    "totalEpisodes": 3,
+    "airedEpisodes": 3,
     "yummyAlias": "mobilnyy-dospeh-gandam-ms-igloo-2-prityazhenie-k-frontu"
   },
   {
@@ -20174,6 +20543,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 39,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -20237,6 +20608,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 39,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -20296,6 +20669,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 43,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -20366,6 +20741,8 @@
       1697060063,
       1720656569
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "evrika-7-psalmy-planet"
   },
   {
@@ -20427,6 +20804,8 @@
       1674776246,
       1790629574
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "da-eto-zhe-nlo"
   },
   {
@@ -20434,7 +20813,7 @@
     "slugUrl": "dream:2712",
     "name": "Исследовательница Рэй",
     "rusName": "Исследовательница Рэй",
-    "engName": "null",
+    "engName": "EXPLORER WOMAN RAY",
     "coverUrl": "https://static.yani.tv/posters/full/1636666973.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -20461,7 +20840,6 @@
       "Исследовательница Рэй"
     ],
     "enNames": [
-      "null",
       "EXPLORER WOMAN RAY",
       "EXPLORER WOMAN RAY (エクスプローラーウーマン・レイ)",
       "EXPLORER-WOMAN RAY",
@@ -20486,6 +20864,8 @@
       1674827052,
       1674827052
     ],
+    "totalEpisodes": 2,
+    "airedEpisodes": 2,
     "yummyAlias": "issledovatelnica-rey"
   },
   {
@@ -20570,6 +20950,8 @@
       1751853752,
       1751853752
     ],
+    "totalEpisodes": 12,
+    "airedEpisodes": 12,
     "yummyAlias": "ultrafiolet-kod-044"
   },
   {
@@ -20577,7 +20959,7 @@
     "slugUrl": "dream:2714",
     "name": "Vie Durant",
     "rusName": "Вай Дюрант",
-    "engName": "null",
+    "engName": "VIE DURANT",
     "coverUrl": "https://shikimori.one/system/animes/original/4266.jpg?1711979743",
     "coverFallbackUrl": "",
     "status": "released",
@@ -20606,7 +20988,6 @@
       "Вай Дюрант"
     ],
     "enNames": [
-      "null",
       "VIE DURANT",
       "Vie Durant ヴィ・デュラン",
       "ヴィ·デュラン",
@@ -20626,6 +21007,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 8,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -20704,6 +21087,8 @@
       0,
       0
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "granica-pustoty-4-hram-pustoty"
   },
   {
@@ -20788,6 +21173,8 @@
       0,
       1725041077
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "granica-pustoty-5-spiral-paradoksa"
   },
   {
@@ -20843,6 +21230,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 48,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -20896,6 +21285,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 6,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -20951,6 +21342,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -21018,6 +21411,8 @@
       1674776600,
       1789134612
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "kulak-severnoy-zvezdy-legenda-toki"
   },
   {
@@ -21025,7 +21420,7 @@
     "slugUrl": "dream:2721",
     "name": "Nanami-chan 2nd Series",
     "rusName": "Нанами 2",
-    "engName": "null",
+    "engName": "Nanami-chan 2",
     "coverUrl": "https://shikimori.one/system/animes/original/4314.jpg?1711965453",
     "coverFallbackUrl": "",
     "status": "released",
@@ -21052,7 +21447,6 @@
       "Нанами 2"
     ],
     "enNames": [
-      "null",
       "Nanami-chan 2",
       "ななみちゃん 第2シリーズ"
     ],
@@ -21070,6 +21464,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 16,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -21077,7 +21473,7 @@
     "slugUrl": "dream:2722",
     "name": "Nanami-chan 3rd Series",
     "rusName": "Нанами 3",
-    "engName": "null",
+    "engName": "Nanami-chan 3",
     "coverUrl": "https://shikimori.one/system/animes/original/4316.jpg?1711965522",
     "coverFallbackUrl": "",
     "status": "released",
@@ -21104,7 +21500,6 @@
       "Нанами 3"
     ],
     "enNames": [
-      "null",
       "Nanami-chan 3",
       "ななみちゃん 第3シリーズ",
       "ななみちゃん 第三期"
@@ -21123,6 +21518,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 16,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -21192,6 +21589,8 @@
       1788267938,
       1788267938
     ],
+    "totalEpisodes": 2,
+    "airedEpisodes": 2,
     "yummyAlias": "vek-drakona"
   },
   {
@@ -21251,6 +21650,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 23,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -21303,6 +21704,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 12,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -21364,6 +21767,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 6,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -21459,6 +21864,8 @@
       1751853940,
       1751853940
     ],
+    "totalEpisodes": 13,
+    "airedEpisodes": 13,
     "yummyAlias": "fayrbol-1"
   },
   {
@@ -21529,6 +21936,8 @@
       1674776321,
       1789134038
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "kosmicheskiy-voin-baldios"
   },
   {
@@ -21536,7 +21945,7 @@
     "slugUrl": "dream:2729",
     "name": "Kyoro-chan",
     "rusName": "Кёро",
-    "engName": "null",
+    "engName": "Kukucska kalandjai",
     "coverUrl": "https://shikimori.one/system/animes/original/4375.jpg?1711960482",
     "coverFallbackUrl": "",
     "status": "released",
@@ -21565,7 +21974,6 @@
       "Кёро"
     ],
     "enNames": [
-      "null",
       "Kukucska kalandjai",
       "Kyoro Chan",
       "Červánek",
@@ -21589,6 +21997,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 91,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -21774,6 +22184,8 @@
       1788268097,
       1788268097
     ],
+    "totalEpisodes": 14,
+    "airedEpisodes": 14,
     "yummyAlias": "melanholiya-haruhi-sudzumii-2"
   },
   {
@@ -21781,7 +22193,7 @@
     "slugUrl": "dream:2731",
     "name": "Кэтмен 3",
     "rusName": "Кэтмен 3",
-    "engName": "null",
+    "engName": "Catman 3rd Season",
     "coverUrl": "https://static.yani.tv/posters/full/1636670753.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -21810,7 +22222,6 @@
       "Кэтмен 3"
     ],
     "enNames": [
-      "null",
       "Catman 3rd Season",
       "Catman series III (Fuji Version)",
       "Catman Series 3",
@@ -21830,6 +22241,8 @@
     "sourceWork": "Оригинальная идея",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 6,
+    "airedEpisodes": 0,
     "yummyAlias": "ketmen-3"
   },
   {
@@ -21837,7 +22250,7 @@
     "slugUrl": "dream:2732",
     "name": "Великий Мазингер против Робота Геттера",
     "rusName": "Великий Мазингер против Робота Геттера",
-    "engName": "null",
+    "engName": "Great Mazinger vs. Getter Robo",
     "coverUrl": "https://static.yani.tv/posters/full/1636821783.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -21866,7 +22279,6 @@
       "Великий Мазингер против Робота Геттера"
     ],
     "enNames": [
-      "null",
       "Great Mazinger vs. Getter Robo",
       "Getter Robo: Great Mazinger Tai Getter Robo",
       "Great Mazinger Tai Getter Robo",
@@ -21877,7 +22289,8 @@
       "Il Grande Mazinga contro Getta Robot",
       "Mazinga contro gli UFO Robot (Parte 3)",
       "Mazinger: Great Mazinger Tai Getter Robo",
-      "مازنجر الكبير ضد جيتاروبو"
+      "مازنجر الكبير ضد جيتاروبو",
+      "グレートマジンガー対ゲッターロボ"
     ],
     "shikimoriId": 4385,
     "malId": 4385,
@@ -21895,6 +22308,8 @@
     "episodeDates": [
       1679573568
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "velikiy-mazinger-protiv-robota-gettera"
   },
   {
@@ -21902,7 +22317,7 @@
     "slugUrl": "dream:2733",
     "name": "Great Mazinger tai Getter Robo G: Kuuchuu Daigekitotsu",
     "rusName": "Великий Мазингер против Робота Геттера G",
-    "engName": "null",
+    "engName": "Great Mazinger tai Getter Robo G: Kuuchuu Dai-Gekitotsu",
     "coverUrl": "https://shikimori.one/system/animes/original/4386.jpg?1711951855",
     "coverFallbackUrl": "",
     "status": "released",
@@ -21931,7 +22346,6 @@
       "Великий Мазингер против Робота Геттера G"
     ],
     "enNames": [
-      "null",
       "Great Mazinger tai Getter Robo G: Kuuchuu Dai-Gekitotsu",
       "Great Mazinger vs. Getter Robo G: Kuuchuu Dai-Gekitotsu",
       "Great Mazinger Vs. Getter Robo G: The Great Space Encounter",
@@ -21942,7 +22356,8 @@
       "Great Mazinger contra Getter Robo G",
       "Great Mazinger et Getter Robot G - le Sacrifice Ultime",
       "Great Mazinger et Getter Robot G: Le Sacrifice Ultime",
-      "Great Mazinger tai Getter Robo G - Kūchū Dai-Gekitotsu"
+      "Great Mazinger tai Getter Robo G - Kūchū Dai-Gekitotsu",
+      "Great Mazinger tai Getter Robo G: Kūchū Dai-Gekitotsu"
     ],
     "shikimoriId": 4386,
     "malId": 4386,
@@ -21958,6 +22373,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -21965,7 +22382,7 @@
     "slugUrl": "dream:2734",
     "name": "Amada Anime Series: Super Mario Brothers",
     "rusName": "Супербратья Марио",
-    "engName": "null",
+    "engName": "Mario OVA",
     "coverUrl": "https://shikimori.one/system/animes/original/4389.jpg?1711940051",
     "coverFallbackUrl": "",
     "status": "released",
@@ -21994,7 +22411,6 @@
       "Супербратья Марио"
     ],
     "enNames": [
-      "null",
       "Mario OVA",
       "Amada Anime Series: Super Mario",
       "Amada Anime Series: Super Mario Amada",
@@ -22016,6 +22432,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 3,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -22074,6 +22492,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -22130,6 +22550,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -22187,6 +22609,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -22243,6 +22667,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -22296,6 +22722,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -22352,6 +22780,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -22403,6 +22833,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -22459,6 +22891,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -22524,6 +22958,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 47,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -22615,6 +23051,8 @@
       1674776015,
       1674776015
     ],
+    "totalEpisodes": 13,
+    "airedEpisodes": 13,
     "yummyAlias": "razrushenie-mira"
   },
   {
@@ -22680,6 +23118,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 12,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -22687,7 +23127,7 @@
     "slugUrl": "dream:2746",
     "name": "Hennako-chan",
     "rusName": "Хэннако",
-    "engName": "null",
+    "engName": "Hen na Ko chan",
     "coverUrl": "https://shikimori.one/system/animes/original/4417.jpg?1711953324",
     "coverFallbackUrl": "",
     "status": "released",
@@ -22712,7 +23152,6 @@
       "Хэннако"
     ],
     "enNames": [
-      "null",
       "Hen na Ko chan",
       "Hen na Ko-chan",
       "へんな子ちゃん"
@@ -22731,6 +23170,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 6,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -22738,7 +23179,7 @@
     "slugUrl": "dream:2747",
     "name": "Кэтмен 2",
     "rusName": "Кэтмен 2",
-    "engName": "null",
+    "engName": "Catman",
     "coverUrl": "https://static.yani.tv/posters/full/1636692405.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -22767,7 +23208,6 @@
       "Кэтмен 2"
     ],
     "enNames": [
-      "null",
       "Catman",
       "Catman 2nd Season",
       "CATMAN series II",
@@ -22806,6 +23246,8 @@
       1791268990,
       1791268990
     ],
+    "totalEpisodes": 8,
+    "airedEpisodes": 8,
     "yummyAlias": "ketmen-2"
   },
   {
@@ -22878,6 +23320,8 @@
       1751856547,
       1751856547
     ],
+    "totalEpisodes": 7,
+    "airedEpisodes": 7,
     "yummyAlias": "ketmen"
   },
   {
@@ -22885,7 +23329,7 @@
     "slugUrl": "dream:2749",
     "name": "Вампирята: Пилотный выпуск",
     "rusName": "Вампирята: Пилотный выпуск",
-    "engName": "null",
+    "engName": "Nanchatte Vampiyan Pilot",
     "coverUrl": "https://static.yani.tv/posters/full/1636668163.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -22916,7 +23360,6 @@
       "Вампирята: Пилотный выпуск"
     ],
     "enNames": [
-      "null",
       "Nanchatte Vampiyan Pilot",
       "Nanchatte Vampiyan",
       "Vampiyan Kids Pilot",
@@ -22938,6 +23381,8 @@
     "episodeDates": [
       1690401985
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "vampiryata-pilotnyy-vypusk"
   },
   {
@@ -22997,6 +23442,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 2,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -23059,6 +23506,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 35,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -23130,6 +23579,8 @@
       0,
       0
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "naruto-fil-m-pyatyj"
   },
   {
@@ -23189,6 +23640,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 26,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -23247,6 +23700,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -23254,7 +23709,7 @@
     "slugUrl": "dream:2755",
     "name": "Duel Masters Charge",
     "rusName": "Мастера дуэлей 2",
-    "engName": "null",
+    "engName": "Duel Masters 2",
     "coverUrl": "https://shikimori.one/system/animes/original/4443.jpg?1711948545",
     "coverFallbackUrl": "",
     "status": "released",
@@ -23285,12 +23740,10 @@
       "Мастера дуэлей 2"
     ],
     "enNames": [
-      "null",
       "Duel Masters 2",
       "Duel Masters 2.0",
       "Duel Masters! (Episodes 53-65)",
       "デュエル・マスターズ チャージ",
-      "デュエル・マスターズ　チャージ",
       "决斗大师Charge"
     ],
     "shikimoriId": 4443,
@@ -23307,6 +23760,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 52,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -23314,7 +23769,7 @@
     "slugUrl": "dream:2756",
     "name": "Zero Duel Masters",
     "rusName": "Мастера дуэлей: С нуля",
-    "engName": "null",
+    "engName": "0 Duel Masters",
     "coverUrl": "https://shikimori.one/system/animes/original/4444.jpg?1711983561",
     "coverFallbackUrl": "",
     "status": "released",
@@ -23347,7 +23802,6 @@
       "Мастера дуэлей: С нуля"
     ],
     "enNames": [
-      "null",
       "0 Duel Masters",
       "Мастера дуэлей",
       "ゼロ デュエル・マスターズ"
@@ -23366,6 +23820,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 12,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -23401,14 +23857,14 @@
     ],
     "tags": [],
     "tagIds": [],
-    "anotherName": "Meitantei Conan: Senritsu no Gakufu [Full Score]",
+    "anotherName": "Meitantei Conan: Senritsu no Gakufu (Full Score)",
     "ruNames": [
       "Детектив Конан: Партитура, вызывающая трепет — Фильм 12",
       "Детектив Конан: Партитура, вызывающая трепет"
     ],
     "enNames": [
       "Detective Conan Movie 12: Full Score of Fear",
-      "Meitantei Conan: Senritsu no Gakufu [Full Score]",
+      "Meitantei Conan: Senritsu no Gakufu (Full Score)",
       "Case Closed Movie 12",
       "Case Closed Movie 12: Full Score of Fear",
       "Case Closed: Full Score of Fear",
@@ -23436,6 +23892,8 @@
     "episodeDates": [
       1674776594
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "detektiv-konan-12"
   },
   {
@@ -23483,8 +23941,7 @@
       "Chrno Crusade: Azmaria's Lessons",
       "Chrono Crusade: Azmaria's Extra Lessons",
       "Chrono Crusade: Azmarias Extra Classes",
-      "クロノクルセイド アズでもわかるクロノクルセイド講座",
-      "クロノクルセイド　アズでもわかるクロノクルセイド講座"
+      "クロノクルセイド アズでもわかるクロノクルセイド講座"
     ],
     "shikimoriId": 4450,
     "malId": 4450,
@@ -23500,6 +23957,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 11,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -23507,7 +23966,7 @@
     "slugUrl": "dream:2759",
     "name": "Человеческие отношения",
     "rusName": "Человеческие отношения",
-    "engName": "null",
+    "engName": "Homeroom Affairs",
     "coverUrl": "https://static.yani.tv/posters/full/17178.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -23538,7 +23997,6 @@
       "Человеческие отношения"
     ],
     "enNames": [
-      "null",
       "Homeroom Affairs",
       "Human Relations",
       "他人の関係"
@@ -23560,6 +24018,8 @@
       1674776394,
       1674776394
     ],
+    "totalEpisodes": 2,
+    "airedEpisodes": 2,
     "yummyAlias": "chelovecheskie-otnosheniya"
   },
   {
@@ -23567,7 +24027,7 @@
     "slugUrl": "dream:2760",
     "name": "Романтический рай",
     "rusName": "Романтический рай",
-    "engName": "null",
+    "engName": "Романтический рай",
     "coverUrl": "https://static.yani.tv/posters/full/19382.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -23595,7 +24055,6 @@
       "Звёздный рай"
     ],
     "enNames": [
-      "null",
       "Романтический рай",
       "Paradise Without Stars",
       "Stardust Paradise",
@@ -23622,6 +24081,8 @@
       1674827059,
       1789135109
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "romanticheskiy-ray"
   },
   {
@@ -23629,7 +24090,7 @@
     "slugUrl": "dream:2761",
     "name": "Macross F: Close Encounter - Deculture Edition",
     "rusName": "Макросс Фронтир: Декультурное издание",
-    "engName": "null",
+    "engName": "Macross Frontier: Close Encounter - Deculture Edition",
     "coverUrl": "https://shikimori.one/system/animes/original/4454.jpg?1711962033",
     "coverFallbackUrl": "",
     "status": "released",
@@ -23664,11 +24125,10 @@
       "Макросс Фронтир: Декультурное издание"
     ],
     "enNames": [
-      "null",
       "Macross Frontier: Close Encounter - Deculture Edition",
       "Macross Frontier Deculture Edition",
       "マクロスＦ",
-      "マクロスＦ　第1話「クロース・エンカウンター」Deculture edition"
+      "マクロスＦ 第1話「クロース・エンカウンター」Deculture edition"
     ],
     "shikimoriId": 4454,
     "malId": 4454,
@@ -23684,6 +24144,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -23740,6 +24202,8 @@
     "episodeDates": [
       1684966049
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "vavilonskaya-kniga"
   },
   {
@@ -23800,6 +24264,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 0,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -23807,7 +24273,7 @@
     "slugUrl": "dream:2764",
     "name": "Kikumana",
     "rusName": "Кикумана",
-    "engName": "null",
+    "engName": "キクマナ",
     "coverUrl": "https://shikimori.one/system/animes/original/4460.jpg?1711958511",
     "coverFallbackUrl": "",
     "status": "released",
@@ -23834,7 +24300,6 @@
       "Кикумана"
     ],
     "enNames": [
-      "null",
       "キクマナ"
     ],
     "shikimoriId": 4460,
@@ -23851,6 +24316,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -23858,7 +24325,7 @@
     "slugUrl": "dream:2765",
     "name": "Kouchou-sensei to Kujira",
     "rusName": "Директор школы и кит",
-    "engName": "null",
+    "engName": "Kocho-sensei to Kujira",
     "coverUrl": "https://shikimori.one/system/animes/original/4461.jpg?1701803148",
     "coverFallbackUrl": "",
     "status": "released",
@@ -23883,7 +24350,6 @@
       "Директор школы и кит"
     ],
     "enNames": [
-      "null",
       "Kocho-sensei to Kujira",
       "Man and Whale",
       "Man & Whale",
@@ -23904,6 +24370,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -23963,6 +24431,8 @@
       1705832864,
       1705833061
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "moguchiy-taro-treniruetsya-na-chertyah"
   },
   {
@@ -23970,7 +24440,7 @@
     "slugUrl": "dream:2767",
     "name": "Nagagutsu wo Haita Neko no Bouken",
     "rusName": "Похождения Кота в сапогах",
-    "engName": "null",
+    "engName": "Nagagutsu o Haita Neko no Boken",
     "coverUrl": "https://shikimori.one/system/animes/original/4468.jpg?1711965324",
     "coverFallbackUrl": "",
     "status": "released",
@@ -23997,7 +24467,6 @@
       "Похождения Кота в сапогах"
     ],
     "enNames": [
-      "null",
       "Nagagutsu o Haita Neko no Boken",
       "Adventures of Puss-in-Boots",
       "Fantasy Adventure: Adventures of Puss 'n Boots",
@@ -24008,7 +24477,8 @@
       "El gato con botas",
       "Fantasy Adventure: Adventures of Puss ’n Boots",
       "Fantasy Adventure: Adventures of Puss’n Boots",
-      "Fantasy Adventure: Nagagutsu o Haita Neko no Bouken"
+      "Fantasy Adventure: Nagagutsu o Haita Neko no Bouken",
+      "Fantasy Adventure: Nagagutsu wo Haita Neko no Bouken"
     ],
     "shikimoriId": 4468,
     "malId": 4468,
@@ -24024,6 +24494,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 26,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -24083,6 +24555,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -24090,7 +24564,7 @@
     "slugUrl": "dream:2769",
     "name": "Gene Diver",
     "rusName": "Генедайвер",
-    "engName": "null",
+    "engName": "Virtual Trilogy part 2",
     "coverUrl": "https://shikimori.one/system/animes/original/4470.jpg?1711950573",
     "coverFallbackUrl": "",
     "status": "released",
@@ -24123,7 +24597,6 @@
       "Генедайвер"
     ],
     "enNames": [
-      "null",
       "Virtual Trilogy part 2",
       "Genediver",
       "ジーンダイバー"
@@ -24142,6 +24615,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 56,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -24149,7 +24624,7 @@
     "slugUrl": "dream:2770",
     "name": "SOS! Исследователи токийской подземки",
     "rusName": "SOS! Исследователи токийской подземки",
-    "engName": "null",
+    "engName": "SOS! Tokyo Metro Explorers: The Next",
     "coverUrl": "https://static.yani.tv/posters/full/19497.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -24175,7 +24650,6 @@
       "SOS! Токийское метро: Следующий"
     ],
     "enNames": [
-      "null",
       "SOS! Tokyo Metro Explorers: The Next",
       "SOS! Tokyo Metro Explorers",
       "新SOS大东京探险队",
@@ -24198,6 +24672,8 @@
       1674827092,
       1789135151
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "sos-issledovateli-tokiyskoy-podzemki"
   },
   {
@@ -24274,6 +24750,8 @@
       1674826930,
       1674826930
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "schastlivaya-zvezda-ova"
   },
   {
@@ -24329,6 +24807,8 @@
       1706216941,
       1706217475
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "staryy-krokodil"
   },
   {
@@ -24391,6 +24871,8 @@
     "episodeDates": [
       1674776480
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "sayuki-predmet-mechtaniy"
   },
   {
@@ -24440,7 +24922,7 @@
       "Someday’s Dreamers: Summer Skies",
       "Things That Are Important to a Mage: Summer Sky",
       "Важливе для чарівника: Літнє небо",
-      "Нечто важное для мага [ТВ-2]",
+      "Нечто важное для мага (ТВ-2)",
       "魔法使的条件 夏季的天空"
     ],
     "shikimoriId": 4483,
@@ -24530,6 +25012,8 @@
       1788275483,
       1788275483
     ],
+    "totalEpisodes": 12,
+    "airedEpisodes": 12,
     "yummyAlias": "nechto-vazhnoe-dlya-maga-2"
   },
   {
@@ -24601,6 +25085,8 @@
       1674776475,
       1674776475
     ],
+    "totalEpisodes": 3,
+    "airedEpisodes": 3,
     "yummyAlias": "morskaya-tma-lunnaya-ten"
   },
   {
@@ -24666,6 +25152,8 @@
       1790359648,
       1790359648
     ],
+    "totalEpisodes": 4,
+    "airedEpisodes": 4,
     "yummyAlias": "starlayt-noktyurn"
   },
   {
@@ -24731,6 +25219,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 39,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -24959,6 +25449,8 @@
       1788268041,
       1788268041
     ],
+    "totalEpisodes": 23,
+    "airedEpisodes": 23,
     "yummyAlias": "giperprostranstvennaya-kavaleriya-yuzhnogo-kresta"
   },
   {
@@ -25025,6 +25517,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 50,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -25082,6 +25576,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 2,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -25089,7 +25585,7 @@
     "slugUrl": "dream:2781",
     "name": "Капитан Будущее: Большая гонка по Солнечной системе",
     "rusName": "Капитан Будущее: Большая гонка по Солнечной системе",
-    "engName": "null",
+    "engName": "Captain Future Kareinaru Taiyoukei Race",
     "coverUrl": "https://static.yani.tv/posters/full/17687.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -25118,7 +25614,6 @@
       "Капитан Будущее: Большая гонка по Солнечной системе"
     ],
     "enNames": [
-      "null",
       "Captain Future Kareinaru Taiyoukei Race",
       "Captain Future: The Great Race in the Solar System",
       "Capitaine Flam : La course à travers le système solaire",
@@ -25129,7 +25624,8 @@
       "Captain Future - Sternstraße zum Ruhm",
       "Captain Future - The Brilliant Solar System Race",
       "Captain Future Kareinaru Taiyokei Race",
-      "Captain Future: A Brilliant Race over the Solar System"
+      "Captain Future: A Brilliant Race over the Solar System",
+      "Captain Future: Das fantastische Sonnensystem-Wettrennen"
     ],
     "shikimoriId": 4509,
     "malId": 4509,
@@ -25148,6 +25644,8 @@
       1674776485,
       1732948709
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "kapitan-buduschee-bolshaya-gonka-po-solnechnoy-sisteme"
   },
   {
@@ -25216,6 +25714,8 @@
       1674826889,
       1789134753
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "legenda-o-beloy-zmee"
   },
   {
@@ -25279,6 +25779,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 26,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -25342,6 +25844,8 @@
     "episodeDates": [
       1760390342
     ],
+    "totalEpisodes": 26,
+    "airedEpisodes": 1,
     "yummyAlias": "hroniki-zhivotnyh-setona-belichya-istoriya"
   },
   {
@@ -25403,6 +25907,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -25410,7 +25916,7 @@
     "slugUrl": "dream:2786",
     "name": "Охотник за головами - Хард",
     "rusName": "Охотник за головами - Хард",
-    "engName": "null",
+    "engName": "The Hard: Bounty Hunter",
     "coverUrl": "https://static.yani.tv/posters/full/18978.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -25438,7 +25944,6 @@
       "Охотник за головами Хард"
     ],
     "enNames": [
-      "null",
       "The Hard: Bounty Hunter",
       "Bounty Hunter: the Hard",
       "The Hard - Bounty Hunter",
@@ -25466,6 +25971,8 @@
     "episodeDates": [
       1674826973
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "ohotnik-za-golovami-hard"
   },
   {
@@ -25473,7 +25980,7 @@
     "slugUrl": "dream:2787",
     "name": "Шэнму: Фильм",
     "rusName": "Шэнму: Фильм",
-    "engName": "null",
+    "engName": "Shen Mue",
     "coverUrl": "https://static.yani.tv/posters/full/16254.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -25503,7 +26010,6 @@
       "Шэнму. Фильм"
     ],
     "enNames": [
-      "null",
       "Shen Mue",
       "Shenmuu",
       "Shenmue",
@@ -25526,6 +26032,8 @@
     "episodeDates": [
       1674776221
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "shenmu-film"
   },
   {
@@ -25533,7 +26041,7 @@
     "slugUrl": "dream:2788",
     "name": "Чёрный кот — OVA",
     "rusName": "Чёрный кот — OVA",
-    "engName": "null",
+    "engName": "Чёрный кот",
     "coverUrl": "https://static.yani.tv/posters/full/18939.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -25567,7 +26075,6 @@
       "Тёмный кот"
     ],
     "enNames": [
-      "null",
       "Чёрный кот",
       "ダークキャット"
     ],
@@ -25589,6 +26096,8 @@
       1789134951,
       1674826963
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "chernyy-kot-1991"
   },
   {
@@ -25652,6 +26161,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 48,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -25711,6 +26222,8 @@
       1674826978,
       1789134979
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "kosmicheskaya-semya-karlvinson"
   },
   {
@@ -25788,6 +26301,8 @@
       1788266315,
       1788266315
     ],
+    "totalEpisodes": 2,
+    "airedEpisodes": 2,
     "yummyAlias": "sverhchelovek-lok-ova-2"
   },
   {
@@ -25851,6 +26366,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 50,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -25858,7 +26375,7 @@
     "slugUrl": "dream:2793",
     "name": "Семейные проблемы Ягами",
     "rusName": "Семейные проблемы Ягами",
-    "engName": "null",
+    "engName": "Yagami's Family Affairs",
     "coverUrl": "https://static.yani.tv/posters/full/18413.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -25884,7 +26401,6 @@
       "Делишки семейки Ягами"
     ],
     "enNames": [
-      "null",
       "Yagami's Family Affairs",
       "Yagami-kun's Family Affairs",
       "Yagami-kun no Katei no Jijō",
@@ -25909,6 +26425,8 @@
       1674826830,
       1674826830
     ],
+    "totalEpisodes": 3,
+    "airedEpisodes": 3,
     "yummyAlias": "semeynye-problemy-yagami"
   },
   {
@@ -25967,6 +26485,8 @@
     "episodeDates": [
       1674827013
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "gandam-prikazano-vzletet"
   },
   {
@@ -25974,7 +26494,7 @@
     "slugUrl": "dream:2795",
     "name": "Wanghu Sim Cheong",
     "rusName": "Императрица Чхон",
-    "engName": "null",
+    "engName": "Императрица Чанг",
     "coverUrl": "https://shikimori.one/system/animes/original/4544.jpg?1711979989",
     "coverFallbackUrl": "",
     "status": "released",
@@ -25999,7 +26519,6 @@
       "Императрица Чхон"
     ],
     "enNames": [
-      "null",
       "Императрица Чанг",
       "Empress Chung",
       "왕후 심청",
@@ -26019,6 +26538,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -26026,7 +26547,7 @@
     "slugUrl": "dream:2796",
     "name": "RoboDz",
     "rusName": "РобоДз",
-    "engName": "null",
+    "engName": "RoboDz: Fuuun Hen",
     "coverUrl": "https://shikimori.one/system/animes/original/4547.jpg?1711971181",
     "coverFallbackUrl": "",
     "status": "released",
@@ -26051,7 +26572,6 @@
       "РобоДз"
     ],
     "enNames": [
-      "null",
       "RoboDz: Fuuun Hen",
       "RoboDz Kazagumo Hen",
       "RoboDz: Fuuun-hen",
@@ -26073,6 +26593,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 26,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -26177,6 +26699,8 @@
       1674826947,
       1674826947
     ],
+    "totalEpisodes": 13,
+    "airedEpisodes": 13,
     "yummyAlias": "kulak-severnoy-zvezdy-istoriya-rao"
   },
   {
@@ -26184,7 +26708,7 @@
     "slugUrl": "dream:2798",
     "name": "Хьякко",
     "rusName": "Хьякко",
-    "engName": "null",
+    "engName": "HYAKKO",
     "coverUrl": "https://static.yani.tv/posters/full/19834.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -26213,7 +26737,6 @@
       "Хьякко"
     ],
     "enNames": [
-      "null",
       "HYAKKO",
       "Хьякко",
       "Хякко",
@@ -26264,6 +26787,8 @@
       1751855036,
       1751855036
     ],
+    "totalEpisodes": 13,
+    "airedEpisodes": 13,
     "yummyAlias": "hyakko-tv"
   },
   {
@@ -26380,6 +26905,8 @@
       1674776117,
       1674776117
     ],
+    "totalEpisodes": 12,
+    "airedEpisodes": 12,
     "yummyAlias": "graf-i-feyri"
   },
   {
@@ -26387,7 +26914,7 @@
     "slugUrl": "dream:2800",
     "name": "Sukima no Kuni no Polta",
     "rusName": "Страна между миром",
-    "engName": "null",
+    "engName": "A Country Between the World",
     "coverUrl": "https://shikimori.one/system/animes/original/4553.jpg?1711975412",
     "coverFallbackUrl": "",
     "status": "released",
@@ -26412,7 +26939,6 @@
       "Страна между миром"
     ],
     "enNames": [
-      "null",
       "A Country Between the World",
       "A Country Between The Worlds",
       "スキマの国のポルタ"
@@ -26431,6 +26957,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 13,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -26490,6 +27018,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 26,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -26497,7 +27027,7 @@
     "slugUrl": "dream:2802",
     "name": "Bakukyuu Hit! Crash B-Daman",
     "rusName": "Сокрушительный Би-Дамен",
-    "engName": "null",
+    "engName": "Bakukyuu Hit! Crash B-Daman",
     "coverUrl": "https://shikimori.one/system/animes/original/4563.jpg?1711943320",
     "coverFallbackUrl": "",
     "status": "released",
@@ -26526,7 +27056,6 @@
       "Сокрушительный Би-Дамен"
     ],
     "enNames": [
-      "null",
       "Bakukyuu Hit! Crash B-Daman",
       "BAKUKYU HIT! CRASH B-DAMAN",
       "Bakkyuu HIT! Crash B-Daman",
@@ -26537,7 +27066,8 @@
       "Burst Ball Hit! Crash B-Daman",
       "Crash B-Daman",
       "Crash Bedaman",
-      "爆球HIT! クラッシュビーダマン"
+      "爆球HIT! クラッシュビーダマン",
+      "爆球Hit! クラッシュビーダマン"
     ],
     "shikimoriId": 4563,
     "malId": 4563,
@@ -26553,6 +27083,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 50,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -26622,6 +27154,8 @@
     "episodeDates": [
       0
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "gurren-lagann-fil-m-vtoroj"
   },
   {
@@ -26629,7 +27163,7 @@
     "slugUrl": "dream:2804",
     "name": "Prism Ark Specials",
     "rusName": "Призм Арк: Спецвыпуски",
-    "engName": "null",
+    "engName": "Prism Ark: Pri Ark",
     "coverUrl": "https://shikimori.one/system/animes/original/4566.jpg?1711969401",
     "coverFallbackUrl": "",
     "status": "released",
@@ -26660,7 +27194,6 @@
       "Призм Арк: Спецвыпуски"
     ],
     "enNames": [
-      "null",
       "Prism Ark: Pri Ark",
       "Prism Ark: Pri Ark!",
       "プリズム・アーク ぷりあーく",
@@ -26680,6 +27213,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 6,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -26736,6 +27271,8 @@
     "episodeDates": [
       1674776194
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "armageddon"
   },
   {
@@ -26801,6 +27338,8 @@
       1674776192,
       1674776192
     ],
+    "totalEpisodes": 2,
+    "airedEpisodes": 2,
     "yummyAlias": "priklyucheniya-vo-vremeni-korolevskoe-vozrozhdenie"
   },
   {
@@ -26922,6 +27461,8 @@
       1674827109,
       1674827109
     ],
+    "totalEpisodes": 13,
+    "airedEpisodes": 13,
     "yummyAlias": "princessa-nemertvyh-krasnaya-hronika"
   },
   {
@@ -27007,6 +27548,8 @@
       1674776476,
       1674776476
     ],
+    "totalEpisodes": 21,
+    "airedEpisodes": 21,
     "yummyAlias": "topo-dzhidzhio"
   },
   {
@@ -27066,6 +27609,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 26,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -27073,7 +27618,7 @@
     "slugUrl": "dream:2810",
     "name": "Йоико",
     "rusName": "Йоико",
-    "engName": "null",
+    "engName": "Хороший ребёнок",
     "coverUrl": "https://static.yani.tv/posters/full/1636884516.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -27105,7 +27650,6 @@
       "Ёико"
     ],
     "enNames": [
-      "null",
       "Хороший ребёнок",
       "Иная",
       "Good Child",
@@ -27248,6 +27792,8 @@
       1788266303,
       1788266303
     ],
+    "totalEpisodes": 20,
+    "airedEpisodes": 20,
     "yummyAlias": "yoiko"
   },
   {
@@ -27317,6 +27863,8 @@
     "episodeDates": [
       1674827143
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "kod-gias-vosstavshiy-lelush-temnoe-vosstanie"
   },
   {
@@ -27380,6 +27928,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 156,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -27387,7 +27937,7 @@
     "slugUrl": "dream:2813",
     "name": "Tanoshii Willow Town",
     "rusName": "Ветер в ивах",
-    "engName": "null",
+    "engName": "Fun Willow Town",
     "coverUrl": "https://shikimori.one/system/animes/original/4599.jpg?1711976617",
     "coverFallbackUrl": "",
     "status": "released",
@@ -27414,7 +27964,6 @@
       "Ветер в ивах"
     ],
     "enNames": [
-      "null",
       "Fun Willow Town",
       "A Aldeia dos Pequeninos",
       "Abenteuer in den Weiden",
@@ -27425,7 +27974,8 @@
       "Willow Town",
       "Wind in the Willows",
       "مدينة الصفصاف",
-      "楽しいウイロータウン"
+      "楽しいウイロータウン",
+      "Aldeia dos Pequeninos"
     ],
     "shikimoriId": 4599,
     "malId": 4599,
@@ -27441,6 +27991,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 26,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -27504,6 +28056,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 52,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -27511,7 +28065,7 @@
     "slugUrl": "dream:2815",
     "name": "Топо Джиджио 2",
     "rusName": "Топо Джиджио 2",
-    "engName": "null",
+    "engName": "Dreaming Topo Gigio",
     "coverUrl": "https://static.yani.tv/posters/full/1636666950.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -27540,7 +28094,6 @@
       "Топо Джиджио 2"
     ],
     "enNames": [
-      "null",
       "Dreaming Topo Gigio",
       "Yumemiru Toppo Jijo",
       "Bentornato Topo Gigio",
@@ -27580,6 +28133,8 @@
       1674776476,
       1674776476
     ],
+    "totalEpisodes": 13,
+    "airedEpisodes": 13,
     "yummyAlias": "topo-dzhidzhio-2"
   },
   {
@@ -27643,6 +28198,8 @@
       1751854718,
       1751854718
     ],
+    "totalEpisodes": 2,
+    "airedEpisodes": 2,
     "yummyAlias": "istoriya-o-semi-gorodah-arkticheskiy-front"
   },
   {
@@ -27803,6 +28360,8 @@
       1788266351,
       1788266351
     ],
+    "totalEpisodes": 12,
+    "airedEpisodes": 12,
     "yummyAlias": "raydbek"
   },
   {
@@ -27859,6 +28418,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -27959,6 +28520,8 @@
       1788263306,
       1788263306
     ],
+    "totalEpisodes": 6,
+    "airedEpisodes": 6,
     "yummyAlias": "dolgih-let-zhizni-predki"
   },
   {
@@ -28016,6 +28579,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -28077,6 +28642,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 70,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -28127,7 +28694,7 @@
       "Magica Index",
       "Tiltott varázslatok jegyzéke",
       "To Aru Majutsu no Index",
-      "Toaru Majutsu no Kinsho Mokuroku [Index]"
+      "Toaru Majutsu no Kinsho Mokuroku (Index)"
     ],
     "shikimoriId": 4654,
     "malId": 4654,
@@ -28333,6 +28900,8 @@
       1677782975,
       1677782975
     ],
+    "totalEpisodes": 24,
+    "airedEpisodes": 24,
     "yummyAlias": "indeks-volshebstva-tv1"
   },
   {
@@ -28389,6 +28958,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -28396,7 +28967,7 @@
     "slugUrl": "dream:2824",
     "name": "Анжелика: Второй век",
     "rusName": "Анжелика: Второй век",
-    "engName": "null",
+    "engName": "NAA2",
     "coverUrl": "https://static.yani.tv/posters/full/17610.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -28427,7 +28998,6 @@
       "Анжелика: Второй век"
     ],
     "enNames": [
-      "null",
       "NAA2",
       "NAASA",
       "Neo Angelique Abyss -Second Age-",
@@ -28527,6 +29097,8 @@
       1788267914,
       1788267914
     ],
+    "totalEpisodes": 13,
+    "airedEpisodes": 13,
     "yummyAlias": "anzhelika-4"
   },
   {
@@ -28591,6 +29163,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 20,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -28598,7 +29172,7 @@
     "slugUrl": "dream:2826",
     "name": "Rurouni Kenshin: Special Techniques",
     "rusName": "Бродяга Кэнсин: Специальные техники",
-    "engName": "null",
+    "engName": "Rurouni Kenshin: Meiji Kenkaku Romantan - Special Techniques",
     "coverUrl": "https://shikimori.one/system/animes/original/4664.jpg?1711971310",
     "coverFallbackUrl": "",
     "status": "released",
@@ -28629,7 +29203,6 @@
       "Бродяга Кэнсин: Специальные техники"
     ],
     "enNames": [
-      "null",
       "Rurouni Kenshin: Meiji Kenkaku Romantan - Special Techniques",
       "Rurōni Kenshin: Meiji Kenkaku Romantan - Special Techniques",
       "Samurai X: Special Techniques",
@@ -28650,6 +29223,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -28715,6 +29290,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 51,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -28788,6 +29365,8 @@
       1674775987,
       1674775987
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "prizrak-v-dospehah-2-0"
   },
   {
@@ -28795,7 +29374,7 @@
     "slugUrl": "dream:2829",
     "name": "Ultra Nyan: Hoshizora kara Maiorita Fushigi Neko",
     "rusName": "Ультранян",
-    "engName": "null",
+    "engName": "Ультранян: Необыкновенный кот, спустившийся со звёздного неба",
     "coverUrl": "https://shikimori.one/system/animes/original/4681.jpg?1711979161",
     "coverFallbackUrl": "",
     "status": "released",
@@ -28822,7 +29401,6 @@
       "Ультранян"
     ],
     "enNames": [
-      "null",
       "Ультранян: Необыкновенный кот, спустившийся со звёздного неба",
       "Ultra Nyan: Extraordinary Cat who Descended from the Starry Sky",
       "Ultra Meow",
@@ -28831,8 +29409,7 @@
       "Ultra Nyan: Yıldızlı Gökyüzünden Gelen Sıradışı Kedi",
       "ウルトラニャン ~星空から舞い降りたふしぎネコ~",
       "ウルトラニャン 星空から舞い降りたふしぎネコ",
-      "ウルトラニャン ～星空から舞い降りたふしぎネコ～",
-      "ウルトラニャン　星空から舞い降りたふしぎネコ"
+      "ウルトラニャン ～星空から舞い降りたふしぎネコ～"
     ],
     "shikimoriId": 4681,
     "malId": 4681,
@@ -28848,6 +29425,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -28888,7 +29467,7 @@
       "Ultra Meow 2",
       "Ultra Nyan 2: Büyük Mutlu Operasyonu",
       "ウルトラニャン2 ハッピー大作戦",
-      "ウルトラニャン２　ハッピー大作戦"
+      "ウルトラニャン２ ハッピー大作戦"
     ],
     "shikimoriId": 4682,
     "malId": 4682,
@@ -28904,6 +29483,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -28958,6 +29539,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 26,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -29015,6 +29598,8 @@
       1674776009,
       1674776009
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "velosiped-takane"
   },
   {
@@ -29022,7 +29607,7 @@
     "slugUrl": "dream:2833",
     "name": "Отдам всю себя",
     "rusName": "Отдам всю себя",
-    "engName": "null",
+    "engName": "I Give My All",
     "coverUrl": "https://static.yani.tv/posters/full/15184.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -29052,7 +29637,6 @@
       "Я вся твоя"
     ],
     "enNames": [
-      "null",
       "I Give My All",
       "I'll Do it With Anyone",
       "I'm All Yours",
@@ -29082,6 +29666,8 @@
       1674776025,
       1674776025
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "otdam-vsyu-sebya"
   },
   {
@@ -29146,6 +29732,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 50,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -29153,7 +29741,7 @@
     "slugUrl": "dream:2835",
     "name": "Да! Милое лекарство 5 — Вперёд! Радостный день рождения в стране сладостей",
     "rusName": "Да! Милое лекарство 5 — Вперёд! Радостный день рождения в стране сладостей",
-    "engName": "null",
+    "engName": "Eiga Yes! Pretty Cure 5 GoGo!: Okashi no Kuni no Happy Birthday",
     "coverUrl": "https://static.yani.tv/posters/full/1636670708.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -29182,7 +29770,6 @@
       "Да! Милое лекарство 5 — Вперёд! Радостный день рождения в стране сладостей"
     ],
     "enNames": [
-      "null",
       "Eiga Yes! Pretty Cure 5 GoGo!: Okashi no Kuni no Happy Birthday",
       "Eiga Yes! Pretty Cure 5 GoGo!: Happy Birthday in the Sweets Kingdom",
       "Eiga Yes! Precure 5 Go Go! Okashi no Kuni no Happy Birthday",
@@ -29193,7 +29780,8 @@
       "Yes! Pretty Cure 5 GoGo! - Buon compleanno carissima Nozomi",
       "Yes! Pretty Cure 5 GoGo! Movie: Okashi no Kuni no Happy Birthday",
       "Yes! Pretty Cure 5 GoGo! Okashi no Kuni no Happy Birthday",
-      "Yes! Pretty Cure 5 GoGo!: Buon compleanno carissima Nozomi"
+      "Yes! Pretty Cure 5 GoGo!: Buon compleanno carissima Nozomi",
+      "Yes! プリキュア５GoGo! お菓子の国のハッピーバースデイ♪"
     ],
     "shikimoriId": 4703,
     "malId": 4703,
@@ -29211,6 +29799,8 @@
     "episodeDates": [
       1674776468
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "da-miloe-lekarstvo-5-vpered-radostnyy-den-rozhdeniya-v-strane-sladostey"
   },
   {
@@ -29218,7 +29808,7 @@
     "slugUrl": "dream:2836",
     "name": "Aesop's World",
     "rusName": "Мир Эзопа",
-    "engName": "null",
+    "engName": "Aesop World",
     "coverUrl": "https://shikimori.one/system/animes/original/4709.jpg?1711938538",
     "coverFallbackUrl": "",
     "status": "released",
@@ -29243,7 +29833,6 @@
       "Мир Эзопа"
     ],
     "enNames": [
-      "null",
       "Aesop World",
       "فيروزة",
       "イソップ・ワールド"
@@ -29262,6 +29851,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 26,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -29269,7 +29860,7 @@
     "slugUrl": "dream:2837",
     "name": "Digimon Savers: Agumon! Gaomon! Lalamon! Bakuretsu! Jougai Last Battle!",
     "rusName": "Хранители Дигимонов: Последняя битва",
-    "engName": "null",
+    "engName": "Digimon Savers Special: Agumon! Gaomon! Lalamon! Explosion! The Last Battle Off-screen",
     "coverUrl": "https://shikimori.one/system/animes/original/4712.jpg?1711947681",
     "coverFallbackUrl": "",
     "status": "released",
@@ -29304,7 +29895,6 @@
       "Хранители Дигимонов: Последняя битва"
     ],
     "enNames": [
-      "null",
       "Digimon Savers Special: Agumon! Gaomon! Lalamon! Explosion! The Last Battle Off-screen",
       "Digimon Savers: Tokuten Eizou",
       "Digimon Savers Tokuten Eizou",
@@ -29326,6 +29916,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -29333,7 +29925,7 @@
     "slugUrl": "dream:2838",
     "name": "Алиса в стране сердец: Расчудесный мир чудес",
     "rusName": "Алиса в стране сердец: Расчудесный мир чудес",
-    "engName": "null",
+    "engName": "Gekijouban Heart no Kuni no Alice: Wonderful Wonder World",
     "coverUrl": "https://static.yani.tv/posters/full/1636667770.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -29363,7 +29955,6 @@
       "Алиса в Стране сердец: Расчудесный Мир чудес"
     ],
     "enNames": [
-      "null",
       "Gekijouban Heart no Kuni no Alice: Wonderful Wonder World",
       "Alice in the Country of Hearts",
       "Alice in Heartland",
@@ -29374,7 +29965,8 @@
       "hatoari",
       "heartalice",
       "ハトアリ",
-      "ハートの国のアリス ~Wonderful Wonder World~"
+      "ハートの国のアリス ~Wonderful Wonder World~",
+      "劇場版ハートの国のアリス"
     ],
     "shikimoriId": 4713,
     "malId": 4713,
@@ -29396,6 +29988,8 @@
       0,
       1677783143
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "alisa-v-strane-serdec-raschudesnyj-mir-chudes"
   },
   {
@@ -29461,6 +30055,8 @@
     "sourceWork": "Ранобэ",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": "sigofumi-pisma-togo-sveta-spetsvipusk"
   },
   {
@@ -29468,7 +30064,7 @@
     "slugUrl": "dream:2840",
     "name": "AIKa: Special Trial",
     "rusName": "Айка: Эпизод 4.5",
-    "engName": "null",
+    "engName": "Agent Aika Special",
     "coverUrl": "https://shikimori.one/system/animes/original/4718.jpg?1711939002",
     "coverFallbackUrl": "",
     "status": "released",
@@ -29493,7 +30089,6 @@
       "Айка: Эпизод 4.5"
     ],
     "enNames": [
-      "null",
       "Agent Aika Special",
       "Agent Aika Episode 4.5",
       "Agent Aika Moving Out",
@@ -29504,7 +30099,8 @@
       "AIKa: Special TRIAL",
       "Agent Aika Extra",
       "Agent Aika's Special Trial",
-      "Agent Aika: Moving Out"
+      "Agent Aika: Moving Out",
+      "Agent Aika: Special Trial"
     ],
     "shikimoriId": 4718,
     "malId": 4718,
@@ -29520,6 +30116,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -29646,6 +30244,8 @@
       1751854072,
       1751854072
     ],
+    "totalEpisodes": 12,
+    "airedEpisodes": 12,
     "yummyAlias": "klinok-korolevy-1"
   },
   {
@@ -29764,6 +30364,8 @@
       1674776444,
       1674776444
     ],
+    "totalEpisodes": 13,
+    "airedEpisodes": 13,
     "yummyAlias": "belyy-albom-pervyy-sezon"
   },
   {
@@ -30054,6 +30656,8 @@
       1752336391,
       1752336391
     ],
+    "totalEpisodes": 25,
+    "airedEpisodes": 25,
     "yummyAlias": "ne-sdavaysya"
   },
   {
@@ -30117,6 +30721,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 32,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -30256,6 +30862,8 @@
       1769076056,
       1776001910
     ],
+    "totalEpisodes": 12,
+    "airedEpisodes": 12,
     "yummyAlias": "ga-rey-zero"
   },
   {
@@ -30428,6 +31036,8 @@
       1788267191,
       1788267191
     ],
+    "totalEpisodes": 12,
+    "airedEpisodes": 12,
     "yummyAlias": "bashnya-druagi-mech-uruka"
   },
   {
@@ -30435,7 +31045,7 @@
     "slugUrl": "dream:2847",
     "name": "Остатки в синеве",
     "rusName": "Остатки в синеве",
-    "engName": "null",
+    "engName": "ブルーリメイン",
     "coverUrl": "https://static.yani.tv/posters/full/1636967551.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -30462,7 +31072,6 @@
       "Остатки в синеве"
     ],
     "enNames": [
-      "null",
       "ブルーリメイン",
       "ブルー・リメイン"
     ],
@@ -30482,6 +31091,8 @@
     "episodeDates": [
       1687722605
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "ostatki-v-sineve"
   },
   {
@@ -30545,6 +31156,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 11,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -30598,6 +31211,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 16,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -30767,6 +31382,8 @@
       1674776563,
       1674776563
     ],
+    "totalEpisodes": 12,
+    "airedEpisodes": 13,
     "yummyAlias": "holm-v-bagryanyh-sumerkah-tv"
   },
   {
@@ -30942,6 +31559,8 @@
       1755437168,
       1755437168
     ],
+    "totalEpisodes": 13,
+    "airedEpisodes": 13,
     "yummyAlias": "rycar-vampir-vtoroy-sezon"
   },
   {
@@ -31009,6 +31628,8 @@
       1682890935,
       1789133725
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "zdravstvuy-ezhik"
   },
   {
@@ -31016,7 +31637,7 @@
     "slugUrl": "dream:2853",
     "name": "Канокон: Спецвыпуски",
     "rusName": "Канокон: Спецвыпуски",
-    "engName": "null",
+    "engName": "Kanokon: Girls Channel",
     "coverUrl": "https://static.yani.tv/posters/full/1636669293.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -31041,7 +31662,6 @@
       "Канокон: Спецвыпуски"
     ],
     "enNames": [
-      "null",
       "Kanokon: Girls Channel",
       "Kanokon: The Girl Who Cried Fox Shorts",
       "かのこん",
@@ -31076,6 +31696,8 @@
       1701948791,
       1701948791
     ],
+    "totalEpisodes": 12,
+    "airedEpisodes": 12,
     "yummyAlias": "kanokon-spetsvipuski"
   },
   {
@@ -31083,7 +31705,7 @@
     "slugUrl": "dream:2854",
     "name": "Tokyo Loop",
     "rusName": "Токийская петля",
-    "engName": "null",
+    "engName": "TOKYO LOOP",
     "coverUrl": "https://shikimori.one/system/animes/original/4761.jpg?1711977982",
     "coverFallbackUrl": "",
     "status": "released",
@@ -31110,7 +31732,6 @@
       "Токийская петля"
     ],
     "enNames": [
-      "null",
       "TOKYO LOOP",
       "トーキョー・ループ"
     ],
@@ -31128,6 +31749,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -31199,6 +31822,8 @@
       1781658731,
       1786133208
     ],
+    "totalEpisodes": 2,
+    "airedEpisodes": 2,
     "yummyAlias": "shkola-ubiyc-ova"
   },
   {
@@ -31265,6 +31890,8 @@
       1747299720,
       1747299720
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "ariya-proishozhdenie-malenkom-sekretnom-meste"
   },
   {
@@ -31328,6 +31955,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 52,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -31502,6 +32131,8 @@
       1788266781,
       1788266781
     ],
+    "totalEpisodes": 12,
+    "airedEpisodes": 12,
     "yummyAlias": "ef-istoriya-melodiy"
   },
   {
@@ -31570,6 +32201,8 @@
       1674776110,
       1674776110
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "pokemon-spasatelnaya-missiya-pikachu"
   },
   {
@@ -31637,6 +32270,8 @@
     "episodeDates": [
       1674776047
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "pokemon-pikachu-i-pichu"
   },
   {
@@ -31706,6 +32341,8 @@
       1684009316,
       1674776003
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "zahvatyvayuschie-pryatki-pikachu"
   },
   {
@@ -31775,6 +32412,8 @@
       1684009316,
       1674776003
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "prival-pikachu"
   },
   {
@@ -31842,6 +32481,8 @@
       1709106242,
       1775386227
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "bashnya-druagi-geroi-uruka-spetsvipusk"
   },
   {
@@ -31849,7 +32490,7 @@
     "slugUrl": "dream:2864",
     "name": "Huckleberry Finn Monogatari",
     "rusName": "История Гекльберри Финна",
-    "engName": "null",
+    "engName": "Huckleberry Finn Story",
     "coverUrl": "https://shikimori.one/system/animes/original/4800.jpg?1711954399",
     "coverFallbackUrl": "",
     "status": "released",
@@ -31874,7 +32515,6 @@
       "История Гекльберри Финна"
     ],
     "enNames": [
-      "null",
       "Huckleberry Finn Story",
       "As Aventuras de Huckleberry Finn",
       "As Aventuras de Huckleberry Finn (1994)",
@@ -31885,7 +32525,8 @@
       "Il mio amico Huck",
       "Kalandozás a Mississippin",
       "Przygody Hucka Finna",
-      "Story of Huckleberry Finn"
+      "Story of Huckleberry Finn",
+      "THE ADVENTURES OF HUCK FINN"
     ],
     "shikimoriId": 4800,
     "malId": 4800,
@@ -31901,6 +32542,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 26,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -31961,6 +32604,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 26,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -32068,6 +32713,8 @@
       1674776371,
       1674776371
     ],
+    "totalEpisodes": 46,
+    "airedEpisodes": 46,
     "yummyAlias": "malenkie-spasateli-2"
   },
   {
@@ -32131,6 +32778,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 35,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -32205,6 +32854,8 @@
       1788268051,
       1788268051
     ],
+    "totalEpisodes": 2,
+    "airedEpisodes": 2,
     "yummyAlias": "klubnichnyy-zefir-ova-2"
   },
   {
@@ -32268,6 +32919,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 26,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -32275,7 +32928,7 @@
     "slugUrl": "dream:2870",
     "name": "_Summer Specials",
     "rusName": "_Лето: Спецвыпуски",
-    "engName": "null",
+    "engName": "Underbar Summer Specials",
     "coverUrl": "https://shikimori.one/system/animes/original/4827.jpg?1711984013",
     "coverFallbackUrl": "",
     "status": "released",
@@ -32300,11 +32953,10 @@
       "_Лето: Спецвыпуски"
     ],
     "enNames": [
-      "null",
       "Underbar Summer Specials",
       "_summer Specials",
-      "_summer [アンダーバーサマー]",
-      "_summer [アンダーバーサマー] 特別",
+      "_summer (アンダーバーサマー)",
+      "_summer (アンダーバーサマー) 特別",
       "アンダーバーサマー",
       "アンダーバーサマー Specials"
     ],
@@ -32322,6 +32974,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 2,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -32399,6 +33053,8 @@
       1706553380,
       1706553380
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "blich-fil-m-tretij"
   },
   {
@@ -32406,7 +33062,7 @@
     "slugUrl": "dream:2872",
     "name": "Люпен III: Семидневная рапсодия",
     "rusName": "Люпен III: Семидневная рапсодия",
-    "engName": "null",
+    "engName": "Rupan Sansei",
     "coverUrl": "https://static.yani.tv/posters/full/1636855908.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -32437,7 +33093,6 @@
       "Люпен III: Семидневная рапсодия"
     ],
     "enNames": [
-      "null",
       "Rupan Sansei",
       "Lupin III - La lacrima della Dea",
       "Lupin III - La lacrima della dea",
@@ -32448,7 +33103,8 @@
       "Lupin Sansei: Seven Days’ Rhapsody",
       "Lupin the 3rd: Seven Days Rhapsody",
       "Lupin the Third: Seven Days Rhapsody",
-      "Люпен Трети: Седемдневна рапсодия"
+      "Люпен Трети: Седемдневна рапсодия",
+      "「ルパン三世 セブンデイズ・ラプソディ」"
     ],
     "shikimoriId": 4851,
     "malId": 4851,
@@ -32466,6 +33122,8 @@
     "episodeDates": [
       1674827036
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "lyupen-iii-semidnevnaya-rapsodiya-2006"
   },
   {
@@ -32473,7 +33131,7 @@
     "slugUrl": "dream:2873",
     "name": "Дон Дракула",
     "rusName": "Дон Дракула",
-    "engName": "null",
+    "engName": "Don Dracula",
     "coverUrl": "https://static.yani.tv/posters/full/17495.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -32505,7 +33163,6 @@
       "Дон Дракула Осаму Тэдзуки"
     ],
     "enNames": [
-      "null",
       "Don Dracula",
       "Dom Drácula",
       "Don Drácula",
@@ -32542,6 +33199,8 @@
       1753873687,
       1753873687
     ],
+    "totalEpisodes": 8,
+    "airedEpisodes": 8,
     "yummyAlias": "don-drakula"
   },
   {
@@ -32549,7 +33208,7 @@
     "slugUrl": "dream:2874",
     "name": "Кодзиро из клана Фума",
     "rusName": "Кодзиро из клана Фума",
-    "engName": "null",
+    "engName": "Кодзиро из клана Фума",
     "coverUrl": "https://static.yani.tv/posters/full/1636852914.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -32581,7 +33240,6 @@
       "Демон ветра Кодзиро"
     ],
     "enNames": [
-      "null",
       "Кодзиро из клана Фума",
       "Fuma no Kojiro: Yasha hen",
       "Kojiro of the Fuma: Yasha Chapter",
@@ -32592,7 +33250,8 @@
       "Kojiro: Lo spirito del vento",
       "Kojiro: lo spirito del vento",
       "Kojirô !",
-      "Kojirô ! La légende des dix épées"
+      "Kojirô ! La légende des dix épées",
+      "Os Guardiões do Universo"
     ],
     "shikimoriId": 4854,
     "malId": 4854,
@@ -32611,6 +33270,8 @@
       1755051506,
       1755176402
     ],
+    "totalEpisodes": 6,
+    "airedEpisodes": 1,
     "yummyAlias": "kodziro-iz-klana-fuma-ova-1"
   },
   {
@@ -32618,7 +33279,7 @@
     "slugUrl": "dream:2875",
     "name": "Fuuma no Kojirou: Seiken Sensou-hen",
     "rusName": "Демон ветра Кодзиро: Война святых мечей",
-    "engName": "null",
+    "engName": "Демон ветра Кодзиро: Война священного меча",
     "coverUrl": "https://shikimori.one/system/animes/original/4855.jpg?1711949977",
     "coverFallbackUrl": "",
     "status": "released",
@@ -32649,7 +33310,6 @@
       "Демон ветра Кодзиро: Война святых мечей"
     ],
     "enNames": [
-      "null",
       "Демон ветра Кодзиро: Война священного меча",
       "Fuma no Kojiro: Seiken Sensou hen",
       "Kojiro of the Fuma: Sacred Sword War Chapter",
@@ -32660,7 +33320,8 @@
       "Kojiro - La guerra per le spade sacre",
       "Kojiro: La guerra per le spade sacre",
       "Kojiro: la guerra per le spade sacre",
-      "Kojirô ! La légende des dix épées - Série II"
+      "Kojirô ! La légende des dix épées - Série II",
+      "Kojirô ! Série 2"
     ],
     "shikimoriId": 4855,
     "malId": 4855,
@@ -32676,6 +33337,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 6,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -32683,7 +33346,7 @@
     "slugUrl": "dream:2876",
     "name": "Fuuma no Kojirou: Fuuma Hanran-hen",
     "rusName": "Демон ветра Кодзиро: Восстание",
-    "engName": "null",
+    "engName": "Fuma no Kojiro: Fuma Hanran hen",
     "coverUrl": "https://shikimori.one/system/animes/original/4856.jpg?1711949967",
     "coverFallbackUrl": "",
     "status": "released",
@@ -32714,7 +33377,6 @@
       "Демон ветра Кодзиро: Восстание"
     ],
     "enNames": [
-      "null",
       "Fuma no Kojiro: Fuma Hanran hen",
       "Kojiro of the Fuma: Fuma Rebellion Chapter",
       "Fuma no Kojirou Saishushou: Fuma Hanran-hen",
@@ -32725,7 +33387,8 @@
       "Kojiro - La ribellione dei Fuma",
       "Kojiro of the Fuma The Final Chapter: Fuma Rebellion Chapter",
       "Kojiro: la ribellione dei Fuma",
-      "Kojirô !"
+      "Kojirô !",
+      "Kojirô! le Film"
     ],
     "shikimoriId": 4856,
     "malId": 4856,
@@ -32741,6 +33404,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -32812,6 +33477,8 @@
       1751854855,
       1751854855
     ],
+    "totalEpisodes": 3,
+    "airedEpisodes": 3,
     "yummyAlias": "proschay-unylyy-uchitel-ova-1-2008"
   },
   {
@@ -32881,6 +33548,8 @@
       1674776113,
       1674776113
     ],
+    "totalEpisodes": 2,
+    "airedEpisodes": 1,
     "yummyAlias": "pokemon-pikachu-zimoy-1999"
   },
   {
@@ -32947,6 +33616,8 @@
     "episodeDates": [
       1674776384
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "begi-melos-film"
   },
   {
@@ -33103,6 +33774,8 @@
       1697024386,
       1697024386
     ],
+    "totalEpisodes": 13,
+    "airedEpisodes": 13,
     "yummyAlias": "yaschik-nechisti"
   },
   {
@@ -33321,6 +33994,8 @@
       1787983108,
       1787983108
     ],
+    "totalEpisodes": 26,
+    "airedEpisodes": 26,
     "yummyAlias": "skazaniya-bezdny"
   },
   {
@@ -33328,7 +34003,7 @@
     "slugUrl": "dream:2882",
     "name": "Инуяся: Чёрный Тэссайга",
     "rusName": "Инуяся: Чёрный Тэссайга",
-    "engName": "null",
+    "engName": "Inu Yasha Special",
     "coverUrl": "https://static.yani.tv/posters/full/15118.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -33363,7 +34038,6 @@
       "Инуяся: Чёрный Тэссайга"
     ],
     "enNames": [
-      "null",
       "Inu Yasha Special",
       "Black Tessaiga",
       "Black Tetsusaiga",
@@ -33374,7 +34048,8 @@
       "Inuyasha: Black Tetsusaiga",
       "Inuyasha: Kuroi Tessaiga",
       "Inuyasha: Kuroi Tetsusaiga",
-      "It's a Rumic World"
+      "It's a Rumic World",
+      "It’s a Rumic World: InuYasha"
     ],
     "shikimoriId": 4886,
     "malId": 4886,
@@ -33393,6 +34068,8 @@
       1674776014,
       1791266232
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "inuyasya-chernaya-tessayga"
   },
   {
@@ -33589,6 +34266,8 @@
       1751855239,
       1751855239
     ],
+    "totalEpisodes": 26,
+    "airedEpisodes": 26,
     "yummyAlias": "kogda-plachut-chayki"
   },
   {
@@ -34080,6 +34759,8 @@
       1677783075,
       1715035977
     ],
+    "totalEpisodes": 24,
+    "airedEpisodes": 25,
     "yummyAlias": "temnyj-dvoreckij-tv1"
   },
   {
@@ -34187,6 +34868,8 @@
       1753199149,
       1753199149
     ],
+    "totalEpisodes": 5,
+    "airedEpisodes": 5,
     "yummyAlias": "piraty-chernou-lagynu-krovavuj-sled-robertu"
   },
   {
@@ -34331,6 +35014,8 @@
       1788275339,
       1788275339
     ],
+    "totalEpisodes": 13,
+    "airedEpisodes": 13,
     "yummyAlias": "segodnya-v-5-b-klasse-tv"
   },
   {
@@ -34338,7 +35023,7 @@
     "slugUrl": "dream:2887",
     "name": "Mach Girl",
     "rusName": "Мач-Девочка",
-    "engName": "null",
+    "engName": "マッハガール",
     "coverUrl": "https://shikimori.one/system/animes/original/4905.jpg?1711961953",
     "coverFallbackUrl": "",
     "status": "released",
@@ -34363,7 +35048,6 @@
       "Мач-Девочка"
     ],
     "enNames": [
-      "null",
       "マッハガール"
     ],
     "shikimoriId": 4905,
@@ -34380,6 +35064,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 26,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -34387,7 +35073,7 @@
     "slugUrl": "dream:2888",
     "name": "Век динозавров",
     "rusName": "Век динозавров",
-    "engName": "null",
+    "engName": "Age of the Great Dinosaurs",
     "coverUrl": "https://static.yani.tv/posters/full/1636670614.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -34412,7 +35098,6 @@
       "Век динозавров"
     ],
     "enNames": [
-      "null",
       "Age of the Great Dinosaurs",
       "Age Of The Great Dinosaurs",
       "Dai Kyōryū Jidai",
@@ -34423,7 +35108,8 @@
       "La era de los dinosaurios",
       "Mi amigo el dinosaurio",
       "Quando vivevano i dinosauri",
-      "The Age of Dinosaurs"
+      "The Age of Dinosaurs",
+      "The Era of the Great Dinosaurs"
     ],
     "shikimoriId": 4907,
     "malId": 4907,
@@ -34442,6 +35128,8 @@
       1674776478,
       1708065941
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "vek-dinozavrov"
   },
   {
@@ -34449,7 +35137,7 @@
     "slugUrl": "dream:2889",
     "name": "Семейство Бихада",
     "rusName": "Семейство Бихада",
-    "engName": "null",
+    "engName": "Семья Бихада",
     "coverUrl": "https://static.yani.tv/posters/full/16287.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -34479,7 +35167,6 @@
       "Основа семьи"
     ],
     "enNames": [
-      "null",
       "Семья Бихада",
       "Junai Cosmetic Comic: Bihada Ichizoku",
       "Pure Love Cosmetic Comic: Bihada Family",
@@ -34523,6 +35210,8 @@
       1674776230,
       1674776230
     ],
+    "totalEpisodes": 12,
+    "airedEpisodes": 12,
     "yummyAlias": "semeystvo-bihada"
   },
   {
@@ -34591,6 +35280,8 @@
     "episodeDates": [
       1674776469
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "ostrov-priklyucheniy-pikachu"
   },
   {
@@ -34656,6 +35347,8 @@
     "episodeDates": [
       1674776008
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "galakticheskoe-rassledovanie-2100"
   },
   {
@@ -34715,6 +35408,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -34782,6 +35477,8 @@
       1674776532,
       1674776532
     ],
+    "totalEpisodes": 4,
+    "airedEpisodes": 4,
     "yummyAlias": "krasnyy-hayate"
   },
   {
@@ -34789,7 +35486,7 @@
     "slugUrl": "dream:2894",
     "name": "Marco: Haha wo Tazunete Sanzenri",
     "rusName": "Марко",
-    "engName": "null",
+    "engName": "Marco ~Haha wo Tazunete Sanzen Ri~",
     "coverUrl": "https://shikimori.one/system/animes/original/4926.jpg?1711962882",
     "coverFallbackUrl": "",
     "status": "released",
@@ -34816,7 +35513,6 @@
       "Марко"
     ],
     "enNames": [
-      "null",
       "Marco ~Haha wo Tazunete Sanzen Ri~",
       "Marco the Movie - 3000 Leagues in Search of Mother",
       "From the Apennines to the Andes: The Movie",
@@ -34827,7 +35523,8 @@
       "Gekijōban Marco: Haha o Tazunete Sanzenri",
       "Marco",
       "Marco - Carry a Dream",
-      "Marco the Movie"
+      "Marco the Movie",
+      "Marco, la película: No te Vayas Mamá"
     ],
     "shikimoriId": 4926,
     "malId": 4926,
@@ -34843,6 +35540,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -34850,7 +35549,7 @@
     "slugUrl": "dream:2895",
     "name": "Tomoe ga Yuku!",
     "rusName": "Вот идёт Томоэ!",
-    "engName": "null",
+    "engName": "There Goes Tomoe!",
     "coverUrl": "https://shikimori.one/system/animes/original/4927.jpg?1711978037",
     "coverFallbackUrl": "",
     "status": "released",
@@ -34883,7 +35582,6 @@
       "Вот идёт Томоэ!"
     ],
     "enNames": [
-      "null",
       "There Goes Tomoe!",
       "Go",
       "Tomoe!",
@@ -34910,6 +35608,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 2,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -34970,6 +35670,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 43,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -35115,6 +35817,8 @@
       1788266238,
       1788266238
     ],
+    "totalEpisodes": 12,
+    "airedEpisodes": 12,
     "yummyAlias": "novaya-letopis-voyny-ergayc"
   },
   {
@@ -35175,6 +35879,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 26,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -35182,7 +35888,7 @@
     "slugUrl": "dream:2899",
     "name": "A.F",
     "rusName": "Силы архетипов",
-    "engName": "null",
+    "engName": "Archetypes Forces",
     "coverUrl": "https://shikimori.one/system/animes/original/4934.jpg?1711938210",
     "coverFallbackUrl": "",
     "status": "released",
@@ -35213,7 +35919,6 @@
       "Силы архетипов"
     ],
     "enNames": [
-      "null",
       "Archetypes Forces",
       "A. F",
       "Ａ.Ｆ"
@@ -35232,6 +35937,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -35295,6 +36002,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 296,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -35360,6 +36069,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 694,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -35438,6 +36149,8 @@
       1761500481,
       1761500481
     ],
+    "totalEpisodes": 2,
+    "airedEpisodes": 2,
     "yummyAlias": "hronika-krylev-ova-2"
   },
   {
@@ -35445,7 +36158,7 @@
     "slugUrl": "dream:2903",
     "name": "Macross Fufonfia",
     "rusName": "Макросс Фуфонфия",
-    "engName": "null",
+    "engName": "Macross fufonfia",
     "coverUrl": "https://shikimori.one/system/animes/original/4939.jpg?1711962071",
     "coverFallbackUrl": "",
     "status": "released",
@@ -35472,7 +36185,6 @@
       "Макросс Фуфонфия"
     ],
     "enNames": [
-      "null",
       "Macross fufonfia",
       "マクロスfufonfia"
     ],
@@ -35490,6 +36202,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 20,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -35544,6 +36258,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 26,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -35605,6 +36321,8 @@
     "episodeDates": [
       1674776048
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "osamu-tedzuka-ushel-poslednee-chudo-20-go-veka"
   },
   {
@@ -35669,6 +36387,8 @@
     "episodeDates": [
       1674776191
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "feya-florenciya"
   },
   {
@@ -35733,6 +36453,8 @@
     "episodeDates": [
       1674826838
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "yunyy-sarutobi-sasuke"
   },
   {
@@ -35800,6 +36522,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 51,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -35859,6 +36583,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -35925,6 +36651,8 @@
     "episodeDates": [
       1674776187
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "sverhchelovek-lok-ova-3"
   },
   {
@@ -35997,6 +36725,8 @@
       1674775988,
       1674775988
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "afrosamuray-voskreshenie"
   },
   {
@@ -36137,6 +36867,8 @@
       0,
       0
     ],
+    "totalEpisodes": 12,
+    "airedEpisodes": 12,
     "yummyAlias": "haos-vershina"
   },
   {
@@ -36435,6 +37167,8 @@
       1674827023,
       1674827023
     ],
+    "totalEpisodes": 24,
+    "airedEpisodes": 24,
     "yummyAlias": "grehi-kassyana"
   },
   {
@@ -36503,6 +37237,8 @@
     "episodeDates": [
       1674827214
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "lirichnaya-volshebnica-nanoha"
   },
   {
@@ -36561,6 +37297,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -36716,6 +37454,8 @@
       1788275060,
       1788275060
     ],
+    "totalEpisodes": 12,
+    "airedEpisodes": 12,
     "yummyAlias": "eyti-zavtrashnego-dnya"
   },
   {
@@ -36723,7 +37463,7 @@
     "slugUrl": "dream:2917",
     "name": "Астровоин Санред",
     "rusName": "Астровоин Санред",
-    "engName": "null",
+    "engName": "Astro Fighter Sunred",
     "coverUrl": "https://static.yani.tv/posters/full/1636669452.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -36753,7 +37493,6 @@
       "Астро-боец Санред"
     ],
     "enNames": [
-      "null",
       "Astro Fighter Sunred",
       "Sunred",
       "天体战士",
@@ -36931,6 +37670,8 @@
       1788267630,
       1788267630
     ],
+    "totalEpisodes": 26,
+    "airedEpisodes": 26,
     "yummyAlias": "astrovoin-sanred-1"
   },
   {
@@ -37002,6 +37743,8 @@
       1674827205,
       1789135366
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "vozvraschenie-kota-v-sapogah"
   },
   {
@@ -37065,6 +37808,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -37072,7 +37817,7 @@
     "slugUrl": "dream:2920",
     "name": "Piroppo",
     "rusName": "Пироппо",
-    "engName": "null",
+    "engName": "ピロッポ",
     "coverUrl": "https://shikimori.one/system/animes/original/5018.jpg?1711968862",
     "coverFallbackUrl": "",
     "status": "released",
@@ -37097,7 +37842,6 @@
       "Пироппо"
     ],
     "enNames": [
-      "null",
       "ピロッポ"
     ],
     "shikimoriId": 5018,
@@ -37114,6 +37858,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 23,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -37184,6 +37930,8 @@
     "episodeDates": [
       1674827034
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "lyupen-iii-volshebnaya-lampa-predvestnik-koshmara-tv"
   },
   {
@@ -37277,6 +38025,8 @@
       1788275353,
       1788275353
     ],
+    "totalEpisodes": 5,
+    "airedEpisodes": 5,
     "yummyAlias": "platonicheskoe-serdce"
   },
   {
@@ -37340,6 +38090,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 73,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -37347,7 +38099,7 @@
     "slugUrl": "dream:2924",
     "name": "Ninpuu Kamui Gaiden",
     "rusName": "Ниндзя Камуи",
-    "engName": "null",
+    "engName": "Kamui the Ninja: Stories Other Than the Legend",
     "coverUrl": "https://shikimori.one/system/animes/original/5023.jpg?1711966582",
     "coverFallbackUrl": "",
     "status": "released",
@@ -37380,7 +38132,6 @@
       "Ниндзя Камуи"
     ],
     "enNames": [
-      "null",
       "Kamui the Ninja: Stories Other Than the Legend",
       "Kamui the Ninja",
       "Kamui, El Ninja Desertor",
@@ -37391,7 +38142,8 @@
       "Las aventuras de Kamuy",
       "L’invincibile Ninja Kamui",
       "Ninpū Kamui Gaiden",
-      "Search of the Ninja"
+      "Search of the Ninja",
+      "The Legend of Ninja Kamui"
     ],
     "shikimoriId": 5023,
     "malId": 5023,
@@ -37407,6 +38159,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 26,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -37620,6 +38374,8 @@
       1788267278,
       1788267278
     ],
+    "totalEpisodes": 25,
+    "airedEpisodes": 22,
     "yummyAlias": "stich-1"
   },
   {
@@ -37627,7 +38383,7 @@
     "slugUrl": "dream:2926",
     "name": "Мэйджор 5",
     "rusName": "Мэйджор 5",
-    "engName": "null",
+    "engName": "Major 5th Season",
     "coverUrl": "https://static.yani.tv/posters/full/1636668533.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -37654,7 +38410,6 @@
       "Мэйджор 5"
     ],
     "enNames": [
-      "null",
       "Major 5th Season",
       "Major",
       "Major (2009)",
@@ -37662,10 +38417,11 @@
       "Major 5th",
       "Major Season 5",
       "Мейжър С5",
-      "Мэйджор [ТВ-5]",
+      "Мэйджор (ТВ-5)",
       "メジャー",
       "メジャー (2009)",
-      "メジャー 第5シリーズ"
+      "メジャー 第5シリーズ",
+      "メジャー（第5シリーズ)"
     ],
     "shikimoriId": 5028,
     "malId": 5028,
@@ -37732,6 +38488,8 @@
       1751850636,
       1751850636
     ],
+    "totalEpisodes": 25,
+    "airedEpisodes": 25,
     "yummyAlias": "mejdzhor-tv-5"
   },
   {
@@ -37739,7 +38497,7 @@
     "slugUrl": "dream:2927",
     "name": "Мэйджор: Мяч дружбы",
     "rusName": "Мэйджор: Мяч дружбы",
-    "engName": "null",
+    "engName": "Major: Yuujou no Ikkyuu",
     "coverUrl": "https://static.yani.tv/posters/full/1636665704.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -37768,7 +38526,6 @@
       "Мэйджор: Мяч дружбы"
     ],
     "enNames": [
-      "null",
       "Major: Yuujou no Ikkyuu",
       "Gekijouban Major",
       "Major: Yuujou no Winning Shot",
@@ -37779,7 +38536,8 @@
       "Gekijōban Major: Yūjō no Winning Shot",
       "Major Movie",
       "Major Movie: The Ball of Friendship",
-      "Major Movie: Yuujou's Winning Shot"
+      "Major Movie: Yuujou's Winning Shot",
+      "Major: Ball of Friendship"
     ],
     "shikimoriId": 5029,
     "malId": 5029,
@@ -37797,6 +38555,8 @@
     "episodeDates": [
       0
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "mejdzhor-myach-druzhby"
   },
   {
@@ -37933,6 +38693,8 @@
       1674827015,
       1674827015
     ],
+    "totalEpisodes": 12,
+    "airedEpisodes": 14,
     "yummyAlias": "princessa-nemertvyh-chernaya-hronika"
   },
   {
@@ -37996,6 +38758,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 3,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -38153,6 +38917,8 @@
       1789767198,
       1790535325
     ],
+    "totalEpisodes": 12,
+    "airedEpisodes": 12,
     "yummyAlias": "kurozuka"
   },
   {
@@ -38367,6 +39133,8 @@
       1674826944,
       1674826944
     ],
+    "totalEpisodes": 25,
+    "airedEpisodes": 25,
     "yummyAlias": "odin-na-vylet"
   },
   {
@@ -38374,7 +39142,7 @@
     "slugUrl": "dream:2932",
     "name": "Сага о Гуине",
     "rusName": "Сага о Гуине",
-    "engName": "null",
+    "engName": "Sakmė apie Guiną",
     "coverUrl": "https://static.yani.tv/posters/full/19849.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -38401,7 +39169,6 @@
       "Сага о Гуине"
     ],
     "enNames": [
-      "null",
       "Sakmė apie Guiną",
       "Сага за Гуин",
       "Сага о Гуине",
@@ -38528,6 +39295,8 @@
       1710084474,
       1710084474
     ],
+    "totalEpisodes": 26,
+    "airedEpisodes": 26,
     "yummyAlias": "saga-o-guine"
   },
   {
@@ -38535,7 +39304,7 @@
     "slugUrl": "dream:2933",
     "name": "Macross XX",
     "rusName": "Макросс ХХ",
-    "engName": "null",
+    "engName": "Macross 20th",
     "coverUrl": "https://shikimori.one/system/animes/original/5051.jpg?1711962051",
     "coverFallbackUrl": "",
     "status": "released",
@@ -38562,7 +39331,6 @@
       "Макросс ХХ"
     ],
     "enNames": [
-      "null",
       "Macross 20th",
       "Macross: Macross XX",
       "マクロスXX"
@@ -38581,6 +39349,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -38646,6 +39416,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 56,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -38707,6 +39479,8 @@
     "episodeDates": [
       1674827052
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "gorod-lyubvi"
   },
   {
@@ -38714,7 +39488,7 @@
     "slugUrl": "dream:2936",
     "name": "Penguin Musume♥Heart Special",
     "rusName": "Девочка-пингвин: Спецвыпуск",
-    "engName": "null",
+    "engName": "Penguin Musume♥Heart Episode 11.5",
     "coverUrl": "https://shikimori.one/system/animes/original/5056.jpg?1711968648",
     "coverFallbackUrl": "",
     "status": "released",
@@ -38743,7 +39517,6 @@
       "Девочка-пингвин: Спецвыпуск"
     ],
     "enNames": [
-      "null",
       "Penguin Musume♥Heart Episode 11.5",
       "Penguin Girl Special",
       "Temple Fair Begins!",
@@ -38764,6 +39537,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -39022,6 +39797,8 @@
       1790171017,
       1679314751
     ],
+    "totalEpisodes": 52,
+    "airedEpisodes": 52,
     "yummyAlias": "hetaliya-i-strany-osi-ona"
   },
   {
@@ -39077,6 +39854,8 @@
     "episodeDates": [
       1690813086
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "detroyt-gorod-metalla-rozhdenie-dyavola-metala"
   },
   {
@@ -39084,7 +39863,7 @@
     "slugUrl": "dream:2939",
     "name": "Трансформеры: Битвы зверей 2",
     "rusName": "Трансформеры: Битвы зверей 2",
-    "engName": "null",
+    "engName": "Beast Wars II Chou Seimeitai Transformers",
     "coverUrl": "https://static.yani.tv/posters/full/1636666439.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -39113,7 +39892,6 @@
       "Трансформеры: Битвы зверей 2"
     ],
     "enNames": [
-      "null",
       "Beast Wars II Chou Seimeitai Transformers",
       "Super Robot Life Form Transformers: Beast Wars Second",
       "Beast Wars II",
@@ -39124,7 +39902,8 @@
       "Beast Wars Second Chō Seimeitai Transformers",
       "Beast Wars: Feras Mecânicas",
       "bw2",
-      "ビーストウォーズII 超生命体トランスフォーマー"
+      "ビーストウォーズII 超生命体トランスフォーマー",
+      "ビーストウォーズII(セカンド) 超生命体トランスフォーマー"
     ],
     "shikimoriId": 5070,
     "malId": 5070,
@@ -39227,6 +40006,8 @@
       1791268337,
       1791268337
     ],
+    "totalEpisodes": 43,
+    "airedEpisodes": 43,
     "yummyAlias": "transformery-bitvy-zverey-2"
   },
   {
@@ -39292,6 +40073,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 104,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -39441,6 +40224,8 @@
       1788263914,
       1788263914
     ],
+    "totalEpisodes": 12,
+    "airedEpisodes": 12,
     "yummyAlias": "moguchaya-berdi-tv-2"
   },
   {
@@ -39501,6 +40286,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 48,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -39754,6 +40541,8 @@
       1674776171,
       1674776171
     ],
+    "totalEpisodes": 23,
+    "airedEpisodes": 23,
     "yummyAlias": "temnaya-boginya"
   },
   {
@@ -39761,7 +40550,7 @@
     "slugUrl": "dream:2944",
     "name": "Загадки Магической академии",
     "rusName": "Загадки Магической академии",
-    "engName": "null",
+    "engName": "QMA",
     "coverUrl": "https://static.yani.tv/posters/full/20045.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -39792,7 +40581,6 @@
       "Загадки Магической академии"
     ],
     "enNames": [
-      "null",
       "QMA",
       "QUIZ MAGIC ACADEMY ~The Original Animation~",
       "Quiz Magic Academy",
@@ -39822,6 +40610,8 @@
       1674827220,
       1790597036
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "zagadki-magicheskoy-akademii"
   },
   {
@@ -40192,6 +40982,8 @@
       1757778450,
       1757778450
     ],
+    "totalEpisodes": 15,
+    "airedEpisodes": 15,
     "yummyAlias": "istorii-monstrov"
   },
   {
@@ -40256,6 +41048,8 @@
       1674776465,
       1688049635
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "sinko-s-vihrom-i-tysyacheletnyaya-magiya"
   },
   {
@@ -40312,6 +41106,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 26,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -40319,7 +41115,7 @@
     "slugUrl": "dream:2948",
     "name": "Noramimi 2",
     "rusName": "Норамими 2",
-    "engName": "null",
+    "engName": "noramimi2",
     "coverUrl": "https://shikimori.one/system/animes/original/5089.jpg?1711966581",
     "coverFallbackUrl": "",
     "status": "released",
@@ -40344,7 +41140,6 @@
       "Норамими 2"
     ],
     "enNames": [
-      "null",
       "noramimi2",
       "のらみみ2"
     ],
@@ -40362,6 +41157,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 13,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -40428,6 +41225,8 @@
     "episodeDates": [
       1674827051
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "tehnopoliciya-xxi-veka"
   },
   {
@@ -40493,6 +41292,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 24,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -40556,6 +41357,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -40615,6 +41418,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 26,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -40765,6 +41570,8 @@
       1788267652,
       1788267652
     ],
+    "totalEpisodes": 12,
+    "airedEpisodes": 12,
     "yummyAlias": "pustaya-banka"
   },
   {
@@ -40851,6 +41658,8 @@
       1751854328,
       1674826893
     ],
+    "totalEpisodes": 25,
+    "airedEpisodes": 25,
     "yummyAlias": "melanholiya-haruhi-sudzumii-tyan"
   },
   {
@@ -40895,7 +41704,6 @@
       "Sihung Mouhim Gei",
       "Zentrix, Record of Time and Space Adventures",
       "時空冒険記 ゼントリックス",
-      "時空冒険記　ゼントリックス",
       "時空冒険記ゼントリックス",
       "時空冒險記"
     ],
@@ -40913,6 +41721,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 26,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -40974,6 +41784,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 36,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -41013,7 +41825,6 @@
       "Let's Nupu Nupu",
       "LET'S Nupu Nupu",
       "LET'S ぬぷぬぷっ",
-      "LET'S　ぬぷぬぷっ",
       "LET`S ぬぷぬぷっ",
       "Let's Nupu-Nupu",
       "Let's ぬぷぬぷっ",
@@ -41085,6 +41896,8 @@
       1674776416,
       1674776416
     ],
+    "totalEpisodes": 16,
+    "airedEpisodes": 16,
     "yummyAlias": "davay-nupa-nupnem"
   },
   {
@@ -41146,6 +41959,8 @@
     "episodeDates": [
       1674776177
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "puteshestvie-v-million-let-kniga-bandera"
   },
   {
@@ -41274,6 +42089,8 @@
       1788128579,
       1788128579
     ],
+    "totalEpisodes": 12,
+    "airedEpisodes": 12,
     "yummyAlias": "beysbolistki-epohi-tayse"
   },
   {
@@ -41337,6 +42154,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 36,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -41344,7 +42163,7 @@
     "slugUrl": "dream:2961",
     "name": "Comic Party Revolution OVA",
     "rusName": "Фестиваль додзинси: Революция OVA",
-    "engName": "null",
+    "engName": "Comic Party OVA",
     "coverUrl": "https://shikimori.one/system/animes/original/5147.jpg?1711946689",
     "coverFallbackUrl": "",
     "status": "released",
@@ -41369,7 +42188,6 @@
       "Фестиваль додзинси: Революция OVA"
     ],
     "enNames": [
-      "null",
       "Comic Party OVA",
       "Comic Party OAV",
       "Comic Party Revolution",
@@ -41391,6 +42209,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 4,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -41481,6 +42301,8 @@
       1751854774,
       1751854774
     ],
+    "totalEpisodes": 12,
+    "airedEpisodes": 12,
     "yummyAlias": "kompaniya-pervaya-lyubov"
   },
   {
@@ -41488,7 +42310,7 @@
     "slugUrl": "dream:2963",
     "name": "Mahjong Hishouden: Naki no Ryuu",
     "rusName": "Легенда маджонга: Плач дракона",
-    "engName": "null",
+    "engName": "Weeping Dragon",
     "coverUrl": "https://shikimori.one/system/animes/original/5151.jpg?1711962215",
     "coverFallbackUrl": "",
     "status": "released",
@@ -41517,7 +42339,6 @@
       "Легенда маджонга: Плач дракона"
     ],
     "enNames": [
-      "null",
       "Weeping Dragon",
       "Mahjong Hisho Den Naki no Ryu",
       "Mahjong Hishou-den Naki no Ryuu",
@@ -41540,6 +42361,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 3,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -41613,6 +42436,8 @@
       0,
       0
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "drakonij-zhemchug-son-goku-i-druz-ya-vozvrashayutsya"
   },
   {
@@ -41722,6 +42547,8 @@
       1751850334,
       1751850334
     ],
+    "totalEpisodes": 25,
+    "airedEpisodes": 25,
     "yummyAlias": "galient-tv"
   },
   {
@@ -41874,6 +42701,8 @@
       1788265887,
       1788265887
     ],
+    "totalEpisodes": 11,
+    "airedEpisodes": 11,
     "yummyAlias": "povest-o-gendzi-tysyacheletie"
   },
   {
@@ -41945,6 +42774,8 @@
     "sourceWork": "Оригинальная идея",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": "aleksandr-zavoevatel-film"
   },
   {
@@ -41952,7 +42783,7 @@
     "slugUrl": "dream:2968",
     "name": "Сёстры Минами 3",
     "rusName": "Сёстры Минами 3",
-    "engName": "null",
+    "engName": "Minami-ke 3",
     "coverUrl": "https://static.yani.tv/posters/full/1636670898.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -41983,7 +42814,6 @@
       "Сёстры Минами 3"
     ],
     "enNames": [
-      "null",
       "Minami-ke 3",
       "Minami-ke 3rd Season",
       "Minami-ke!",
@@ -41994,7 +42824,8 @@
       "mke3",
       "Семейка Минами - Возвращение",
       "みなみけ おかえり",
-      "みなみけ 第3期"
+      "みなみけ 第3期",
+      "南家三姐妹 欢迎回来"
     ],
     "shikimoriId": 5162,
     "malId": 5162,
@@ -42115,6 +42946,8 @@
       1788264432,
       1788264432
     ],
+    "totalEpisodes": 13,
+    "airedEpisodes": 13,
     "yummyAlias": "syostry-minami-tv-3"
   },
   {
@@ -42169,6 +43002,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 9,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -42225,6 +43060,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -42281,6 +43118,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -42288,7 +43127,7 @@
     "slugUrl": "dream:2972",
     "name": "Лимон со сливками: Новое поколение",
     "rusName": "Лимон со сливками: Новое поколение",
-    "engName": "null",
+    "engName": "Cream Lemon New Generation",
     "coverUrl": "https://static.yani.tv/posters/full/17664.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -42315,7 +43154,6 @@
       "Лимон со сливками: Новое поколение"
     ],
     "enNames": [
-      "null",
       "Cream Lemon New Generation",
       "くりぃむレモン New Generation",
       "くりぃむレモン ニュージェネレーション",
@@ -42342,6 +43180,8 @@
       1674776482,
       1674776482
     ],
+    "totalEpisodes": 4,
+    "airedEpisodes": 4,
     "yummyAlias": "limon-so-slivkami-novoe-pokolenie"
   },
   {
@@ -42349,7 +43189,7 @@
     "slugUrl": "dream:2973",
     "name": "Asience: Kami wa Onna no Inochi",
     "rusName": "Сказание о волосах",
-    "engName": "null",
+    "engName": "Asience Hairy Tale",
     "coverUrl": "https://shikimori.one/system/animes/original/5168.jpg?1711942630",
     "coverFallbackUrl": "",
     "status": "released",
@@ -42376,7 +43216,6 @@
       "Сказание о волосах"
     ],
     "enNames": [
-      "null",
       "Asience Hairy Tale",
       "Hair is the Heart of a Woman",
       "ASIENCE～髪は女の命",
@@ -42401,6 +43240,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -42488,6 +43329,8 @@
       1788266802,
       1788266802
     ],
+    "totalEpisodes": 2,
+    "airedEpisodes": 2,
     "yummyAlias": "choknutaya-podruzhka"
   },
   {
@@ -42562,6 +43405,8 @@
       1730275295,
       0
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "pervuy-otryad-moment-istiny"
   },
   {
@@ -42569,7 +43414,7 @@
     "slugUrl": "dream:2976",
     "name": "Negibouzu no Asatarou",
     "rusName": "Асатароу",
-    "engName": "null",
+    "engName": "Asataro el Samurai Cebolla",
     "coverUrl": "https://shikimori.one/system/animes/original/5184.jpg?1711965829",
     "coverFallbackUrl": "",
     "status": "released",
@@ -42598,7 +43443,6 @@
       "Асатароу"
     ],
     "enNames": [
-      "null",
       "Asataro el Samurai Cebolla",
       "Asataro the Onion Samurai",
       "Negibōzu no Asatarō",
@@ -42618,6 +43462,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 48,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -42680,6 +43526,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 156,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -42687,7 +43535,7 @@
     "slugUrl": "dream:2978",
     "name": "Kiku-chan to Ookami",
     "rusName": "Кику и волчица",
-    "engName": "null",
+    "engName": "Kikuchan to Okami",
     "coverUrl": "https://shikimori.one/system/animes/original/5192.jpg?1711958508",
     "coverFallbackUrl": "",
     "status": "released",
@@ -42714,7 +43562,6 @@
       "Кику и волчица"
     ],
     "enNames": [
-      "null",
       "Kikuchan to Okami",
       "Kiku and the Wolf",
       "Sensou Douwa 8",
@@ -42740,6 +43587,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -42747,7 +43596,7 @@
     "slugUrl": "dream:2979",
     "name": "Shinjuku Shin-chan Patrol: Warui Otona ni Ki wo Tsukete",
     "rusName": "Shinjuku Shin-chan Patrol: Warui Otona ni Ki wo Tsukete",
-    "engName": "null",
+    "engName": "Shinjuku Shin-chan Patrol: Be Careful of Bad Adults",
     "coverUrl": "https://shikimori.one/system/animes/original/5193.jpg?1711973509",
     "coverFallbackUrl": "",
     "status": "released",
@@ -42773,7 +43622,6 @@
       "Shinjuku Shin-chan Patrol: Be Careful of Bad Adults"
     ],
     "enNames": [
-      "null",
       "Shinjuku Shin-chan Patrol: Be Careful of Bad Adults",
       "Shinjuku Shin-chan Patrol: Warui Otona ni Ki o Tsukete",
       "新宿シンちゃんパトロール わるいおとなにきをつけて",
@@ -42793,6 +43641,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -42860,6 +43710,8 @@
       1747299608,
       1747299608
     ],
+    "totalEpisodes": 7,
+    "airedEpisodes": 7,
     "yummyAlias": "ariya-proishozhdenie-istorii-kartinkah"
   },
   {
@@ -42920,6 +43772,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 39,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -42927,7 +43781,7 @@
     "slugUrl": "dream:2982",
     "name": "Офсайд",
     "rusName": "Офсайд",
-    "engName": "null",
+    "engName": "Offside (2001)",
     "coverUrl": "https://static.yani.tv/posters/full/1636675410.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -42956,7 +43810,6 @@
       "Офсайд"
     ],
     "enNames": [
-      "null",
       "Offside (2001)",
       "OFFSIDE",
       "OFFSIDE (TV)",
@@ -43217,6 +44070,8 @@
       1788277568,
       1788277568
     ],
+    "totalEpisodes": 39,
+    "airedEpisodes": 39,
     "yummyAlias": "ofsayd-tv"
   },
   {
@@ -43274,6 +44129,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 50,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -43424,6 +44281,8 @@
       1790407593,
       1790407593
     ],
+    "totalEpisodes": 50,
+    "airedEpisodes": 44,
     "yummyAlias": "istorii-meypl-tauna-2"
   },
   {
@@ -43505,6 +44364,8 @@
       0,
       0
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "granica-pustoty-6-melodiya-zabveniya"
   },
   {
@@ -43591,6 +44452,8 @@
       1685884073,
       1685884073
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "granica-pustoty-7-teoriya-ubijstva-chast-2"
   },
   {
@@ -43598,7 +44461,7 @@
     "slugUrl": "dream:2987",
     "name": "Hokuro Kyoudai Full Throttle!!!!",
     "rusName": "Братья Хокуро",
-    "engName": "null",
+    "engName": "Hokuro Kyodai Full Throttle",
     "coverUrl": "https://shikimori.one/system/animes/original/5207.jpg?1711953891",
     "coverFallbackUrl": "",
     "status": "released",
@@ -43623,7 +44486,6 @@
       "Братья Хокуро"
     ],
     "enNames": [
-      "null",
       "Hokuro Kyodai Full Throttle",
       "Hokuro Kyodai Full Throttle!!!!",
       "ホクロ兄弟 フルスロットル!!!!",
@@ -43643,6 +44505,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 7,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -43650,7 +44514,7 @@
     "slugUrl": "dream:2988",
     "name": "С начала, если...",
     "rusName": "С начала, если...",
-    "engName": "null",
+    "engName": "Da Capo If",
     "coverUrl": "https://static.yani.tv/posters/full/19038.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -43679,7 +44543,6 @@
       "С начала, если..."
     ],
     "enNames": [
-      "null",
       "Da Capo If",
       "D.C. if",
       "D.C.I.F. Da Capo If",
@@ -43709,6 +44572,8 @@
       1674826988,
       1674826988
     ],
+    "totalEpisodes": 2,
+    "airedEpisodes": 2,
     "yummyAlias": "snachala-ova-1"
   },
   {
@@ -43770,6 +44635,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 39,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -43977,6 +44844,8 @@
       1788276073,
       1788276073
     ],
+    "totalEpisodes": 24,
+    "airedEpisodes": 24,
     "yummyAlias": "shangri-la"
   },
   {
@@ -43984,7 +44853,7 @@
     "slugUrl": "dream:2991",
     "name": "Люпен III: Секретные документы",
     "rusName": "Люпен III: Секретные документы",
-    "engName": "null",
+    "engName": "Люпен III: Пилот",
     "coverUrl": "https://static.yani.tv/posters/full/1636666962.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -44014,7 +44883,6 @@
       "Люпен III: Пилотный фильм"
     ],
     "enNames": [
-      "null",
       "Люпен III: Пилот",
       "Люпен III: Секретные документы",
       "Lupin Sansei: Secret File",
@@ -44025,7 +44893,8 @@
       "Lupin Sansei: Pilot Film",
       "Lupin The 3rd: Pilot Film",
       "Lupin The Third: Pilot Film",
-      "Lupin the Third Pilot Film (Original Version)"
+      "Lupin the Third Pilot Film (Original Version)",
+      "Lupin the Third: Pilot Film"
     ],
     "shikimoriId": 5225,
     "malId": 5225,
@@ -44049,6 +44918,8 @@
       1674776395,
       1789134198
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "lyupen-iii-pilot"
   },
   {
@@ -44317,6 +45188,8 @@
       1787621847,
       1787621847
     ],
+    "totalEpisodes": 26,
+    "airedEpisodes": 26,
     "yummyAlias": "doroga-pod-nebom"
   },
   {
@@ -44364,8 +45237,8 @@
       "頭文字D Extra Stage 2",
       "頭文字D Extra Stage 2 旅立ちのグリーン",
       "頭文字D Extra Stage2",
-      "頭文字[イニシャル]D EXTRA STAGE 2",
-      "頭文字[イニシャル]D Extra Stage2"
+      "頭文字(イニシャル)D EXTRA STAGE 2",
+      "頭文字(イニシャル)D Extra Stage2"
     ],
     "shikimoriId": 5228,
     "malId": 5228,
@@ -44386,6 +45259,8 @@
       1674776263,
       1674776263
     ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
     "yummyAlias": "inicial-di-ekstra-stadiya-2"
   },
   {
@@ -44393,7 +45268,7 @@
     "slugUrl": "dream:2994",
     "name": "Одиннадцать молний",
     "rusName": "Одиннадцать молний",
-    "engName": "null",
+    "engName": "Иназума Одиннадцать",
     "coverUrl": "https://static.yani.tv/posters/full/1636665437.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -44425,7 +45300,6 @@
       "Инадзума 11"
     ],
     "enNames": [
-      "null",
       "Иназума Одиннадцать",
       "Inazuma 11",
       "Inazuma Eleven : Puissance Foot",
@@ -44436,7 +45310,8 @@
       "Super Once",
       "Super Onze",
       "Súper Once",
-      "ie1"
+      "ie1",
+      "أبطال الكرة"
     ],
     "shikimoriId": 5231,
     "malId": 5231,
@@ -44709,6 +45584,8 @@
       1675418232,
       1675418232
     ],
+    "totalEpisodes": 127,
+    "airedEpisodes": 126,
     "yummyAlias": "odinnadcat-molnij"
   },
   {
@@ -44768,6 +45645,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -44775,7 +45654,7 @@
     "slugUrl": "dream:2996",
     "name": "Рубаки: Эволюция-Эр",
     "rusName": "Рубаки: Эволюция-Эр",
-    "engName": "null",
+    "engName": "Sureiyazu Evolution-R",
     "coverUrl": "https://static.yani.tv/posters/full/1636770435.jpg",
     "coverFallbackUrl": "",
     "status": "released",
@@ -44804,7 +45683,6 @@
       "Рубаки: Эволюция-Эр"
     ],
     "enNames": [
-      "null",
       "Sureiyazu Evolution-R",
       "Slayers 5th Season",
       "Slayers fifth Series",
@@ -44815,7 +45693,8 @@
       "Slayers: A kis boszorkány IV/II",
       "Slayers: Magiczni wojownicy V",
       "The Slayers Evolution-R",
-      "The Slayers: Season 5"
+      "The Slayers: Season 5",
+      "Непобедимите (сезон 5)"
     ],
     "shikimoriId": 5233,
     "malId": 5233,
@@ -44897,6 +45776,8 @@
       1674776306,
       1674776306
     ],
+    "totalEpisodes": 13,
+    "airedEpisodes": 13,
     "yummyAlias": "rubaki-evolyuciya-er"
   },
   {
@@ -44904,7 +45785,7 @@
     "slugUrl": "dream:2997",
     "name": "Zettai Yareru Greece Shinwa",
     "rusName": "Мифы древней Греции",
-    "engName": "null",
+    "engName": "Zettai Yareru Gresia Shinwa",
     "coverUrl": "https://shikimori.one/system/animes/original/5234.jpg?1711983606",
     "coverFallbackUrl": "",
     "status": "released",
@@ -44931,7 +45812,6 @@
       "Мифы древней Греции"
     ],
     "enNames": [
-      "null",
       "Zettai Yareru Gresia Shinwa",
       "Zettai Yareru Girisha Shinwa",
       "Greek Mythology",
@@ -44954,6 +45834,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 13,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -44961,7 +45843,7 @@
     "slugUrl": "dream:2998",
     "name": "Live On Cardliver Kakeru",
     "rusName": "Кардливер",
-    "engName": "null",
+    "engName": "Live On CARDLIVER Kakeru",
     "coverUrl": "https://shikimori.one/system/animes/original/5235.jpg?1711961136",
     "coverFallbackUrl": "",
     "status": "released",
@@ -44988,7 +45870,6 @@
       "Кардливер"
     ],
     "enNames": [
-      "null",
       "Live On CARDLIVER Kakeru",
       "Live-On: Scegli la tua carta!",
       "Live-On: scegli la tua carta!",
@@ -45012,6 +45893,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 51,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -45068,6 +45951,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   },
   {
@@ -45075,7 +45960,7 @@
     "slugUrl": "dream:3000",
     "name": "Chocolate Underground: Bokura no Chocolate Sensou",
     "rusName": "Нелегальный шоколад: Фильм",
-    "engName": "null",
+    "engName": "Gekijouban Chocolate Underground",
     "coverUrl": "https://shikimori.one/system/animes/original/5238.jpg?1711946128",
     "coverFallbackUrl": "",
     "status": "released",
@@ -45104,7 +45989,6 @@
       "Нелегальный шоколад: Фильм"
     ],
     "enNames": [
-      "null",
       "Gekijouban Chocolate Underground",
       "Chocolate Underground the Movie",
       "Chocolate Underground Theatrical Version",
@@ -45112,7 +45996,6 @@
       "Chocolate Underground: Bokura no Chocolate Sensō Special Edition",
       "チョコレート・アンダーグラウンド ぼくらのチョコレート戦争",
       "チョコレート・アンダーグラウンド ぼくらのチョコレート戦争 スペシャル・エディション",
-      "チョコレート・アンダーグラウンド　ぼくらのチョコレート戦争 スペシャル・エディション",
       "チョコレート・アンダーグラウンド～ぼくらのチョコレート戦争～"
     ],
     "shikimoriId": 5238,
@@ -45129,6 +46012,8 @@
     "sourceWork": "",
     "releaseDate": "",
     "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 0,
     "yummyAlias": ""
   }
 ]
