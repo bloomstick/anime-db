@@ -1,6 +1,22 @@
 [
   {
     "episode": 1,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123136/29f7017f6f3eebd534078ecb99c5fcd7/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1791064634,
+    "durationSec": 1499
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123136/29f7017f6f3eebd534078ecb99c5fcd7/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1791644889,
+    "durationSec": 1499
+  },
+  {
+    "episode": 1,
     "dub": "Озвучка Flowers Media",
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123127/cccc4f078431cb6973320a007630cdd7/720p?translations=false&only_episode=true&only_season=true&episode=1",
@@ -17,10 +33,10 @@
   },
   {
     "episode": 1,
-    "dub": "Озвучка AniStar",
+    "dub": "Озвучка AniLibria",
     "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123136/29f7017f6f3eebd534078ecb99c5fcd7/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1791064634,
-    "durationSec": 1499
+    "iframeUrl": "https://kodikplayer.com/season/123574/c02b16f510a898d89afdb1ba39c7b0b7/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1791653572,
+    "durationSec": 1578
   }
 ]
