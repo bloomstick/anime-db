@@ -17,14 +17,6 @@
   },
   {
     "episode": 1,
-    "dub": "Субтитры Crunchyroll",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123271/9509cb6b4ad59a30ec9d6607eb170731/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1791218808,
-    "durationSec": 1420
-  },
-  {
-    "episode": 1,
     "dub": "Озвучка AniLibria",
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=7be86ba9ae090919624d69b8a4c56b&translation=340&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
@@ -37,6 +29,14 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123380/cdbd29b0fe4f01cfb17c1c58bd37fa08/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1791380612,
+    "durationSec": 1420
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры Crunchyroll",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123271/9509cb6b4ad59a30ec9d6607eb170731/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1791218808,
     "durationSec": 1420
   },
   {
@@ -65,19 +65,19 @@
   },
   {
     "episode": 1,
-    "dub": "Озвучка AniTime Voice",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123294/691c39015c84876fb1c803442ee4094e/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1791233256,
-    "durationSec": 0
-  },
-  {
-    "episode": 1,
     "dub": "Озвучка AniBaza",
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123373/f974cba8d8feceb1ac461907280d2653/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1791366841,
     "durationSec": 1420
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniTime Voice",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123294/691c39015c84876fb1c803442ee4094e/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1791233256,
+    "durationSec": 0
   },
   {
     "episode": 1,

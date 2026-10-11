@@ -81,6 +81,22 @@
   },
   {
     "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123180/a196400d6c090f53aeffa74fcc12e4e7/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1791115067,
+    "durationSec": 1430
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123180/a196400d6c090f53aeffa74fcc12e4e7/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1791742095,
+    "durationSec": 1430
+  },
+  {
+    "episode": 1,
     "dub": "Озвучка VOLKOFRENIA",
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123134/dc4b9f679ed97946b8b1da3fb26a47a1/720p?translations=false&only_episode=true&only_season=true&episode=1",
@@ -185,14 +201,6 @@
   },
   {
     "episode": 1,
-    "dub": "Озвучка AniDUB",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123180/a196400d6c090f53aeffa74fcc12e4e7/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1791115067,
-    "durationSec": 1430
-  },
-  {
-    "episode": 1,
     "dub": "Озвучка Amediateka",
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123403/f6d42297e811dc4d18a7c03caf3e9e2a/720p?translations=false&only_episode=true&only_season=true&episode=1",
@@ -245,6 +253,14 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=bfbe2595353b6e21c502eeb82ffae3&translation=79&season=2&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1791200045,
+    "durationSec": 1430
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Mirano",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123618/f2fc99fc1e1a8ead0db44669645e3d93/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1791720728,
     "durationSec": 1430
   }
 ]
