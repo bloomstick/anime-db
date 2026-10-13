@@ -17,6 +17,46 @@
   },
   {
     "episode": 1,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=7f84132ab1ea4ed391d937c61e2167&translation=340&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1791182563,
+    "durationSec": 1371
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=7f84132ab1ea4ed391d937c61e2167&translation=340&season=1&episode=2&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1791803237,
+    "durationSec": 1373
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123231/37860b9f603daf6b14f64d2b63ad81cb/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1791147142,
+    "durationSec": 1372
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123231/37860b9f603daf6b14f64d2b63ad81cb/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1791749467,
+    "durationSec": 1373
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=aniliberty&anime_id=62922&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
+    "date": 1791302049,
+    "durationSec": 1372
+  },
+  {
+    "episode": 1,
     "dub": "Озвучка AnimeVost",
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123145/02294d0e6400296b5199e04f6d596b23/720p?translations=false&only_episode=true&only_season=true&episode=1",
@@ -45,38 +85,6 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=animevost&anime_id=62922&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
     "date": 1791661884,
-    "durationSec": 1371
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка Flowers Media",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123149/52ec3c228dfd3d130a957fc6848038db/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1791093625,
-    "durationSec": 1371
-  },
-  {
-    "episode": 2,
-    "dub": "Озвучка Flowers Media",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123149/52ec3c228dfd3d130a957fc6848038db/720p?translations=false&only_episode=true&only_season=true&episode=2",
-    "date": 1791687759,
-    "durationSec": 1371
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка Flowers Media",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=flowersmedia&anime_id=62922&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Flowers+Media",
-    "date": 1791101527,
-    "durationSec": 1371
-  },
-  {
-    "episode": 2,
-    "dub": "Озвучка Flowers Media",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=flowersmedia&anime_id=62922&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Flowers+Media",
-    "date": 1791680801,
     "durationSec": 1371
   },
   {
@@ -118,6 +126,38 @@
     "iframeUrl": "https://alloha.yani.tv/?token_movie=7f84132ab1ea4ed391d937c61e2167&translation=215&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1791189002,
     "durationSec": 1378
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Flowers Media",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123149/52ec3c228dfd3d130a957fc6848038db/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1791093625,
+    "durationSec": 1371
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка Flowers Media",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123149/52ec3c228dfd3d130a957fc6848038db/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1791687759,
+    "durationSec": 1371
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Flowers Media",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=flowersmedia&anime_id=62922&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Flowers+Media",
+    "date": 1791101527,
+    "durationSec": 1371
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка Flowers Media",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=flowersmedia&anime_id=62922&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Flowers+Media",
+    "date": 1791680801,
+    "durationSec": 1371
   },
   {
     "episode": 1,
@@ -177,6 +217,46 @@
   },
   {
     "episode": 1,
+    "dub": "Озвучка DreamyVoice",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123160/a1a656dbfad00ee17e418982a3477549/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1791122657,
+    "durationSec": 1371
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка DreamyVoice",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123160/a1a656dbfad00ee17e418982a3477549/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1791788978,
+    "durationSec": 1372
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка DreamyVoice",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=dreamyvoice&anime_id=62922&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+DreamyVoice",
+    "date": 1791101527,
+    "durationSec": 1371
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка DreamyVoice",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=dreamyvoice&anime_id=62922&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+DreamyVoice",
+    "date": 1791755474,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка DreamyVoice",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=7f84132ab1ea4ed391d937c61e2167&translation=376&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1791189002,
+    "durationSec": 1371
+  },
+  {
+    "episode": 1,
     "dub": "Субтитры SubVost",
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=subvost&anime_id=62922&episode=1&dubbing=%D0%A1%D1%83%D0%B1%D1%82%D0%B8%D1%82%D1%80%D1%8B+SubVost",
@@ -193,30 +273,6 @@
   },
   {
     "episode": 1,
-    "dub": "Озвучка AniLibria",
-    "player": "Плеер Alloha",
-    "iframeUrl": "https://alloha.yani.tv/?token_movie=7f84132ab1ea4ed391d937c61e2167&translation=340&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
-    "date": 1791182563,
-    "durationSec": 1371
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка AniLibria",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123231/37860b9f603daf6b14f64d2b63ad81cb/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1791147142,
-    "durationSec": 1372
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка AniLibria",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=aniliberty&anime_id=62922&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
-    "date": 1791302049,
-    "durationSec": 1372
-  },
-  {
-    "episode": 1,
     "dub": "Озвучка JAM",
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123314/dca05b49cdb34eb7b946e243c61bcc49/720p?translations=false&only_episode=true&only_season=true&episode=1",
@@ -230,30 +286,6 @@
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=jabclub&anime_id=62922&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+JAM",
     "date": 1791261124,
     "durationSec": 1394
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка DreamyVoice",
-    "player": "Плеер Alloha",
-    "iframeUrl": "https://alloha.yani.tv/?token_movie=7f84132ab1ea4ed391d937c61e2167&translation=376&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
-    "date": 1791189002,
-    "durationSec": 1371
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка DreamyVoice",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123160/a1a656dbfad00ee17e418982a3477549/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1791122657,
-    "durationSec": 1371
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка DreamyVoice",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=dreamyvoice&anime_id=62922&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+DreamyVoice",
-    "date": 1791101527,
-    "durationSec": 1371
   },
   {
     "episode": 1,

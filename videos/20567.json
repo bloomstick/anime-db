@@ -145,6 +145,54 @@
   },
   {
     "episode": 1,
+    "dub": "Озвучка Red Head Sound",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123334/52c127faffb673805ce861e96dcb18a4/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1791302994,
+    "durationSec": 1420
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка Red Head Sound",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123334/52c127faffb673805ce861e96dcb18a4/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1791908691,
+    "durationSec": 1420
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniBaza",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123308/42a7da11ed5c710927e0a1a9208de7ff/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1791267186,
+    "durationSec": 1420
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniBaza",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123308/42a7da11ed5c710927e0a1a9208de7ff/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1791838939,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniBaza",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anibaza&anime_id=59787&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniBaza",
+    "date": 1791297063,
+    "durationSec": 1420
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniBaza",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anibaza&anime_id=59787&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniBaza",
+    "date": 1791838585,
+    "durationSec": 1420
+  },
+  {
+    "episode": 1,
     "dub": "Субтитры Манипулятор",
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=manipulyator&anime_id=59787&episode=1&dubbing=%D0%A1%D1%83%D0%B1%D1%82%D0%B8%D1%82%D1%80%D1%8B+%D0%9C%D0%B0%D0%BD%D0%B8%D0%BF%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80",
@@ -201,30 +249,6 @@
   },
   {
     "episode": 1,
-    "dub": "Озвучка Red Head Sound",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123334/52c127faffb673805ce861e96dcb18a4/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1791302994,
-    "durationSec": 1420
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка AniBaza",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123308/42a7da11ed5c710927e0a1a9208de7ff/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1791267186,
-    "durationSec": 1420
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка AniBaza",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anibaza&anime_id=59787&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniBaza",
-    "date": 1791297063,
-    "durationSec": 1420
-  },
-  {
-    "episode": 1,
     "dub": "Озвучка JAM",
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123422/ab6c307f9b6e2ae6a431c446a7cd90bf/720p?translations=false&only_episode=true&only_season=true&episode=1",
@@ -277,6 +301,14 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123599/f7a8fd8d47d6336a3e68957aed2698e5/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1791699700,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка RedHeadSound",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=redheadsound&anime_id=59787&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+RedHeadSound",
+    "date": 1791805569,
     "durationSec": 0
   }
 ]

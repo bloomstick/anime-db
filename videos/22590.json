@@ -40,6 +40,14 @@
     "durationSec": 120
   },
   {
+    "episode": 6,
+    "dub": "Субтитры SubVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123102/19c61a089febfbaf99b5a85298277409/720p?translations=false&only_episode=true&only_season=true&episode=6",
+    "date": 1791838942,
+    "durationSec": 120
+  },
+  {
     "episode": 1,
     "dub": "Субтитры SubVost",
     "player": "Плеер CVH",
@@ -77,7 +85,15 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=subvost&anime_id=64718&episode=5&dubbing=%D0%A1%D1%83%D0%B1%D1%82%D0%B8%D1%82%D1%80%D1%8B+SubVost",
     "date": 1791636753,
-    "durationSec": 0
+    "durationSec": 120
+  },
+  {
+    "episode": 6,
+    "dub": "Субтитры SubVost",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=subvost&anime_id=64718&episode=6&dubbing=%D0%A1%D1%83%D0%B1%D1%82%D0%B8%D1%82%D1%80%D1%8B+SubVost",
+    "date": 1791836636,
+    "durationSec": 120
   },
   {
     "episode": 1,
