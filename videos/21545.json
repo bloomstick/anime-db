@@ -64,22 +64,6 @@
     "durationSec": 1223
   },
   {
-    "episode": 1,
-    "dub": "Субтитры Crunchyroll",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123124/59d231783bb3b5626a4e2e14b0ab14c6/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1791064608,
-    "durationSec": 1430
-  },
-  {
-    "episode": 2,
-    "dub": "Субтитры Crunchyroll",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123124/59d231783bb3b5626a4e2e14b0ab14c6/720p?translations=false&only_episode=true&only_season=true&episode=2",
-    "date": 1791647658,
-    "durationSec": 1430
-  },
-  {
     "episode": 2,
     "dub": "Озвучка AniDUB",
     "player": "Плеер Kodik",
@@ -117,6 +101,22 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=bfbe2595353b6e21c502eeb82ffae3&translation=128&season=2&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1791200045,
+    "durationSec": 1430
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры Crunchyroll",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123124/59d231783bb3b5626a4e2e14b0ab14c6/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1791064608,
+    "durationSec": 1430
+  },
+  {
+    "episode": 2,
+    "dub": "Субтитры Crunchyroll",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123124/59d231783bb3b5626a4e2e14b0ab14c6/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1791647658,
     "durationSec": 1430
   },
   {

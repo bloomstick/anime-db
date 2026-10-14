@@ -121,6 +121,22 @@
   },
   {
     "episode": 1,
+    "dub": "Озвучка Silver AniAge",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123596/8ab238b045cb8bcf3b5733e7a8b18838/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1791687761,
+    "durationSec": 0
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка Silver AniAge",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123596/8ab238b045cb8bcf3b5733e7a8b18838/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1792000633,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
     "dub": "Озвучка AniLibria",
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123197/22d2bd2bd418e82c08f7807651c9e521/720p?translations=false&only_episode=true&only_season=true&episode=1",
@@ -134,13 +150,5 @@
     "iframeUrl": "https://kodikplayer.com/season/123123/9b8d0cd2dd1a3ed6040a6d4953a349e2/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1791064631,
     "durationSec": 1392
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка Silver AniAge",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123596/8ab238b045cb8bcf3b5733e7a8b18838/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1791687761,
-    "durationSec": 0
   }
 ]
