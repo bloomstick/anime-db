@@ -26,6 +26,22 @@
   {
     "episode": 1,
     "dub": "Озвучка Dream Cast",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=8d47649c1d8f312b71a4601bb7f426&translation=215&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1792072023,
+    "durationSec": 1427
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка Dream Cast",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=8d47649c1d8f312b71a4601bb7f426&translation=215&season=1&episode=2&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1792072023,
+    "durationSec": 1428
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Dream Cast",
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123167/988c7f8fe0974a106ba44c48e4a451c7/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1791122613,
@@ -202,6 +218,22 @@
   {
     "episode": 1,
     "dub": "Озвучка AniBaza",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=8d47649c1d8f312b71a4601bb7f426&translation=271&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1792072023,
+    "durationSec": 1420
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniBaza",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=8d47649c1d8f312b71a4601bb7f426&translation=271&season=1&episode=2&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1792072023,
+    "durationSec": 1420
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniBaza",
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123308/42a7da11ed5c710927e0a1a9208de7ff/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1791267186,
@@ -213,7 +245,7 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123308/42a7da11ed5c710927e0a1a9208de7ff/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1791838939,
-    "durationSec": 0
+    "durationSec": 1420
   },
   {
     "episode": 1,
@@ -249,6 +281,22 @@
   },
   {
     "episode": 1,
+    "dub": "Озвучка KRAMSAI",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123368/7cda3503b97d3f929ae42a913a866a8b/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1791355826,
+    "durationSec": 1424
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка KRAMSAI",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123368/7cda3503b97d3f929ae42a913a866a8b/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1792044676,
+    "durationSec": 1425
+  },
+  {
+    "episode": 1,
     "dub": "Субтитры SubVost",
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=subvost&anime_id=59787&episode=1&dubbing=%D0%A1%D1%83%D0%B1%D1%82%D0%B8%D1%82%D1%80%D1%8B+SubVost",
@@ -277,6 +325,22 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anidub_online&anime_id=59787&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniDUB+Online",
     "date": 1792017528,
+    "durationSec": 1428
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=8d47649c1d8f312b71a4601bb7f426&translation=79&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1792072023,
+    "durationSec": 0
+  },
+  {
+    "episode": 2,
+    "dub": "Субтитры",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=8d47649c1d8f312b71a4601bb7f426&translation=79&season=1&episode=2&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1792072023,
     "durationSec": 0
   },
   {
@@ -294,14 +358,6 @@
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=jabclub&anime_id=59787&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+JAM",
     "date": 1791445192,
     "durationSec": 1427
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка KRAMSAI",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123368/7cda3503b97d3f929ae42a913a866a8b/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1791355826,
-    "durationSec": 1424
   },
   {
     "episode": 1,
@@ -325,6 +381,14 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123599/f7a8fd8d47d6336a3e68957aed2698e5/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1791699700,
+    "durationSec": 0
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка DreamyVoice",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=dreamyvoice&anime_id=59787&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+DreamyVoice",
+    "date": 1792106443,
     "durationSec": 0
   },
   {

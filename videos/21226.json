@@ -109,7 +109,7 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=ea4f1657a7272f70bf60a7180a1c4b&translation=215&season=1&episode=2&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1791997918,
-    "durationSec": 0
+    "durationSec": 1427
   },
   {
     "episode": 3,
@@ -117,7 +117,7 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=ea4f1657a7272f70bf60a7180a1c4b&translation=215&season=1&episode=3&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1791997918,
-    "durationSec": 0
+    "durationSec": 1427
   },
   {
     "episode": 1,
@@ -313,6 +313,30 @@
   },
   {
     "episode": 1,
+    "dub": "Озвучка AniBaza",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123662/d9d8ad718257cb8e4f81a9a3ad1214b7/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1791788056,
+    "durationSec": 1422
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniBaza",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123662/d9d8ad718257cb8e4f81a9a3ad1214b7/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1791788056,
+    "durationSec": 1420
+  },
+  {
+    "episode": 3,
+    "dub": "Озвучка AniBaza",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123662/d9d8ad718257cb8e4f81a9a3ad1214b7/720p?translations=false&only_episode=true&only_season=true&episode=3",
+    "date": 1792088755,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
     "dub": "Субтитры SubVost",
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=subvost&anime_id=61153&episode=1&dubbing=%D0%A1%D1%83%D0%B1%D1%82%D0%B8%D1%82%D1%80%D1%8B+SubVost",
@@ -382,21 +406,5 @@
     "iframeUrl": "https://alloha.yani.tv/?token_movie=ea4f1657a7272f70bf60a7180a1c4b&translation=79&season=1&episode=3&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1791998847,
     "durationSec": 0
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка AniBaza",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123662/d9d8ad718257cb8e4f81a9a3ad1214b7/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1791788056,
-    "durationSec": 1422
-  },
-  {
-    "episode": 2,
-    "dub": "Озвучка AniBaza",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123662/d9d8ad718257cb8e4f81a9a3ad1214b7/720p?translations=false&only_episode=true&only_season=true&episode=2",
-    "date": 1791788056,
-    "durationSec": 1420
   }
 ]

@@ -65,19 +65,19 @@
   },
   {
     "episode": 1,
-    "dub": "Озвучка DreamyVoice",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=dreamyvoice&anime_id=63754&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+DreamyVoice",
-    "date": 1791816777,
-    "durationSec": 0
+    "dub": "Озвучка Dream Cast",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123390/c15f9db0d27381b7571b8f6ade22e5fc/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1791387048,
+    "durationSec": 1427
   },
   {
     "episode": 2,
-    "dub": "Озвучка DreamyVoice",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=dreamyvoice&anime_id=63754&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+DreamyVoice",
-    "date": 1792017564,
-    "durationSec": 0
+    "dub": "Озвучка Dream Cast",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123390/c15f9db0d27381b7571b8f6ade22e5fc/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1792078642,
+    "durationSec": 1427
   },
   {
     "episode": 1,
@@ -85,7 +85,31 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123692/bf8fdd94f91e3c207b670326cca5c7e6/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1791820241,
-    "durationSec": 0
+    "durationSec": 1421
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка DreamyVoice",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123692/bf8fdd94f91e3c207b670326cca5c7e6/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1792044678,
+    "durationSec": 1420
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка DreamyVoice",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=dreamyvoice&anime_id=63754&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+DreamyVoice",
+    "date": 1791816777,
+    "durationSec": 1421
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка DreamyVoice",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=dreamyvoice&anime_id=63754&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+DreamyVoice",
+    "date": 1792017564,
+    "durationSec": 1420
   },
   {
     "episode": 1,
@@ -94,13 +118,5 @@
     "iframeUrl": "https://kodikplayer.com/season/123329/9db9e487d20509b93024ea8cef93da40/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1791306116,
     "durationSec": 1424
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка Dream Cast",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123390/c15f9db0d27381b7571b8f6ade22e5fc/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1791387048,
-    "durationSec": 1427
   }
 ]
