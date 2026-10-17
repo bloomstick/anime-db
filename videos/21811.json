@@ -16,6 +16,14 @@
     "durationSec": 1418
   },
   {
+    "episode": 3,
+    "dub": "Озвучка LampStudio",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123139/2501151d99375f3f06fb364f9a579df5/720p?translations=false&only_episode=true&only_season=true&episode=3",
+    "date": 1792255086,
+    "durationSec": 1418
+  },
+  {
     "episode": 1,
     "dub": "Озвучка LampStudio",
     "player": "Плеер CVH",
@@ -37,6 +45,14 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123125/445b469e6d768838c8bbb9ed9c7250ca/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1791647660,
+    "durationSec": 1417
+  },
+  {
+    "episode": 3,
+    "dub": "Субтитры Crunchyroll",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123125/445b469e6d768838c8bbb9ed9c7250ca/720p?translations=false&only_episode=true&only_season=true&episode=3",
+    "date": 1792253244,
     "durationSec": 1417
   },
   {
@@ -98,22 +114,6 @@
   {
     "episode": 1,
     "dub": "Озвучка Инь Ян Войс",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123415/fd8c2364d3008c15090459c475bae7e2/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1791403577,
-    "durationSec": 1419
-  },
-  {
-    "episode": 2,
-    "dub": "Озвучка Инь Ян Войс",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123415/fd8c2364d3008c15090459c475bae7e2/720p?translations=false&only_episode=true&only_season=true&episode=2",
-    "date": 1792011660,
-    "durationSec": 1418
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка Инь Ян Войс",
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=inyanvoice&anime_id=62524&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%98%D0%BD%D1%8C+%D0%AF%D0%BD+%D0%92%D0%BE%D0%B9%D1%81",
     "date": 1791562367,
@@ -126,6 +126,22 @@
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=inyanvoice&anime_id=62524&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%98%D0%BD%D1%8C+%D0%AF%D0%BD+%D0%92%D0%BE%D0%B9%D1%81",
     "date": 1792060426,
     "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Инь Ян Войс",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123415/fd8c2364d3008c15090459c475bae7e2/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1791403577,
+    "durationSec": 1419
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка Инь Ян Войс",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123415/fd8c2364d3008c15090459c475bae7e2/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1792011660,
+    "durationSec": 1418
   },
   {
     "episode": 1,

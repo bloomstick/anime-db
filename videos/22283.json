@@ -26,22 +26,6 @@
   {
     "episode": 1,
     "dub": "Озвучка Flowers Media",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123353/a66ea30c067bf5ce2d5d0c3d47841077/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1791321365,
-    "durationSec": 1428
-  },
-  {
-    "episode": 2,
-    "dub": "Озвучка Flowers Media",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123353/a66ea30c067bf5ce2d5d0c3d47841077/720p?translations=false&only_episode=true&only_season=true&episode=2",
-    "date": 1791922481,
-    "durationSec": 1428
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка Flowers Media",
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=flowersmedia&anime_id=63818&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Flowers+Media",
     "date": 1791322812,
@@ -53,6 +37,22 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=flowersmedia&anime_id=63818&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Flowers+Media",
     "date": 1791923161,
+    "durationSec": 1428
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Flowers Media",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123353/a66ea30c067bf5ce2d5d0c3d47841077/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1791321365,
+    "durationSec": 1428
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка Flowers Media",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123353/a66ea30c067bf5ce2d5d0c3d47841077/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1791922481,
     "durationSec": 1428
   },
   {
