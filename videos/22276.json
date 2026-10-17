@@ -165,7 +165,7 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=kazokuproject&anime_id=63801&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Kazoku+Project",
     "date": 1792017574,
-    "durationSec": 0
+    "durationSec": 1442
   },
   {
     "episode": 1,
@@ -217,6 +217,22 @@
   },
   {
     "episode": 1,
+    "dub": "Озвучка Инь Ян Войс",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123560/d15701bee0e5505cc14f93deb564d98c/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1791632884,
+    "durationSec": 1437
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка Инь Ян Войс",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123560/d15701bee0e5505cc14f93deb564d98c/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1792173336,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
     "dub": "Озвучка AniDUB Online",
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123597/06635c68f8f3ae01e10eebd4f55486df/720p?translations=false&only_episode=true&only_season=true&episode=1",
@@ -262,13 +278,5 @@
     "iframeUrl": "https://kodikplayer.com/season/123731/893810a19090be6827f61f587a82de0d/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1792098021,
     "durationSec": 0
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка Инь Ян Войс",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123560/d15701bee0e5505cc14f93deb564d98c/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1791632884,
-    "durationSec": 1437
   }
 ]

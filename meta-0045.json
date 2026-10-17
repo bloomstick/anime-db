@@ -502,7 +502,7 @@
     "id": 22007,
     "slugUrl": "dream:22007",
     "name": "Head Tray",
-    "rusName": "Head Tray",
+    "rusName": "",
     "engName": "HEAD TRAY",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -520,9 +520,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "Head Tray"
-    ],
+    "ruNames": [],
     "enNames": [
       "HEAD TRAY"
     ],
@@ -2346,7 +2344,7 @@
     "id": 22026,
     "slugUrl": "dream:22026",
     "name": "Blue Gale Xabungle Side R",
-    "rusName": "Blue Gale Xabungle Side R",
+    "rusName": "",
     "engName": "BLUE GALE XABUNGLE SIDE R",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -2364,9 +2362,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "Blue Gale Xabungle Side R"
-    ],
+    "ruNames": [],
     "enNames": [
       "BLUE GALE XABUNGLE SIDE R"
     ],
@@ -3210,7 +3206,7 @@
     "id": 22033,
     "slugUrl": "dream:22033",
     "name": "Sotsugyou",
-    "rusName": "Sotsugyou",
+    "rusName": "",
     "engName": "Graduation (2020)",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -3228,9 +3224,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "Sotsugyou"
-    ],
+    "ruNames": [],
     "enNames": [
       "Graduation (2020)",
       "そつぎょう"
@@ -5455,13 +5449,74 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
-    "updatedAtSec": 1791838940,
+    "updatedAtSec": 1792187121,
     "bannerUrl": "",
     "studio": "Lay-duce",
     "director": "Намба Хитоси",
     "sourceWork": "Манга",
     "releaseDate": "2026-01-01",
     "episodeDates": [
+      1783111657,
+      1783715491,
+      1784319280,
+      1784956491,
+      1785531189,
+      1786133469,
+      1786737868,
+      1787342965,
+      1787948628,
+      1788551966,
+      1789161490,
+      1789763044,
+      1790973173,
+      1791581047,
+      1792187121,
+      1791569357,
+      1783111657,
+      1783715491,
+      1784311918,
+      1784914215,
+      1785520137,
+      1786123623,
+      1786728209,
+      1787333318,
+      1787945720,
+      1788541838,
+      1789147306,
+      1789751075,
+      1790961270,
+      1791565873,
+      1792171495,
+      1789141890,
+      1789141890,
+      1789141890,
+      1789141890,
+      1789141890,
+      1789141890,
+      1789141890,
+      1789141890,
+      1789141890,
+      1789141890,
+      1789149937,
+      1789827560,
+      1790976071,
+      1791568362,
+      1792174260,
+      1789141890,
+      1789141890,
+      1789141890,
+      1789141890,
+      1789141890,
+      1789141890,
+      1789141890,
+      1789141890,
+      1789141890,
+      1789141890,
+      1789146917,
+      1789754797,
+      1790961345,
+      1791568362,
+      1792171240,
       1783446983,
       1784456781,
       1784456781,
@@ -5504,21 +5559,6 @@
       1789926576,
       1791301074,
       1791650926,
-      1783111657,
-      1783715491,
-      1784319280,
-      1784956491,
-      1785531189,
-      1786133469,
-      1786737868,
-      1787342965,
-      1787948628,
-      1788551966,
-      1789161490,
-      1789763044,
-      1790973173,
-      1791581047,
-      1791569357,
       1783185893,
       1783766016,
       1784361178,
@@ -5533,20 +5573,6 @@
       1789821760,
       1791037192,
       1791632883,
-      1783111657,
-      1783715491,
-      1784311918,
-      1784914215,
-      1785520137,
-      1786123623,
-      1786728209,
-      1787333318,
-      1787945720,
-      1788541838,
-      1789147306,
-      1789751075,
-      1790961270,
-      1791565873,
       1784725983,
       1784728754,
       1785001538,
@@ -5575,34 +5601,6 @@
       1790113067,
       1791069797,
       1791837618,
-      1789141890,
-      1789141890,
-      1789141890,
-      1789141890,
-      1789141890,
-      1789141890,
-      1789141890,
-      1789141890,
-      1789141890,
-      1789141890,
-      1789149937,
-      1789827560,
-      1790976071,
-      1791568362,
-      1789141890,
-      1789141890,
-      1789141890,
-      1789141890,
-      1789141890,
-      1789141890,
-      1789141890,
-      1789141890,
-      1789141890,
-      1789141890,
-      1789146917,
-      1789754797,
-      1790961345,
-      1791568362,
       1786125510,
       1787410354,
       1787477737,
@@ -5641,7 +5639,7 @@
       1790191852
     ],
     "totalEpisodes": 24,
-    "airedEpisodes": 14,
+    "airedEpisodes": 15,
     "yummyAlias": "pozhaluysta-prostite-moih-mladshih-bratev"
   },
   {
@@ -5771,8 +5769,8 @@
   {
     "id": 22060,
     "slugUrl": "dream:22060",
-    "name": "Dondonshi Television Vol. 0: Saito-san wo Shinryaku shita yo.",
-    "rusName": "Dondonshi Television Vol. 0: Saito-san wo Shinryaku shita yo.",
+    "name": "Omochi Alien",
+    "rusName": "Omochi Alien",
     "engName": "Omochi Alien",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -5791,7 +5789,6 @@
     "tagIds": [],
     "anotherName": "Omochi Alien",
     "ruNames": [
-      "Dondonshi Television Vol. 0: Saito-san wo Shinryaku shita yo.",
       "Omochi Alien"
     ],
     "enNames": [
@@ -7545,7 +7542,7 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
-    "updatedAtSec": 1791949166,
+    "updatedAtSec": 1792191178,
     "bannerUrl": "",
     "studio": "WAO World",
     "director": "Хориути Юя",
@@ -7586,6 +7583,7 @@
       1791921559,
       1791139388,
       1791918131,
+      1792191178,
       1790796468,
       1791129729,
       1791735614,
@@ -8493,7 +8491,7 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
-    "updatedAtSec": 1791631747,
+    "updatedAtSec": 1792220182,
     "bannerUrl": "",
     "studio": "Bandai Namco Pictures",
     "director": "Кондо Нобухиро",
@@ -8502,11 +8500,13 @@
     "episodeDates": [
       1791006621,
       1791620799,
+      1792220182,
       1791054231,
-      1791631747
+      1791631747,
+      1792202079
     ],
     "totalEpisodes": 0,
-    "airedEpisodes": 2,
+    "airedEpisodes": 3,
     "yummyAlias": "serzhant-keroro-2026"
   },
   {
@@ -8863,7 +8863,7 @@
     "licensors": [
       "Амедиатека"
     ],
-    "updatedAtSec": 1792096164,
+    "updatedAtSec": 1792181606,
     "bannerUrl": "",
     "studio": "Studio Hibari",
     "director": "Нонако Ато",
@@ -8872,19 +8872,23 @@
     "episodeDates": [
       1790861669,
       1790890647,
+      1792181606,
       1790890647,
       1790890647,
+      1792168737,
+      1790977636,
+      1791568661,
+      1792174256,
+      1790977636,
+      1791564027,
+      1792170577,
       1791151654,
       1792096164,
       1791093636,
       1791717030,
       1791101599,
-      1790977636,
-      1791568661,
       1791064631,
       1791741179,
-      1790977636,
-      1791564027,
       1791267191,
       1791828787,
       1791687761,
@@ -8892,7 +8896,7 @@
       1791064631
     ],
     "totalEpisodes": 12,
-    "airedEpisodes": 2,
+    "airedEpisodes": 3,
     "yummyAlias": "temnyy-demon-vodopad-kegon-v-nikko"
   },
   {
@@ -9102,7 +9106,7 @@
     "id": 22098,
     "slugUrl": "dream:22098",
     "name": "Pokemon Card Game Mega Start Deck 100 Battle Collection CMs",
-    "rusName": "Pokemon Card Game Mega Start Deck 100 Battle Collection CMs",
+    "rusName": "",
     "engName": "ポケモンカードゲーム MEGA「スタートデッキ100 バトルコレクション」 CMs",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -9120,9 +9124,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "Pokemon Card Game Mega Start Deck 100 Battle Collection CMs"
-    ],
+    "ruNames": [],
     "enNames": [
       "ポケモンカードゲーム MEGA「スタートデッキ100 バトルコレクション」 CMs"
     ],
@@ -9198,7 +9200,7 @@
     "id": 22100,
     "slugUrl": "dream:22100",
     "name": "Katakana Kantan!",
-    "rusName": "Katakana Kantan!",
+    "rusName": "",
     "engName": "カタカナカンタン!",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -9216,9 +9218,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "Katakana Kantan!"
-    ],
+    "ruNames": [],
     "enNames": [
       "カタカナカンタン!"
     ],
@@ -9244,7 +9244,7 @@
     "id": 22101,
     "slugUrl": "dream:22101",
     "name": "Hiragana Aan!",
-    "rusName": "Hiragana Aan!",
+    "rusName": "",
     "engName": "ひらがなあ～ん!",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -9262,9 +9262,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "Hiragana Aan!"
-    ],
+    "ruNames": [],
     "enNames": [
       "ひらがなあ～ん!"
     ],
@@ -9290,7 +9288,7 @@
     "id": 22102,
     "slugUrl": "dream:22102",
     "name": "Kazu 1-ban!",
-    "rusName": "Kazu 1-ban!",
+    "rusName": "",
     "engName": "かず1ばん!",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -9308,9 +9306,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "Kazu 1-ban!"
-    ],
+    "ruNames": [],
     "enNames": [
       "かず1ばん!"
     ],
@@ -9336,7 +9332,7 @@
     "id": 22103,
     "slugUrl": "dream:22103",
     "name": "Eigo de Perara♪",
-    "rusName": "Eigo de Perara♪",
+    "rusName": "",
     "engName": "えいごでペララ♪",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -9354,9 +9350,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "Eigo de Perara♪"
-    ],
+    "ruNames": [],
     "enNames": [
       "えいごでペララ♪"
     ],
@@ -9382,7 +9376,7 @@
     "id": 22104,
     "slugUrl": "dream:22104",
     "name": "Wani no Shokuji",
-    "rusName": "Wani no Shokuji",
+    "rusName": "",
     "engName": "わにの食事",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -9400,9 +9394,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "Wani no Shokuji"
-    ],
+    "ruNames": [],
     "enNames": [
       "わにの食事"
     ],
@@ -9826,32 +9818,13 @@
     "licensors": [
       "Иви"
     ],
-    "updatedAtSec": 1791648597,
+    "updatedAtSec": 1792220181,
     "bannerUrl": "",
     "studio": "Wonder Cat Animation",
     "director": "Ван Юйжэнь",
     "sourceWork": "Новелла",
     "releaseDate": "2026-01-01",
     "episodeDates": [
-      1781438766,
-      1781438766,
-      1781950350,
-      1782549380,
-      1783155147,
-      1783764178,
-      1784371485,
-      1784976698,
-      1785578060,
-      1786194262,
-      1786792921,
-      1787407471,
-      1787998422,
-      1788608002,
-      1789216572,
-      1789819924,
-      1790425265,
-      1791050006,
-      1791626352,
       1781701214,
       1781701214,
       1781973063,
@@ -9871,6 +9844,26 @@
       1790434477,
       1791027120,
       1791648597,
+      1792220181,
+      1781438766,
+      1781438766,
+      1781950350,
+      1782549380,
+      1783155147,
+      1783764178,
+      1784371485,
+      1784976698,
+      1785578060,
+      1786194262,
+      1786792921,
+      1787407471,
+      1787998422,
+      1788608002,
+      1789216572,
+      1789819924,
+      1790425265,
+      1791050006,
+      1791626352,
       1781438766,
       1781438766,
       1781956369,
@@ -9892,7 +9885,7 @@
       1791637478
     ],
     "totalEpisodes": 52,
-    "airedEpisodes": 19,
+    "airedEpisodes": 20,
     "yummyAlias": "fanren-xiu-xian-chuan-mu-lan-zhi-zhan"
   },
   {
@@ -10643,7 +10636,7 @@
     "id": 22125,
     "slugUrl": "dream:22125",
     "name": "Osawaga! Super Baby",
-    "rusName": "Osawaga! Super Baby",
+    "rusName": "",
     "engName": "It's Super Tot!",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -10661,9 +10654,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "Osawaga! Super Baby"
-    ],
+    "ruNames": [],
     "enNames": [
       "It's Super Tot!",
       "おさわがせ! スーパーベビー",
@@ -10692,7 +10683,7 @@
     "id": 22126,
     "slugUrl": "dream:22126",
     "name": "Taiheiyou Hikouki Ichibannori",
-    "rusName": "Taiheiyou Hikouki Ichibannori",
+    "rusName": "",
     "engName": "The First Flight Across The Pacific Ocean",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -10710,9 +10701,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "Taiheiyou Hikouki Ichibannori"
-    ],
+    "ruNames": [],
     "enNames": [
       "The First Flight Across The Pacific Ocean",
       "太平洋飛行機一番乗り"
@@ -10738,8 +10727,8 @@
   {
     "id": 22127,
     "slugUrl": "dream:22127",
-    "name": "Zui Hou Jue Ding Ai Shang Ni",
-    "rusName": "Zui Hou Jue Ding Ai Shang Ni",
+    "name": "Love You While We Were Drunk",
+    "rusName": "Love You While We Were Drunk",
     "engName": "Lulu's Diary",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -10758,7 +10747,6 @@
     "tagIds": [],
     "anotherName": "Love You While We Were Drunk / Drunken to Love You",
     "ruNames": [
-      "Zui Hou Jue Ding Ai Shang Ni",
       "Love You While We Were Drunk",
       "Drunken to Love You"
     ],
@@ -11057,7 +11045,7 @@
     "id": 22129,
     "slugUrl": "dream:22129",
     "name": "Sinbi Apartment 10-junyeon Geugjangpan: Han Beon Deo, Sohwan",
-    "rusName": "Sinbi Apartment 10-junyeon Geugjangpan: Han Beon Deo, Sohwan",
+    "rusName": "",
     "engName": "Shinbi's Haunted House: One More Summon",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -11075,9 +11063,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "Sinbi Apartment 10-junyeon Geugjangpan: Han Beon Deo, Sohwan"
-    ],
+    "ruNames": [],
     "enNames": [
       "Shinbi's Haunted House: One More Summon",
       "신비아파트 10주년 극장판: 한 번 더, 소환",
@@ -11677,7 +11663,7 @@
     "licensors": [
       "DEEP"
     ],
-    "updatedAtSec": 1792081305,
+    "updatedAtSec": 1792226878,
     "bannerUrl": "",
     "studio": "Passione",
     "director": "Огава Юки",
@@ -11696,6 +11682,10 @@
       1791479707,
       1791479707,
       1792080405,
+      1791004258,
+      1791608774,
+      1792213760,
+      1792226878,
       1791473228,
       1791478787,
       1791811692,
@@ -11704,8 +11694,8 @@
       1791687759,
       1790887148,
       1791673846,
-      1791004258,
-      1791608774,
+      1792142503,
+      1792144355,
       1790564813,
       1790550851,
       1790622800,
@@ -13075,7 +13065,7 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
-    "updatedAtSec": 1792057209,
+    "updatedAtSec": 1792220183,
     "bannerUrl": "",
     "studio": "Konami Animation",
     "director": "Наканиси  Мотоки",
@@ -13108,13 +13098,19 @@
       1792014574,
       1791520342,
       1792009825,
+      1792186220,
+      1792187217,
+      1792220183,
+      1792220183,
+      1792144355,
+      1792144355,
       1791306107,
       1791321829,
       1792056283,
       1791494707,
-      1791316794,
       1791465873,
-      1791485892
+      1791485892,
+      1791316794
     ],
     "totalEpisodes": 0,
     "airedEpisodes": 2,
@@ -13708,7 +13704,7 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
-    "updatedAtSec": 1792087574,
+    "updatedAtSec": 1792174272,
     "bannerUrl": "",
     "studio": "Diomedea",
     "director": "Кусакава Кэйдзо",
@@ -13732,6 +13728,7 @@
       1791575145,
       1792044678,
       1792087574,
+      1792174272,
       1791259151,
       1791838626,
       1791568660
@@ -14528,7 +14525,7 @@
     "id": 22167,
     "slugUrl": "dream:22167",
     "name": "Xiong Chumo: Xiongxiong Bang Bang Tuan 4",
-    "rusName": "Xiong Chumo: Xiongxiong Bang Bang Tuan 4",
+    "rusName": "",
     "engName": "Boonie Squad 4",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -14546,9 +14543,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "Xiong Chumo: Xiongxiong Bang Bang Tuan 4"
-    ],
+    "ruNames": [],
     "enNames": [
       "Boonie Squad 4",
       "熊熊帮帮团4"
@@ -14674,7 +14669,7 @@
     "id": 22169,
     "slugUrl": "dream:22169",
     "name": "Xi Yangyang Yu Hui Tailang: Gu Guguai Jie You Guguai",
-    "rusName": "Xi Yangyang Yu Hui Tailang: Gu Guguai Jie You Guguai",
+    "rusName": "",
     "engName": "喜羊羊与灰太狼之古古怪界有古怪",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -14692,9 +14687,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "Xi Yangyang Yu Hui Tailang: Gu Guguai Jie You Guguai"
-    ],
+    "ruNames": [],
     "enNames": [
       "喜羊羊与灰太狼之古古怪界有古怪"
     ],
@@ -14764,7 +14757,7 @@
     "licensors": [
       "DEEP"
     ],
-    "updatedAtSec": 1791927155,
+    "updatedAtSec": 1792183228,
     "bannerUrl": "",
     "studio": "P.A. Works",
     "director": "Сю Хомма",
@@ -14776,14 +14769,15 @@
       1791805617,
       1791327485,
       1791915124,
+      1792172249,
+      1792172249,
       1791306110,
       1791907774,
       1791356580,
       1791921561,
-      1791316816,
-      1791927155,
       1791374971,
-      1791374971
+      1791374971,
+      1792183228
     ],
     "totalEpisodes": 0,
     "airedEpisodes": 2,
@@ -15291,8 +15285,8 @@
   {
     "id": 22177,
     "slugUrl": "dream:22177",
-    "name": "Balala Xiao Mo Xian: Yao Xing Shouhu Zhe 2",
-    "rusName": "Balala Xiao Mo Xian: Yao Xing Shouhu Zhe 2",
+    "name": "Balala Xiao Mo Xian: Yao Xing Shouhu Zhe 2nd Season",
+    "rusName": "Balala Xiao Mo Xian: Yao Xing Shouhu Zhe 2nd Season",
     "engName": "Balala the Fairies: Radiant Star Guardians 2nd Season",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -15311,7 +15305,6 @@
     "tagIds": [],
     "anotherName": "Balala Xiao Mo Xian: Yao Xing Shouhu Zhe 2nd Season / 巴啦啦小魔仙之曜星守护者 第二季",
     "ruNames": [
-      "Balala Xiao Mo Xian: Yao Xing Shouhu Zhe 2",
       "Balala Xiao Mo Xian: Yao Xing Shouhu Zhe 2nd Season",
       "巴啦啦小魔仙之曜星守护者 第二季"
     ],
@@ -15967,7 +15960,7 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
-    "updatedAtSec": 1792007067,
+    "updatedAtSec": 1792187122,
     "bannerUrl": "",
     "studio": "Tatsunoko Production",
     "director": "Кобаяси Косукэ",
@@ -16004,6 +15997,35 @@
       1790711842,
       1791319871,
       1791920149,
+      1783792711,
+      1784307325,
+      1784996937,
+      1785519215,
+      1786222584,
+      1786800461,
+      1787433512,
+      1787952497,
+      1788693719,
+      1789220244,
+      1789938911,
+      1790452021,
+      1790991458,
+      1791647671,
+      1792187122,
+      1786913735,
+      1786913735,
+      1786913735,
+      1786913735,
+      1787008167,
+      1787008167,
+      1787661340,
+      1788203955,
+      1788867035,
+      1789243883,
+      1790520238,
+      1791301070,
+      1791301070,
+      1791745486,
       1783511339,
       1784146381,
       1784734277,
@@ -16081,6 +16103,21 @@
       1790782729,
       1791454878,
       1791989545,
+      1783704708,
+      1784272383,
+      1784905008,
+      1785426307,
+      1786064267,
+      1786706046,
+      1787240488,
+      1787945721,
+      1788531712,
+      1789126131,
+      1789720682,
+      1791034444,
+      1791034444,
+      1791561247,
+      1792151280,
       1789141901,
       1789141901,
       1789141901,
@@ -16111,48 +16148,6 @@
       1790709870,
       1791318889,
       1791915087,
-      1783792711,
-      1784307325,
-      1784996937,
-      1785519215,
-      1786222584,
-      1786800461,
-      1787433512,
-      1787952497,
-      1788693719,
-      1789220244,
-      1789938911,
-      1790452021,
-      1790991458,
-      1791647671,
-      1786913735,
-      1786913735,
-      1786913735,
-      1786913735,
-      1787008167,
-      1787008167,
-      1787661340,
-      1788203955,
-      1788867035,
-      1789243883,
-      1790520238,
-      1791301070,
-      1791301070,
-      1791745486,
-      1783704708,
-      1784272383,
-      1784905008,
-      1785426307,
-      1786064267,
-      1786706046,
-      1787240488,
-      1787945721,
-      1788531712,
-      1789126131,
-      1789720682,
-      1791034444,
-      1791034444,
-      1791561247,
       1784093010,
       1784970269,
       1785780469,
@@ -16164,6 +16159,7 @@
       1791096766,
       1791420084,
       1791465875,
+      1792181605,
       1785970435,
       1785970435,
       1785970435,
@@ -16206,8 +16202,8 @@
   {
     "id": 22186,
     "slugUrl": "dream:22186",
-    "name": "AI Shitteru",
-    "rusName": "AI Shitteru",
+    "name": "Aiしてる",
+    "rusName": "Aiしてる",
     "engName": "Aiしてる",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -16226,7 +16222,6 @@
     "tagIds": [],
     "anotherName": "Aiしてる",
     "ruNames": [
-      "AI Shitteru",
       "Aiしてる"
     ],
     "enNames": [
@@ -16300,8 +16295,8 @@
   {
     "id": 22188,
     "slugUrl": "dream:22188",
-    "name": "Bouken Dankichi",
-    "rusName": "Bouken Dankichi",
+    "name": "Dankichi the Adventurer Pilot",
+    "rusName": "Dankichi the Adventurer Pilot",
     "engName": "Dankichi the Adventurer Pilot",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -16320,7 +16315,6 @@
     "tagIds": [],
     "anotherName": "Dankichi the Adventurer Pilot",
     "ruNames": [
-      "Bouken Dankichi",
       "Dankichi the Adventurer Pilot"
     ],
     "enNames": [
@@ -16864,7 +16858,7 @@
     "id": 22194,
     "slugUrl": "dream:22194",
     "name": "Gosenfu to Tsuki to Affogato",
-    "rusName": "Gosenfu to Tsuki to Affogato",
+    "rusName": "",
     "engName": "五線譜と月とアフォガート",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -16882,9 +16876,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "Gosenfu to Tsuki to Affogato"
-    ],
+    "ruNames": [],
     "enNames": [
       "五線譜と月とアフォガート"
     ],
@@ -17434,7 +17426,7 @@
     "id": 22203,
     "slugUrl": "dream:22203",
     "name": "MacGuffin",
-    "rusName": "MacGuffin",
+    "rusName": "",
     "engName": "맥거핀",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -17452,9 +17444,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "MacGuffin"
-    ],
+    "ruNames": [],
     "enNames": [
       "맥거핀"
     ],
@@ -17902,7 +17892,7 @@
     "id": 22212,
     "slugUrl": "dream:22212",
     "name": "Flash Eigo",
-    "rusName": "Flash Eigo",
+    "rusName": "",
     "engName": "フラッシュえいご",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -17920,9 +17910,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "Flash Eigo"
-    ],
+    "ruNames": [],
     "enNames": [
       "フラッシュえいご"
     ],
@@ -17948,7 +17936,7 @@
     "id": 22213,
     "slugUrl": "dream:22213",
     "name": "Rhythm Eigo",
-    "rusName": "Rhythm Eigo",
+    "rusName": "",
     "engName": "リズムえいご",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -17966,9 +17954,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "Rhythm Eigo"
-    ],
+    "ruNames": [],
     "enNames": [
       "リズムえいご"
     ],
@@ -17994,7 +17980,7 @@
     "id": 22214,
     "slugUrl": "dream:22214",
     "name": "Phonics Eigo",
-    "rusName": "Phonics Eigo",
+    "rusName": "",
     "engName": "フォニックスえいご",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -18012,9 +17998,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "Phonics Eigo"
-    ],
+    "ruNames": [],
     "enNames": [
       "フォニックスえいご"
     ],
@@ -18040,7 +18024,7 @@
     "id": 22215,
     "slugUrl": "dream:22215",
     "name": "Babychhichi Eigo",
-    "rusName": "Babychhichi Eigo",
+    "rusName": "",
     "engName": "ベビチッチえいご",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -18058,9 +18042,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "Babychhichi Eigo"
-    ],
+    "ruNames": [],
     "enNames": [
       "ベビチッチえいご"
     ],
@@ -18272,7 +18254,7 @@
     "id": 22220,
     "slugUrl": "dream:22220",
     "name": "Prometic Knight Pilot Film",
-    "rusName": "Prometic Knight Pilot Film",
+    "rusName": "",
     "engName": "プロメティックナイト",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -18290,9 +18272,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "Prometic Knight Pilot Film"
-    ],
+    "ruNames": [],
     "enNames": [
       "プロメティックナイト"
     ],
@@ -18374,7 +18354,7 @@
     "id": 22222,
     "slugUrl": "dream:22222",
     "name": "Bousai Namazun no Jishin wa Kanarazu Yattekuru",
-    "rusName": "Bousai Namazun no Jishin wa Kanarazu Yattekuru",
+    "rusName": "",
     "engName": "防災ナマズンの地震は必ずやってくる",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -18392,9 +18372,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "Bousai Namazun no Jishin wa Kanarazu Yattekuru"
-    ],
+    "ruNames": [],
     "enNames": [
       "防災ナマズンの地震は必ずやってくる"
     ],
@@ -18853,7 +18831,7 @@
     "id": 22232,
     "slugUrl": "dream:22232",
     "name": "Cha Bai Dao x Jue Qu Ling Liandong PV: Zai Xiao Huatian Li Zhong Ya Zhong Ya Zhong",
-    "rusName": "Cha Bai Dao x Jue Qu Ling Liandong PV: Zai Xiao Huatian Li Zhong Ya Zhong Ya Zhong",
+    "rusName": "",
     "engName": "ChaPanda x Zenless Zone Zero Collaboration PV: Planting in the Flower Fields",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -18871,9 +18849,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "Cha Bai Dao x Jue Qu Ling Liandong PV: Zai Xiao Huatian Li Zhong Ya Zhong Ya Zhong"
-    ],
+    "ruNames": [],
     "enNames": [
       "ChaPanda x Zenless Zone Zero Collaboration PV: Planting in the Flower Fields",
       "茶百道丨绝区零联动PV：在小花田里种呀种呀种"
@@ -18899,8 +18875,8 @@
   {
     "id": 22233,
     "slugUrl": "dream:22233",
-    "name": "Jue Qu Ling: 2025 FES Donghua CM - Lidu Shanyao Shi",
-    "rusName": "Jue Qu Ling: 2025 FES Donghua CM - Lidu Shanyao Shi",
+    "name": "Zenless Zone Zero: 2025 FES Animated CM - Shining Eridu",
+    "rusName": "Zenless Zone Zero: 2025 FES Animated CM - Shining Eridu",
     "engName": "Zenless Zone Zero: 2025 FES Animated CM - Shining Eridu",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -18919,7 +18895,6 @@
     "tagIds": [],
     "anotherName": "Zenless Zone Zero: 2025 FES Animated CM - Shining Eridu",
     "ruNames": [
-      "Jue Qu Ling: 2025 FES Donghua CM - Lidu Shanyao Shi",
       "Zenless Zone Zero: 2025 FES Animated CM - Shining Eridu"
     ],
     "enNames": [
@@ -19295,7 +19270,7 @@
     "id": 22241,
     "slugUrl": "dream:22241",
     "name": "Game no Eiyuu",
-    "rusName": "Game no Eiyuu",
+    "rusName": "",
     "engName": "Heroes of the Game",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -19313,9 +19288,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "Game no Eiyuu"
-    ],
+    "ruNames": [],
     "enNames": [
       "Heroes of the Game",
       "MLB Anime",
@@ -19344,7 +19317,7 @@
     "id": 22242,
     "slugUrl": "dream:22242",
     "name": "Sayonara End Roll (Short Douga)",
-    "rusName": "Sayonara End Roll (Short Douga)",
+    "rusName": "",
     "engName": "Sayonara End Roll Short Animation",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -19362,9 +19335,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "Sayonara End Roll (Short Douga)"
-    ],
+    "ruNames": [],
     "enNames": [
       "Sayonara End Roll Short Animation",
       "さよならエンドロール ショートアニメーション",
@@ -19768,8 +19739,8 @@
   {
     "id": 22249,
     "slugUrl": "dream:22249",
-    "name": "Byeolnala: Super Zuri",
-    "rusName": "Byeolnala: Super Zuri",
+    "name": "Baby Zuri: The Galactic Quest",
+    "rusName": "Baby Zuri: The Galactic Quest",
     "engName": "Super Zuri",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -19788,7 +19759,6 @@
     "tagIds": [],
     "anotherName": "Baby Zuri: The Galactic Quest / Super Zzuri",
     "ruNames": [
-      "Byeolnala: Super Zuri",
       "Baby Zuri: The Galactic Quest",
       "Super Zzuri"
     ],
@@ -20086,7 +20056,7 @@
     "id": 22255,
     "slugUrl": "dream:22255",
     "name": "High Card Season 2 Picture Drama",
-    "rusName": "High Card Season 2 Picture Drama",
+    "rusName": "",
     "engName": "HIGH CARD Season 2 ピクチャーオーディオドラマ",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -20104,9 +20074,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "High Card Season 2 Picture Drama"
-    ],
+    "ruNames": [],
     "enNames": [
       "HIGH CARD Season 2 ピクチャーオーディオドラマ"
     ],
@@ -20132,7 +20100,7 @@
     "id": 22256,
     "slugUrl": "dream:22256",
     "name": "High Card Picture Drama: Bonus Hand",
-    "rusName": "High Card Picture Drama: Bonus Hand",
+    "rusName": "",
     "engName": "HIGH CARD ピクチャーオーディオドラマ-Bonus Hand-",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -20150,9 +20118,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "High Card Picture Drama: Bonus Hand"
-    ],
+    "ruNames": [],
     "enNames": [
       "HIGH CARD ピクチャーオーディオドラマ-Bonus Hand-"
     ],
@@ -20569,11 +20535,11 @@
       1791750387,
       1791214604,
       1791804598,
-      1791148758,
-      1791741482,
       1791520343,
       1792086002,
       1792094575,
+      1791148758,
+      1791741482,
       1791148758,
       1791745483,
       1791729406,
@@ -20643,12 +20609,12 @@
       1791902257,
       1791309425,
       1791921560,
+      1791387048,
+      1792078642,
       1791356582,
       1791951003,
       1791324786,
       1791923152,
-      1791387048,
-      1792078642,
       1791820241,
       1792044678,
       1791816777,
@@ -21714,7 +21680,7 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
-    "updatedAtSec": 1792098021,
+    "updatedAtSec": 1792173336,
     "bannerUrl": "",
     "studio": "MAPPA",
     "director": "Уда Коносукэ",
@@ -21748,13 +21714,14 @@
       1792015596,
       1791148754,
       1791714432,
+      1791632884,
+      1792173336,
       1791687762,
       1792044679,
       1791682765,
       1792012592,
       1791910531,
-      1792098021,
-      1791632884
+      1792098021
     ],
     "totalEpisodes": 0,
     "airedEpisodes": 2,
@@ -24195,7 +24162,7 @@
     "id": 22306,
     "slugUrl": "dream:22306",
     "name": "Tokusou Gattai Robo Jobraver: Gyakushuu no Joker!",
-    "rusName": "Tokusou Gattai Robo Jobraver: Gyakushuu no Joker!",
+    "rusName": "",
     "engName": "特装合体ロボ ジョブレイバー 逆襲のジョーカー!",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -24213,9 +24180,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "Tokusou Gattai Robo Jobraver: Gyakushuu no Joker!"
-    ],
+    "ruNames": [],
     "enNames": [
       "特装合体ロボ ジョブレイバー 逆襲のジョーカー!"
     ],
@@ -24386,7 +24351,7 @@
     "id": 22310,
     "slugUrl": "dream:22310",
     "name": "Hormel x Jue Qu Ling Liandong PV: Shi Lai Yunzhuan, Chun Zhi Yunkui!",
-    "rusName": "Hormel x Jue Qu Ling Liandong PV: Shi Lai Yunzhuan, Chun Zhi Yunkui!",
+    "rusName": "",
     "engName": "荷美尔丨绝区零联动PV：食来运转，春至云岿！",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -24404,9 +24369,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "Hormel x Jue Qu Ling Liandong PV: Shi Lai Yunzhuan, Chun Zhi Yunkui!"
-    ],
+    "ruNames": [],
     "enNames": [
       "荷美尔丨绝区零联动PV：食来运转，春至云岿！"
     ],
@@ -24727,8 +24690,8 @@
   {
     "id": 22317,
     "slugUrl": "dream:22317",
-    "name": "Fuusen Inu Tinny: Nandaka Fushigi na - Kyouryuu no Kuni/Kuma no Gakkou: Patissier Jackie to Ohisama no Sweets Makuai Eizou",
-    "rusName": "Fuusen Inu Tinny: Nandaka Fushigi na - Kyouryuu no Kuni/Kuma no Gakkou: Patissier Jackie to Ohisama no Sweets Makuai Eizou",
+    "name": "Fuusen Inu Tinny x Kuma no Gakkou Special Interlude Animation",
+    "rusName": "Fuusen Inu Tinny x Kuma no Gakkou Special Interlude Animation",
     "engName": "Fuusen Inu Tinny x Kuma no Gakkou Special Interlude Animation",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -24747,7 +24710,6 @@
     "tagIds": [],
     "anotherName": "Fuusen Inu Tinny x Kuma no Gakkou Special Interlude Animation",
     "ruNames": [
-      "Fuusen Inu Tinny: Nandaka Fushigi na - Kyouryuu no Kuni/Kuma no Gakkou: Patissier Jackie to Ohisama no Sweets Makuai Eizou",
       "Fuusen Inu Tinny x Kuma no Gakkou Special Interlude Animation"
     ],
     "enNames": [
@@ -25470,7 +25432,7 @@
     "id": 22327,
     "slugUrl": "dream:22327",
     "name": "Tomica Heroes Jobraver: Tokusou Gattai Robo Soushuuhen",
-    "rusName": "Tomica Heroes Jobraver: Tokusou Gattai Robo Soushuuhen",
+    "rusName": "",
     "engName": "トミカヒーローズ ジョブレイバー 特装合体ロボ 総集編",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -25488,9 +25450,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "Tomica Heroes Jobraver: Tokusou Gattai Robo Soushuuhen"
-    ],
+    "ruNames": [],
     "enNames": [
       "トミカヒーローズ ジョブレイバー 特装合体ロボ 総集編"
     ],
@@ -25564,7 +25524,7 @@
     "id": 22329,
     "slugUrl": "dream:22329",
     "name": "Sanrio Character to Utau: Tanoshii Douyou",
-    "rusName": "Sanrio Character to Utau: Tanoshii Douyou",
+    "rusName": "",
     "engName": "サンリオキャラクターとうたおう たのしいどうよう",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -25582,9 +25542,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "Sanrio Character to Utau: Tanoshii Douyou"
-    ],
+    "ruNames": [],
     "enNames": [
       "サンリオキャラクターとうたおう たのしいどうよう"
     ],
@@ -25751,7 +25709,7 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
-    "updatedAtSec": 1792084162,
+    "updatedAtSec": 1792174256,
     "bannerUrl": "",
     "studio": "Garden Culture",
     "director": "Ван Синь",
@@ -25820,6 +25778,20 @@
       1790160733,
       1790755796,
       1791975098,
+      1785525661,
+      1785646164,
+      1785672829,
+      1786116065,
+      1786737872,
+      1787416160,
+      1787945722,
+      1788534474,
+      1789154659,
+      1789744589,
+      1790418852,
+      1791034446,
+      1791725391,
+      1792174256,
       1785451755,
       1785451755,
       1785451755,
@@ -25884,19 +25856,6 @@
       1790869514,
       1791378931,
       1792005570,
-      1785525661,
-      1785646164,
-      1785672829,
-      1786116065,
-      1786737872,
-      1787416160,
-      1787945722,
-      1788534474,
-      1789154659,
-      1789744589,
-      1790418852,
-      1791034446,
-      1791725391,
       1786929064,
       1786929064,
       1786929064,
@@ -27288,7 +27247,7 @@
     "id": 22358,
     "slugUrl": "dream:22358",
     "name": "Sumikko Gurashi: Hiroi Uchuu to Aurora no Hikari",
-    "rusName": "Sumikko Gurashi: Hiroi Uchuu to Aurora no Hikari",
+    "rusName": "",
     "engName": "Sumikko Gurashi: The Vast Universe and the Light of the Aurora",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -27306,9 +27265,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "Sumikko Gurashi: Hiroi Uchuu to Aurora no Hikari"
-    ],
+    "ruNames": [],
     "enNames": [
       "Sumikko Gurashi: The Vast Universe and the Light of the Aurora",
       "すみっコぐらし: ひろい宇宙とオーロラのひかり"
@@ -27987,7 +27944,7 @@
     "id": 22372,
     "slugUrl": "dream:22372",
     "name": "Tanoshii Ohanashi Series",
-    "rusName": "Tanoshii Ohanashi Series",
+    "rusName": "",
     "engName": "Tanoshii Ohanashi Series",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -28005,9 +27962,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "Tanoshii Ohanashi Series"
-    ],
+    "ruNames": [],
     "enNames": [
       "Tanoshii Ohanashi Series"
     ],
@@ -28132,7 +28087,7 @@
     "id": 22375,
     "slugUrl": "dream:22375",
     "name": "Zurui Kitsune",
-    "rusName": "Zurui Kitsune",
+    "rusName": "",
     "engName": "ずるい狐 イソップ童話集",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -28150,9 +28105,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "Zurui Kitsune"
-    ],
+    "ruNames": [],
     "enNames": [
       "ずるい狐 イソップ童話集"
     ],
@@ -28178,7 +28131,7 @@
     "id": 22376,
     "slugUrl": "dream:22376",
     "name": "Sanbiki no Kobuta",
-    "rusName": "Sanbiki no Kobuta",
+    "rusName": "",
     "engName": "The Three Little Pigs",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -28196,9 +28149,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "Sanbiki no Kobuta"
-    ],
+    "ruNames": [],
     "enNames": [
       "The Three Little Pigs"
     ],
@@ -28224,7 +28175,7 @@
     "id": 22377,
     "slugUrl": "dream:22377",
     "name": "Kobito no Denwa",
-    "rusName": "Kobito no Denwa",
+    "rusName": "",
     "engName": "",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -28242,9 +28193,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "Kobito no Denwa"
-    ],
+    "ruNames": [],
     "enNames": [],
     "shikimoriId": 64166,
     "malId": 64166,
@@ -28524,7 +28473,7 @@
     "id": 22383,
     "slugUrl": "dream:22383",
     "name": "Ganbare Goshiki Sakura",
-    "rusName": "Ganbare Goshiki Sakura",
+    "rusName": "",
     "engName": "がんばれ五色桜",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -28542,9 +28491,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "Ganbare Goshiki Sakura"
-    ],
+    "ruNames": [],
     "enNames": [
       "がんばれ五色桜"
     ],
@@ -29101,8 +29048,8 @@
   {
     "id": 22395,
     "slugUrl": "dream:22395",
-    "name": "Bouken wa Tsuzuiteiru.",
-    "rusName": "Bouken wa Tsuzuiteiru.",
+    "name": "Final Fantasy XI 24th Anniversary Movie",
+    "rusName": "Final Fantasy XI 24th Anniversary Movie",
     "engName": "Our Adventure Never Ends.",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -29121,7 +29068,6 @@
     "tagIds": [],
     "anotherName": "Final Fantasy XI 24th Anniversary Movie",
     "ruNames": [
-      "Bouken wa Tsuzuiteiru.",
       "Final Fantasy XI 24th Anniversary Movie"
     ],
     "enNames": [
@@ -29591,7 +29537,7 @@
     "id": 22405,
     "slugUrl": "dream:22405",
     "name": "Rina no Yume",
-    "rusName": "Rina no Yume",
+    "rusName": "",
     "engName": "Rina's Dream",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -29609,9 +29555,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "Rina no Yume"
-    ],
+    "ruNames": [],
     "enNames": [
       "Rina's Dream",
       "リナの夢"
@@ -29638,7 +29582,7 @@
     "id": 22406,
     "slugUrl": "dream:22406",
     "name": "Kumano Kodo Minwashu",
-    "rusName": "Kumano Kodo Minwashu",
+    "rusName": "",
     "engName": "Kumano Kodo Folk Tale Collection",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -29656,9 +29600,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "Kumano Kodo Minwashu"
-    ],
+    "ruNames": [],
     "enNames": [
       "Kumano Kodo Folk Tale Collection"
     ],
@@ -30077,7 +30019,7 @@
     "id": 22415,
     "slugUrl": "dream:22415",
     "name": "Chikyuu-gou SOS",
-    "rusName": "Chikyuu-gou SOS",
+    "rusName": "",
     "engName": "Chikyuugou SOS",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -30095,9 +30037,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "Chikyuu-gou SOS"
-    ],
+    "ruNames": [],
     "enNames": [
       "Chikyuugou SOS",
       "Chikyūgō SOS",
@@ -30125,7 +30065,7 @@
     "id": 22416,
     "slugUrl": "dream:22416",
     "name": "Airman ga Taosenai Team.Nekokan [Neko] Premium Version",
-    "rusName": "Airman ga Taosenai Team.Nekokan [Neko] Premium Version",
+    "rusName": "",
     "engName": "エアーマンが倒せない Team.ねこかん(猫)プレミアムversion",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -30143,9 +30083,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "Airman ga Taosenai Team.Nekokan [Neko] Premium Version"
-    ],
+    "ruNames": [],
     "enNames": [
       "エアーマンが倒せない Team.ねこかん(猫)プレミアムversion"
     ],
@@ -30214,8 +30152,8 @@
   {
     "id": 22418,
     "slugUrl": "dream:22418",
-    "name": "Torimodosou, Ichiban Taisetsu na Mono wo: GIST Project",
-    "rusName": "Torimodosou, Ichiban Taisetsu na Mono wo: GIST Project",
+    "name": "Take Back What Matters",
+    "rusName": "Take Back What Matters",
     "engName": "Take Back What Matters",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -30234,7 +30172,6 @@
     "tagIds": [],
     "anotherName": "Take Back What Matters",
     "ruNames": [
-      "Torimodosou, Ichiban Taisetsu na Mono wo: GIST Project",
       "Take Back What Matters"
     ],
     "enNames": [
@@ -30454,7 +30391,7 @@
     "id": 22423,
     "slugUrl": "dream:22423",
     "name": "Alps no Ongaku Shoujo Netty no Fushigi na Monogatari: Tyrol no Ongaku Ikka Angel Family",
-    "rusName": "Alps no Ongaku Shoujo Netty no Fushigi na Monogatari: Tyrol no Ongaku Ikka Angel Family",
+    "rusName": "",
     "engName": "アルプスの音楽少女 ネッティのふしぎな物語～チロルの音楽一家エンジェル・ファミリー",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -30472,9 +30409,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "Alps no Ongaku Shoujo Netty no Fushigi na Monogatari: Tyrol no Ongaku Ikka Angel Family"
-    ],
+    "ruNames": [],
     "enNames": [
       "アルプスの音楽少女 ネッティのふしぎな物語～チロルの音楽一家エンジェル・ファミリー"
     ],
@@ -30500,7 +30435,7 @@
     "id": 22424,
     "slugUrl": "dream:22424",
     "name": "Obake",
-    "rusName": "Obake",
+    "rusName": "",
     "engName": "",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -30518,9 +30453,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "Obake"
-    ],
+    "ruNames": [],
     "enNames": [],
     "shikimoriId": 64322,
     "malId": 64322,
@@ -30544,7 +30477,7 @@
     "id": 22425,
     "slugUrl": "dream:22425",
     "name": "Hinamatsuri Anime Fantasy! Uchuu no Hate made Bouken Ryokoi Romantic Ginga Tour e no wo Shoutai!!",
-    "rusName": "Hinamatsuri Anime Fantasy! Uchuu no Hate made Bouken Ryokoi Romantic Ginga Tour e no wo Shoutai!!",
+    "rusName": "",
     "engName": "ひなまつりアニメファンタジー! 宇宙の果てまで冒険旅行 ロマンチック銀河ツアーへの御招待!!",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -30562,9 +30495,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "Hinamatsuri Anime Fantasy! Uchuu no Hate made Bouken Ryokoi Romantic Ginga Tour e no wo Shoutai!!"
-    ],
+    "ruNames": [],
     "enNames": [
       "ひなまつりアニメファンタジー! 宇宙の果てまで冒険旅行 ロマンチック銀河ツアーへの御招待!!"
     ],
@@ -30703,7 +30634,7 @@
     "id": 22428,
     "slugUrl": "dream:22428",
     "name": "Choro-Q Deck System Q Fighters!",
-    "rusName": "Choro-Q Deck System Q Fighters!",
+    "rusName": "",
     "engName": "チョロQデッキシステム Qファイターズ!",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -30721,9 +30652,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "Choro-Q Deck System Q Fighters!"
-    ],
+    "ruNames": [],
     "enNames": [
       "チョロQデッキシステム Qファイターズ!"
     ],
@@ -31072,7 +31001,7 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
-    "updatedAtSec": 1792074054,
+    "updatedAtSec": 1792174255,
     "bannerUrl": "",
     "studio": "J.C.Staff",
     "director": "Коно Аяко",
@@ -31095,11 +31024,12 @@
       1791217327,
       1791832612,
       1790602230,
+      1791454751,
+      1791454751,
+      1792144356,
       1790811110,
       1791416427,
       1792074054,
-      1791454751,
-      1791454751,
       1791301075,
       1791650939,
       1789564739,
@@ -31142,7 +31072,8 @@
       1791396231,
       1791319887,
       1791395930,
-      1790603152
+      1790603152,
+      1792174255
     ],
     "totalEpisodes": 12,
     "airedEpisodes": 3,
@@ -31455,7 +31386,7 @@
     "id": 22442,
     "slugUrl": "dream:22442",
     "name": "Sankaku no Sekai",
-    "rusName": "Sankaku no Sekai",
+    "rusName": "",
     "engName": "The Triangular World",
     "coverUrl": "",
     "coverFallbackUrl": "",
@@ -31473,9 +31404,7 @@
     "tags": [],
     "tagIds": [],
     "anotherName": "",
-    "ruNames": [
-      "Sankaku no Sekai"
-    ],
+    "ruNames": [],
     "enNames": [
       "The Triangular World"
     ],
@@ -32244,7 +32173,7 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
-    "updatedAtSec": 1791893996,
+    "updatedAtSec": 1792164239,
     "bannerUrl": "",
     "studio": "Sanjie Donghua",
     "director": "",
@@ -32314,6 +32243,7 @@
       1791279070,
       1791279070,
       1791632754,
+      1792164239,
       1782212238,
       1782212238,
       1782489394,
@@ -33689,13 +33619,42 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
-    "updatedAtSec": 1792014587,
+    "updatedAtSec": 1792225894,
     "bannerUrl": "",
     "studio": "Ruo Hong Culture",
     "director": "",
     "sourceWork": "Новелла",
     "releaseDate": "2026-01-01",
     "episodeDates": [
+      1786907111,
+      1786907111,
+      1786907111,
+      1786907111,
+      1786907111,
+      1786907111,
+      1786907111,
+      1786907111,
+      1786907111,
+      1786907111,
+      1786907111,
+      1787385454,
+      1787385454,
+      1788022364,
+      1788022364,
+      1788638132,
+      1788638132,
+      1789213695,
+      1789213695,
+      1789812579,
+      1789812579,
+      1790420275,
+      1790420275,
+      1791040344,
+      1791041322,
+      1791616894,
+      1791618869,
+      1792224899,
+      1792225894,
       1784381971,
       1784381971,
       1784381971,
@@ -33831,33 +33790,6 @@
       1791323810,
       1792013595,
       1792014587,
-      1786907111,
-      1786907111,
-      1786907111,
-      1786907111,
-      1786907111,
-      1786907111,
-      1786907111,
-      1786907111,
-      1786907111,
-      1786907111,
-      1786907111,
-      1787385454,
-      1787385454,
-      1788022364,
-      1788022364,
-      1788638132,
-      1788638132,
-      1789213695,
-      1789213695,
-      1789812579,
-      1789812579,
-      1790420275,
-      1790420275,
-      1791040344,
-      1791041322,
-      1791616894,
-      1791618869,
       1785970469,
       1785970469,
       1785970469,
@@ -33906,7 +33838,7 @@
       1790419283
     ],
     "totalEpisodes": 56,
-    "airedEpisodes": 27,
+    "airedEpisodes": 29,
     "yummyAlias": "skazaniya-o-demonah-i-bogah-10"
   },
   {

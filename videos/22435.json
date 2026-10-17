@@ -130,6 +130,30 @@
   {
     "episode": 1,
     "dub": "Озвучка AniLibria",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=7080c5f3957af534d7f68454d90709&translation=340&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1791454751,
+    "durationSec": 1420
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=7080c5f3957af534d7f68454d90709&translation=340&season=1&episode=2&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1791454751,
+    "durationSec": 1422
+  },
+  {
+    "episode": 3,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=7080c5f3957af534d7f68454d90709&translation=340&season=1&episode=3&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1792144356,
+    "durationSec": 1422
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniLibria",
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123026/95adcc7621ae3d726df573cc30b90c3f/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1790811110,
@@ -149,22 +173,6 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123026/95adcc7621ae3d726df573cc30b90c3f/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 1792074054,
-    "durationSec": 1422
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка AniLibria",
-    "player": "Плеер Alloha",
-    "iframeUrl": "https://alloha.yani.tv/?token_movie=7080c5f3957af534d7f68454d90709&translation=340&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
-    "date": 1791454751,
-    "durationSec": 1420
-  },
-  {
-    "episode": 2,
-    "dub": "Озвучка AniLibria",
-    "player": "Плеер Alloha",
-    "iframeUrl": "https://alloha.yani.tv/?token_movie=7080c5f3957af534d7f68454d90709&translation=340&season=1&episode=2&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
-    "date": 1791454751,
     "durationSec": 1422
   },
   {
@@ -510,5 +518,13 @@
     "iframeUrl": "https://alloha.yani.tv/?token_movie=7080c5f3957af534d7f68454d90709&translation=79&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1790603152,
     "durationSec": 1420
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка hon-kon studio",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123845/37898e86bdf8e80478253116511cda28/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1792174255,
+    "durationSec": 1426
   }
 ]
