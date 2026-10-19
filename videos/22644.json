@@ -65,6 +65,38 @@
   },
   {
     "episode": 1,
+    "dub": "Субтитры YoruSub",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=yorusub&anime_id=64867&episode=1&dubbing=%D0%A1%D1%83%D0%B1%D1%82%D0%B8%D1%82%D1%80%D1%8B+YoruSub",
+    "date": 1791751508,
+    "durationSec": 184
+  },
+  {
+    "episode": 3,
+    "dub": "Субтитры YoruSub",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=yorusub&anime_id=64867&episode=3&dubbing=%D0%A1%D1%83%D0%B1%D1%82%D0%B8%D1%82%D1%80%D1%8B+YoruSub",
+    "date": 1791751508,
+    "durationSec": 184
+  },
+  {
+    "episode": 2,
+    "dub": "Субтитры YoruSub",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=yorusub&anime_id=64867&episode=2&dubbing=%D0%A1%D1%83%D0%B1%D1%82%D0%B8%D1%82%D1%80%D1%8B+YoruSub",
+    "date": 1791789366,
+    "durationSec": 184
+  },
+  {
+    "episode": 4,
+    "dub": "Субтитры YoruSub",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=yorusub&anime_id=64867&episode=4&dubbing=%D0%A1%D1%83%D0%B1%D1%82%D0%B8%D1%82%D1%80%D1%8B+YoruSub",
+    "date": 1792352670,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
     "dub": "Озвучка SHIZA Project",
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123120/e149c3b68bd4e29c264300940cf8adc5/720p?translations=false&only_episode=true&only_season=true&episode=1",
@@ -150,29 +182,5 @@
     "iframeUrl": "https://kodikplayer.com/season/123503/c15a497c9f61c66a60976a60f2e12f6b/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1791548948,
     "durationSec": 0
-  },
-  {
-    "episode": 1,
-    "dub": "Субтитры YoruSub",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=yorusub&anime_id=64867&episode=1&dubbing=%D0%A1%D1%83%D0%B1%D1%82%D0%B8%D1%82%D1%80%D1%8B+YoruSub",
-    "date": 1791751508,
-    "durationSec": 184
-  },
-  {
-    "episode": 3,
-    "dub": "Субтитры YoruSub",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=yorusub&anime_id=64867&episode=3&dubbing=%D0%A1%D1%83%D0%B1%D1%82%D0%B8%D1%82%D1%80%D1%8B+YoruSub",
-    "date": 1791751508,
-    "durationSec": 184
-  },
-  {
-    "episode": 2,
-    "dub": "Субтитры YoruSub",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=yorusub&anime_id=64867&episode=2&dubbing=%D0%A1%D1%83%D0%B1%D1%82%D0%B8%D1%82%D1%80%D1%8B+YoruSub",
-    "date": 1791789366,
-    "durationSec": 184
   }
 ]

@@ -49,6 +49,30 @@
   },
   {
     "episode": 1,
+    "dub": "Субтитры Kazoku Project",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123188/c744ba7e9c7d72e9f4e06872ad3b0bf8/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1791122630,
+    "durationSec": 1540
+  },
+  {
+    "episode": 2,
+    "dub": "Субтитры Kazoku Project",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123188/c744ba7e9c7d72e9f4e06872ad3b0bf8/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1791804595,
+    "durationSec": 1548
+  },
+  {
+    "episode": 3,
+    "dub": "Субтитры Kazoku Project",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123188/c744ba7e9c7d72e9f4e06872ad3b0bf8/720p?translations=false&only_episode=true&only_season=true&episode=3",
+    "date": 1792382000,
+    "durationSec": 1561
+  },
+  {
+    "episode": 1,
     "dub": "Озвучка AnimeVost",
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=animevost&anime_id=61323&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
@@ -137,46 +161,6 @@
   },
   {
     "episode": 1,
-    "dub": "Озвучка AniStar",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123175/017f16ef0c9a795101f5141f40fe0fae/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1791122630,
-    "durationSec": 1540
-  },
-  {
-    "episode": 2,
-    "dub": "Озвучка AniStar",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123175/017f16ef0c9a795101f5141f40fe0fae/720p?translations=false&only_episode=true&only_season=true&episode=2",
-    "date": 1791717018,
-    "durationSec": 1542
-  },
-  {
-    "episode": 3,
-    "dub": "Озвучка AniStar",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123175/017f16ef0c9a795101f5141f40fe0fae/720p?translations=false&only_episode=true&only_season=true&episode=3",
-    "date": 1792323998,
-    "durationSec": 1554
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка AniStar",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anistar&anime_id=61323&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniStar",
-    "date": 1791136411,
-    "durationSec": 1562
-  },
-  {
-    "episode": 2,
-    "dub": "Озвучка AniStar",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anistar&anime_id=61323&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniStar",
-    "date": 1792061415,
-    "durationSec": 0
-  },
-  {
-    "episode": 1,
     "dub": "Субтитры SubVost",
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123184/2e9b0266b25d405ac8a6d6fcfe2b919d/720p?translations=false&only_episode=true&only_season=true&episode=1",
@@ -221,6 +205,86 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=subvost&anime_id=61323&episode=3&dubbing=%D0%A1%D1%83%D0%B1%D1%82%D0%B8%D1%82%D1%80%D1%8B+SubVost",
     "date": 1792344365,
+    "durationSec": 1554
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123175/017f16ef0c9a795101f5141f40fe0fae/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1791122630,
+    "durationSec": 1540
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123175/017f16ef0c9a795101f5141f40fe0fae/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1791717018,
+    "durationSec": 1542
+  },
+  {
+    "episode": 3,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123175/017f16ef0c9a795101f5141f40fe0fae/720p?translations=false&only_episode=true&only_season=true&episode=3",
+    "date": 1792323998,
+    "durationSec": 1554
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anistar&anime_id=61323&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniStar",
+    "date": 1791136411,
+    "durationSec": 1562
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anistar&anime_id=61323&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniStar",
+    "date": 1792061415,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123263/b458133471c80b695fd7f3b882c54553/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1791210018,
+    "durationSec": 1540
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123263/b458133471c80b695fd7f3b882c54553/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1791884806,
+    "durationSec": 1542
+  },
+  {
+    "episode": 3,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123263/b458133471c80b695fd7f3b882c54553/720p?translations=false&only_episode=true&only_season=true&episode=3",
+    "date": 1792409534,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anidub&anime_id=61323&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniDUB",
+    "date": 1792060416,
+    "durationSec": 0
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anidub&anime_id=61323&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniDUB",
+    "date": 1792060416,
     "durationSec": 0
   },
   {
@@ -246,6 +310,30 @@
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=sanae&anime_id=61323&episode=3&dubbing=%D0%A1%D1%83%D0%B1%D1%82%D0%B8%D1%82%D1%80%D1%8B+Sanae",
     "date": 1792333402,
     "durationSec": 1426
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры Kazoku Sub",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=kazokusub&anime_id=61323&episode=1&dubbing=%D0%A1%D1%83%D0%B1%D1%82%D0%B8%D1%82%D1%80%D1%8B+Kazoku+Sub",
+    "date": 1791148237,
+    "durationSec": 1540
+  },
+  {
+    "episode": 2,
+    "dub": "Субтитры Kazoku Sub",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=kazokusub&anime_id=61323&episode=2&dubbing=%D0%A1%D1%83%D0%B1%D1%82%D0%B8%D1%82%D1%80%D1%8B+Kazoku+Sub",
+    "date": 1791804541,
+    "durationSec": 1554
+  },
+  {
+    "episode": 3,
+    "dub": "Субтитры Kazoku Sub",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=kazokusub&anime_id=61323&episode=3&dubbing=%D0%A1%D1%83%D0%B1%D1%82%D0%B8%D1%82%D1%80%D1%8B+Kazoku+Sub",
+    "date": 1792390383,
+    "durationSec": 0
   },
   {
     "episode": 1,
@@ -313,22 +401,6 @@
   },
   {
     "episode": 1,
-    "dub": "Субтитры Kazoku Project",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123188/c744ba7e9c7d72e9f4e06872ad3b0bf8/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1791122630,
-    "durationSec": 1540
-  },
-  {
-    "episode": 2,
-    "dub": "Субтитры Kazoku Project",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123188/c744ba7e9c7d72e9f4e06872ad3b0bf8/720p?translations=false&only_episode=true&only_season=true&episode=2",
-    "date": 1791804595,
-    "durationSec": 1548
-  },
-  {
-    "episode": 1,
     "dub": "Озвучка Закадровый Отдел",
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123192/bccdf136d4ea0054f26c8552db348a67/720p?translations=false&only_episode=true&only_season=true&episode=1",
@@ -357,38 +429,6 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=zakadroviyotdel&anime_id=61323&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%97%D0%B0%D0%BA%D0%B0%D0%B4%D1%80%D0%BE%D0%B2%D1%8B%D0%B9+%D0%9E%D1%82%D0%B4%D0%B5%D0%BB",
     "date": 1792061415,
-    "durationSec": 0
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка AniDUB",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123263/b458133471c80b695fd7f3b882c54553/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1791210018,
-    "durationSec": 1540
-  },
-  {
-    "episode": 2,
-    "dub": "Озвучка AniDUB",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123263/b458133471c80b695fd7f3b882c54553/720p?translations=false&only_episode=true&only_season=true&episode=2",
-    "date": 1791884806,
-    "durationSec": 0
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка AniDUB",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anidub&anime_id=61323&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniDUB",
-    "date": 1792060416,
-    "durationSec": 0
-  },
-  {
-    "episode": 2,
-    "dub": "Озвучка AniDUB",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anidub&anime_id=61323&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniDUB",
-    "date": 1792060416,
     "durationSec": 0
   },
   {
@@ -489,38 +529,6 @@
   },
   {
     "episode": 1,
-    "dub": "Озвучка AniDUB Online",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123367/95561b02edb044bcde45870950cb2b44/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1791355827,
-    "durationSec": 0
-  },
-  {
-    "episode": 2,
-    "dub": "Озвучка AniDUB Online",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123367/95561b02edb044bcde45870950cb2b44/720p?translations=false&only_episode=true&only_season=true&episode=2",
-    "date": 1792044675,
-    "durationSec": 0
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка AniDUB Online",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anidub_online&anime_id=61323&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniDUB+Online",
-    "date": 1791336323,
-    "durationSec": 0
-  },
-  {
-    "episode": 2,
-    "dub": "Озвучка AniDUB Online",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anidub_online&anime_id=61323&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniDUB+Online",
-    "date": 1792012550,
-    "durationSec": 1542
-  },
-  {
-    "episode": 1,
     "dub": "Озвучка AniBaza",
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123371/6af8f6fbee23b9f5bf25612f2050b68c/720p?translations=false&only_episode=true&only_season=true&episode=1",
@@ -553,19 +561,35 @@
   },
   {
     "episode": 1,
-    "dub": "Субтитры Kazoku Sub",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=kazokusub&anime_id=61323&episode=1&dubbing=%D0%A1%D1%83%D0%B1%D1%82%D0%B8%D1%82%D1%80%D1%8B+Kazoku+Sub",
-    "date": 1791148237,
-    "durationSec": 1540
+    "dub": "Озвучка AniDUB Online",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123367/95561b02edb044bcde45870950cb2b44/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1791355827,
+    "durationSec": 0
   },
   {
     "episode": 2,
-    "dub": "Субтитры Kazoku Sub",
+    "dub": "Озвучка AniDUB Online",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123367/95561b02edb044bcde45870950cb2b44/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1792044675,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB Online",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=kazokusub&anime_id=61323&episode=2&dubbing=%D0%A1%D1%83%D0%B1%D1%82%D0%B8%D1%82%D1%80%D1%8B+Kazoku+Sub",
-    "date": 1791804541,
-    "durationSec": 1554
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anidub_online&anime_id=61323&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniDUB+Online",
+    "date": 1791336323,
+    "durationSec": 0
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniDUB Online",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anidub_online&anime_id=61323&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniDUB+Online",
+    "date": 1792012550,
+    "durationSec": 1542
   },
   {
     "episode": 1,

@@ -137,22 +137,6 @@
   },
   {
     "episode": 1,
-    "dub": "Субтитры AniLiberty",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123812/43e84de25607dcebe38470363a1eb30e/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1792070380,
-    "durationSec": 0
-  },
-  {
-    "episode": 2,
-    "dub": "Субтитры AniLiberty",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123812/43e84de25607dcebe38470363a1eb30e/720p?translations=false&only_episode=true&only_season=true&episode=2",
-    "date": 1792070380,
-    "durationSec": 1440
-  },
-  {
-    "episode": 1,
     "dub": "Озвучка Творческая студия МИР",
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123469/ccdcc7647acc25def3e963fe8788b0a9/720p?translations=false&only_episode=true&only_season=true&episode=1",
@@ -184,12 +168,28 @@
     "durationSec": 0
   },
   {
+    "episode": 1,
+    "dub": "Субтитры AniLiberty",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123812/43e84de25607dcebe38470363a1eb30e/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1792070380,
+    "durationSec": 0
+  },
+  {
+    "episode": 2,
+    "dub": "Субтитры AniLiberty",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123812/43e84de25607dcebe38470363a1eb30e/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1792070380,
+    "durationSec": 1440
+  },
+  {
     "episode": 2,
     "dub": "Озвучка AnimeVost",
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=animevost&anime_id=61140&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
     "date": 1792166211,
-    "durationSec": 0
+    "durationSec": 1441
   },
   {
     "episode": 1,
