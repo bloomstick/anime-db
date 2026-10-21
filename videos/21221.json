@@ -73,6 +73,30 @@
   },
   {
     "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123187/7e28f8add6ec8ba1a17d8c434389e276/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1791122651,
+    "durationSec": 3029
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123187/7e28f8add6ec8ba1a17d8c434389e276/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1791988625,
+    "durationSec": 1440
+  },
+  {
+    "episode": 3,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123187/7e28f8add6ec8ba1a17d8c434389e276/720p?translations=false&only_episode=true&only_season=true&episode=3",
+    "date": 1792580521,
+    "durationSec": 1440
+  },
+  {
+    "episode": 1,
     "dub": "Озвучка AniLibria",
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=3ebf006d3d859b27912ad5d89f79c5&translation=340&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
@@ -142,22 +166,6 @@
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=dreamcast&anime_id=61140&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Dream+Cast",
     "date": 1792087556,
     "durationSec": 1447
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка AniDUB",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123187/7e28f8add6ec8ba1a17d8c434389e276/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1791122651,
-    "durationSec": 3029
-  },
-  {
-    "episode": 2,
-    "dub": "Озвучка AniDUB",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123187/7e28f8add6ec8ba1a17d8c434389e276/720p?translations=false&only_episode=true&only_season=true&episode=2",
-    "date": 1791988625,
-    "durationSec": 1440
   },
   {
     "episode": 1,

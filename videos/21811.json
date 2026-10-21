@@ -113,22 +113,6 @@
   },
   {
     "episode": 1,
-    "dub": "Озвучка Silver AniAge",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123340/138c71d2b3a9b71399b390f7f5cff874/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1791304834,
-    "durationSec": 1429
-  },
-  {
-    "episode": 2,
-    "dub": "Озвучка Silver AniAge",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123340/138c71d2b3a9b71399b390f7f5cff874/720p?translations=false&only_episode=true&only_season=true&episode=2",
-    "date": 1792181603,
-    "durationSec": 1427
-  },
-  {
-    "episode": 1,
     "dub": "Озвучка Инь Ян Войс",
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123415/fd8c2364d3008c15090459c475bae7e2/720p?translations=false&only_episode=true&only_season=true&episode=1",
@@ -142,6 +126,14 @@
     "iframeUrl": "https://kodikplayer.com/season/123415/fd8c2364d3008c15090459c475bae7e2/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1792011660,
     "durationSec": 1418
+  },
+  {
+    "episode": 3,
+    "dub": "Озвучка Инь Ян Войс",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123415/fd8c2364d3008c15090459c475bae7e2/720p?translations=false&only_episode=true&only_season=true&episode=3",
+    "date": 1792531770,
+    "durationSec": 0
   },
   {
     "episode": 1,
@@ -158,6 +150,30 @@
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=inyanvoice&anime_id=62524&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%98%D0%BD%D1%8C+%D0%AF%D0%BD+%D0%92%D0%BE%D0%B9%D1%81",
     "date": 1792060426,
     "durationSec": 0
+  },
+  {
+    "episode": 3,
+    "dub": "Озвучка Инь Ян Войс",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=inyanvoice&anime_id=62524&episode=3&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%98%D0%BD%D1%8C+%D0%AF%D0%BD+%D0%92%D0%BE%D0%B9%D1%81",
+    "date": 1792574338,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Silver AniAge",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123340/138c71d2b3a9b71399b390f7f5cff874/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1791304834,
+    "durationSec": 1429
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка Silver AniAge",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123340/138c71d2b3a9b71399b390f7f5cff874/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1792181603,
+    "durationSec": 1427
   },
   {
     "episode": 1,
