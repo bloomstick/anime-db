@@ -27,7 +27,7 @@
     "episode": 1,
     "dub": "Озвучка AniMaunt",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=animaunt&anime_id=62696&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniMaunt",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniMaunt&anime_id=62696&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniMaunt",
     "date": 1791554689,
     "durationSec": 1410
   },
@@ -65,18 +65,18 @@
   },
   {
     "episode": 1,
-    "dub": "Озвучка Дубляж DEEP",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=ruanimedeep&anime_id=62696&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+DEEP",
-    "date": 1791554689,
-    "durationSec": 1410
-  },
-  {
-    "episode": 1,
     "dub": "Озвучка AniHope",
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123695/4599ab781e13ab83b166e63b3dc925a7/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1791830637,
     "durationSec": 1410
+  },
+  {
+    "episode": 1,
+    "dub": "Дубляж DEEP",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=DEEP&anime_id=62696&episode=1&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+DEEP",
+    "date": 1792697766,
+    "durationSec": 0
   }
 ]
