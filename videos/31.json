@@ -5,7 +5,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/29489/2b2aa4d780bd0dffca644f76043ca3ad/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1674827146,
-    "durationSec": 1452
+    "durationSec": 1452,
+    "openingTime": 38,
+    "openingLength": 89,
+    "endingTime": 1412,
+    "endingLength": 19
   },
   {
     "episode": 2,
@@ -13,7 +17,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/29489/2b2aa4d780bd0dffca644f76043ca3ad/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674827146,
-    "durationSec": 1452
+    "durationSec": 1452,
+    "openingTime": 103,
+    "openingLength": 89,
+    "endingTime": 1338,
+    "endingLength": 89
   },
   {
     "episode": 3,

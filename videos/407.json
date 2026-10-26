@@ -21,7 +21,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/56013/14889b3ad3d173b2e57d535060c18e80/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 1674826938,
-    "durationSec": 1388
+    "durationSec": 1388,
+    "endingTime": 1281,
+    "endingLength": 89
   },
   {
     "episode": 4,
@@ -29,7 +31,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/56013/14889b3ad3d173b2e57d535060c18e80/720p?translations=false&only_episode=true&only_season=true&episode=4",
     "date": 1674826938,
-    "durationSec": 1389
+    "durationSec": 1389,
+    "openingTime": 0,
+    "openingLength": 89
   },
   {
     "episode": 5,

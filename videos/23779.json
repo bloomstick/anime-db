@@ -5,7 +5,12 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?kp=1224030&token=d7ddef188332937b5a292f4282add5&translation=10&season=1&episode=25&hidden=translation,season,episode",
     "date": 0,
-    "durationSec": 1424
+    "durationSec": 1424,
+    "translationId": 10,
+    "openingTime": 0,
+    "openingLength": 264,
+    "endingTime": 1328,
+    "endingLength": 89
   },
   {
     "episode": 1,
@@ -13,7 +18,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/80293/1010ebd6bf99a6cffa3864eadc56b3b1/720p?translations=false&only_episode=true&only_season=true",
     "date": 0,
-    "durationSec": 1424
+    "durationSec": 1424,
+    "openingTime": 186,
+    "openingLength": 89,
+    "endingTime": 1330,
+    "endingLength": 89
   },
   {
     "episode": 1,
@@ -21,7 +30,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/93356/670c9e63ec3edca7755caf04ff56328a/720p?translations=false&only_episode=true&only_season=true",
     "date": 1678315182,
-    "durationSec": 1440
+    "durationSec": 1440,
+    "openingTime": 0,
+    "openingLength": 264,
+    "endingTime": 1377,
+    "endingLength": 44
   },
   {
     "episode": 1,
@@ -29,7 +42,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/93079/379da904b6d1b4608841d2956d2e4530/720p?translations=false&only_episode=true&only_season=true",
     "date": 1677182772,
-    "durationSec": 1424
+    "durationSec": 1424,
+    "openingTime": 184,
+    "openingLength": 89,
+    "endingTime": 1327,
+    "endingLength": 89
   },
   {
     "episode": 1,
@@ -37,7 +54,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?kp=1224030&token=d7ddef188332937b5a292f4282add5&translation=167&season=1&episode=25&hidden=translation,season,episode",
     "date": 0,
-    "durationSec": 1426
+    "durationSec": 1426,
+    "translationId": 167
   },
   {
     "episode": 1,
@@ -61,7 +79,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?kp=1224030&token=d7ddef188332937b5a292f4282add5&translation=164&season=1&episode=25&hidden=translation,season,episode",
     "date": 0,
-    "durationSec": 1429
+    "durationSec": 1429,
+    "translationId": 164
   },
   {
     "episode": 1,

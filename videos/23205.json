@@ -173,7 +173,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/94392/850fb40fc21b7759eb63fc12100960cc/720p?translations=false&only_episode=true&only_season=true&episode=4",
     "date": 1697917855,
-    "durationSec": 1421
+    "durationSec": 1421,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1291,
+    "endingLength": 119
   },
   {
     "episode": 5,
@@ -229,7 +233,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/94392/850fb40fc21b7759eb63fc12100960cc/720p?translations=false&only_episode=true&only_season=true&episode=11",
     "date": 1706130038,
-    "durationSec": 1422
+    "durationSec": 1422,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1324,
+    "endingLength": 89
   },
   {
     "episode": 12,

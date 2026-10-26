@@ -5,7 +5,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/44127/6f7adf1d151de43a61665615f17f30df/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1674827113,
-    "durationSec": 1418
+    "durationSec": 1418,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1292,
+    "endingLength": 114
   },
   {
     "episode": 2,
@@ -13,7 +17,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/44127/6f7adf1d151de43a61665615f17f30df/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674827113,
-    "durationSec": 1418
+    "durationSec": 1418,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1292,
+    "endingLength": 114
   },
   {
     "episode": 3,

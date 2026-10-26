@@ -5,7 +5,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/63083/93748bf8b58904d1a5f9b33bff008765/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1674776483,
-    "durationSec": 1423
+    "durationSec": 1423,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1300,
+    "endingLength": 114
   },
   {
     "episode": 2,
@@ -13,7 +17,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/63083/93748bf8b58904d1a5f9b33bff008765/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674776483,
-    "durationSec": 1402
+    "durationSec": 1402,
+    "endingTime": 1278,
+    "endingLength": 114
   },
   {
     "episode": 3,

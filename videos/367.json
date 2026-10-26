@@ -5,7 +5,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/37302/cebf74589a2679bf1e6f65824df20897/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1674827243,
-    "durationSec": 1408
+    "durationSec": 1408,
+    "openingTime": 23,
+    "openingLength": 59,
+    "endingTime": 1302,
+    "endingLength": 89
   },
   {
     "episode": 2,
@@ -13,7 +17,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/37302/cebf74589a2679bf1e6f65824df20897/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674827243,
-    "durationSec": 1483
+    "durationSec": 1483,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1426,
+    "endingLength": 44
   },
   {
     "episode": 1,

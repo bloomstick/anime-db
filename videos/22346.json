@@ -5,7 +5,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/118775/d1d9e03665ac982f11f18ed31db399f0/720p?translations=false&only_episode=true&only_season=true",
     "date": 1786191872,
-    "durationSec": 6668
+    "durationSec": 6668,
+    "endingTime": 6582,
+    "endingLength": 69
   },
   {
     "episode": 1,
@@ -13,7 +15,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/118798/cac615ec21e5627528565a7b402aa04d/720p?translations=false&only_episode=true&only_season=true",
     "date": 1786367110,
-    "durationSec": 6668
+    "durationSec": 6668,
+    "endingTime": 6634,
+    "endingLength": 24
   },
   {
     "episode": 1,
@@ -21,7 +25,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/118774/d9b01a9b5f66a7f95f5259f44eddfbdc/720p?translations=false&only_episode=true&only_season=true",
     "date": 1786191872,
-    "durationSec": 6668
+    "durationSec": 6668,
+    "endingTime": 6614,
+    "endingLength": 34
   },
   {
     "episode": 1,
@@ -37,7 +43,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/118971/48109ba8402adfbd39387c0b653c2f63/720p?translations=false&only_episode=true&only_season=true",
     "date": 1787234067,
-    "durationSec": 6676
+    "durationSec": 6676,
+    "endingTime": 6642,
+    "endingLength": 24
   },
   {
     "episode": 1,
@@ -53,7 +61,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=0c0df0a09869d05b6480389a9caa1e&translation=340&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1791297900,
-    "durationSec": 6668
+    "durationSec": 6668,
+    "translationId": 340
   },
   {
     "episode": 1,
@@ -109,6 +118,7 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=0c0df0a09869d05b6480389a9caa1e&translation=79&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1791203366,
-    "durationSec": 6668
+    "durationSec": 6668,
+    "translationId": 79
   }
 ]

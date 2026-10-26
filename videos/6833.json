@@ -5,7 +5,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/51992/5e519916ff0a7e2027ae15f2ee3bc7f0/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1674827206,
-    "durationSec": 1714
+    "durationSec": 1714,
+    "endingTime": 1553,
+    "endingLength": 89
   },
   {
     "episode": 2,
@@ -13,7 +15,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/51992/5e519916ff0a7e2027ae15f2ee3bc7f0/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674827206,
-    "durationSec": 1545
+    "durationSec": 1545,
+    "openingTime": 142,
+    "openingLength": 89,
+    "endingTime": 1418,
+    "endingLength": 89
   },
   {
     "episode": 3,
@@ -21,6 +27,10 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/51992/5e519916ff0a7e2027ae15f2ee3bc7f0/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 1674827206,
-    "durationSec": 1856
+    "durationSec": 1856,
+    "openingTime": 97,
+    "openingLength": 89,
+    "endingTime": 1653,
+    "endingLength": 89
   }
 ]

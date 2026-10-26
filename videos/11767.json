@@ -5,7 +5,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/101669/84e11f3be5ba2f8b8f11acf862f61ba1/720p?translations=false&only_episode=true&only_season=true",
     "date": 1709753835,
-    "durationSec": 3246
+    "durationSec": 3246,
+    "endingTime": 3158,
+    "endingLength": 89
   },
   {
     "episode": 1,
@@ -21,7 +23,11 @@
     "player": "Плеер VK",
     "iframeUrl": "https://ru.yummyani.me/iframeVK.html?id=-93687685_456239372",
     "date": 1767183490,
-    "durationSec": 3217
+    "durationSec": 3217,
+    "openingTime": 28,
+    "openingLength": 89,
+    "endingTime": 3096,
+    "endingLength": 29
   },
   {
     "episode": 1,
@@ -29,7 +35,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=72a47882a26ef0aa99e6325e4fa607&translation=79&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1767206167,
-    "durationSec": 2865
+    "durationSec": 2865,
+    "translationId": 79
   },
   {
     "episode": 1,
@@ -45,6 +52,8 @@
     "player": "Плеер VK",
     "iframeUrl": "https://ru.yummyani.me/iframeVK.html?id=-179008697_456239263",
     "date": 1767090301,
-    "durationSec": 0
+    "durationSec": 0,
+    "endingTime": 3155,
+    "endingLength": 29
   }
 ]

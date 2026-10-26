@@ -5,7 +5,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/34065/bb2b483aa6a38d73afd997bc637accaf/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1674827128,
-    "durationSec": 1496
+    "durationSec": 1496,
+    "openingTime": 0,
+    "openingLength": 374,
+    "endingTime": 1333,
+    "endingLength": 154
   },
   {
     "episode": 2,
@@ -13,7 +17,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/34065/bb2b483aa6a38d73afd997bc637accaf/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674827128,
-    "durationSec": 1496
+    "durationSec": 1496,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1463,
+    "endingLength": 24
   },
   {
     "episode": 3,

@@ -5,7 +5,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/55184/260d908607da9c7dbede1a69659425e6/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1674826978,
-    "durationSec": 1733
+    "durationSec": 1733,
+    "endingTime": 1715,
+    "endingLength": 14
   },
   {
     "episode": 2,
@@ -13,7 +15,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/55184/260d908607da9c7dbede1a69659425e6/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674826978,
-    "durationSec": 1690
+    "durationSec": 1690,
+    "endingTime": 1640,
+    "endingLength": 34
   },
   {
     "episode": 3,
@@ -21,7 +25,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/55184/260d908607da9c7dbede1a69659425e6/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 1674826978,
-    "durationSec": 1760
+    "durationSec": 1760,
+    "openingTime": 18,
+    "openingLength": 89,
+    "endingTime": 1645,
+    "endingLength": 89
   },
   {
     "episode": 4,
@@ -29,7 +37,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/55184/260d908607da9c7dbede1a69659425e6/720p?translations=false&only_episode=true&only_season=true&episode=4",
     "date": 1674826978,
-    "durationSec": 1694
+    "durationSec": 1694,
+    "endingTime": 1524,
+    "endingLength": 159
   },
   {
     "episode": 5,
@@ -37,7 +47,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/55184/260d908607da9c7dbede1a69659425e6/720p?translations=false&only_episode=true&only_season=true&episode=5",
     "date": 1674826978,
-    "durationSec": 1712
+    "durationSec": 1712,
+    "endingTime": 1538,
+    "endingLength": 139
   },
   {
     "episode": 6,
@@ -45,6 +57,10 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/55184/260d908607da9c7dbede1a69659425e6/720p?translations=false&only_episode=true&only_season=true&episode=6",
     "date": 1674826978,
-    "durationSec": 1772
+    "durationSec": 1772,
+    "openingTime": 0,
+    "openingLength": 109,
+    "endingTime": 1624,
+    "endingLength": 139
   }
 ]

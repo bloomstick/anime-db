@@ -5,7 +5,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/59053/6b12065a7e06f1b59e3bcb5cca065efc/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1674826812,
-    "durationSec": 1710
+    "durationSec": 1710,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1589,
+    "endingLength": 109
   },
   {
     "episode": 2,
@@ -13,7 +17,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/59053/6b12065a7e06f1b59e3bcb5cca065efc/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674826812,
-    "durationSec": 1713
+    "durationSec": 1713,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1589,
+    "endingLength": 114
   },
   {
     "episode": 3,
@@ -21,7 +29,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/59053/6b12065a7e06f1b59e3bcb5cca065efc/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 1674826812,
-    "durationSec": 1726
+    "durationSec": 1726,
+    "openingTime": 68,
+    "openingLength": 89,
+    "endingTime": 1610,
+    "endingLength": 89
   },
   {
     "episode": 4,
@@ -29,7 +41,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/59053/6b12065a7e06f1b59e3bcb5cca065efc/720p?translations=false&only_episode=true&only_season=true&episode=4",
     "date": 1674826812,
-    "durationSec": 1708
+    "durationSec": 1708,
+    "openingTime": 84,
+    "openingLength": 89,
+    "endingTime": 1627,
+    "endingLength": 59
   },
   {
     "episode": 5,
@@ -37,7 +53,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/59053/6b12065a7e06f1b59e3bcb5cca065efc/720p?translations=false&only_episode=true&only_season=true&episode=5",
     "date": 1674826812,
-    "durationSec": 2330
+    "durationSec": 2330,
+    "openingTime": 0,
+    "openingLength": 89
   },
   {
     "episode": 1,
@@ -53,7 +71,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=MC+Entertainment&anime_id=49&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+MC+Entertainment",
     "date": 1754874625,
-    "durationSec": 1713
+    "durationSec": 1713,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1602,
+    "endingLength": 99
   },
   {
     "episode": 3,
@@ -61,7 +83,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=MC+Entertainment&anime_id=49&episode=3&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+MC+Entertainment",
     "date": 1754874625,
-    "durationSec": 1726
+    "durationSec": 1726,
+    "openingTime": 68,
+    "openingLength": 89,
+    "endingTime": 1614,
+    "endingLength": 99
   },
   {
     "episode": 4,

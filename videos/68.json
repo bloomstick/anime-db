@@ -13,7 +13,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/85743/6ee92447d761305a2faa599b59ec284d/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674775961,
-    "durationSec": 1440
+    "durationSec": 1440,
+    "openingTime": 100,
+    "openingLength": 69,
+    "endingTime": 1378,
+    "endingLength": 49
   },
   {
     "episode": 3,
@@ -21,7 +25,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/85743/6ee92447d761305a2faa599b59ec284d/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 1674775961,
-    "durationSec": 1439
+    "durationSec": 1439,
+    "endingTime": 1375,
+    "endingLength": 54
   },
   {
     "episode": 4,
@@ -29,7 +35,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/85743/6ee92447d761305a2faa599b59ec284d/720p?translations=false&only_episode=true&only_season=true&episode=4",
     "date": 1674775961,
-    "durationSec": 1439
+    "durationSec": 1439,
+    "openingTime": 111,
+    "openingLength": 64,
+    "endingTime": 1361,
+    "endingLength": 69
   },
   {
     "episode": 5,
@@ -37,7 +47,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/85743/6ee92447d761305a2faa599b59ec284d/720p?translations=false&only_episode=true&only_season=true&episode=5",
     "date": 1674775961,
-    "durationSec": 1440
+    "durationSec": 1440,
+    "openingTime": 16,
+    "openingLength": 149,
+    "endingTime": 1378,
+    "endingLength": 49
   },
   {
     "episode": 6,
@@ -85,7 +99,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/85743/6ee92447d761305a2faa599b59ec284d/720p?translations=false&only_episode=true&only_season=true&episode=11",
     "date": 1674775961,
-    "durationSec": 1440
+    "durationSec": 1440,
+    "openingTime": 59,
+    "openingLength": 89,
+    "endingTime": 1357,
+    "endingLength": 89
   },
   {
     "episode": 12,

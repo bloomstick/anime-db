@@ -21,7 +21,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/33614/843c302a82e4c99f0af8d10cb72262cd/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 1674776339,
-    "durationSec": 1425
+    "durationSec": 1425,
+    "openingTime": 86,
+    "openingLength": 89,
+    "endingTime": 1325,
+    "endingLength": 49
   },
   {
     "episode": 4,
@@ -45,7 +49,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/33614/843c302a82e4c99f0af8d10cb72262cd/720p?translations=false&only_episode=true&only_season=true&episode=6",
     "date": 1674776339,
-    "durationSec": 1425
+    "durationSec": 1425,
+    "openingTime": 80,
+    "openingLength": 89,
+    "endingTime": 1327,
+    "endingLength": 29
   },
   {
     "episode": 7,
@@ -93,7 +101,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/33614/843c302a82e4c99f0af8d10cb72262cd/720p?translations=false&only_episode=true&only_season=true&episode=12",
     "date": 1674776339,
-    "durationSec": 1425
+    "durationSec": 1425,
+    "openingTime": 91,
+    "openingLength": 89,
+    "endingTime": 1334,
+    "endingLength": 24
   },
   {
     "episode": 13,
@@ -101,7 +113,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/33614/843c302a82e4c99f0af8d10cb72262cd/720p?translations=false&only_episode=true&only_season=true&episode=13",
     "date": 1674776339,
-    "durationSec": 1430
+    "durationSec": 1430,
+    "endingTime": 1374,
+    "endingLength": 44
   },
   {
     "episode": 1,

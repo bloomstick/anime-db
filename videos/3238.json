@@ -13,7 +13,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64630/e5fb3f4f6aea872b34b924d9f62aa7e2/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674776443,
-    "durationSec": 1375
+    "durationSec": 1375,
+    "endingTime": 1284,
+    "endingLength": 89
   },
   {
     "episode": 3,
@@ -21,7 +23,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64630/e5fb3f4f6aea872b34b924d9f62aa7e2/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 1674776443,
-    "durationSec": 1375
+    "durationSec": 1375,
+    "openingTime": 98,
+    "openingLength": 64,
+    "endingTime": 1280,
+    "endingLength": 89
   },
   {
     "episode": 4,

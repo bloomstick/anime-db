@@ -5,7 +5,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/49380/f4a00f5f32ce6439f4bde4f15c683a7b/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1674827231,
-    "durationSec": 1418
+    "durationSec": 1418,
+    "openingTime": 0,
+    "openingLength": 134,
+    "endingTime": 1308,
+    "endingLength": 49
   },
   {
     "episode": 2,
@@ -13,7 +17,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/49380/f4a00f5f32ce6439f4bde4f15c683a7b/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674827231,
-    "durationSec": 1417
+    "durationSec": 1417,
+    "openingTime": 68,
+    "openingLength": 89,
+    "endingTime": 1307,
+    "endingLength": 59
   },
   {
     "episode": 3,

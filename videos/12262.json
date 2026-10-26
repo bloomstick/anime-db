@@ -5,7 +5,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/65980/814aa04ede99503462794923beb6b72f/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 0,
-    "durationSec": 1346
+    "durationSec": 1346,
+    "openingTime": 126,
+    "openingLength": 89,
+    "endingTime": 1326,
+    "endingLength": 19
   },
   {
     "episode": 2,
@@ -13,15 +17,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/65980/814aa04ede99503462794923beb6b72f/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 0,
-    "durationSec": 1749
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка AniLibria",
-    "player": "Плеер Alloha",
-    "iframeUrl": "https://alloha.yani.tv/?token_movie=886c78651a7aa17e0a83fe2e44cda7&translation=10&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
-    "date": 1677783040,
-    "durationSec": 1472
+    "durationSec": 1749,
+    "endingTime": 1693,
+    "endingLength": 49
   },
   {
     "episode": 1,
@@ -29,7 +27,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/74561/a89f8159871f82b98be6b3b4de5fbb70/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1751850674,
-    "durationSec": 1432
+    "durationSec": 1432,
+    "endingTime": 1336,
+    "endingLength": 89
   },
   {
     "episode": 2,
@@ -37,7 +37,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/74561/a89f8159871f82b98be6b3b4de5fbb70/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1751850674,
-    "durationSec": 1759
+    "durationSec": 1759,
+    "endingTime": 1656,
+    "endingLength": 89
   },
   {
     "episode": 1,
@@ -125,6 +127,7 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=886c78651a7aa17e0a83fe2e44cda7&translation=79&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677765769,
-    "durationSec": 1472
+    "durationSec": 1472,
+    "translationId": 79
   }
 ]

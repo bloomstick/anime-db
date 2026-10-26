@@ -5,7 +5,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/122190/2423cfb6882e983d336475ff343473ef/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1786641371,
-    "durationSec": 453
+    "durationSec": 453,
+    "endingTime": 418,
+    "endingLength": 24
   },
   {
     "episode": 2,
@@ -13,7 +15,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/122190/2423cfb6882e983d336475ff343473ef/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1786641371,
-    "durationSec": 412
+    "durationSec": 412,
+    "openingTime": 20,
+    "openingLength": 49,
+    "endingTime": 374,
+    "endingLength": 29
   },
   {
     "episode": 3,

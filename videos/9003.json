@@ -5,7 +5,10 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=3838a88f9974bb1a1a13af24f9af30&translation=10&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677782839,
-    "durationSec": 7325
+    "durationSec": 7325,
+    "translationId": 10,
+    "endingTime": 7193,
+    "endingLength": 114
   },
   {
     "episode": 1,
@@ -13,7 +16,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/91748/d608fd56644b11e8552a0c8bd6eeda71/720p?translations=false&only_episode=true&only_season=true",
     "date": 1677182672,
-    "durationSec": 7325
+    "durationSec": 7325,
+    "endingTime": 7123,
+    "endingLength": 194
   },
   {
     "episode": 1,
@@ -21,7 +26,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/70575/239ccde303038bda9c62f246de265d72/720p?translations=false&only_episode=true&only_season=true",
     "date": 1751850583,
-    "durationSec": 7342
+    "durationSec": 7342,
+    "endingTime": 7136,
+    "endingLength": 189
   },
   {
     "episode": 1,
@@ -29,7 +36,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/72174/dc2e6647f670d7b6a3cde20deb331819/720p?translations=false&only_episode=true&only_season=true",
     "date": 1677182672,
-    "durationSec": 7342
+    "durationSec": 7342,
+    "endingTime": 7153,
+    "endingLength": 169
   },
   {
     "episode": 1,
@@ -37,7 +46,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=3838a88f9974bb1a1a13af24f9af30&translation=66&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677782839,
-    "durationSec": 7342
+    "durationSec": 7342,
+    "translationId": 66
   },
   {
     "episode": 1,
@@ -45,7 +55,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=3838a88f9974bb1a1a13af24f9af30&translation=79&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677782839,
-    "durationSec": 7342
+    "durationSec": 7342,
+    "translationId": 79
   },
   {
     "episode": 1,

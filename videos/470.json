@@ -29,7 +29,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/59560/53d7827a3fdb5659264a87a4b8b4dc31/720p?translations=false&only_episode=true&only_season=true&episode=4",
     "date": 1674776587,
-    "durationSec": 1434
+    "durationSec": 1434,
+    "endingTime": 1325,
+    "endingLength": 99
   },
   {
     "episode": 5,
@@ -45,7 +47,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/59560/53d7827a3fdb5659264a87a4b8b4dc31/720p?translations=false&only_episode=true&only_season=true&episode=6",
     "date": 1674776587,
-    "durationSec": 1431
+    "durationSec": 1431,
+    "openingTime": 0,
+    "openingLength": 69,
+    "endingTime": 1324,
+    "endingLength": 29
   },
   {
     "episode": 7,

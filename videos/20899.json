@@ -5,7 +5,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/112608/d6859662ee169e4ab679d515248e4b53/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1754459481,
-    "durationSec": 1435
+    "durationSec": 1435,
+    "endingTime": 1339,
+    "endingLength": 89
   },
   {
     "episode": 2,
@@ -13,7 +15,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/112608/d6859662ee169e4ab679d515248e4b53/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1754459481,
-    "durationSec": 1435
+    "durationSec": 1435,
+    "openingTime": 138,
+    "openingLength": 89,
+    "endingTime": 1338,
+    "endingLength": 89
   },
   {
     "episode": 3,

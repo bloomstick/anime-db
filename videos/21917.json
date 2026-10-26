@@ -5,7 +5,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123235/28d323e62a4cdcb1d65b930feaf58cac/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1791148974,
-    "durationSec": 1423
+    "durationSec": 1423,
+    "openingTime": 173,
+    "openingLength": 89,
+    "endingTime": 1326,
+    "endingLength": 89
   },
   {
     "episode": 2,
@@ -13,7 +17,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123235/28d323e62a4cdcb1d65b930feaf58cac/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1791736535,
-    "durationSec": 1426
+    "durationSec": 1426,
+    "openingTime": 167,
+    "openingLength": 89,
+    "endingTime": 1406,
+    "endingLength": 19
   },
   {
     "episode": 3,
@@ -21,7 +29,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123235/28d323e62a4cdcb1d65b930feaf58cac/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 1792347905,
-    "durationSec": 1443
+    "durationSec": 1443,
+    "endingTime": 1413,
+    "endingLength": 19
   },
   {
     "episode": 4,
@@ -29,7 +39,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123235/28d323e62a4cdcb1d65b930feaf58cac/720p?translations=false&only_episode=true&only_season=true&episode=4",
     "date": 1792947402,
-    "durationSec": 1425
+    "durationSec": 1425,
+    "openingTime": 115,
+    "openingLength": 89,
+    "endingTime": 1405,
+    "endingLength": 19
   },
   {
     "episode": 1,
@@ -37,7 +51,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=62753&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
     "date": 1791137400,
-    "durationSec": 1420
+    "durationSec": 1420,
+    "openingTime": 174,
+    "openingLength": 89,
+    "endingTime": 1327,
+    "endingLength": 89
   },
   {
     "episode": 2,
@@ -45,7 +63,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=62753&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
     "date": 1791736425,
-    "durationSec": 1426
+    "durationSec": 1426,
+    "openingTime": 166,
+    "openingLength": 89,
+    "endingTime": 1324,
+    "endingLength": 99
   },
   {
     "episode": 3,
@@ -53,7 +75,9 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=62753&episode=3&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
     "date": 1792343376,
-    "durationSec": 1443
+    "durationSec": 1443,
+    "endingTime": 1324,
+    "endingLength": 89
   },
   {
     "episode": 4,
@@ -61,39 +85,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=62753&episode=4&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
     "date": 1792949864,
-    "durationSec": 1425
-  },
-  {
-    "episode": 1,
-    "dub": "Субтитры Crunchyroll",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123203/5ea7399c308c73585e19a01a0e5f0e8c/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1791134312,
-    "durationSec": 1420
-  },
-  {
-    "episode": 2,
-    "dub": "Субтитры Crunchyroll",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123203/5ea7399c308c73585e19a01a0e5f0e8c/720p?translations=false&only_episode=true&only_season=true&episode=2",
-    "date": 1791731883,
-    "durationSec": 1420
-  },
-  {
-    "episode": 3,
-    "dub": "Субтитры Crunchyroll",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123203/5ea7399c308c73585e19a01a0e5f0e8c/720p?translations=false&only_episode=true&only_season=true&episode=3",
-    "date": 1792336867,
-    "durationSec": 1420
-  },
-  {
-    "episode": 4,
-    "dub": "Субтитры Crunchyroll",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123203/5ea7399c308c73585e19a01a0e5f0e8c/720p?translations=false&only_episode=true&only_season=true&episode=4",
-    "date": 1792942808,
-    "durationSec": 1420
+    "durationSec": 1425,
+    "openingTime": 114,
+    "openingLength": 89,
+    "endingTime": 1347,
+    "endingLength": 49
   },
   {
     "episode": 1,
@@ -101,7 +97,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123474/bd8e48637550124378fcbc94fcafe65a/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1791488284,
-    "durationSec": 1425
+    "durationSec": 1425,
+    "openingTime": 15,
+    "openingLength": 244,
+    "endingTime": 1372,
+    "endingLength": 44
   },
   {
     "episode": 2,
@@ -109,7 +109,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123474/bd8e48637550124378fcbc94fcafe65a/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1791804596,
-    "durationSec": 1425
+    "durationSec": 1425,
+    "openingTime": 169,
+    "openingLength": 89,
+    "endingTime": 1364,
+    "endingLength": 49
   },
   {
     "episode": 3,
@@ -117,7 +121,63 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123474/bd8e48637550124378fcbc94fcafe65a/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 1792438028,
-    "durationSec": 1446
+    "durationSec": 1446,
+    "endingTime": 1362,
+    "endingLength": 54
+  },
+  {
+    "episode": 4,
+    "dub": "Озвучка AniTime Voice",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123474/bd8e48637550124378fcbc94fcafe65a/720p?translations=false&only_episode=true&only_season=true&episode=4",
+    "date": 1793028668,
+    "durationSec": 1428
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры Crunchyroll",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123203/5ea7399c308c73585e19a01a0e5f0e8c/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1791134312,
+    "durationSec": 1420,
+    "openingTime": 0,
+    "openingLength": 254,
+    "endingTime": 1400,
+    "endingLength": 19
+  },
+  {
+    "episode": 2,
+    "dub": "Субтитры Crunchyroll",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123203/5ea7399c308c73585e19a01a0e5f0e8c/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1791731883,
+    "durationSec": 1420,
+    "openingTime": 166,
+    "openingLength": 64,
+    "endingTime": 1401,
+    "endingLength": 19
+  },
+  {
+    "episode": 3,
+    "dub": "Субтитры Crunchyroll",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123203/5ea7399c308c73585e19a01a0e5f0e8c/720p?translations=false&only_episode=true&only_season=true&episode=3",
+    "date": 1792336867,
+    "durationSec": 1420,
+    "endingTime": 1400,
+    "endingLength": 19
+  },
+  {
+    "episode": 4,
+    "dub": "Субтитры Crunchyroll",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123203/5ea7399c308c73585e19a01a0e5f0e8c/720p?translations=false&only_episode=true&only_season=true&episode=4",
+    "date": 1792942808,
+    "durationSec": 1420,
+    "openingTime": 114,
+    "openingLength": 89,
+    "endingTime": 1404,
+    "endingLength": 14
   },
   {
     "episode": 1,
@@ -144,11 +204,23 @@
     "durationSec": 1446
   },
   {
+    "episode": 4,
+    "dub": "Озвучка AniTime voice",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniTime+voice&anime_id=62753&episode=4&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniTime+voice",
+    "date": 1793028671,
+    "durationSec": 1428
+  },
+  {
     "episode": 1,
     "dub": "Озвучка NDA Studio",
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123524/352f5c970714d207a5b7781e48286353/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1791569582,
-    "durationSec": 1424
+    "durationSec": 1424,
+    "openingTime": 176,
+    "openingLength": 49,
+    "endingTime": 1349,
+    "endingLength": 29
   }
 ]

@@ -5,7 +5,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=4c40ce5c2696edf7b0012f40fa1a22&translation=10&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677782869,
-    "durationSec": 1985
+    "durationSec": 1985,
+    "translationId": 10
   },
   {
     "episode": 1,
@@ -13,7 +14,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/75566/ef5a38fa1cd57a776293eb7bb2d968a8/720p?translations=false&only_episode=true&only_season=true",
     "date": 0,
-    "durationSec": 1985
+    "durationSec": 1985,
+    "endingTime": 1837,
+    "endingLength": 129
   },
   {
     "episode": 1,

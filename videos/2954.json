@@ -13,7 +13,9 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniDUB&anime_id=5118&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniDUB",
     "date": 1751854328,
-    "durationSec": 159
+    "durationSec": 159,
+    "endingTime": 247,
+    "endingLength": 24
   },
   {
     "episode": 3,
@@ -37,7 +39,9 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniDUB&anime_id=5118&episode=5&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniDUB",
     "date": 1751854328,
-    "durationSec": 224
+    "durationSec": 224,
+    "endingTime": 203,
+    "endingLength": 49
   },
   {
     "episode": 6,
@@ -205,6 +209,8 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/56565/8b07ec5c33e6e0e9b2ecece80a0fc66c/720p?translations=false&only_episode=true&only_season=true&episode=25",
     "date": 1674826893,
-    "durationSec": 5429
+    "durationSec": 5429,
+    "openingTime": 0,
+    "openingLength": 54
   }
 ]

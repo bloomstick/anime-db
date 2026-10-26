@@ -5,7 +5,10 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fc7c1e3221cf2f7ec248300a391be5&translation=10&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1680652882,
-    "durationSec": 3292
+    "durationSec": 3292,
+    "translationId": 10,
+    "openingTime": 741,
+    "openingLength": 89
   },
   {
     "episode": 1,
@@ -13,7 +16,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/93946/6c7c267766e0d73ad9f38b2f06d30c7e/720p?translations=false&only_episode=true&only_season=true",
     "date": 1697030565,
-    "durationSec": 3292
+    "durationSec": 3292,
+    "openingTime": 741,
+    "openingLength": 89,
+    "endingTime": 3272,
+    "endingLength": 14
   },
   {
     "episode": 1,
@@ -21,7 +28,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anilibriatv&anime_id=50612&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
     "date": 1789133417,
-    "durationSec": 3301
+    "durationSec": 3301,
+    "openingTime": 742,
+    "openingLength": 89,
+    "endingTime": 3281,
+    "endingLength": 19
   },
   {
     "episode": 1,
@@ -29,7 +40,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/87680/ca50f53acb6ce702121175c7c5de7157/720p?translations=false&only_episode=true&only_season=true",
     "date": 1674776021,
-    "durationSec": 3290
+    "durationSec": 3290,
+    "openingTime": 741,
+    "openingLength": 89,
+    "endingTime": 3270,
+    "endingLength": 14
   },
   {
     "episode": 1,
@@ -37,7 +52,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/87757/f53855665db68fbaa8184373ad218fd1/720p?translations=false&only_episode=true&only_season=true",
     "date": 1674776021,
-    "durationSec": 3298
+    "durationSec": 3298,
+    "openingTime": 750,
+    "openingLength": 89,
+    "endingTime": 3278,
+    "endingLength": 14
   },
   {
     "episode": 1,
@@ -53,7 +72,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/87726/082db49365e256ed4b84a9b152bfb75d/720p?translations=false&only_episode=true&only_season=true",
     "date": 1674776021,
-    "durationSec": 3290
+    "durationSec": 3290,
+    "openingTime": 744,
+    "openingLength": 89,
+    "endingTime": 3270,
+    "endingLength": 14
   },
   {
     "episode": 1,
@@ -61,7 +84,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/87933/c29bab83b0bc01e4c7628d439da19307/720p?translations=false&only_episode=true&only_season=true",
     "date": 1674776021,
-    "durationSec": 3292
+    "durationSec": 3292,
+    "openingTime": 741,
+    "openingLength": 89,
+    "endingTime": 3272,
+    "endingLength": 14
   },
   {
     "episode": 1,
@@ -86,14 +113,6 @@
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=amazingdubbing&anime_id=50612&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Amazing+Dubbing",
     "date": 1789133417,
     "durationSec": 3301
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка AniStar",
-    "player": "Плеер Alloha",
-    "iframeUrl": "https://alloha.yani.tv/?token_movie=fc7c1e3221cf2f7ec248300a391be5&translation=158&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
-    "date": 1677783301,
-    "durationSec": 0
   },
   {
     "episode": 1,
@@ -133,7 +152,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fc7c1e3221cf2f7ec248300a391be5&translation=79&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1680652882,
-    "durationSec": 3290
+    "durationSec": 3290,
+    "translationId": 79
   },
   {
     "episode": 1,
@@ -173,7 +193,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fc7c1e3221cf2f7ec248300a391be5&translation=214&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1753191675,
-    "durationSec": 0
+    "durationSec": 0,
+    "translationId": 214
   },
   {
     "episode": 1,

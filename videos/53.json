@@ -5,7 +5,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/3076/8666673fb16f30845723031ba76a829b/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1674827133,
-    "durationSec": 1542
+    "durationSec": 1542,
+    "endingTime": 1399,
+    "endingLength": 114
   },
   {
     "episode": 2,
@@ -13,7 +15,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/3076/8666673fb16f30845723031ba76a829b/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674827133,
-    "durationSec": 1542
+    "durationSec": 1542,
+    "openingTime": 0,
+    "openingLength": 139,
+    "endingTime": 1443,
+    "endingLength": 64
   },
   {
     "episode": 3,
@@ -21,7 +27,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/3076/8666673fb16f30845723031ba76a829b/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 1674827133,
-    "durationSec": 1542
+    "durationSec": 1542,
+    "endingTime": 1399,
+    "endingLength": 124
   },
   {
     "episode": 4,
@@ -117,7 +125,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Kedra&anime_id=76&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Kedra",
     "date": 1756097975,
-    "durationSec": 1541
+    "durationSec": 1541,
+    "openingTime": 43,
+    "openingLength": 89,
+    "endingTime": 1400,
+    "endingLength": 129
   },
   {
     "episode": 3,

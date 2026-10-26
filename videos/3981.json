@@ -5,7 +5,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/36719/66a6a434bebe1aa6329bf258b9ad51e6/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1674826999,
-    "durationSec": 1375
+    "durationSec": 1375,
+    "openingTime": 134,
+    "openingLength": 89,
+    "endingTime": 1279,
+    "endingLength": 34
   },
   {
     "episode": 2,
@@ -13,7 +17,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/36719/66a6a434bebe1aa6329bf258b9ad51e6/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674826999,
-    "durationSec": 1375
+    "durationSec": 1375,
+    "openingTime": 112,
+    "openingLength": 49,
+    "endingTime": 1279,
+    "endingLength": 29
   },
   {
     "episode": 3,

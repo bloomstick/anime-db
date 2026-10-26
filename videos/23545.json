@@ -5,7 +5,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/20584/9b343c048173722cca86c78451a7f92f/720p?translations=false&only_episode=true&only_season=true",
     "date": 0,
-    "durationSec": 7207
+    "durationSec": 7207,
+    "endingTime": 6730,
+    "endingLength": 339
   },
   {
     "episode": 1,
@@ -13,7 +15,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/9922/ff12830da2a4ccc9f91e6dbf4ba8e90f/720p?translations=false&only_episode=true&only_season=true",
     "date": 0,
-    "durationSec": 7207
+    "durationSec": 7207,
+    "endingTime": 6964,
+    "endingLength": 169
   },
   {
     "episode": 1,
@@ -37,7 +41,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=4c0af99d57d479728348c3d4239c3e&translation=66&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1730620456,
-    "durationSec": 7233
+    "durationSec": 7233,
+    "translationId": 66
   },
   {
     "episode": 1,
@@ -53,7 +58,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=4c0af99d57d479728348c3d4239c3e&translation=190&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1730620456,
-    "durationSec": 7233
+    "durationSec": 7233,
+    "translationId": 190
   },
   {
     "episode": 1,
@@ -69,7 +75,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=4c0af99d57d479728348c3d4239c3e&translation=79&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1730620456,
-    "durationSec": 7233
+    "durationSec": 7233,
+    "translationId": 79
   },
   {
     "episode": 1,
@@ -77,7 +84,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=4c0af99d57d479728348c3d4239c3e&translation=72&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1730620456,
-    "durationSec": 7233
+    "durationSec": 7233,
+    "translationId": 72
   },
   {
     "episode": 1,

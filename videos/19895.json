@@ -5,7 +5,10 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=1e8a43fde7346df9572d46197c619f&translation=163&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1732791472,
-    "durationSec": 3500
+    "durationSec": 3500,
+    "translationId": 163,
+    "endingTime": 3390,
+    "endingLength": 29
   },
   {
     "episode": 1,
@@ -13,7 +16,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/107214/be3ce7cf8a61dab7afe41da35ef0755d/720p?translations=false&only_episode=true&only_season=true",
     "date": 1731701365,
-    "durationSec": 3500
+    "durationSec": 3500,
+    "endingTime": 3472,
+    "endingLength": 19
   },
   {
     "episode": 1,
@@ -21,7 +26,10 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=1e8a43fde7346df9572d46197c619f&translation=304&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1735397034,
-    "durationSec": 3500
+    "durationSec": 3500,
+    "translationId": 304,
+    "endingTime": 3459,
+    "endingLength": 34
   },
   {
     "episode": 1,
@@ -29,7 +37,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/107636/ad378a7fb8556539231d75c2bf505fc3/720p?translations=false&only_episode=true&only_season=true",
     "date": 1733486723,
-    "durationSec": 3500
+    "durationSec": 3500,
+    "endingTime": 3434,
+    "endingLength": 49
   },
   {
     "episode": 1,
@@ -53,7 +63,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=1e8a43fde7346df9572d46197c619f&translation=155&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1742500644,
-    "durationSec": 3500
+    "durationSec": 3500,
+    "translationId": 155
   },
   {
     "episode": 1,
@@ -61,7 +72,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/109542/60d91ba022e3846d2080eb40ce21a775/720p?translations=false&only_episode=true&only_season=true",
     "date": 1741430718,
-    "durationSec": 3509
+    "durationSec": 3509,
+    "endingTime": 3437,
+    "endingLength": 54
   },
   {
     "episode": 1,

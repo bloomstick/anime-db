@@ -5,7 +5,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/45596/0721580a25274365da190fcbc1639daf/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 0,
-    "durationSec": 2805
+    "durationSec": 2805,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 2546,
+    "endingLength": 89
   },
   {
     "episode": 2,
@@ -29,7 +33,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/66585/8f1424db20bf451cd5f3c394b7c080e9/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 0,
-    "durationSec": 2815
+    "durationSec": 2815,
+    "endingTime": 2764,
+    "endingLength": 34
   },
   {
     "episode": 2,
@@ -37,7 +43,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/66585/8f1424db20bf451cd5f3c394b7c080e9/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 0,
-    "durationSec": 2417
+    "durationSec": 2417,
+    "endingTime": 2397,
+    "endingLength": 14
   },
   {
     "episode": 1,
@@ -53,7 +61,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/62850/d9ab66ab5a4141c719643a05a720014f/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 0,
-    "durationSec": 2803
+    "durationSec": 2803,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 2764,
+    "endingLength": 19
   },
   {
     "episode": 2,
@@ -85,7 +97,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/59050/f4823eb73bba76c2a7e121dcf0e4b139/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 0,
-    "durationSec": 2803
+    "durationSec": 2803,
+    "openingTime": 0,
+    "openingLength": 39,
+    "endingTime": 190,
+    "endingLength": 24
   },
   {
     "episode": 2,
@@ -117,6 +133,10 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/105208/02ca37c35f9d7565b8c603d58697ebc0/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1729558537,
-    "durationSec": 5210
+    "durationSec": 5210,
+    "openingTime": 0,
+    "openingLength": 109,
+    "endingTime": 5190,
+    "endingLength": 14
   }
 ]

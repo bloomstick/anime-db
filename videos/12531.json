@@ -21,7 +21,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/77301/9319d6c576e369d8c8881a88deadc3ff/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 1704701714,
-    "durationSec": 3597
+    "durationSec": 3597,
+    "endingTime": 3568,
+    "endingLength": 19
   },
   {
     "episode": 4,
@@ -29,7 +31,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/77301/9319d6c576e369d8c8881a88deadc3ff/720p?translations=false&only_episode=true&only_season=true&episode=4",
     "date": 1762514273,
-    "durationSec": 3588
+    "durationSec": 3588,
+    "openingTime": 180,
+    "openingLength": 99,
+    "endingTime": 3502,
+    "endingLength": 69
   },
   {
     "episode": 1,
@@ -45,7 +51,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=ad17757a77c69a880ccf064c8cb3da&translation=10&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1704696574,
-    "durationSec": 3236
+    "durationSec": 3236,
+    "translationId": 10
   },
   {
     "episode": 2,
@@ -53,7 +60,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=ad17757a77c69a880ccf064c8cb3da&translation=10&season=1&episode=2&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1704696574,
-    "durationSec": 3343
+    "durationSec": 3343,
+    "translationId": 10
   },
   {
     "episode": 1,
@@ -69,7 +77,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=ad17757a77c69a880ccf064c8cb3da&translation=158&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1704696574,
-    "durationSec": 3271
+    "durationSec": 3271,
+    "translationId": 158
   },
   {
     "episode": 2,
@@ -77,6 +86,7 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=ad17757a77c69a880ccf064c8cb3da&translation=158&season=1&episode=2&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1704696574,
-    "durationSec": 3382
+    "durationSec": 3382,
+    "translationId": 158
   }
 ]

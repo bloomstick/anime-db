@@ -5,7 +5,12 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=54bc4f92347e2b16cb7ee0547627f9&translation=10&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677783124,
-    "durationSec": 5402
+    "durationSec": 5402,
+    "translationId": 10,
+    "openingTime": 0,
+    "openingLength": 189,
+    "endingTime": 5207,
+    "endingLength": 179
   },
   {
     "episode": 1,
@@ -13,7 +18,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/20557/82311913135640b736d05a065bf8194a/720p?translations=false&only_episode=true&only_season=true",
     "date": 0,
-    "durationSec": 5402
+    "durationSec": 5402,
+    "openingTime": 87,
+    "openingLength": 89,
+    "endingTime": 5320,
+    "endingLength": 64
   },
   {
     "episode": 1,
@@ -21,7 +30,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/70354/fe7d013f74b1bb590a3116ee7a0169c0/720p?translations=false&only_episode=true&only_season=true",
     "date": 0,
-    "durationSec": 5402
+    "durationSec": 5402,
+    "openingTime": 0,
+    "openingLength": 184,
+    "endingTime": 5205,
+    "endingLength": 179
   },
   {
     "episode": 1,
@@ -29,7 +42,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/20558/192ab547809a58d6c067ba6a3dd5ed21/720p?translations=false&only_episode=true&only_season=true",
     "date": 0,
-    "durationSec": 5402
+    "durationSec": 5402,
+    "endingTime": 5206,
+    "endingLength": 179
   },
   {
     "episode": 1,
@@ -37,7 +52,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/91785/1e69fc79a0bffd22dae1aab9f4341c5f/720p?translations=false&only_episode=true&only_season=true",
     "date": 0,
-    "durationSec": 5403
+    "durationSec": 5403,
+    "endingTime": 5206,
+    "endingLength": 179
   },
   {
     "episode": 1,
@@ -45,7 +62,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/3969/20249e5fbde4cc864a3d93da8d3e6a5a/720p?translations=false&only_episode=true&only_season=true",
     "date": 0,
-    "durationSec": 5402
+    "durationSec": 5402,
+    "endingTime": 5342,
+    "endingLength": 39
   },
   {
     "episode": 1,

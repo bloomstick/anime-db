@@ -5,7 +5,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/48258/dcddcc94690dedc3f573c5edec18ebd1/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 0,
-    "durationSec": 1406
+    "durationSec": 1406,
+    "endingTime": 1358,
+    "endingLength": 29
   },
   {
     "episode": 2,
@@ -13,7 +15,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/48258/dcddcc94690dedc3f573c5edec18ebd1/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 0,
-    "durationSec": 1406
+    "durationSec": 1406,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1295,
+    "endingLength": 99
   },
   {
     "episode": 3,
@@ -21,7 +27,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/48258/dcddcc94690dedc3f573c5edec18ebd1/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 0,
-    "durationSec": 1406
+    "durationSec": 1406,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1296,
+    "endingLength": 24
   },
   {
     "episode": 4,

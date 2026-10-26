@@ -5,7 +5,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/88075/c964e41a3ab7560ec057c24937538d21/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1705736119,
-    "durationSec": 1523
+    "durationSec": 1523,
+    "endingTime": 1410,
+    "endingLength": 104
   },
   {
     "episode": 2,
@@ -61,6 +63,8 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/88075/c964e41a3ab7560ec057c24937538d21/720p?translations=false&only_episode=true&only_season=true&episode=8",
     "date": 1705736119,
-    "durationSec": 1745
+    "durationSec": 1745,
+    "endingTime": 1610,
+    "endingLength": 124
   }
 ]

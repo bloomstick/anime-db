@@ -5,7 +5,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/33403/2cbce35d19041139e9d55bb9737353dc/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1674827186,
-    "durationSec": 1799
+    "durationSec": 1799,
+    "endingTime": 1627,
+    "endingLength": 144
   },
   {
     "episode": 2,
@@ -13,7 +15,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/33403/2cbce35d19041139e9d55bb9737353dc/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674827186,
-    "durationSec": 2241
+    "durationSec": 2241,
+    "openingTime": 0,
+    "openingLength": 119,
+    "endingTime": 2146,
+    "endingLength": 89
   },
   {
     "episode": 1,

@@ -13,7 +13,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/98806/9678a20f2732a54485808e835e93851e/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1707612058,
-    "durationSec": 1470
+    "durationSec": 1470,
+    "endingTime": 1396,
+    "endingLength": 64
   },
   {
     "episode": 3,
@@ -21,7 +23,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/98806/9678a20f2732a54485808e835e93851e/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 1708388610,
-    "durationSec": 1470
+    "durationSec": 1470,
+    "openingTime": 32,
+    "openingLength": 89,
+    "endingTime": 1346,
+    "endingLength": 114
   },
   {
     "episode": 4,

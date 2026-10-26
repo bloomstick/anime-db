@@ -5,7 +5,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/9827/955f775fe637bd2dbae389377122af29/720p?translations=false&only_episode=true&only_season=true",
     "date": 0,
-    "durationSec": 6467
+    "durationSec": 6467,
+    "endingTime": 6358,
+    "endingLength": 59
   },
   {
     "episode": 1,
@@ -13,7 +15,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/53255/9bed10fc237528dac495ac2d37290f0c/720p?translations=false&only_episode=true&only_season=true",
     "date": 0,
-    "durationSec": 6471
+    "durationSec": 6471,
+    "openingTime": 0,
+    "openingLength": 424,
+    "endingTime": 6391,
+    "endingLength": 24
   },
   {
     "episode": 1,
@@ -21,7 +27,12 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=48c2a260314229f444fada5ca5f986&translation=87&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677782794,
-    "durationSec": 6471
+    "durationSec": 6471,
+    "translationId": 87,
+    "openingTime": 0,
+    "openingLength": 424,
+    "endingTime": 6354,
+    "endingLength": 54
   },
   {
     "episode": 1,
@@ -29,7 +40,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/90992/064b44cfcf44cab084c53a1ebfe3d735/720p?translations=false&only_episode=true&only_season=true",
     "date": 0,
-    "durationSec": 6468
+    "durationSec": 6468,
+    "openingTime": 0,
+    "openingLength": 424,
+    "endingTime": 6130,
+    "endingLength": 279
   },
   {
     "episode": 1,

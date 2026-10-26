@@ -5,7 +5,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/20582/d837c21d02c6ced371f10be37e9137c6/720p?translations=false&only_episode=true&only_season=true",
     "date": 1674826863,
-    "durationSec": 3147
+    "durationSec": 3147,
+    "endingTime": 2782,
+    "endingLength": 354
   },
   {
     "episode": 1,
@@ -37,7 +39,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=87f2b499f7a1c4a7eda9d4ef71a168&translation=62&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677775913,
-    "durationSec": 3148
+    "durationSec": 3148,
+    "translationId": 62
   },
   {
     "episode": 1,

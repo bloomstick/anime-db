@@ -5,7 +5,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/53815/aa9479f95a11842b988f33f8a7506393/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1674827047,
-    "durationSec": 3059
+    "durationSec": 3059,
+    "endingTime": 2914,
+    "endingLength": 134
   },
   {
     "episode": 2,
@@ -13,7 +15,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/53815/aa9479f95a11842b988f33f8a7506393/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674827047,
-    "durationSec": 3043
+    "durationSec": 3043,
+    "openingTime": 0,
+    "openingLength": 89
   },
   {
     "episode": 1,

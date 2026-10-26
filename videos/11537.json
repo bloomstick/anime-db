@@ -5,7 +5,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/serial/19729/33d882a8eed413c4133f22bf8d0867dd/720p?season=1&only_episode=true&episode=2",
     "date": 0,
-    "durationSec": 1325
+    "durationSec": 1325,
+    "endingTime": 1305,
+    "endingLength": 19
   },
   {
     "episode": 2,
@@ -13,7 +15,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/serial/19729/33d882a8eed413c4133f22bf8d0867dd/720p?season=1&only_episode=true&episode=3",
     "date": 0,
-    "durationSec": 1342
+    "durationSec": 1342,
+    "endingTime": 1245,
+    "endingLength": 89
   },
   {
     "episode": 3,
@@ -29,7 +33,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/51706/f3f1ccfa8f5a09f8dfe8f7d6a044624f/720p?translations=false&only_episode=true&only_season=true&episode=4",
     "date": 1681414050,
-    "durationSec": 1412
+    "durationSec": 1412,
+    "endingTime": 1315,
+    "endingLength": 64
   },
   {
     "episode": 1,

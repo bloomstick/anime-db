@@ -13,7 +13,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/33088/c8650b0fc860508fbe5e2f45fa3f8515/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674827207,
-    "durationSec": 1445
+    "durationSec": 1445,
+    "openingTime": 56,
+    "openingLength": 89,
+    "endingTime": 1337,
+    "endingLength": 99
   },
   {
     "episode": 3,
@@ -21,7 +25,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/33088/c8650b0fc860508fbe5e2f45fa3f8515/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 1674827207,
-    "durationSec": 1445
+    "durationSec": 1445,
+    "openingTime": 51,
+    "openingLength": 89,
+    "endingTime": 1336,
+    "endingLength": 89
   },
   {
     "episode": 4,
@@ -29,7 +37,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/33088/c8650b0fc860508fbe5e2f45fa3f8515/720p?translations=false&only_episode=true&only_season=true&episode=4",
     "date": 1674827207,
-    "durationSec": 1445
+    "durationSec": 1445,
+    "endingTime": 1367,
+    "endingLength": 69
   },
   {
     "episode": 5,

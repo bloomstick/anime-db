@@ -21,7 +21,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/49069/de0d5665de6aa403f5099094e9ff30f4/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 1674827231,
-    "durationSec": 1579
+    "durationSec": 1579,
+    "endingTime": 1464,
+    "endingLength": 104
   },
   {
     "episode": 4,
@@ -37,7 +39,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/49069/de0d5665de6aa403f5099094e9ff30f4/720p?translations=false&only_episode=true&only_season=true&episode=5",
     "date": 1674827231,
-    "durationSec": 1605
+    "durationSec": 1605,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1493,
+    "endingLength": 89
   },
   {
     "episode": 6,
@@ -45,7 +51,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/49069/de0d5665de6aa403f5099094e9ff30f4/720p?translations=false&only_episode=true&only_season=true&episode=6",
     "date": 1674827231,
-    "durationSec": 1600
+    "durationSec": 1600,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1488,
+    "endingLength": 99
   },
   {
     "episode": 7,

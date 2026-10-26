@@ -5,7 +5,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/59372/fda1e9863ccf5f9a9cacb35d8f0b114b/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1674776573,
-    "durationSec": 1451
+    "durationSec": 1451,
+    "openingTime": 79,
+    "openingLength": 89,
+    "endingTime": 1366,
+    "endingLength": 34
   },
   {
     "episode": 2,
@@ -13,7 +17,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/59372/fda1e9863ccf5f9a9cacb35d8f0b114b/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674776573,
-    "durationSec": 1452
+    "durationSec": 1452,
+    "openingTime": 27,
+    "openingLength": 89,
+    "endingTime": 1324,
+    "endingLength": 19
   },
   {
     "episode": 3,

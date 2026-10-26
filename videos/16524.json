@@ -1,27 +1,12 @@
 [
   {
     "episode": 1,
-    "dub": "Озвучка AniStar",
-    "player": "Плеер Alloha",
-    "iframeUrl": "https://alloha.yani.tv/?token_movie=df24cc6a2a7c2cb3a9f71e1b29f5bd&translation=158&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
-    "date": 1684410214,
-    "durationSec": 2180
-  },
-  {
-    "episode": 2,
-    "dub": "Озвучка AniStar",
-    "player": "Плеер Alloha",
-    "iframeUrl": "https://alloha.yani.tv/?token_movie=df24cc6a2a7c2cb3a9f71e1b29f5bd&translation=158&season=1&episode=2&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
-    "date": 1704532302,
-    "durationSec": 2125
-  },
-  {
-    "episode": 1,
     "dub": "Озвучка AniLibria",
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=df24cc6a2a7c2cb3a9f71e1b29f5bd&translation=10&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1684410214,
-    "durationSec": 4260
+    "durationSec": 4260,
+    "translationId": 10
   },
   {
     "episode": 1,
@@ -53,7 +38,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=df24cc6a2a7c2cb3a9f71e1b29f5bd&translation=95&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1741952058,
-    "durationSec": 4261
+    "durationSec": 4261,
+    "translationId": 95
   },
   {
     "episode": 1,
@@ -93,7 +79,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=df24cc6a2a7c2cb3a9f71e1b29f5bd&translation=79&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1741952058,
-    "durationSec": 4261
+    "durationSec": 4261,
+    "translationId": 79
   },
   {
     "episode": 1,

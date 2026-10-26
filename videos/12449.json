@@ -5,7 +5,9 @@
     "player": "Плеер Aksor",
     "iframeUrl": "https://player.aksor.tv/video/85a1a1f635445843b4c8d1d67620ffef",
     "date": 1728586319,
-    "durationSec": 1322
+    "durationSec": 1322,
+    "endingTime": 1245,
+    "endingLength": 34
   },
   {
     "episode": 2,
@@ -13,7 +15,9 @@
     "player": "Плеер Aksor",
     "iframeUrl": "https://player.aksor.tv/video/715cef96b084f9579c526269160fd76d",
     "date": 1728586319,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "endingTime": 1283,
+    "endingLength": 89
   },
   {
     "episode": 3,
@@ -21,7 +25,11 @@
     "player": "Плеер Aksor",
     "iframeUrl": "https://player.aksor.tv/video/4ac5737ccdcdd981d0473e2a109ce000",
     "date": 1728586319,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "openingTime": 86,
+    "openingLength": 89,
+    "endingTime": 1321,
+    "endingLength": 24
   },
   {
     "episode": 4,
@@ -29,7 +37,11 @@
     "player": "Плеер Aksor",
     "iframeUrl": "https://player.aksor.tv/video/855ffdf728f06ff66678f43bd9e39986",
     "date": 1728586319,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "openingTime": 99,
+    "openingLength": 89,
+    "endingTime": 1321,
+    "endingLength": 24
   },
   {
     "episode": 5,
@@ -37,7 +49,11 @@
     "player": "Плеер Aksor",
     "iframeUrl": "https://player.aksor.tv/video/555f9900811032c0f5dafd8fc0c70440",
     "date": 1728586320,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "openingTime": 65,
+    "openingLength": 89,
+    "endingTime": 1321,
+    "endingLength": 29
   },
   {
     "episode": 6,
@@ -45,7 +61,11 @@
     "player": "Плеер Aksor",
     "iframeUrl": "https://player.aksor.tv/video/6378abed8f873d1a32b2f702878de0b0",
     "date": 1728586320,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "openingTime": 66,
+    "openingLength": 89,
+    "endingTime": 1330,
+    "endingLength": 19
   },
   {
     "episode": 7,
@@ -53,7 +73,11 @@
     "player": "Плеер Aksor",
     "iframeUrl": "https://player.aksor.tv/video/aca46e303950fd63fc924ab0936b1404",
     "date": 1728586320,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "openingTime": 52,
+    "openingLength": 89,
+    "endingTime": 1342,
+    "endingLength": 24
   },
   {
     "episode": 8,
@@ -61,7 +85,11 @@
     "player": "Плеер Aksor",
     "iframeUrl": "https://player.aksor.tv/video/0e74795cd4a2971d8980ecfe8edfa84b",
     "date": 1728586320,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "openingTime": 117,
+    "openingLength": 89,
+    "endingTime": 1331,
+    "endingLength": 19
   },
   {
     "episode": 9,
@@ -69,7 +97,11 @@
     "player": "Плеер Aksor",
     "iframeUrl": "https://player.aksor.tv/video/bd3d11f8ed1409fe0f1eceab206b73f3",
     "date": 1728586320,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "openingTime": 42,
+    "openingLength": 89,
+    "endingTime": 1321,
+    "endingLength": 19
   },
   {
     "episode": 10,
@@ -77,7 +109,11 @@
     "player": "Плеер Aksor",
     "iframeUrl": "https://player.aksor.tv/video/fdbc4a845cc44dc3519fadabc80c61dd",
     "date": 1728586320,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "openingTime": 94,
+    "openingLength": 89,
+    "endingTime": 1330,
+    "endingLength": 24
   },
   {
     "episode": 11,
@@ -85,7 +121,11 @@
     "player": "Плеер Aksor",
     "iframeUrl": "https://player.aksor.tv/video/43bb29b444912d42d0f06e500279b8ac",
     "date": 1728586320,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "openingTime": 76,
+    "openingLength": 89,
+    "endingTime": 1337,
+    "endingLength": 29
   },
   {
     "episode": 1,
@@ -93,7 +133,10 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&token=8b5512267a2a52e9de06d67d342e0c&translation=10&season=1&episode=1&hidden=translation,season,episode",
     "date": 0,
-    "durationSec": 1323
+    "durationSec": 1323,
+    "translationId": 10,
+    "endingTime": 1220,
+    "endingLength": 64
   },
   {
     "episode": 2,
@@ -101,7 +144,12 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&token=8b5512267a2a52e9de06d67d342e0c&translation=10&season=1&episode=2&hidden=translation,season,episode",
     "date": 0,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "translationId": 10,
+    "openingTime": 122,
+    "openingLength": 89,
+    "endingTime": 1310,
+    "endingLength": 59
   },
   {
     "episode": 3,
@@ -109,7 +157,12 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&token=8b5512267a2a52e9de06d67d342e0c&translation=10&season=1&episode=3&hidden=translation,season,episode",
     "date": 0,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "translationId": 10,
+    "openingTime": 85,
+    "openingLength": 89,
+    "endingTime": 1320,
+    "endingLength": 19
   },
   {
     "episode": 4,
@@ -117,7 +170,12 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&token=8b5512267a2a52e9de06d67d342e0c&translation=10&season=1&episode=4&hidden=translation,season,episode",
     "date": 0,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "translationId": 10,
+    "openingTime": 98,
+    "openingLength": 89,
+    "endingTime": 1319,
+    "endingLength": 24
   },
   {
     "episode": 5,
@@ -125,7 +183,12 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&token=8b5512267a2a52e9de06d67d342e0c&translation=10&season=1&episode=5&hidden=translation,season,episode",
     "date": 0,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "translationId": 10,
+    "openingTime": 61,
+    "openingLength": 89,
+    "endingTime": 1320,
+    "endingLength": 19
   },
   {
     "episode": 6,
@@ -133,7 +196,12 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&token=8b5512267a2a52e9de06d67d342e0c&translation=10&season=1&episode=6&hidden=translation,season,episode",
     "date": 0,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "translationId": 10,
+    "openingTime": 63,
+    "openingLength": 89,
+    "endingTime": 1329,
+    "endingLength": 19
   },
   {
     "episode": 7,
@@ -141,7 +209,12 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&token=8b5512267a2a52e9de06d67d342e0c&translation=10&season=1&episode=7&hidden=translation,season,episode",
     "date": 0,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "translationId": 10,
+    "openingTime": 49,
+    "openingLength": 89,
+    "endingTime": 1320,
+    "endingLength": 24
   },
   {
     "episode": 8,
@@ -149,7 +222,12 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&token=8b5512267a2a52e9de06d67d342e0c&translation=10&season=1&episode=8&hidden=translation,season,episode",
     "date": 0,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "translationId": 10,
+    "openingTime": 114,
+    "openingLength": 89,
+    "endingTime": 1329,
+    "endingLength": 29
   },
   {
     "episode": 9,
@@ -157,7 +235,12 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&token=8b5512267a2a52e9de06d67d342e0c&translation=10&season=1&episode=9&hidden=translation,season,episode",
     "date": 0,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "translationId": 10,
+    "openingTime": 40,
+    "openingLength": 89,
+    "endingTime": 1319,
+    "endingLength": 24
   },
   {
     "episode": 10,
@@ -165,7 +248,12 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&token=8b5512267a2a52e9de06d67d342e0c&translation=10&season=1&episode=10&hidden=translation,season,episode",
     "date": 0,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "translationId": 10,
+    "openingTime": 90,
+    "openingLength": 89,
+    "endingTime": 1329,
+    "endingLength": 99
   },
   {
     "episode": 11,
@@ -173,7 +261,12 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&token=8b5512267a2a52e9de06d67d342e0c&translation=10&season=1&episode=11&hidden=translation,season,episode",
     "date": 0,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "translationId": 10,
+    "openingTime": 75,
+    "openingLength": 89,
+    "endingTime": 1336,
+    "endingLength": 24
   },
   {
     "episode": 1,
@@ -181,7 +274,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64268/a21d6989c751b8c3d782a609837111c2/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 0,
-    "durationSec": 1323
+    "durationSec": 1323,
+    "endingTime": 1222,
+    "endingLength": 89
   },
   {
     "episode": 2,
@@ -189,7 +284,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64268/a21d6989c751b8c3d782a609837111c2/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 0,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "endingTime": 1267,
+    "endingLength": 154
   },
   {
     "episode": 3,
@@ -197,7 +294,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64268/a21d6989c751b8c3d782a609837111c2/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 0,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "endingTime": 1351,
+    "endingLength": 89
   },
   {
     "episode": 4,
@@ -205,7 +304,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64268/a21d6989c751b8c3d782a609837111c2/720p?translations=false&only_episode=true&only_season=true&episode=4",
     "date": 0,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "endingTime": 1320,
+    "endingLength": 104
   },
   {
     "episode": 5,
@@ -213,7 +314,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64268/a21d6989c751b8c3d782a609837111c2/720p?translations=false&only_episode=true&only_season=true&episode=5",
     "date": 0,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "endingTime": 1321,
+    "endingLength": 104
   },
   {
     "episode": 6,
@@ -221,7 +324,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64268/a21d6989c751b8c3d782a609837111c2/720p?translations=false&only_episode=true&only_season=true&episode=6",
     "date": 0,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "endingTime": 1330,
+    "endingLength": 89
   },
   {
     "episode": 7,
@@ -229,7 +334,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64268/a21d6989c751b8c3d782a609837111c2/720p?translations=false&only_episode=true&only_season=true&episode=7",
     "date": 0,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "endingTime": 1320,
+    "endingLength": 104
   },
   {
     "episode": 8,
@@ -237,7 +344,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64268/a21d6989c751b8c3d782a609837111c2/720p?translations=false&only_episode=true&only_season=true&episode=8",
     "date": 0,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "endingTime": 1331,
+    "endingLength": 89
   },
   {
     "episode": 9,
@@ -245,7 +354,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64268/a21d6989c751b8c3d782a609837111c2/720p?translations=false&only_episode=true&only_season=true&episode=9",
     "date": 0,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "endingTime": 1321,
+    "endingLength": 104
   },
   {
     "episode": 10,
@@ -253,7 +364,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64268/a21d6989c751b8c3d782a609837111c2/720p?translations=false&only_episode=true&only_season=true&episode=10",
     "date": 0,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "endingTime": 1329,
+    "endingLength": 89
   },
   {
     "episode": 11,
@@ -261,7 +374,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64268/a21d6989c751b8c3d782a609837111c2/720p?translations=false&only_episode=true&only_season=true&episode=11",
     "date": 0,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "endingTime": 1336,
+    "endingLength": 89
   },
   {
     "episode": 1,
@@ -269,7 +384,9 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnilibriaTV&anime_id=40911&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
     "date": 1751850808,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "endingTime": 1223,
+    "endingLength": 54
   },
   {
     "episode": 2,
@@ -277,7 +394,9 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnilibriaTV&anime_id=40911&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
     "date": 1751850808,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "endingTime": 1268,
+    "endingLength": 154
   },
   {
     "episode": 3,
@@ -285,7 +404,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnilibriaTV&anime_id=40911&episode=3&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
     "date": 1751850808,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "openingTime": 87,
+    "openingLength": 89,
+    "endingTime": 1322,
+    "endingLength": 99
   },
   {
     "episode": 4,
@@ -293,7 +416,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnilibriaTV&anime_id=40911&episode=4&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
     "date": 1751850808,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "openingTime": 99,
+    "openingLength": 89,
+    "endingTime": 1322,
+    "endingLength": 99
   },
   {
     "episode": 5,
@@ -301,7 +428,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnilibriaTV&anime_id=40911&episode=5&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
     "date": 1751850808,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "openingTime": 63,
+    "openingLength": 89,
+    "endingTime": 1322,
+    "endingLength": 99
   },
   {
     "episode": 6,
@@ -309,7 +440,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnilibriaTV&anime_id=40911&episode=6&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
     "date": 1751850808,
-    "durationSec": 1434
+    "durationSec": 1434,
+    "openingTime": 64,
+    "openingLength": 89,
+    "endingTime": 1330,
+    "endingLength": 89
   },
   {
     "episode": 7,
@@ -317,7 +452,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnilibriaTV&anime_id=40911&episode=7&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
     "date": 1751850808,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "openingTime": 51,
+    "openingLength": 89,
+    "endingTime": 1322,
+    "endingLength": 99
   },
   {
     "episode": 8,
@@ -325,7 +464,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnilibriaTV&anime_id=40911&episode=8&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
     "date": 1751850808,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "openingTime": 116,
+    "openingLength": 89,
+    "endingTime": 1331,
+    "endingLength": 89
   },
   {
     "episode": 9,
@@ -333,7 +476,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnilibriaTV&anime_id=40911&episode=9&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
     "date": 1751850808,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "openingTime": 42,
+    "openingLength": 89,
+    "endingTime": 1321,
+    "endingLength": 99
   },
   {
     "episode": 10,
@@ -341,7 +488,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnilibriaTV&anime_id=40911&episode=10&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
     "date": 1751850808,
-    "durationSec": 1434
+    "durationSec": 1434,
+    "openingTime": 93,
+    "openingLength": 89,
+    "endingTime": 1330,
+    "endingLength": 89
   },
   {
     "episode": 11,
@@ -349,7 +500,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnilibriaTV&anime_id=40911&episode=11&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
     "date": 1751850808,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "openingTime": 76,
+    "openingLength": 89,
+    "endingTime": 1337,
+    "endingLength": 89
   },
   {
     "episode": 1,
@@ -357,7 +512,9 @@
     "player": "Плеер Aksor",
     "iframeUrl": "https://player.aksor.tv/video/7b30d0e44ea90926f961a6d7408ff161",
     "date": 1728586320,
-    "durationSec": 1422
+    "durationSec": 1422,
+    "endingTime": 1327,
+    "endingLength": 39
   },
   {
     "episode": 2,
@@ -365,7 +522,11 @@
     "player": "Плеер Aksor",
     "iframeUrl": "https://player.aksor.tv/video/2bd20d60fddca16f8a47e52b28b82b8c",
     "date": 1728586320,
-    "durationSec": 1422
+    "durationSec": 1422,
+    "openingTime": 112,
+    "openingLength": 89,
+    "endingTime": 1257,
+    "endingLength": 89
   },
   {
     "episode": 3,
@@ -373,7 +534,11 @@
     "player": "Плеер Aksor",
     "iframeUrl": "https://player.aksor.tv/video/f1085c8863205502a1744ed0989b5879",
     "date": 1728586320,
-    "durationSec": 1422
+    "durationSec": 1422,
+    "openingTime": 74,
+    "openingLength": 89,
+    "endingTime": 1311,
+    "endingLength": 89
   },
   {
     "episode": 4,
@@ -381,7 +546,11 @@
     "player": "Плеер Aksor",
     "iframeUrl": "https://player.aksor.tv/video/97277899156542aae813553524c354c5",
     "date": 1728586320,
-    "durationSec": 1422
+    "durationSec": 1422,
+    "openingTime": 89,
+    "openingLength": 89,
+    "endingTime": 1337,
+    "endingLength": 54
   },
   {
     "episode": 5,
@@ -389,7 +558,11 @@
     "player": "Плеер Aksor",
     "iframeUrl": "https://player.aksor.tv/video/af8932a99021c6b70efb236e50490a05",
     "date": 1728586320,
-    "durationSec": 1422
+    "durationSec": 1422,
+    "openingTime": 52,
+    "openingLength": 89,
+    "endingTime": 1310,
+    "endingLength": 89
   },
   {
     "episode": 6,
@@ -397,7 +570,11 @@
     "player": "Плеер Aksor",
     "iframeUrl": "https://player.aksor.tv/video/76ac1dd933f1471adb4f5094bdbcdf8d",
     "date": 1728586320,
-    "durationSec": 1422
+    "durationSec": 1422,
+    "openingTime": 55,
+    "openingLength": 89,
+    "endingTime": 1320,
+    "endingLength": 89
   },
   {
     "episode": 7,
@@ -405,7 +582,11 @@
     "player": "Плеер Aksor",
     "iframeUrl": "https://player.aksor.tv/video/dd1af38bbff5a02088a872941127ec17",
     "date": 1728586320,
-    "durationSec": 1422
+    "durationSec": 1422,
+    "openingTime": 0,
+    "openingLength": 119,
+    "endingTime": 1331,
+    "endingLength": 89
   },
   {
     "episode": 8,
@@ -413,7 +594,11 @@
     "player": "Плеер Aksor",
     "iframeUrl": "https://player.aksor.tv/video/e36167f56db667558e98293bc84b3da2",
     "date": 1728586320,
-    "durationSec": 1422
+    "durationSec": 1422,
+    "openingTime": 105,
+    "openingLength": 89,
+    "endingTime": 1319,
+    "endingLength": 89
   },
   {
     "episode": 9,
@@ -421,7 +606,11 @@
     "player": "Плеер Aksor",
     "iframeUrl": "https://player.aksor.tv/video/981bfba6632b81f596b8dd4700ac0cad",
     "date": 1728586320,
-    "durationSec": 1422
+    "durationSec": 1422,
+    "openingTime": 32,
+    "openingLength": 89,
+    "endingTime": 1310,
+    "endingLength": 69
   },
   {
     "episode": 10,
@@ -429,7 +618,11 @@
     "player": "Плеер Aksor",
     "iframeUrl": "https://player.aksor.tv/video/29378aaba3ed503f489c4b89f1aba537",
     "date": 1728586320,
-    "durationSec": 1422
+    "durationSec": 1422,
+    "openingTime": 82,
+    "openingLength": 89,
+    "endingTime": 1364,
+    "endingLength": 39
   },
   {
     "episode": 11,
@@ -437,7 +630,11 @@
     "player": "Плеер Aksor",
     "iframeUrl": "https://player.aksor.tv/video/3e83b9cf8904607645ac1ae12d2c240f",
     "date": 1728586320,
-    "durationSec": 1422
+    "durationSec": 1422,
+    "openingTime": 67,
+    "openingLength": 89,
+    "endingTime": 1325,
+    "endingLength": 89
   },
   {
     "episode": 1,
@@ -445,7 +642,12 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&translation=95&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1735158674,
-    "durationSec": 1422
+    "durationSec": 1422,
+    "translationId": 95,
+    "openingTime": 91,
+    "openingLength": 89,
+    "endingTime": 1308,
+    "endingLength": 59
   },
   {
     "episode": 2,
@@ -453,7 +655,12 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&translation=95&season=1&episode=2&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1735158674,
-    "durationSec": 1422
+    "durationSec": 1422,
+    "translationId": 95,
+    "openingTime": 108,
+    "openingLength": 89,
+    "endingTime": 1286,
+    "endingLength": 64
   },
   {
     "episode": 3,
@@ -461,7 +668,12 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&translation=95&season=1&episode=3&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1735158674,
-    "durationSec": 1422
+    "durationSec": 1422,
+    "translationId": 95,
+    "openingTime": 74,
+    "openingLength": 89,
+    "endingTime": 1309,
+    "endingLength": 19
   },
   {
     "episode": 4,
@@ -469,7 +681,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&translation=95&season=1&episode=4&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1735158674,
-    "durationSec": 1422
+    "durationSec": 1422,
+    "translationId": 95
   },
   {
     "episode": 5,
@@ -477,7 +690,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&translation=95&season=1&episode=5&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1735158674,
-    "durationSec": 1422
+    "durationSec": 1422,
+    "translationId": 95
   },
   {
     "episode": 6,
@@ -485,7 +699,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&translation=95&season=1&episode=6&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1735158674,
-    "durationSec": 1422
+    "durationSec": 1422,
+    "translationId": 95
   },
   {
     "episode": 7,
@@ -493,7 +708,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&translation=95&season=1&episode=7&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1735158674,
-    "durationSec": 1422
+    "durationSec": 1422,
+    "translationId": 95
   },
   {
     "episode": 8,
@@ -501,7 +717,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&translation=95&season=1&episode=8&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1735158674,
-    "durationSec": 1422
+    "durationSec": 1422,
+    "translationId": 95
   },
   {
     "episode": 9,
@@ -509,7 +726,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&translation=95&season=1&episode=9&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1735158674,
-    "durationSec": 1422
+    "durationSec": 1422,
+    "translationId": 95
   },
   {
     "episode": 10,
@@ -517,7 +735,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&translation=95&season=1&episode=10&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1735158674,
-    "durationSec": 1422
+    "durationSec": 1422,
+    "translationId": 95
   },
   {
     "episode": 11,
@@ -525,7 +744,12 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&translation=95&season=1&episode=11&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1735158674,
-    "durationSec": 1422
+    "durationSec": 1422,
+    "translationId": 95,
+    "openingTime": 64,
+    "openingLength": 89,
+    "endingTime": 1324,
+    "endingLength": 89
   },
   {
     "episode": 1,
@@ -533,7 +757,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64393/32a35519d2b7de06b037dd5d2bb937ba/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1751850655,
-    "durationSec": 1422
+    "durationSec": 1422,
+    "openingTime": 84,
+    "openingLength": 89,
+    "endingTime": 1402,
+    "endingLength": 14
   },
   {
     "episode": 2,
@@ -541,7 +769,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64393/32a35519d2b7de06b037dd5d2bb937ba/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1751850655,
-    "durationSec": 1422
+    "durationSec": 1422,
+    "openingTime": 106,
+    "openingLength": 89,
+    "endingTime": 1402,
+    "endingLength": 19
   },
   {
     "episode": 3,
@@ -549,7 +781,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64393/32a35519d2b7de06b037dd5d2bb937ba/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 1751850655,
-    "durationSec": 1422
+    "durationSec": 1422,
+    "openingTime": 72,
+    "openingLength": 89,
+    "endingTime": 1402,
+    "endingLength": 14
   },
   {
     "episode": 4,
@@ -557,7 +793,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64393/32a35519d2b7de06b037dd5d2bb937ba/720p?translations=false&only_episode=true&only_season=true&episode=4",
     "date": 1751850655,
-    "durationSec": 1422
+    "durationSec": 1422,
+    "openingTime": 86,
+    "openingLength": 89,
+    "endingTime": 1402,
+    "endingLength": 14
   },
   {
     "episode": 5,
@@ -565,7 +805,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64393/32a35519d2b7de06b037dd5d2bb937ba/720p?translations=false&only_episode=true&only_season=true&episode=5",
     "date": 1751850655,
-    "durationSec": 1422
+    "durationSec": 1422,
+    "openingTime": 51,
+    "openingLength": 89,
+    "endingTime": 1402,
+    "endingLength": 19
   },
   {
     "episode": 6,
@@ -573,7 +817,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64393/32a35519d2b7de06b037dd5d2bb937ba/720p?translations=false&only_episode=true&only_season=true&episode=6",
     "date": 1751850655,
-    "durationSec": 1422
+    "durationSec": 1422,
+    "openingTime": 51,
+    "openingLength": 89,
+    "endingTime": 1402,
+    "endingLength": 14
   },
   {
     "episode": 7,
@@ -581,7 +829,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64393/32a35519d2b7de06b037dd5d2bb937ba/720p?translations=false&only_episode=true&only_season=true&episode=7",
     "date": 1751850655,
-    "durationSec": 1422
+    "durationSec": 1422,
+    "openingTime": 38,
+    "openingLength": 89,
+    "endingTime": 1309,
+    "endingLength": 89
   },
   {
     "episode": 8,
@@ -589,7 +841,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64393/32a35519d2b7de06b037dd5d2bb937ba/720p?translations=false&only_episode=true&only_season=true&episode=8",
     "date": 1751850655,
-    "durationSec": 1422
+    "durationSec": 1422,
+    "openingTime": 104,
+    "openingLength": 89,
+    "endingTime": 1402,
+    "endingLength": 14
   },
   {
     "episode": 9,
@@ -597,7 +853,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64393/32a35519d2b7de06b037dd5d2bb937ba/720p?translations=false&only_episode=true&only_season=true&episode=9",
     "date": 1751850655,
-    "durationSec": 1422
+    "durationSec": 1422,
+    "openingTime": 30,
+    "openingLength": 89,
+    "endingTime": 1309,
+    "endingLength": 89
   },
   {
     "episode": 10,
@@ -605,7 +865,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64393/32a35519d2b7de06b037dd5d2bb937ba/720p?translations=false&only_episode=true&only_season=true&episode=10",
     "date": 1751850655,
-    "durationSec": 1422
+    "durationSec": 1422,
+    "openingTime": 80,
+    "openingLength": 89,
+    "endingTime": 1318,
+    "endingLength": 99
   },
   {
     "episode": 11,
@@ -613,7 +877,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64393/32a35519d2b7de06b037dd5d2bb937ba/720p?translations=false&only_episode=true&only_season=true&episode=11",
     "date": 1751850655,
-    "durationSec": 1422
+    "durationSec": 1422,
+    "openingTime": 64,
+    "openingLength": 89,
+    "endingTime": 1325,
+    "endingLength": 89
   },
   {
     "episode": 1,
@@ -621,7 +889,9 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D0%B9%D0%BD%D0%B0%D1%8F+%D0%91%D0%B0%D0%BD%D0%B4%D0%B0&anime_id=40911&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+StudioBand",
     "date": 1755435792,
-    "durationSec": 1323
+    "durationSec": 1323,
+    "endingTime": 1223,
+    "endingLength": 49
   },
   {
     "episode": 2,
@@ -629,7 +899,9 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D0%B9%D0%BD%D0%B0%D1%8F+%D0%91%D0%B0%D0%BD%D0%B4%D0%B0&anime_id=40911&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+StudioBand",
     "date": 1755435792,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "endingTime": 1402,
+    "endingLength": 19
   },
   {
     "episode": 3,
@@ -637,7 +909,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D0%B9%D0%BD%D0%B0%D1%8F+%D0%91%D0%B0%D0%BD%D0%B4%D0%B0&anime_id=40911&episode=3&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+StudioBand",
     "date": 1755435792,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "openingTime": 78,
+    "openingLength": 89,
+    "endingTime": 1402,
+    "endingLength": 19
   },
   {
     "episode": 4,
@@ -645,7 +921,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D0%B9%D0%BD%D0%B0%D1%8F+%D0%91%D0%B0%D0%BD%D0%B4%D0%B0&anime_id=40911&episode=4&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+StudioBand",
     "date": 1755435792,
-    "durationSec": 1422
+    "durationSec": 1422,
+    "openingTime": 89,
+    "openingLength": 89,
+    "endingTime": 1402,
+    "endingLength": 19
   },
   {
     "episode": 5,
@@ -653,7 +933,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D0%B9%D0%BD%D0%B0%D1%8F+%D0%91%D0%B0%D0%BD%D0%B4%D0%B0&anime_id=40911&episode=5&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+StudioBand",
     "date": 1755435792,
-    "durationSec": 1422
+    "durationSec": 1422,
+    "openingTime": 56,
+    "openingLength": 89,
+    "endingTime": 1402,
+    "endingLength": 19
   },
   {
     "episode": 6,
@@ -661,7 +945,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D0%B9%D0%BD%D0%B0%D1%8F+%D0%91%D0%B0%D0%BD%D0%B4%D0%B0&anime_id=40911&episode=6&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+StudioBand",
     "date": 1755435792,
-    "durationSec": 1434
+    "durationSec": 1434,
+    "openingTime": 53,
+    "openingLength": 89,
+    "endingTime": 1402,
+    "endingLength": 19
   },
   {
     "episode": 7,
@@ -669,7 +957,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D0%B9%D0%BD%D0%B0%D1%8F+%D0%91%D0%B0%D0%BD%D0%B4%D0%B0&anime_id=40911&episode=7&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+StudioBand",
     "date": 1755435792,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "openingTime": 52,
+    "openingLength": 59,
+    "endingTime": 1402,
+    "endingLength": 19
   },
   {
     "episode": 8,
@@ -677,7 +969,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D0%B9%D0%BD%D0%B0%D1%8F+%D0%91%D0%B0%D0%BD%D0%B4%D0%B0&anime_id=40911&episode=8&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+StudioBand",
     "date": 1755435792,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "openingTime": 106,
+    "openingLength": 89,
+    "endingTime": 1402,
+    "endingLength": 19
   },
   {
     "episode": 9,
@@ -685,7 +981,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D0%B9%D0%BD%D0%B0%D1%8F+%D0%91%D0%B0%D0%BD%D0%B4%D0%B0&anime_id=40911&episode=9&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+StudioBand",
     "date": 1755435792,
-    "durationSec": 1422
+    "durationSec": 1422,
+    "openingTime": 31,
+    "openingLength": 89,
+    "endingTime": 1402,
+    "endingLength": 19
   },
   {
     "episode": 10,
@@ -693,7 +993,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D0%B9%D0%BD%D0%B0%D1%8F+%D0%91%D0%B0%D0%BD%D0%B4%D0%B0&anime_id=40911&episode=10&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+StudioBand",
     "date": 1755435792,
-    "durationSec": 1422
+    "durationSec": 1422,
+    "openingTime": 83,
+    "openingLength": 89,
+    "endingTime": 1402,
+    "endingLength": 19
   },
   {
     "episode": 11,
@@ -701,7 +1005,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D0%B9%D0%BD%D0%B0%D1%8F+%D0%91%D0%B0%D0%BD%D0%B4%D0%B0&anime_id=40911&episode=11&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+StudioBand",
     "date": 1755435792,
-    "durationSec": 1422
+    "durationSec": 1422,
+    "openingTime": 66,
+    "openingLength": 89,
+    "endingTime": 1327,
+    "endingLength": 89
   },
   {
     "episode": 1,
@@ -709,7 +1017,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64325/e7b52d4401bf51c9551b9912da882af3/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 0,
-    "durationSec": 1322
+    "durationSec": 1322,
+    "endingTime": 1222,
+    "endingLength": 59
   },
   {
     "episode": 2,
@@ -717,7 +1027,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64325/e7b52d4401bf51c9551b9912da882af3/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 0,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "endingTime": 1267,
+    "endingLength": 99
   },
   {
     "episode": 3,
@@ -725,7 +1037,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64325/e7b52d4401bf51c9551b9912da882af3/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 0,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "endingTime": 1321,
+    "endingLength": 89
   },
   {
     "episode": 4,
@@ -733,7 +1047,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64325/e7b52d4401bf51c9551b9912da882af3/720p?translations=false&only_episode=true&only_season=true&episode=4",
     "date": 0,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "endingTime": 1347,
+    "endingLength": 69
   },
   {
     "episode": 5,
@@ -741,7 +1057,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64325/e7b52d4401bf51c9551b9912da882af3/720p?translations=false&only_episode=true&only_season=true&episode=5",
     "date": 0,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "endingTime": 1321,
+    "endingLength": 89
   },
   {
     "episode": 6,
@@ -749,7 +1067,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64325/e7b52d4401bf51c9551b9912da882af3/720p?translations=false&only_episode=true&only_season=true&episode=6",
     "date": 0,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "endingTime": 1364,
+    "endingLength": 49
   },
   {
     "episode": 7,
@@ -757,7 +1077,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64325/e7b52d4401bf51c9551b9912da882af3/720p?translations=false&only_episode=true&only_season=true&episode=7",
     "date": 0,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "endingTime": 1321,
+    "endingLength": 89
   },
   {
     "episode": 8,
@@ -765,7 +1087,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64325/e7b52d4401bf51c9551b9912da882af3/720p?translations=false&only_episode=true&only_season=true&episode=8",
     "date": 0,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "endingTime": 1330,
+    "endingLength": 89
   },
   {
     "episode": 9,
@@ -773,7 +1097,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64325/e7b52d4401bf51c9551b9912da882af3/720p?translations=false&only_episode=true&only_season=true&episode=9",
     "date": 0,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "endingTime": 1321,
+    "endingLength": 89
   },
   {
     "episode": 10,
@@ -781,7 +1107,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64325/e7b52d4401bf51c9551b9912da882af3/720p?translations=false&only_episode=true&only_season=true&episode=10",
     "date": 0,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "endingTime": 1330,
+    "endingLength": 89
   },
   {
     "episode": 11,
@@ -789,7 +1117,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64325/e7b52d4401bf51c9551b9912da882af3/720p?translations=false&only_episode=true&only_season=true&episode=11",
     "date": 0,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "endingTime": 1335,
+    "endingLength": 89
   },
   {
     "episode": 1,
@@ -797,7 +1127,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&translation=9&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677765577,
-    "durationSec": 1351
+    "durationSec": 1351,
+    "translationId": 9
   },
   {
     "episode": 2,
@@ -805,7 +1136,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&translation=9&season=1&episode=2&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677765577,
-    "durationSec": 1462
+    "durationSec": 1462,
+    "translationId": 9
   },
   {
     "episode": 3,
@@ -813,7 +1145,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&translation=9&season=1&episode=3&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677765577,
-    "durationSec": 1462
+    "durationSec": 1462,
+    "translationId": 9
   },
   {
     "episode": 4,
@@ -821,7 +1154,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&translation=9&season=1&episode=4&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677765577,
-    "durationSec": 1462
+    "durationSec": 1462,
+    "translationId": 9
   },
   {
     "episode": 5,
@@ -829,7 +1163,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&translation=9&season=1&episode=5&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677765577,
-    "durationSec": 1462
+    "durationSec": 1462,
+    "translationId": 9
   },
   {
     "episode": 6,
@@ -837,7 +1172,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&translation=9&season=1&episode=6&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677765577,
-    "durationSec": 1462
+    "durationSec": 1462,
+    "translationId": 9
   },
   {
     "episode": 8,
@@ -845,7 +1181,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&translation=9&season=1&episode=8&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677765577,
-    "durationSec": 0
+    "durationSec": 0,
+    "translationId": 9
   },
   {
     "episode": 9,
@@ -853,7 +1190,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&translation=9&season=1&episode=9&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677765577,
-    "durationSec": 0
+    "durationSec": 0,
+    "translationId": 9
   },
   {
     "episode": 10,
@@ -861,7 +1199,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&translation=9&season=1&episode=10&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677765577,
-    "durationSec": 0
+    "durationSec": 0,
+    "translationId": 9
   },
   {
     "episode": 11,
@@ -869,7 +1208,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&translation=9&season=1&episode=11&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677765577,
-    "durationSec": 0
+    "durationSec": 0,
+    "translationId": 9
   },
   {
     "episode": 1,
@@ -877,7 +1217,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64397/fd957ac093d6345a93e92419d3ee489d/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 0,
-    "durationSec": 1440
+    "durationSec": 1440,
+    "endingTime": 1324,
+    "endingLength": 59
   },
   {
     "episode": 2,
@@ -885,7 +1227,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64397/fd957ac093d6345a93e92419d3ee489d/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 0,
-    "durationSec": 1440
+    "durationSec": 1440,
+    "endingTime": 1420,
+    "endingLength": 19
   },
   {
     "episode": 3,
@@ -893,7 +1237,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64397/fd957ac093d6345a93e92419d3ee489d/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 0,
-    "durationSec": 1440
+    "durationSec": 1440,
+    "endingTime": 1327,
+    "endingLength": 89
   },
   {
     "episode": 4,
@@ -901,7 +1247,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64397/fd957ac093d6345a93e92419d3ee489d/720p?translations=false&only_episode=true&only_season=true&episode=4",
     "date": 0,
-    "durationSec": 1440
+    "durationSec": 1440,
+    "endingTime": 1382,
+    "endingLength": 39
   },
   {
     "episode": 5,
@@ -909,7 +1257,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64397/fd957ac093d6345a93e92419d3ee489d/720p?translations=false&only_episode=true&only_season=true&episode=5",
     "date": 0,
-    "durationSec": 1440
+    "durationSec": 1440,
+    "endingTime": 1327,
+    "endingLength": 89
   },
   {
     "episode": 6,
@@ -917,7 +1267,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64397/fd957ac093d6345a93e92419d3ee489d/720p?translations=false&only_episode=true&only_season=true&episode=6",
     "date": 0,
-    "durationSec": 1440
+    "durationSec": 1440,
+    "endingTime": 1335,
+    "endingLength": 89
   },
   {
     "episode": 7,
@@ -925,7 +1277,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64397/fd957ac093d6345a93e92419d3ee489d/720p?translations=false&only_episode=true&only_season=true&episode=7",
     "date": 0,
-    "durationSec": 1440
+    "durationSec": 1440,
+    "endingTime": 1326,
+    "endingLength": 89
   },
   {
     "episode": 8,
@@ -933,7 +1287,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64397/fd957ac093d6345a93e92419d3ee489d/720p?translations=false&only_episode=true&only_season=true&episode=8",
     "date": 0,
-    "durationSec": 1422
+    "durationSec": 1422,
+    "endingTime": 1350,
+    "endingLength": 64
   },
   {
     "episode": 9,
@@ -941,7 +1297,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64397/fd957ac093d6345a93e92419d3ee489d/720p?translations=false&only_episode=true&only_season=true&episode=9",
     "date": 0,
-    "durationSec": 1440
+    "durationSec": 1440,
+    "endingTime": 1327,
+    "endingLength": 89
   },
   {
     "episode": 10,
@@ -949,7 +1307,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64397/fd957ac093d6345a93e92419d3ee489d/720p?translations=false&only_episode=true&only_season=true&episode=10",
     "date": 0,
-    "durationSec": 1440
+    "durationSec": 1440,
+    "endingTime": 1335,
+    "endingLength": 89
   },
   {
     "episode": 11,
@@ -957,7 +1317,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/64397/fd957ac093d6345a93e92419d3ee489d/720p?translations=false&only_episode=true&only_season=true&episode=11",
     "date": 0,
-    "durationSec": 1440
+    "durationSec": 1440,
+    "endingTime": 1386,
+    "endingLength": 34
   },
   {
     "episode": 1,
@@ -965,7 +1327,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/96242/7bc2ddc9759ac8d1876a4ba78800c423/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1699051945,
-    "durationSec": 1431
+    "durationSec": 1431,
+    "endingTime": 1319,
+    "endingLength": 59
   },
   {
     "episode": 2,
@@ -973,7 +1337,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/96242/7bc2ddc9759ac8d1876a4ba78800c423/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1699051945,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "endingTime": 1267,
+    "endingLength": 89
   },
   {
     "episode": 3,
@@ -981,7 +1347,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/96242/7bc2ddc9759ac8d1876a4ba78800c423/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 1699051945,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "endingTime": 1321,
+    "endingLength": 89
   },
   {
     "episode": 4,
@@ -989,7 +1357,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/96242/7bc2ddc9759ac8d1876a4ba78800c423/720p?translations=false&only_episode=true&only_season=true&episode=4",
     "date": 1699051945,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "endingTime": 1321,
+    "endingLength": 89
   },
   {
     "episode": 5,
@@ -997,7 +1367,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/96242/7bc2ddc9759ac8d1876a4ba78800c423/720p?translations=false&only_episode=true&only_season=true&episode=5",
     "date": 1699051945,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "endingTime": 1321,
+    "endingLength": 89
   },
   {
     "episode": 6,
@@ -1005,7 +1377,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/96242/7bc2ddc9759ac8d1876a4ba78800c423/720p?translations=false&only_episode=true&only_season=true&episode=6",
     "date": 1699051945,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "endingTime": 1362,
+    "endingLength": 54
   },
   {
     "episode": 7,
@@ -1013,7 +1387,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/96242/7bc2ddc9759ac8d1876a4ba78800c423/720p?translations=false&only_episode=true&only_season=true&episode=7",
     "date": 1699051945,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "endingTime": 1371,
+    "endingLength": 34
   },
   {
     "episode": 8,
@@ -1021,7 +1397,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/96242/7bc2ddc9759ac8d1876a4ba78800c423/720p?translations=false&only_episode=true&only_season=true&episode=8",
     "date": 1699051945,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "endingTime": 1330,
+    "endingLength": 89
   },
   {
     "episode": 9,
@@ -1029,7 +1407,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/96242/7bc2ddc9759ac8d1876a4ba78800c423/720p?translations=false&only_episode=true&only_season=true&episode=9",
     "date": 1699051945,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "endingTime": 1345,
+    "endingLength": 64
   },
   {
     "episode": 10,
@@ -1037,7 +1417,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/96242/7bc2ddc9759ac8d1876a4ba78800c423/720p?translations=false&only_episode=true&only_season=true&episode=10",
     "date": 1699051945,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "endingTime": 1353,
+    "endingLength": 69
   },
   {
     "episode": 11,
@@ -1045,7 +1427,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/96242/7bc2ddc9759ac8d1876a4ba78800c423/720p?translations=false&only_episode=true&only_season=true&episode=11",
     "date": 1699051945,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "endingTime": 1351,
+    "endingLength": 64
   },
   {
     "episode": 1,
@@ -1229,7 +1613,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&translation=158&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677765577,
-    "durationSec": 1327
+    "durationSec": 1327,
+    "translationId": 158
   },
   {
     "episode": 2,
@@ -1237,7 +1622,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&translation=158&season=1&episode=2&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677765577,
-    "durationSec": 1449
+    "durationSec": 1449,
+    "translationId": 158
   },
   {
     "episode": 3,
@@ -1245,7 +1631,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&translation=158&season=1&episode=3&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677765577,
-    "durationSec": 1448
+    "durationSec": 1448,
+    "translationId": 158
   },
   {
     "episode": 4,
@@ -1253,7 +1640,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&translation=158&season=1&episode=4&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677765577,
-    "durationSec": 1448
+    "durationSec": 1448,
+    "translationId": 158
   },
   {
     "episode": 5,
@@ -1261,7 +1649,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&translation=158&season=1&episode=5&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677765577,
-    "durationSec": 1449
+    "durationSec": 1449,
+    "translationId": 158
   },
   {
     "episode": 6,
@@ -1269,7 +1658,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&translation=158&season=1&episode=6&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677765577,
-    "durationSec": 1449
+    "durationSec": 1449,
+    "translationId": 158
   },
   {
     "episode": 7,
@@ -1277,7 +1667,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&translation=158&season=1&episode=7&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677765577,
-    "durationSec": 1449
+    "durationSec": 1449,
+    "translationId": 158
   },
   {
     "episode": 8,
@@ -1285,7 +1676,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&translation=158&season=1&episode=8&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677765577,
-    "durationSec": 1449
+    "durationSec": 1449,
+    "translationId": 158
   },
   {
     "episode": 9,
@@ -1293,7 +1685,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&translation=158&season=1&episode=9&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677765577,
-    "durationSec": 1449
+    "durationSec": 1449,
+    "translationId": 158
   },
   {
     "episode": 10,
@@ -1301,7 +1694,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&translation=158&season=1&episode=10&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677765577,
-    "durationSec": 1449
+    "durationSec": 1449,
+    "translationId": 158
   },
   {
     "episode": 11,
@@ -1309,7 +1703,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&translation=158&season=1&episode=11&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677765577,
-    "durationSec": 1463
+    "durationSec": 1463,
+    "translationId": 158
   },
   {
     "episode": 1,
@@ -1965,7 +2360,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&translation=79&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677765577,
-    "durationSec": 1440
+    "durationSec": 1440,
+    "translationId": 79
   },
   {
     "episode": 2,
@@ -1973,7 +2369,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&translation=79&season=1&episode=2&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677765577,
-    "durationSec": 1440
+    "durationSec": 1440,
+    "translationId": 79
   },
   {
     "episode": 3,
@@ -1981,7 +2378,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&translation=79&season=1&episode=3&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677765577,
-    "durationSec": 1440
+    "durationSec": 1440,
+    "translationId": 79
   },
   {
     "episode": 4,
@@ -1989,6 +2387,7 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=fb0bf9a1ade4cfe36b49277a80d376&translation=79&season=1&episode=4&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677765577,
-    "durationSec": 1440
+    "durationSec": 1440,
+    "translationId": 79
   }
 ]

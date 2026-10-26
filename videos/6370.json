@@ -5,7 +5,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/34226/e834379faa3244ef779771006d9657cb/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1674776562,
-    "durationSec": 1452
+    "durationSec": 1452,
+    "endingTime": 1350,
+    "endingLength": 89
   },
   {
     "episode": 2,
@@ -13,7 +15,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/34226/e834379faa3244ef779771006d9657cb/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674776562,
-    "durationSec": 1452
+    "durationSec": 1452,
+    "openingTime": 144,
+    "openingLength": 89,
+    "endingTime": 1351,
+    "endingLength": 89
   },
   {
     "episode": 3,
@@ -21,7 +27,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/34226/e834379faa3244ef779771006d9657cb/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 1674776562,
-    "durationSec": 1452
+    "durationSec": 1452,
+    "openingTime": 52,
+    "openingLength": 89,
+    "endingTime": 1353,
+    "endingLength": 89
   },
   {
     "episode": 4,
@@ -29,7 +39,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/34226/e834379faa3244ef779771006d9657cb/720p?translations=false&only_episode=true&only_season=true&episode=4",
     "date": 1674776562,
-    "durationSec": 1452
+    "durationSec": 1452,
+    "openingTime": 33,
+    "openingLength": 89
   },
   {
     "episode": 5,

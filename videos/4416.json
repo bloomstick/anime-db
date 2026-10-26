@@ -5,7 +5,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/30963/e3aed21c90b114f4ef6a13f7b4d1c62f/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1674827186,
-    "durationSec": 1440
+    "durationSec": 1440,
+    "endingTime": 1365,
+    "endingLength": 64
   },
   {
     "episode": 2,
@@ -13,7 +15,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/30963/e3aed21c90b114f4ef6a13f7b4d1c62f/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674827186,
-    "durationSec": 1440
+    "durationSec": 1440,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1415,
+    "endingLength": 14
   },
   {
     "episode": 3,
@@ -21,7 +27,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/30963/e3aed21c90b114f4ef6a13f7b4d1c62f/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 1674827186,
-    "durationSec": 1440
+    "durationSec": 1440,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1322,
+    "endingLength": 109
   },
   {
     "episode": 4,

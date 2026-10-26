@@ -5,7 +5,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/74589/7d35316fc82aa749bb51c93215dcd6f6/720p?translations=false&only_episode=true&only_season=true",
     "date": 1674776332,
-    "durationSec": 3382
+    "durationSec": 3382,
+    "endingTime": 3295,
+    "endingLength": 89
   },
   {
     "episode": 1,
@@ -13,7 +15,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/51093/f33beea14ea2ee358736b86a2672d300/720p?translations=false&only_episode=true&only_season=true",
     "date": 1674776332,
-    "durationSec": 3226
+    "durationSec": 3226,
+    "openingTime": 0,
+    "openingLength": 104,
+    "endingTime": 3181,
+    "endingLength": 24
   },
   {
     "episode": 1,

@@ -5,7 +5,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniDUB&anime_id=56741&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniDUB",
     "date": 1754875531,
-    "durationSec": 736
+    "durationSec": 736,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 661,
+    "endingLength": 54
   },
   {
     "episode": 2,
@@ -13,7 +17,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniDUB&anime_id=56741&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniDUB",
     "date": 1754875531,
-    "durationSec": 880
+    "durationSec": 880,
+    "openingTime": 0,
+    "openingLength": 44,
+    "endingTime": 806,
+    "endingLength": 54
   },
   {
     "episode": 1,
@@ -21,7 +29,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/99346/807885a04e9c5f329415fdfdc8e8bb40/720p?translations=false&only_episode=true&only_season=true",
     "date": 1700727530,
-    "durationSec": 1436
+    "durationSec": 1436,
+    "endingTime": 1378,
+    "endingLength": 39
   },
   {
     "episode": 1,
@@ -29,7 +39,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/99360/a1980403d922641350c556de1f45803c/720p?translations=false&only_episode=true&only_season=true",
     "date": 1700790349,
-    "durationSec": 1443
+    "durationSec": 1443,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1405,
+    "endingLength": 29
   },
   {
     "episode": 1,

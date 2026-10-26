@@ -13,7 +13,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/718/95d79a2ed690aba7c2b7cf581ce1d1f0/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674827223,
-    "durationSec": 1435
+    "durationSec": 1435,
+    "endingTime": 1326,
+    "endingLength": 99
   },
   {
     "episode": 3,
@@ -21,7 +23,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/718/95d79a2ed690aba7c2b7cf581ce1d1f0/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 1674827223,
-    "durationSec": 1435
+    "durationSec": 1435,
+    "openingTime": 86,
+    "openingLength": 89,
+    "endingTime": 1344,
+    "endingLength": 29
   },
   {
     "episode": 4,

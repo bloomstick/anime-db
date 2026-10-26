@@ -5,7 +5,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/101375/fba06579e00f48baf23221dc6c7999c7/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1716482061,
-    "durationSec": 1181
+    "durationSec": 1181,
+    "openingTime": 0,
+    "openingLength": 134,
+    "endingTime": 1068,
+    "endingLength": 104
   },
   {
     "episode": 2,
@@ -13,7 +17,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/101375/fba06579e00f48baf23221dc6c7999c7/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1716646176,
-    "durationSec": 1209
+    "durationSec": 1209,
+    "openingTime": 0,
+    "openingLength": 129,
+    "endingTime": 1093,
+    "endingLength": 99
   },
   {
     "episode": 3,

@@ -13,7 +13,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/63095/b355179373b9763c629bb0780bd9610d/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674776484,
-    "durationSec": 1350
+    "durationSec": 1350,
+    "openingTime": 90,
+    "openingLength": 69,
+    "endingTime": 1268,
+    "endingLength": 69
   },
   {
     "episode": 3,
@@ -21,7 +25,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/63095/b355179373b9763c629bb0780bd9610d/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 1674776484,
-    "durationSec": 1350
+    "durationSec": 1350,
+    "openingTime": 27,
+    "openingLength": 89,
+    "endingTime": 1265,
+    "endingLength": 89
   },
   {
     "episode": 4,

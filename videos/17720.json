@@ -5,7 +5,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/107720/831b442791609316215ef45bd82adcf7/720p?translations=false&only_episode=true&only_season=true",
     "date": 1733785658,
-    "durationSec": 5487
+    "durationSec": 5487,
+    "endingTime": 5447,
+    "endingLength": 29
   },
   {
     "episode": 1,
@@ -13,7 +15,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=51821e701950252941124f8bfd2420&translation=271&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1735207155,
-    "durationSec": 5487
+    "durationSec": 5487,
+    "translationId": 271
   },
   {
     "episode": 1,
@@ -21,7 +24,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/107968/4a8cab7aaecf06246f0a3fab3aa7a99b/720p?translations=false&only_episode=true&only_season=true",
     "date": 1734910071,
-    "durationSec": 5487
+    "durationSec": 5487,
+    "endingTime": 5295,
+    "endingLength": 89
   },
   {
     "episode": 1,
@@ -37,7 +42,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/107635/84e155c89c434d3e56199d31d5080bb1/720p?translations=false&only_episode=true&only_season=true",
     "date": 1733456884,
-    "durationSec": 5487
+    "durationSec": 5487,
+    "endingTime": 5412,
+    "endingLength": 14
   },
   {
     "episode": 1,
@@ -45,7 +52,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=51821e701950252941124f8bfd2420&translation=93&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1735207155,
-    "durationSec": 5487
+    "durationSec": 5487,
+    "translationId": 93
   },
   {
     "episode": 1,
@@ -53,6 +61,7 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=51821e701950252941124f8bfd2420&translation=79&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1735207155,
-    "durationSec": 5487
+    "durationSec": 5487,
+    "translationId": 79
   }
 ]

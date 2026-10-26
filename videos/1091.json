@@ -13,7 +13,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/31247/5682d5c854e3051b0b6a9afbc8cfd2b4/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 0,
-    "durationSec": 1490
+    "durationSec": 1490,
+    "endingTime": 1414,
+    "endingLength": 64
   },
   {
     "episode": 3,
@@ -21,7 +23,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/31247/5682d5c854e3051b0b6a9afbc8cfd2b4/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 0,
-    "durationSec": 1490
+    "durationSec": 1490,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1399,
+    "endingLength": 89
   },
   {
     "episode": 4,
@@ -29,7 +35,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/31247/5682d5c854e3051b0b6a9afbc8cfd2b4/720p?translations=false&only_episode=true&only_season=true&episode=4",
     "date": 0,
-    "durationSec": 1490
+    "durationSec": 1490,
+    "openingTime": 21,
+    "openingLength": 59,
+    "endingTime": 1403,
+    "endingLength": 89
   },
   {
     "episode": 5,
@@ -45,7 +55,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/31247/5682d5c854e3051b0b6a9afbc8cfd2b4/720p?translations=false&only_episode=true&only_season=true&episode=6",
     "date": 0,
-    "durationSec": 1491
+    "durationSec": 1491,
+    "endingTime": 1398,
+    "endingLength": 89
   },
   {
     "episode": 7,
@@ -213,7 +225,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Ranmaru&anime_id=1412&episode=4&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Ranmaru",
     "date": 1751850574,
-    "durationSec": 1490
+    "durationSec": 1490,
+    "openingTime": 15,
+    "openingLength": 64,
+    "endingTime": 1402,
+    "endingLength": 89
   },
   {
     "episode": 5,
@@ -229,7 +245,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Ranmaru&anime_id=1412&episode=6&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Ranmaru",
     "date": 1751850574,
-    "durationSec": 1491
+    "durationSec": 1491,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1396,
+    "endingLength": 29
   },
   {
     "episode": 7,
@@ -237,7 +257,9 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Ranmaru&anime_id=1412&episode=7&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Ranmaru",
     "date": 1751850574,
-    "durationSec": 1491
+    "durationSec": 1491,
+    "endingTime": 1397,
+    "endingLength": 89
   },
   {
     "episode": 8,
@@ -373,7 +395,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/61292/f78103a3d6fe4b32e60feee30b2db53f/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 0,
-    "durationSec": 1489
+    "durationSec": 1489,
+    "endingTime": 1402,
+    "endingLength": 69
   },
   {
     "episode": 2,
@@ -381,7 +405,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/61292/f78103a3d6fe4b32e60feee30b2db53f/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 0,
-    "durationSec": 1487
+    "durationSec": 1487,
+    "endingTime": 1436,
+    "endingLength": 34
   },
   {
     "episode": 3,
@@ -389,7 +415,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/61292/f78103a3d6fe4b32e60feee30b2db53f/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 0,
-    "durationSec": 1487
+    "durationSec": 1487,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1398,
+    "endingLength": 89
   },
   {
     "episode": 4,
@@ -397,7 +427,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/61292/f78103a3d6fe4b32e60feee30b2db53f/720p?translations=false&only_episode=true&only_season=true&episode=4",
     "date": 0,
-    "durationSec": 1489
+    "durationSec": 1489,
+    "endingTime": 1400,
+    "endingLength": 69
   },
   {
     "episode": 5,
@@ -405,7 +437,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/61292/f78103a3d6fe4b32e60feee30b2db53f/720p?translations=false&only_episode=true&only_season=true&episode=5",
     "date": 0,
-    "durationSec": 1488
+    "durationSec": 1488,
+    "endingTime": 1400,
+    "endingLength": 89
   },
   {
     "episode": 6,
@@ -413,7 +447,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/61292/f78103a3d6fe4b32e60feee30b2db53f/720p?translations=false&only_episode=true&only_season=true&episode=6",
     "date": 0,
-    "durationSec": 1488
+    "durationSec": 1488,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1398,
+    "endingLength": 19
   },
   {
     "episode": 7,
@@ -421,7 +459,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/61292/f78103a3d6fe4b32e60feee30b2db53f/720p?translations=false&only_episode=true&only_season=true&episode=7",
     "date": 0,
-    "durationSec": 1488
+    "durationSec": 1488,
+    "endingTime": 1402,
+    "endingLength": 24
   },
   {
     "episode": 8,
@@ -565,7 +605,9 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Amazing+Dubbing&anime_id=1412&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Amazing+Dubbing",
     "date": 1751850574,
-    "durationSec": 1487
+    "durationSec": 1487,
+    "endingTime": 1400,
+    "endingLength": 24
   },
   {
     "episode": 3,

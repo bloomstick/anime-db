@@ -5,7 +5,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/53365/b2f3ebbdfc6277aa078802adaafe25d5/720p?translations=false&only_episode=true&only_season=true&episode=12",
     "date": 1674776555,
-    "durationSec": 1639
+    "durationSec": 1639,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1538,
+    "endingLength": 89
   },
   {
     "episode": 12,
@@ -13,7 +17,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/60781/e8a1da0b19e4826a212a25f327c5cd11/720p?translations=false&only_episode=true&only_season=true&episode=12",
     "date": 1674776555,
-    "durationSec": 1639
+    "durationSec": 1639,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1578,
+    "endingLength": 44
   },
   {
     "episode": 12,

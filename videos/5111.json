@@ -2,18 +2,14 @@
   {
     "episode": 1,
     "dub": "Озвучка AniDUB",
-    "player": "Плеер Alloha",
-    "iframeUrl": "https://alloha.yani.tv/?token_movie=7419612fa47ae186dceb191df559e9&translation=9&season=1&episode=14&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
-    "date": 1677771261,
-    "durationSec": 1606
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка AniDUB",
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/38929/11e9a9c8440968055716ad4eeb0d3216/720p?translations=false&only_episode=true&only_season=true",
     "date": 1674776335,
-    "durationSec": 1606
+    "durationSec": 1606,
+    "openingTime": 66,
+    "openingLength": 89,
+    "endingTime": 1500,
+    "endingLength": 89
   },
   {
     "episode": 1,

@@ -13,7 +13,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/30027/8d7b0bce3917cabf2d3b8afe311eab62/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674827180,
-    "durationSec": 1492
+    "durationSec": 1492,
+    "openingTime": 0,
+    "openingLength": 69,
+    "endingTime": 1386,
+    "endingLength": 89
   },
   {
     "episode": 3,
@@ -21,7 +25,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/30027/8d7b0bce3917cabf2d3b8afe311eab62/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 1674827180,
-    "durationSec": 1391
+    "durationSec": 1391,
+    "openingTime": 0,
+    "openingLength": 69,
+    "endingTime": 1272,
+    "endingLength": 109
   },
   {
     "episode": 4,

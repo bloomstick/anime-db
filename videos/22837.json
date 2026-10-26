@@ -13,7 +13,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/70153/cdd833b6b514350b6d39729c0f187cb5/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 0,
-    "durationSec": 1442
+    "durationSec": 1442,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1338,
+    "endingLength": 89
   },
   {
     "episode": 3,
@@ -461,7 +465,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/70153/cdd833b6b514350b6d39729c0f187cb5/720p?translations=false&only_episode=true&only_season=true&episode=58",
     "date": 0,
-    "durationSec": 1442
+    "durationSec": 1442,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1330,
+    "endingLength": 44
   },
   {
     "episode": 59,

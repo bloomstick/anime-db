@@ -5,7 +5,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/26640/760b071f0ea0e5f4821ba40d1f8b3589/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1674776400,
-    "durationSec": 1440
+    "durationSec": 1440,
+    "openingTime": 47,
+    "openingLength": 69,
+    "endingTime": 1336,
+    "endingLength": 19
   },
   {
     "episode": 2,
@@ -13,7 +17,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/26640/760b071f0ea0e5f4821ba40d1f8b3589/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674776400,
-    "durationSec": 1440
+    "durationSec": 1440,
+    "openingTime": 63,
+    "openingLength": 44,
+    "endingTime": 1422,
+    "endingLength": 19
   },
   {
     "episode": 1,

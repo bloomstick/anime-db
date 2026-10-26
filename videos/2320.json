@@ -5,7 +5,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/30415/598c2ef3103742fc07ae66eed8e0fc8a/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1674827143,
-    "durationSec": 1440
+    "durationSec": 1440,
+    "endingTime": 1293,
+    "endingLength": 99
   },
   {
     "episode": 2,
@@ -13,7 +15,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/30415/598c2ef3103742fc07ae66eed8e0fc8a/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674827143,
-    "durationSec": 1440
+    "durationSec": 1440,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1299,
+    "endingLength": 89
   },
   {
     "episode": 3,
@@ -21,7 +27,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/30415/598c2ef3103742fc07ae66eed8e0fc8a/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 1674827143,
-    "durationSec": 1440
+    "durationSec": 1440,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1413,
+    "endingLength": 14
   },
   {
     "episode": 4,

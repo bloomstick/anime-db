@@ -5,7 +5,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/81721/75180ce0fcb0086d319c319a8f25242b/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1674776091,
-    "durationSec": 1431
+    "durationSec": 1431,
+    "openingTime": 0,
+    "openingLength": 124,
+    "endingTime": 1385,
+    "endingLength": 34
   },
   {
     "episode": 2,
@@ -13,7 +17,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/81721/75180ce0fcb0086d319c319a8f25242b/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674776091,
-    "durationSec": 1431
+    "durationSec": 1431,
+    "openingTime": 0,
+    "openingLength": 129,
+    "endingTime": 1384,
+    "endingLength": 34
   },
   {
     "episode": 3,

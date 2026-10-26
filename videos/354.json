@@ -13,7 +13,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/30428/8e0e53a258f522caefa7171382697d2e/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674827023,
-    "durationSec": 1728
+    "durationSec": 1728,
+    "endingTime": 1600,
+    "endingLength": 119
   },
   {
     "episode": 3,
@@ -29,7 +31,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/30428/8e0e53a258f522caefa7171382697d2e/720p?translations=false&only_episode=true&only_season=true&episode=4",
     "date": 1674827023,
-    "durationSec": 1742
+    "durationSec": 1742,
+    "openingTime": 129,
+    "openingLength": 89,
+    "endingTime": 1612,
+    "endingLength": 119
   },
   {
     "episode": 5,

@@ -5,7 +5,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/49009/1c4a7fc68477ab7521b2f449dc72a7cb/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1674827186,
-    "durationSec": 1698
+    "durationSec": 1698,
+    "endingTime": 1642,
+    "endingLength": 29
   },
   {
     "episode": 2,
@@ -13,7 +15,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/49009/1c4a7fc68477ab7521b2f449dc72a7cb/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674827186,
-    "durationSec": 1724
+    "durationSec": 1724,
+    "openingTime": 0,
+    "openingLength": 54,
+    "endingTime": 1564,
+    "endingLength": 99
   },
   {
     "episode": 1,

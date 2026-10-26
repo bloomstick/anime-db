@@ -5,7 +5,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=087a82756d46f2be30d5ff6427649b&translation=10&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677767021,
-    "durationSec": 1421
+    "durationSec": 1421,
+    "translationId": 10
   },
   {
     "episode": 2,
@@ -13,7 +14,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=087a82756d46f2be30d5ff6427649b&translation=10&season=1&episode=2&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677767021,
-    "durationSec": 1421
+    "durationSec": 1421,
+    "translationId": 10
   },
   {
     "episode": 1,
@@ -21,7 +23,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/59033/b7db8250d1e6efd3f3ec98a1d2c0cfbb/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1674775984,
-    "durationSec": 1421
+    "durationSec": 1421,
+    "endingTime": 1324,
+    "endingLength": 89
   },
   {
     "episode": 2,
@@ -29,7 +33,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/59033/b7db8250d1e6efd3f3ec98a1d2c0cfbb/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674775984,
-    "durationSec": 1421
+    "durationSec": 1421,
+    "openingTime": 64,
+    "openingLength": 89,
+    "endingTime": 1338,
+    "endingLength": 64
   },
   {
     "episode": 1,
@@ -45,7 +53,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnilibriaTV&anime_id=36792&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
     "date": 1751852107,
-    "durationSec": 1421
+    "durationSec": 1421,
+    "openingTime": 64,
+    "openingLength": 89,
+    "endingTime": 1344,
+    "endingLength": 64
   },
   {
     "episode": 1,

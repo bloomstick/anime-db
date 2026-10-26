@@ -5,7 +5,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/65342/23219195bf505d18a20708c28c29e2b1/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 1736739002,
-    "durationSec": 3626
+    "durationSec": 3626,
+    "openingTime": 0,
+    "openingLength": 359,
+    "endingTime": 3343,
+    "endingLength": 264
   },
   {
     "episode": 1,
@@ -29,7 +33,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=42cc6dde90d00b505d0c9239ad503a&translation=10&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1737152673,
-    "durationSec": 2558
+    "durationSec": 2558,
+    "translationId": 10
   },
   {
     "episode": 2,
@@ -37,7 +42,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=42cc6dde90d00b505d0c9239ad503a&translation=10&season=1&episode=2&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1737152673,
-    "durationSec": 3388
+    "durationSec": 3388,
+    "translationId": 10
   },
   {
     "episode": 1,

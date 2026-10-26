@@ -5,7 +5,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/87965/d537ff8a185e9d6f52df5db0f851c176/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1674774661,
-    "durationSec": 450
+    "durationSec": 450,
+    "openingTime": 18,
+    "openingLength": 89,
+    "endingTime": 412,
+    "endingLength": 29
   },
   {
     "episode": 2,
@@ -13,7 +17,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/87965/d537ff8a185e9d6f52df5db0f851c176/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674774661,
-    "durationSec": 450
+    "durationSec": 450,
+    "openingTime": 19,
+    "openingLength": 69,
+    "endingTime": 410,
+    "endingLength": 29
   },
   {
     "episode": 3,

@@ -5,7 +5,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/72021/248ff6792d71e6d1afcc0bcceddf3f8d/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1674776317,
-    "durationSec": 1481
+    "durationSec": 1481,
+    "endingTime": 1422,
+    "endingLength": 49
   },
   {
     "episode": 2,
@@ -13,6 +15,8 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/72021/248ff6792d71e6d1afcc0bcceddf3f8d/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674776317,
-    "durationSec": 1581
+    "durationSec": 1581,
+    "endingTime": 1519,
+    "endingLength": 49
   }
 ]

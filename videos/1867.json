@@ -5,7 +5,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/33665/7678e575134a2f184da14b6a5ba3e170/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1674776301,
-    "durationSec": 1695
+    "durationSec": 1695,
+    "openingTime": 0,
+    "openingLength": 194,
+    "endingTime": 1664,
+    "endingLength": 19
   },
   {
     "episode": 2,
@@ -21,7 +25,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/33665/7678e575134a2f184da14b6a5ba3e170/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 1674776301,
-    "durationSec": 1760
+    "durationSec": 1760,
+    "openingTime": 90,
+    "openingLength": 89,
+    "endingTime": 1602,
+    "endingLength": 149
   },
   {
     "episode": 1,

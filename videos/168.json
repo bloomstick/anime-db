@@ -13,7 +13,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/32833/2ddd8dc9537fac671901c7e329afff1e/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674827141,
-    "durationSec": 1846
+    "durationSec": 1846,
+    "openingTime": 86,
+    "openingLength": 89,
+    "endingTime": 1741,
+    "endingLength": 24
   },
   {
     "episode": 3,
@@ -21,7 +25,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/32833/2ddd8dc9537fac671901c7e329afff1e/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 1674827141,
-    "durationSec": 2221
+    "durationSec": 2221,
+    "openingTime": 87,
+    "openingLength": 89,
+    "endingTime": 2142,
+    "endingLength": 19
   },
   {
     "episode": 1,
@@ -29,7 +37,9 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=MC+Entertainment&anime_id=208&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+MC+Entertainment",
     "date": 1763570944,
-    "durationSec": 1900
+    "durationSec": 1900,
+    "endingTime": 1858,
+    "endingLength": 24
   },
   {
     "episode": 2,

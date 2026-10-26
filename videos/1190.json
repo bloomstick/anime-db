@@ -21,7 +21,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/63054/24ab0678de6e2768ace40a2dc3a0948a/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 1674776492,
-    "durationSec": 1547
+    "durationSec": 1547,
+    "endingTime": 1450,
+    "endingLength": 89
   },
   {
     "episode": 4,
@@ -29,7 +31,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/63054/24ab0678de6e2768ace40a2dc3a0948a/720p?translations=false&only_episode=true&only_season=true&episode=4",
     "date": 1674776492,
-    "durationSec": 1487
+    "durationSec": 1487,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1406,
+    "endingLength": 14
   },
   {
     "episode": 5,
@@ -37,7 +43,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/63054/24ab0678de6e2768ace40a2dc3a0948a/720p?translations=false&only_episode=true&only_season=true&episode=5",
     "date": 1674776492,
-    "durationSec": 1580
+    "durationSec": 1580,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1484,
+    "endingLength": 89
   },
   {
     "episode": 6,
@@ -45,7 +55,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/63054/24ab0678de6e2768ace40a2dc3a0948a/720p?translations=false&only_episode=true&only_season=true&episode=6",
     "date": 1674776492,
-    "durationSec": 1576
+    "durationSec": 1576,
+    "endingTime": 1477,
+    "endingLength": 89
   },
   {
     "episode": 7,
@@ -53,7 +65,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/63054/24ab0678de6e2768ace40a2dc3a0948a/720p?translations=false&only_episode=true&only_season=true&episode=7",
     "date": 1674776492,
-    "durationSec": 1534
+    "durationSec": 1534,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1436,
+    "endingLength": 89
   },
   {
     "episode": 8,
@@ -69,7 +85,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/63054/24ab0678de6e2768ace40a2dc3a0948a/720p?translations=false&only_episode=true&only_season=true&episode=9",
     "date": 1674776492,
-    "durationSec": 1661
+    "durationSec": 1661,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1565,
+    "endingLength": 89
   },
   {
     "episode": 10,

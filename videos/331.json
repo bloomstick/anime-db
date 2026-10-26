@@ -5,7 +5,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/55270/bce74ac92b20b448bf0ba90c9acc36db/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 0,
-    "durationSec": 2260
+    "durationSec": 2260,
+    "openingTime": 0,
+    "openingLength": 144,
+    "endingTime": 2242,
+    "endingLength": 19
   },
   {
     "episode": 2,
@@ -37,7 +41,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniLibria&anime_id=401&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
     "date": 1751850127,
-    "durationSec": 2260
+    "durationSec": 2260,
+    "openingTime": 0,
+    "openingLength": 144,
+    "endingTime": 2217,
+    "endingLength": 34
   },
   {
     "episode": 2,

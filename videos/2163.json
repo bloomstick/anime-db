@@ -5,7 +5,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/81595/cc0d8f3c4fa9c196249b9bb1c3c7c74e/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1674776079,
-    "durationSec": 1461
+    "durationSec": 1461,
+    "endingTime": 1335,
+    "endingLength": 89
   },
   {
     "episode": 2,
@@ -13,7 +15,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/81595/cc0d8f3c4fa9c196249b9bb1c3c7c74e/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674776079,
-    "durationSec": 1467
+    "durationSec": 1467,
+    "openingTime": 50,
+    "openingLength": 54,
+    "endingTime": 1337,
+    "endingLength": 29
   },
   {
     "episode": 3,
@@ -21,7 +27,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/81595/cc0d8f3c4fa9c196249b9bb1c3c7c74e/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 1674776079,
-    "durationSec": 1461
+    "durationSec": 1461,
+    "openingTime": 50,
+    "openingLength": 64,
+    "endingTime": 1335,
+    "endingLength": 19
   },
   {
     "episode": 4,
@@ -29,7 +39,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/81595/cc0d8f3c4fa9c196249b9bb1c3c7c74e/720p?translations=false&only_episode=true&only_season=true&episode=4",
     "date": 1674776079,
-    "durationSec": 1461
+    "durationSec": 1461,
+    "openingTime": 42,
+    "openingLength": 89,
+    "endingTime": 1336,
+    "endingLength": 24
   },
   {
     "episode": 5,
@@ -37,7 +51,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/81595/cc0d8f3c4fa9c196249b9bb1c3c7c74e/720p?translations=false&only_episode=true&only_season=true&episode=5",
     "date": 1674776079,
-    "durationSec": 1461
+    "durationSec": 1461,
+    "openingTime": 50,
+    "openingLength": 69,
+    "endingTime": 1335,
+    "endingLength": 19
   },
   {
     "episode": 6,
@@ -45,7 +63,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/81595/cc0d8f3c4fa9c196249b9bb1c3c7c74e/720p?translations=false&only_episode=true&only_season=true&episode=6",
     "date": 1674776079,
-    "durationSec": 1461
+    "durationSec": 1461,
+    "openingTime": 55,
+    "openingLength": 89,
+    "endingTime": 1334,
+    "endingLength": 14
   },
   {
     "episode": 7,

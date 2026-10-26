@@ -5,7 +5,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/52673/40dbcdef003b9aa20b6ec1084b06ca52/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1674827140,
-    "durationSec": 1810
+    "durationSec": 1810,
+    "openingTime": 190,
+    "openingLength": 39,
+    "endingTime": 1698,
+    "endingLength": 89
   },
   {
     "episode": 2,
@@ -13,7 +17,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/52673/40dbcdef003b9aa20b6ec1084b06ca52/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674827140,
-    "durationSec": 2674
+    "durationSec": 2674,
+    "openingTime": 326,
+    "openingLength": 44,
+    "endingTime": 2569,
+    "endingLength": 59
   },
   {
     "episode": 1,

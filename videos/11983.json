@@ -21,7 +21,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/51857/6c693ac8fe77045a850986d3fc0ce850/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 1674776121,
-    "durationSec": 1355
+    "durationSec": 1355,
+    "endingTime": 1322,
+    "endingLength": 24
   },
   {
     "episode": 4,
@@ -2829,6 +2831,7 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=00acf48037738b3ed0c8675a95444e&translation=66&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677783459,
-    "durationSec": 0
+    "durationSec": 0,
+    "translationId": 66
   }
 ]

@@ -77,7 +77,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/85713/ea0ab7d2916c35f366d2aa63cf1724ef/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1674776050,
-    "durationSec": 319
+    "durationSec": 319,
+    "endingTime": 307,
+    "endingLength": 14
   },
   {
     "episode": 2,
@@ -93,6 +95,8 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/85713/ea0ab7d2916c35f366d2aa63cf1724ef/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 1680206639,
-    "durationSec": 603
+    "durationSec": 603,
+    "endingTime": 591,
+    "endingLength": 14
   }
 ]

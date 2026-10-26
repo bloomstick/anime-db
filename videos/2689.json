@@ -1093,7 +1093,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/37088/2218bc1d1eb308cd966d667038ddb2bc/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674827158,
-    "durationSec": 1521
+    "durationSec": 1521,
+    "endingTime": 1420,
+    "endingLength": 89
   },
   {
     "episode": 3,
@@ -1125,7 +1127,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/37088/2218bc1d1eb308cd966d667038ddb2bc/720p?translations=false&only_episode=true&only_season=true&episode=6",
     "date": 1674827158,
-    "durationSec": 1520
+    "durationSec": 1520,
+    "openingTime": 82,
+    "openingLength": 59,
+    "endingTime": 1457,
+    "endingLength": 44
   },
   {
     "episode": 7,

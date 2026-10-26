@@ -21,7 +21,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/seria/445750/8b98257151f36862feeff1e09c0ac02e/720p",
     "date": 1707771812,
-    "durationSec": 1546
+    "durationSec": 1546,
+    "openingTime": 0,
+    "openingLength": 384,
+    "endingTime": 1512,
+    "endingLength": 24
   },
   {
     "episode": 1,
@@ -29,7 +33,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/seria/445742/a5b14bbe9cf3fc8a2e0f9f5fc837407d/720p",
     "date": 1707771812,
-    "durationSec": 1552
+    "durationSec": 1552,
+    "endingTime": 1524,
+    "endingLength": 19
   },
   {
     "episode": 1,

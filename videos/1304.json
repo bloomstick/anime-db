@@ -5,7 +5,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/56735/f0b49c991adb4d4d25f4b6005c56e05b/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1674826891,
-    "durationSec": 1388
+    "durationSec": 1388,
+    "openingTime": 16,
+    "openingLength": 69,
+    "endingTime": 1326,
+    "endingLength": 49
   },
   {
     "episode": 2,
@@ -13,7 +17,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/56735/f0b49c991adb4d4d25f4b6005c56e05b/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674826891,
-    "durationSec": 1418
+    "durationSec": 1418,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1356,
+    "endingLength": 49
   },
   {
     "episode": 3,

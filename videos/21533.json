@@ -5,7 +5,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/114576/aeb5c92b3b40ccc27b0c88465a5d594b/720p?translations=false&only_episode=true&only_season=true",
     "date": 1764006477,
-    "durationSec": 7131
+    "durationSec": 7131,
+    "endingTime": 6988,
+    "endingLength": 124
   },
   {
     "episode": 1,
@@ -13,7 +15,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anistar&anime_id=61952&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniStar",
     "date": 1789136404,
-    "durationSec": 7170
+    "durationSec": 7170,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 7150,
+    "endingLength": 19
   },
   {
     "episode": 1,
@@ -21,7 +27,12 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=7c50dce8c0ea6671b43008c325aba2&translation=271&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1772636653,
-    "durationSec": 7131
+    "durationSec": 7131,
+    "translationId": 271,
+    "openingTime": 0,
+    "openingLength": 44,
+    "endingTime": 6972,
+    "endingLength": 24
   },
   {
     "episode": 1,
@@ -29,7 +40,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/116074/260253ecc14493d906cc4089b46a98f5/720p?translations=false&only_episode=true&only_season=true",
     "date": 1771452103,
-    "durationSec": 7131
+    "durationSec": 7131,
+    "endingTime": 6976,
+    "endingLength": 134
   },
   {
     "episode": 1,
@@ -37,6 +50,10 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/116477/5d475d7ede678b732c8586ab7a3d49d9/720p?translations=false&only_episode=true&only_season=true",
     "date": 1773702126,
-    "durationSec": 7135
+    "durationSec": 7135,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 6977,
+    "endingLength": 149
   }
 ]

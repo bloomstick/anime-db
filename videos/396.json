@@ -5,7 +5,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/30361/e7418ecd446ae4a0bcf4bf63bf70b1b8/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1674826869,
-    "durationSec": 1434
+    "durationSec": 1434,
+    "endingTime": 1287,
+    "endingLength": 124
   },
   {
     "episode": 2,
@@ -13,7 +15,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/30361/e7418ecd446ae4a0bcf4bf63bf70b1b8/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674826869,
-    "durationSec": 1410
+    "durationSec": 1410,
+    "openingTime": 15,
+    "openingLength": 89,
+    "endingTime": 1285,
+    "endingLength": 34
   },
   {
     "episode": 3,

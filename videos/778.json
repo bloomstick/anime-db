@@ -5,7 +5,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/33650/2500a773b148ce2aa80d40eab33b4ed9/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1674826910,
-    "durationSec": 1471
+    "durationSec": 1471,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1346,
+    "endingLength": 114
   },
   {
     "episode": 2,
@@ -13,7 +17,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/33650/2500a773b148ce2aa80d40eab33b4ed9/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674826910,
-    "durationSec": 1471
+    "durationSec": 1471,
+    "openingTime": 97,
+    "openingLength": 89,
+    "endingTime": 1345,
+    "endingLength": 114
   },
   {
     "episode": 3,

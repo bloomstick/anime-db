@@ -213,7 +213,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/115476/9a1013b38dd447d801ee9de25903f4e3/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1763848496,
-    "durationSec": 1533
+    "durationSec": 1533,
+    "openingTime": 0,
+    "openingLength": 109,
+    "endingTime": 1503,
+    "endingLength": 19
   },
   {
     "episode": 2,

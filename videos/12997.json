@@ -13,7 +13,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/66734/430f3a82c2a4f8df051263c4404883fd/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674776319,
-    "durationSec": 1427
+    "durationSec": 1427,
+    "openingTime": 59,
+    "openingLength": 89,
+    "endingTime": 1336,
+    "endingLength": 59
   },
   {
     "episode": 3,
@@ -21,7 +25,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/66734/430f3a82c2a4f8df051263c4404883fd/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 1674776319,
-    "durationSec": 1427
+    "durationSec": 1427,
+    "openingTime": 175,
+    "openingLength": 89,
+    "endingTime": 1302,
+    "endingLength": 39
   },
   {
     "episode": 4,

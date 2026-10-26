@@ -5,7 +5,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=c17a254803c5877d91909d89a900a0&translation=10&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677775098,
-    "durationSec": 1801
+    "durationSec": 1801,
+    "translationId": 10
   },
   {
     "episode": 2,
@@ -13,7 +14,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=c17a254803c5877d91909d89a900a0&translation=10&season=1&episode=2&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677775098,
-    "durationSec": 1607
+    "durationSec": 1607,
+    "translationId": 10
   },
   {
     "episode": 1,
@@ -21,7 +23,9 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnilibriaTV&anime_id=11005&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
     "date": 1751853973,
-    "durationSec": 1801
+    "durationSec": 1801,
+    "endingTime": 1737,
+    "endingLength": 19
   },
   {
     "episode": 2,

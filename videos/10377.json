@@ -5,7 +5,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/41421/3672e44ad1982b26a7dd5190f8374c11/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1674776240,
-    "durationSec": 1440
+    "durationSec": 1440,
+    "openingTime": 0,
+    "openingLength": 424,
+    "endingTime": 1322,
+    "endingLength": 89
   },
   {
     "episode": 2,
@@ -13,7 +17,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/41421/3672e44ad1982b26a7dd5190f8374c11/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674776240,
-    "durationSec": 1440
+    "durationSec": 1440,
+    "openingTime": 0,
+    "openingLength": 99,
+    "endingTime": 1330,
+    "endingLength": 99
   },
   {
     "episode": 3,

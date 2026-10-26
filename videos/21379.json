@@ -5,7 +5,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=MDA&anime_id=61566&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+MDA",
     "date": 1754482573,
-    "durationSec": 1212
+    "durationSec": 1212,
+    "openingTime": 369,
+    "openingLength": 89,
+    "endingTime": 1049,
+    "endingLength": 154
   },
   {
     "episode": 2,
@@ -93,7 +97,9 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=MDA&anime_id=61566&episode=12&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+MDA",
     "date": 1779736076,
-    "durationSec": 1008
+    "durationSec": 1008,
+    "endingTime": 977,
+    "endingLength": 19
   },
   {
     "episode": 13,
@@ -101,7 +107,9 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=MDA&anime_id=61566&episode=13&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+MDA",
     "date": 1779736076,
-    "durationSec": 919
+    "durationSec": 919,
+    "endingTime": 861,
+    "endingLength": 39
   },
   {
     "episode": 14,
@@ -133,7 +141,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/112619/1309fb6d6cba7161eeab34c3741aaee1/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1754506998,
-    "durationSec": 1212
+    "durationSec": 1212,
+    "openingTime": 367,
+    "openingLength": 89,
+    "endingTime": 1050,
+    "endingLength": 144
   },
   {
     "episode": 2,
@@ -189,6 +201,8 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/112619/1309fb6d6cba7161eeab34c3741aaee1/720p?translations=false&only_episode=true&only_season=true&episode=8",
     "date": 1758057637,
-    "durationSec": 1031
+    "durationSec": 1031,
+    "endingTime": 940,
+    "endingLength": 89
   }
 ]

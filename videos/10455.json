@@ -5,7 +5,10 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=621046177c2214c608afcef26ac2b5&translation=10&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1701287882,
-    "durationSec": 3827
+    "durationSec": 3827,
+    "translationId": 10,
+    "endingTime": 3727,
+    "endingLength": 89
   },
   {
     "episode": 2,
@@ -13,7 +16,10 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=621046177c2214c608afcef26ac2b5&translation=10&season=1&episode=2&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677765762,
-    "durationSec": 4582
+    "durationSec": 4582,
+    "translationId": 10,
+    "endingTime": 4231,
+    "endingLength": 189
   },
   {
     "episode": 1,
@@ -29,7 +35,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/50189/c0a94a16d574e57a517416c29120962a/720p?translations=false&only_episode=true&only_season=true",
     "date": 0,
-    "durationSec": 3828
+    "durationSec": 3828,
+    "endingTime": 3732,
+    "endingLength": 89
   },
   {
     "episode": 1,
@@ -45,7 +53,10 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=621046177c2214c608afcef26ac2b5&translation=9&season=1&episode=2&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677765762,
-    "durationSec": 4597
+    "durationSec": 4597,
+    "translationId": 9,
+    "endingTime": 4403,
+    "endingLength": 39
   },
   {
     "episode": 1,
@@ -53,7 +64,10 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=621046177c2214c608afcef26ac2b5&translation=9&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1701287882,
-    "durationSec": 3611
+    "durationSec": 3611,
+    "translationId": 9,
+    "endingTime": 3440,
+    "endingLength": 149
   },
   {
     "episode": 1,
@@ -61,7 +75,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/39530/24437f8abd7a69e4b3e11872027bc994/720p?translations=false&only_episode=true&only_season=true",
     "date": 0,
-    "durationSec": 3611
+    "durationSec": 3611,
+    "endingTime": 3503,
+    "endingLength": 89
   },
   {
     "episode": 1,
@@ -69,7 +85,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=621046177c2214c608afcef26ac2b5&translation=79&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677765762,
-    "durationSec": 3827
+    "durationSec": 3827,
+    "translationId": 79
   },
   {
     "episode": 2,
@@ -77,7 +94,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=621046177c2214c608afcef26ac2b5&translation=79&season=1&episode=2&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1724459208,
-    "durationSec": 4762
+    "durationSec": 4762,
+    "translationId": 79
   },
   {
     "episode": 1,
@@ -85,7 +103,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/81396/b58a41be166ce6eccea251dbaa68df5f/720p?translations=false&only_episode=true&only_season=true",
     "date": 0,
-    "durationSec": 3570
+    "durationSec": 3570,
+    "endingTime": 3410,
+    "endingLength": 139
   },
   {
     "episode": 1,
@@ -93,7 +113,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/39893/5b08219a8e5c31890a00c59fe6b81434/720p?translations=false&only_episode=true&only_season=true",
     "date": 0,
-    "durationSec": 3611
+    "durationSec": 3611,
+    "endingTime": 3586,
+    "endingLength": 14
   },
   {
     "episode": 1,
@@ -109,7 +131,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/93001/b789614faf34a2236086ef00cf8a12ea/720p?translations=false&only_episode=true&only_season=true",
     "date": 1676988319,
-    "durationSec": 3828
+    "durationSec": 3828,
+    "openingTime": 0,
+    "openingLength": 229,
+    "endingTime": 3638,
+    "endingLength": 169
   },
   {
     "episode": 1,

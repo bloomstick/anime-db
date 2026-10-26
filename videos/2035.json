@@ -5,7 +5,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/80064/01b2c84a1f441c249d82fecc1980af35/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1674776145,
-    "durationSec": 1361
+    "durationSec": 1361,
+    "openingTime": 61,
+    "openingLength": 89,
+    "endingTime": 1247,
+    "endingLength": 104
   },
   {
     "episode": 2,
@@ -13,7 +17,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/80064/01b2c84a1f441c249d82fecc1980af35/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674776145,
-    "durationSec": 1360
+    "durationSec": 1360,
+    "openingTime": 0,
+    "openingLength": 69,
+    "endingTime": 1244,
+    "endingLength": 104
   },
   {
     "episode": 3,
@@ -21,7 +29,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/80064/01b2c84a1f441c249d82fecc1980af35/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 1674776145,
-    "durationSec": 1360
+    "durationSec": 1360,
+    "endingTime": 1279,
+    "endingLength": 69
   },
   {
     "episode": 4,
@@ -29,7 +39,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/80064/01b2c84a1f441c249d82fecc1980af35/720p?translations=false&only_episode=true&only_season=true&episode=4",
     "date": 1674776145,
-    "durationSec": 1360
+    "durationSec": 1360,
+    "openingTime": 59,
+    "openingLength": 64,
+    "endingTime": 1248,
+    "endingLength": 99
   },
   {
     "episode": 5,
@@ -37,7 +51,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/80064/01b2c84a1f441c249d82fecc1980af35/720p?translations=false&only_episode=true&only_season=true&episode=5",
     "date": 1674776145,
-    "durationSec": 1360
+    "durationSec": 1360,
+    "openingTime": 0,
+    "openingLength": 104,
+    "endingTime": 1278,
+    "endingLength": 69
   },
   {
     "episode": 6,
@@ -45,7 +63,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/80064/01b2c84a1f441c249d82fecc1980af35/720p?translations=false&only_episode=true&only_season=true&episode=6",
     "date": 1674776145,
-    "durationSec": 1330
+    "durationSec": 1330,
+    "openingTime": 0,
+    "openingLength": 64,
+    "endingTime": 1267,
+    "endingLength": 54
   },
   {
     "episode": 1,

@@ -5,7 +5,12 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=37a751dd8bb145350f41d164cb67e1&translation=10&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677782848,
-    "durationSec": 1902
+    "durationSec": 1902,
+    "translationId": 10,
+    "openingTime": 115,
+    "openingLength": 49,
+    "endingTime": 1826,
+    "endingLength": 59
   },
   {
     "episode": 1,
@@ -13,7 +18,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/61489/d6184ccf7b871e27edcb434d962fcfb4/720p?translations=false&only_episode=true&only_season=true",
     "date": 0,
-    "durationSec": 1902
+    "durationSec": 1902,
+    "openingTime": 112,
+    "openingLength": 64,
+    "endingTime": 1830,
+    "endingLength": 64
   },
   {
     "episode": 1,
@@ -21,7 +30,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=anilibriatv&anime_id=32668&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
     "date": 1789132713,
-    "durationSec": 1902
+    "durationSec": 1902,
+    "openingTime": 110,
+    "openingLength": 64,
+    "endingTime": 1850,
+    "endingLength": 19
   },
   {
     "episode": 1,
@@ -29,7 +42,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/9952/3e224fe71150139ece6897e6a3b96be6/720p?translations=false&only_episode=true&only_season=true",
     "date": 0,
-    "durationSec": 1893
+    "durationSec": 1893,
+    "endingTime": 1820,
+    "endingLength": 54
   },
   {
     "episode": 1,

@@ -5,7 +5,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/42946/1e7a83240805214abc2aaea971a6c2df/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 0,
-    "durationSec": 1663
+    "durationSec": 1663,
+    "endingTime": 1564,
+    "endingLength": 89
   },
   {
     "episode": 2,
@@ -53,7 +55,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=dcd79daab75b4f01eacbff811d38d9&translation=9&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677783061,
-    "durationSec": 1663
+    "durationSec": 1663,
+    "translationId": 9
   },
   {
     "episode": 1,

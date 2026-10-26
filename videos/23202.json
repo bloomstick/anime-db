@@ -5,7 +5,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/65326/e7f0fed92bf9ce2aa0efb523e182a334/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1674776422,
-    "durationSec": 3564
+    "durationSec": 3564,
+    "openingTime": 0,
+    "openingLength": 154,
+    "endingTime": 3408,
+    "endingLength": 144
   },
   {
     "episode": 2,
@@ -13,7 +17,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/65326/e7f0fed92bf9ce2aa0efb523e182a334/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674776422,
-    "durationSec": 3573
+    "durationSec": 3573,
+    "endingTime": 3442,
+    "endingLength": 114
   },
   {
     "episode": 1,

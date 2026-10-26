@@ -5,7 +5,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/serial/19431/803bca1096a8b078d1b6b8abdc415eec/720p?season=1&only_episode=true&episode=1",
     "date": 0,
-    "durationSec": 1425
+    "durationSec": 1425,
+    "endingTime": 1374,
+    "endingLength": 34
   },
   {
     "episode": 2,
@@ -13,7 +15,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/serial/19431/803bca1096a8b078d1b6b8abdc415eec/720p?season=1&only_episode=true&episode=2",
     "date": 0,
-    "durationSec": 1427
+    "durationSec": 1427,
+    "endingTime": 1370,
+    "endingLength": 39
   },
   {
     "episode": 3,
@@ -21,7 +25,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/serial/19431/803bca1096a8b078d1b6b8abdc415eec/720p?season=1&only_episode=true&episode=3",
     "date": 0,
-    "durationSec": 1427
+    "durationSec": 1427,
+    "endingTime": 1357,
+    "endingLength": 49
   },
   {
     "episode": 4,
@@ -29,7 +35,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/serial/19431/803bca1096a8b078d1b6b8abdc415eec/720p?season=1&only_episode=true&episode=4",
     "date": 0,
-    "durationSec": 1427
+    "durationSec": 1427,
+    "endingTime": 1343,
+    "endingLength": 64
   },
   {
     "episode": 5,
@@ -37,7 +45,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/serial/19431/803bca1096a8b078d1b6b8abdc415eec/720p?season=1&only_episode=true&episode=5",
     "date": 0,
-    "durationSec": 1427
+    "durationSec": 1427,
+    "endingTime": 1336,
+    "endingLength": 89
   },
   {
     "episode": 6,
@@ -45,7 +55,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/serial/19431/803bca1096a8b078d1b6b8abdc415eec/720p?season=1&only_episode=true&episode=6",
     "date": 0,
-    "durationSec": 1426
+    "durationSec": 1426,
+    "endingTime": 1351,
+    "endingLength": 54
   },
   {
     "episode": 7,
@@ -69,7 +81,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/serial/19431/803bca1096a8b078d1b6b8abdc415eec/720p?season=1&only_episode=true&episode=9",
     "date": 0,
-    "durationSec": 1417
+    "durationSec": 1417,
+    "openingTime": 60,
+    "openingLength": 89,
+    "endingTime": 1338,
+    "endingLength": 59
   },
   {
     "episode": 10,

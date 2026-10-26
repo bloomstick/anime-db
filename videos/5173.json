@@ -29,7 +29,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/54235/cb99fd6eef56ae6d0baed56e1ec1704e/720p?translations=false&only_episode=true&only_season=true&episode=4",
     "date": 1718753219,
-    "durationSec": 503
+    "durationSec": 503,
+    "endingTime": 457,
+    "endingLength": 34
   },
   {
     "episode": 1,
@@ -197,6 +199,7 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=2a31c906b5d5710bc2da5951123448&translation=66&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1719311182,
-    "durationSec": 5930
+    "durationSec": 5930,
+    "translationId": 66
   }
 ]

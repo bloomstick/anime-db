@@ -5,7 +5,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/54431/22217e33bf4eada10b37b68b92ed35b1/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1674827010,
-    "durationSec": 1712
+    "durationSec": 1712,
+    "openingTime": 55,
+    "openingLength": 89,
+    "endingTime": 1684,
+    "endingLength": 19
   },
   {
     "episode": 2,
@@ -13,7 +17,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/54431/22217e33bf4eada10b37b68b92ed35b1/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674827010,
-    "durationSec": 1808
+    "durationSec": 1808,
+    "openingTime": 97,
+    "openingLength": 69,
+    "endingTime": 1758,
+    "endingLength": 24
   },
   {
     "episode": 3,

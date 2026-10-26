@@ -109,7 +109,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/110298/95c45e7bb32440068961fbecd64798c0/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1746583675,
-    "durationSec": 1440
+    "durationSec": 1440,
+    "openingTime": 55,
+    "openingLength": 69,
+    "endingTime": 1420,
+    "endingLength": 19
   },
   {
     "episode": 3,

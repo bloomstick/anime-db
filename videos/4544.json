@@ -5,7 +5,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/54236/ac3e7923743d36cfd3c7946468132f6c/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1674776571,
-    "durationSec": 507
+    "durationSec": 507,
+    "endingTime": 436,
+    "endingLength": 29
   },
   {
     "episode": 2,
@@ -13,7 +15,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/54236/ac3e7923743d36cfd3c7946468132f6c/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674776571,
-    "durationSec": 511
+    "durationSec": 511,
+    "endingTime": 441,
+    "endingLength": 59
   },
   {
     "episode": 1,
@@ -21,7 +25,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=SHIZA+Project&anime_id=10258&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+SHIZA+Project",
     "date": 1751853999,
-    "durationSec": 508
+    "durationSec": 508,
+    "openingTime": 0,
+    "openingLength": 44,
+    "endingTime": 473,
+    "endingLength": 14
   },
   {
     "episode": 2,
@@ -29,7 +37,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=SHIZA+Project&anime_id=10258&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+SHIZA+Project",
     "date": 1751853999,
-    "durationSec": 511
+    "durationSec": 511,
+    "openingTime": 0,
+    "openingLength": 39,
+    "endingTime": 463,
+    "endingLength": 29
   },
   {
     "episode": 1,

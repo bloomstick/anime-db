@@ -5,7 +5,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/58283/e225d6f5aba24f2a79cc56a185aea9e5/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1674826846,
-    "durationSec": 2637
+    "durationSec": 2637,
+    "endingTime": 2536,
+    "endingLength": 89
   },
   {
     "episode": 2,
@@ -13,7 +15,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/58283/e225d6f5aba24f2a79cc56a185aea9e5/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674826846,
-    "durationSec": 1770
+    "durationSec": 1770,
+    "openingTime": 145,
+    "openingLength": 89,
+    "endingTime": 1668,
+    "endingLength": 89
   },
   {
     "episode": 3,
@@ -21,7 +27,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/58283/e225d6f5aba24f2a79cc56a185aea9e5/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 1674826846,
-    "durationSec": 1790
+    "durationSec": 1790,
+    "openingTime": 83,
+    "openingLength": 89,
+    "endingTime": 1689,
+    "endingLength": 89
   },
   {
     "episode": 4,
@@ -29,7 +39,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/58283/e225d6f5aba24f2a79cc56a185aea9e5/720p?translations=false&only_episode=true&only_season=true&episode=4",
     "date": 1674826846,
-    "durationSec": 1796
+    "durationSec": 1796,
+    "openingTime": 40,
+    "openingLength": 89,
+    "endingTime": 1718,
+    "endingLength": 59
   },
   {
     "episode": 5,
@@ -37,7 +51,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/58283/e225d6f5aba24f2a79cc56a185aea9e5/720p?translations=false&only_episode=true&only_season=true&episode=5",
     "date": 1674826846,
-    "durationSec": 1811
+    "durationSec": 1811,
+    "openingTime": 114,
+    "openingLength": 69,
+    "endingTime": 1597,
+    "endingLength": 104
   },
   {
     "episode": 6,
@@ -53,6 +71,7 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=d2cc414d600b769e440d550e4dfdb9&translation=79&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677784230,
-    "durationSec": 1723
+    "durationSec": 1723,
+    "translationId": 79
   }
 ]

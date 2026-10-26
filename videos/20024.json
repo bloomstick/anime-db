@@ -141,7 +141,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/100880/ad3e7c09cb6b5b0ec314b16f855d624b/720p?translations=false&only_episode=true&only_season=true&episode=18",
     "date": 1728338376,
-    "durationSec": 519
+    "durationSec": 519,
+    "endingTime": 499,
+    "endingLength": 19
   },
   {
     "episode": 19,
@@ -149,7 +151,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/100880/ad3e7c09cb6b5b0ec314b16f855d624b/720p?translations=false&only_episode=true&only_season=true&episode=19",
     "date": 1728338376,
-    "durationSec": 532
+    "durationSec": 532,
+    "endingTime": 512,
+    "endingLength": 19
   },
   {
     "episode": 20,
@@ -173,7 +177,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/100880/ad3e7c09cb6b5b0ec314b16f855d624b/720p?translations=false&only_episode=true&only_season=true&episode=22",
     "date": 1730127843,
-    "durationSec": 525
+    "durationSec": 525,
+    "endingTime": 505,
+    "endingLength": 14
   },
   {
     "episode": 23,
@@ -181,7 +187,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/100880/ad3e7c09cb6b5b0ec314b16f855d624b/720p?translations=false&only_episode=true&only_season=true&episode=23",
     "date": 1730127843,
-    "durationSec": 525
+    "durationSec": 525,
+    "endingTime": 505,
+    "endingLength": 14
   },
   {
     "episode": 24,
@@ -237,7 +245,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/100880/ad3e7c09cb6b5b0ec314b16f855d624b/720p?translations=false&only_episode=true&only_season=true&episode=30",
     "date": 1737610238,
-    "durationSec": 513
+    "durationSec": 513,
+    "endingTime": 493,
+    "endingLength": 19
   },
   {
     "episode": 31,
@@ -253,7 +263,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/100880/ad3e7c09cb6b5b0ec314b16f855d624b/720p?translations=false&only_episode=true&only_season=true&episode=32",
     "date": 1776178490,
-    "durationSec": 469
+    "durationSec": 469,
+    "endingTime": 449,
+    "endingLength": 19
   },
   {
     "episode": 33,
@@ -261,7 +273,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/100880/ad3e7c09cb6b5b0ec314b16f855d624b/720p?translations=false&only_episode=true&only_season=true&episode=33",
     "date": 1776460440,
-    "durationSec": 500
+    "durationSec": 500,
+    "endingTime": 480,
+    "endingLength": 14
   },
   {
     "episode": 34,
@@ -277,7 +291,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/100880/ad3e7c09cb6b5b0ec314b16f855d624b/720p?translations=false&only_episode=true&only_season=true&episode=35",
     "date": 1777244280,
-    "durationSec": 493
+    "durationSec": 493,
+    "endingTime": 473,
+    "endingLength": 19
   },
   {
     "episode": 36,
@@ -1077,7 +1093,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/100667/b695185ed494204c48743ad75651859b/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1713339863,
-    "durationSec": 0
+    "durationSec": 0,
+    "openingTime": 20,
+    "openingLength": 89,
+    "endingTime": 625,
+    "endingLength": 69
   },
   {
     "episode": 2,

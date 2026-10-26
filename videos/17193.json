@@ -5,7 +5,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/82460/16ff07ff1be213547d34bb56a6cc3682/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1674776066,
-    "durationSec": 1350
+    "durationSec": 1350,
+    "openingTime": 128,
+    "openingLength": 69,
+    "endingTime": 1330,
+    "endingLength": 19
   },
   {
     "episode": 2,
@@ -101,7 +105,9 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%9F%D0%92%D0%90+%D0%A8%D0%9E%D0%A3&anime_id=50571&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%9F%D0%92%D0%90+%D0%A8%D0%9E%D0%A3",
     "date": 1760199235,
-    "durationSec": 1374
+    "durationSec": 1374,
+    "endingTime": 1354,
+    "endingLength": 19
   },
   {
     "episode": 2,
@@ -197,7 +203,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=d7f744705a4e86f581cd62933836d0&translation=88&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1720964639,
-    "durationSec": 1350
+    "durationSec": 1350,
+    "translationId": 88
   },
   {
     "episode": 2,
@@ -205,7 +212,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=d7f744705a4e86f581cd62933836d0&translation=88&season=1&episode=2&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1720964639,
-    "durationSec": 935
+    "durationSec": 935,
+    "translationId": 88
   },
   {
     "episode": 3,
@@ -213,7 +221,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=d7f744705a4e86f581cd62933836d0&translation=88&season=1&episode=3&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1720964639,
-    "durationSec": 880
+    "durationSec": 880,
+    "translationId": 88
   },
   {
     "episode": 4,
@@ -221,7 +230,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=d7f744705a4e86f581cd62933836d0&translation=88&season=1&episode=4&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1720964639,
-    "durationSec": 879
+    "durationSec": 879,
+    "translationId": 88
   },
   {
     "episode": 5,
@@ -229,7 +239,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=d7f744705a4e86f581cd62933836d0&translation=88&season=1&episode=5&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1720964639,
-    "durationSec": 919
+    "durationSec": 919,
+    "translationId": 88
   },
   {
     "episode": 6,
@@ -237,7 +248,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=d7f744705a4e86f581cd62933836d0&translation=88&season=1&episode=6&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1720964639,
-    "durationSec": 897
+    "durationSec": 897,
+    "translationId": 88
   },
   {
     "episode": 7,
@@ -245,7 +257,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=d7f744705a4e86f581cd62933836d0&translation=88&season=1&episode=7&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1720964639,
-    "durationSec": 921
+    "durationSec": 921,
+    "translationId": 88
   },
   {
     "episode": 8,
@@ -253,7 +266,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=d7f744705a4e86f581cd62933836d0&translation=88&season=1&episode=8&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1720964639,
-    "durationSec": 920
+    "durationSec": 920,
+    "translationId": 88
   },
   {
     "episode": 9,
@@ -261,7 +275,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=d7f744705a4e86f581cd62933836d0&translation=88&season=1&episode=9&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1720964639,
-    "durationSec": 1024
+    "durationSec": 1024,
+    "translationId": 88
   },
   {
     "episode": 10,
@@ -269,7 +284,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=d7f744705a4e86f581cd62933836d0&translation=88&season=1&episode=10&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1720964639,
-    "durationSec": 888
+    "durationSec": 888,
+    "translationId": 88
   },
   {
     "episode": 11,
@@ -277,7 +293,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=d7f744705a4e86f581cd62933836d0&translation=88&season=1&episode=11&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1720964639,
-    "durationSec": 896
+    "durationSec": 896,
+    "translationId": 88
   },
   {
     "episode": 12,
@@ -285,7 +302,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=d7f744705a4e86f581cd62933836d0&translation=88&season=1&episode=12&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1720964639,
-    "durationSec": 1151
+    "durationSec": 1151,
+    "translationId": 88
   },
   {
     "episode": 1,

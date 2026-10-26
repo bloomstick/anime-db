@@ -5,7 +5,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/111025/64a66725cb9d61298e3e09de55dca38b/720p?translations=false&only_episode=true&only_season=true",
     "date": 1747872806,
-    "durationSec": 1399
+    "durationSec": 1399,
+    "endingTime": 1314,
+    "endingLength": 64
   },
   {
     "episode": 1,
@@ -13,7 +15,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniStar&anime_id=59843&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniStar",
     "date": 1751857065,
-    "durationSec": 1400
+    "durationSec": 1400,
+    "openingTime": 0,
+    "openingLength": 304,
+    "endingTime": 1311,
+    "endingLength": 69
   },
   {
     "episode": 1,

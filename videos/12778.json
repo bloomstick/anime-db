@@ -17,19 +17,12 @@
   },
   {
     "episode": 1,
-    "dub": "Озвучка Профессиональный многоголосый",
-    "player": "Плеер Alloha",
-    "iframeUrl": "https://alloha.yani.tv/?token_movie=b2dba53ff0d8d442bcc49e9cbd3f60&translation=87&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
-    "date": 1677783596,
-    "durationSec": 5012
-  },
-  {
-    "episode": 1,
     "dub": "Озвучка Дублированная",
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=b2dba53ff0d8d442bcc49e9cbd3f60&translation=66&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1689351909,
-    "durationSec": 5012
+    "durationSec": 5012,
+    "translationId": 66
   },
   {
     "episode": 1,
@@ -69,7 +62,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=b2dba53ff0d8d442bcc49e9cbd3f60&translation=158&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677783596,
-    "durationSec": 0
+    "durationSec": 0,
+    "translationId": 158
   },
   {
     "episode": 1,

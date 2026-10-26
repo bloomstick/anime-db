@@ -5,7 +5,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/33121/30f048b8617ea4170c452bc5aa921fbd/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1674827140,
-    "durationSec": 1428
+    "durationSec": 1428,
+    "endingTime": 1333,
+    "endingLength": 89
   },
   {
     "episode": 2,
@@ -13,7 +15,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/33121/30f048b8617ea4170c452bc5aa921fbd/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674827140,
-    "durationSec": 1428
+    "durationSec": 1428,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1382,
+    "endingLength": 19
   },
   {
     "episode": 3,

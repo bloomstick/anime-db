@@ -21,7 +21,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/60421/ad77ad578a19c49364702127d8fc1458/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 1674776563,
-    "durationSec": 1485
+    "durationSec": 1485,
+    "openingTime": 71,
+    "openingLength": 89,
+    "endingTime": 1337,
+    "endingLength": 34
   },
   {
     "episode": 4,
@@ -29,7 +33,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/60421/ad77ad578a19c49364702127d8fc1458/720p?translations=false&only_episode=true&only_season=true&episode=4",
     "date": 1674776563,
-    "durationSec": 1485
+    "durationSec": 1485,
+    "endingTime": 1401,
+    "endingLength": 24
   },
   {
     "episode": 5,

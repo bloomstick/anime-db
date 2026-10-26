@@ -5,7 +5,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/92238/31bb5d21687c4899c9b46262660b67fa/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1688457903,
-    "durationSec": 1583
+    "durationSec": 1583,
+    "openingTime": 118,
+    "openingLength": 89,
+    "endingTime": 1516,
+    "endingLength": 49
   },
   {
     "episode": 2,
@@ -13,7 +17,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/92238/31bb5d21687c4899c9b46262660b67fa/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1688457903,
-    "durationSec": 1390
+    "durationSec": 1390,
+    "openingTime": 98,
+    "openingLength": 89,
+    "endingTime": 1359,
+    "endingLength": 19
   },
   {
     "episode": 1,

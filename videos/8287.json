@@ -5,7 +5,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/30009/c08e8ea215a622615dcfdf155468d933/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1674775995,
-    "durationSec": 1425
+    "durationSec": 1425,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1329,
+    "endingLength": 89
   },
   {
     "episode": 2,
@@ -13,7 +17,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/30009/c08e8ea215a622615dcfdf155468d933/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674775995,
-    "durationSec": 1425
+    "durationSec": 1425,
+    "openingTime": 33,
+    "openingLength": 89,
+    "endingTime": 1351,
+    "endingLength": 64
   },
   {
     "episode": 1,

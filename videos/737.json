@@ -5,7 +5,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/30424/c50e8c0abc0f8b4100a897559ebb990d/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1674775978,
-    "durationSec": 1405
+    "durationSec": 1405,
+    "openingTime": 119,
+    "openingLength": 89,
+    "endingTime": 1310,
+    "endingLength": 89
   },
   {
     "episode": 2,
@@ -13,7 +17,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/30424/c50e8c0abc0f8b4100a897559ebb990d/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674775978,
-    "durationSec": 1406
+    "durationSec": 1406,
+    "openingTime": 52,
+    "openingLength": 89,
+    "endingTime": 1312,
+    "endingLength": 29
   },
   {
     "episode": 3,

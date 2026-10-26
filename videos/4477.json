@@ -5,7 +5,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/59260/58fa8b98d76f46a04fc884f852323c84/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1674776596,
-    "durationSec": 1450
+    "durationSec": 1450,
+    "openingTime": 153,
+    "openingLength": 89,
+    "endingTime": 1424,
+    "endingLength": 14
   },
   {
     "episode": 2,
@@ -13,6 +17,10 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/59260/58fa8b98d76f46a04fc884f852323c84/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674776596,
-    "durationSec": 1420
+    "durationSec": 1420,
+    "openingTime": 85,
+    "openingLength": 89,
+    "endingTime": 1325,
+    "endingLength": 89
   }
 ]

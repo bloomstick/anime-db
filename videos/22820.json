@@ -13,7 +13,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/52548/4b3083020babf0df4aff7366d5fee2bc/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674827155,
-    "durationSec": 1451
+    "durationSec": 1451,
+    "endingTime": 1369,
+    "endingLength": 69
   },
   {
     "episode": 3,
@@ -21,7 +23,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/52548/4b3083020babf0df4aff7366d5fee2bc/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 1674827155,
-    "durationSec": 1452
+    "durationSec": 1452,
+    "openingTime": 29,
+    "openingLength": 89,
+    "endingTime": 1355,
+    "endingLength": 89
   },
   {
     "episode": 4,

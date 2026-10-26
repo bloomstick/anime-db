@@ -13,7 +13,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/34215/814216b29fea4542aaf48395f8ad30bc/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674827144,
-    "durationSec": 1440
+    "durationSec": 1440,
+    "openingTime": 114,
+    "openingLength": 89,
+    "endingTime": 1320,
+    "endingLength": 44
   },
   {
     "episode": 3,
@@ -21,7 +25,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/34215/814216b29fea4542aaf48395f8ad30bc/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 1674827144,
-    "durationSec": 1440
+    "durationSec": 1440,
+    "openingTime": 79,
+    "openingLength": 89,
+    "endingTime": 1320,
+    "endingLength": 109
   },
   {
     "episode": 4,

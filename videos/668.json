@@ -5,7 +5,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/32926/0655f8ae8e3eea3df32a43c9c8c352c6/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1674827124,
-    "durationSec": 1469
+    "durationSec": 1469,
+    "endingTime": 1339,
+    "endingLength": 89
   },
   {
     "episode": 2,
@@ -13,7 +15,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/32926/0655f8ae8e3eea3df32a43c9c8c352c6/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1674827124,
-    "durationSec": 1466
+    "durationSec": 1466,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1363,
+    "endingLength": 89
   },
   {
     "episode": 3,

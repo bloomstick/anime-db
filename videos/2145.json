@@ -5,7 +5,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/86157/273d7935bb65ba4e13fdcdc1e3b8c955/720p?translations=false&only_episode=true&only_season=true",
     "date": 1674776126,
-    "durationSec": 1969
+    "durationSec": 1969,
+    "endingTime": 1659,
+    "endingLength": 129
   },
   {
     "episode": 1,
@@ -21,7 +23,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=f2b2cbfae03157a785257e17237593&translation=79&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677783467,
-    "durationSec": 1960
+    "durationSec": 1960,
+    "translationId": 79
   },
   {
     "episode": 1,
@@ -29,6 +32,8 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/96695/476f26e6f97dd522a44e8ccd0b0f67ba/720p?translations=false&only_episode=true&only_season=true",
     "date": 1697030632,
-    "durationSec": 1969
+    "durationSec": 1969,
+    "endingTime": 1659,
+    "endingLength": 129
   }
 ]

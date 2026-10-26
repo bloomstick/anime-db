@@ -5,7 +5,10 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=96b056ea68a61ea13c9038668915ca&translation=9&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677783137,
-    "durationSec": 7159
+    "durationSec": 7159,
+    "translationId": 9,
+    "endingTime": 7081,
+    "endingLength": 64
   },
   {
     "episode": 1,
@@ -13,7 +16,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/20629/d7a17f7db0b19ad60f6e748754fd9dbc/720p?translations=false&only_episode=true&only_season=true",
     "date": 0,
-    "durationSec": 7159
+    "durationSec": 7159,
+    "endingTime": 7120,
+    "endingLength": 29
   },
   {
     "episode": 1,

@@ -5,7 +5,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/121767/657c723ba11f44b4da837f4019fae890/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1784614334,
-    "durationSec": 1719
+    "durationSec": 1719,
+    "openingTime": 77,
+    "openingLength": 89,
+    "endingTime": 1626,
+    "endingLength": 89
   },
   {
     "episode": 2,
@@ -13,7 +17,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/121767/657c723ba11f44b4da837f4019fae890/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1784643393,
-    "durationSec": 1670
+    "durationSec": 1670,
+    "openingTime": 52,
+    "openingLength": 89,
+    "endingTime": 1654,
+    "endingLength": 14
   },
   {
     "episode": 3,

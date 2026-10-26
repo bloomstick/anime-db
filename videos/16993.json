@@ -5,7 +5,10 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=0fcb5cbff37ed7546c6e70112c4c4a&translation=10&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1679957143,
-    "durationSec": 7173
+    "durationSec": 7173,
+    "translationId": 10,
+    "endingTime": 6980,
+    "endingLength": 174
   },
   {
     "episode": 1,
@@ -13,7 +16,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/89540/c3b382a8c0226c43a599c919d8799747/720p?translations=false&only_episode=true&only_season=true",
     "date": 1674776027,
-    "durationSec": 7248
+    "durationSec": 7248,
+    "endingTime": 7069,
+    "endingLength": 99
   },
   {
     "episode": 1,
@@ -29,7 +34,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=0fcb5cbff37ed7546c6e70112c4c4a&translation=167&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1679957143,
-    "durationSec": 7173
+    "durationSec": 7173,
+    "translationId": 167
   },
   {
     "episode": 1,
@@ -61,7 +67,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=0fcb5cbff37ed7546c6e70112c4c4a&translation=96&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1679957143,
-    "durationSec": 7173
+    "durationSec": 7173,
+    "translationId": 96
   },
   {
     "episode": 1,
@@ -109,7 +116,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=0fcb5cbff37ed7546c6e70112c4c4a&translation=197&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1679957143,
-    "durationSec": 0
+    "durationSec": 0,
+    "translationId": 197
   },
   {
     "episode": 1,
@@ -173,6 +181,7 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=0fcb5cbff37ed7546c6e70112c4c4a&translation=88&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1679957143,
-    "durationSec": 0
+    "durationSec": 0,
+    "translationId": 88
   }
 ]

@@ -5,7 +5,9 @@
     "player": "Плеер Aksor",
     "iframeUrl": "https://player.aksor.tv/video/e53f37a746e97d70c09ba3f92ebb0987",
     "date": 1729264469,
-    "durationSec": 1573
+    "durationSec": 1573,
+    "endingTime": 1520,
+    "endingLength": 24
   },
   {
     "episode": 1,
@@ -13,7 +15,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/20459/cae51b46f5e78b4e378e9f568401e796/720p?translations=false&only_episode=true&only_season=true",
     "date": 0,
-    "durationSec": 1573
+    "durationSec": 1573,
+    "endingTime": 1553,
+    "endingLength": 14
   },
   {
     "episode": 1,
@@ -29,7 +33,8 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=a44a67d1ed0ac5c9fa0d8e1c30d5f5&translation=9&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677764274,
-    "durationSec": 1573
+    "durationSec": 1573,
+    "translationId": 9
   },
   {
     "episode": 1,
@@ -53,7 +58,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/video/90898/3e563aa382c6cbf34c5109bc9fa6c87d/720p?translations=false&only_episode=true&only_season=true",
     "date": 0,
-    "durationSec": 1573
+    "durationSec": 1573,
+    "endingTime": 1470,
+    "endingLength": 89
   },
   {
     "episode": 1,

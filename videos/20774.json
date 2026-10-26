@@ -5,7 +5,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/105791/1ff55bb1af21ccedf053e44eb8285516/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1731853043,
-    "durationSec": 1183
+    "durationSec": 1183,
+    "openingTime": 0,
+    "openingLength": 139,
+    "endingTime": 1156,
+    "endingLength": 14
   },
   {
     "episode": 2,
@@ -13,7 +17,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/105791/1ff55bb1af21ccedf053e44eb8285516/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1732153836,
-    "durationSec": 1402
+    "durationSec": 1402,
+    "openingTime": 0,
+    "openingLength": 114,
+    "endingTime": 1298,
+    "endingLength": 89
   },
   {
     "episode": 3,
