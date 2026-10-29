@@ -48,6 +48,14 @@
     "endingLength": 89
   },
   {
+    "episode": 5,
+    "dub": "Озвучка FumoDub",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/122925/141598c308c95d166c51d1a849cf850e/720p?translations=false&only_episode=true&only_season=true&episode=5",
+    "date": 1793282088,
+    "durationSec": 1425
+  },
+  {
     "episode": 1,
     "dub": "Озвучка FumoDub",
     "player": "Плеер Alloha",
@@ -73,6 +81,70 @@
     "date": 1792081305,
     "durationSec": 1425,
     "translationId": 285
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка NDA Studio",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123445/2b10e53270e95e50b46ba0be5fd6ebf6/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1791473228,
+    "durationSec": 1429,
+    "openingTime": 56,
+    "openingLength": 89,
+    "endingTime": 1310,
+    "endingLength": 109
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка NDA Studio",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123445/2b10e53270e95e50b46ba0be5fd6ebf6/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1791478787,
+    "durationSec": 1429,
+    "openingTime": 106,
+    "openingLength": 89,
+    "endingTime": 1309,
+    "endingLength": 109
+  },
+  {
+    "episode": 3,
+    "dub": "Озвучка NDA Studio",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123445/2b10e53270e95e50b46ba0be5fd6ebf6/720p?translations=false&only_episode=true&only_season=true&episode=3",
+    "date": 1793116730,
+    "durationSec": 1425
+  },
+  {
+    "episode": 4,
+    "dub": "Озвучка NDA Studio",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123445/2b10e53270e95e50b46ba0be5fd6ebf6/720p?translations=false&only_episode=true&only_season=true&episode=4",
+    "date": 1793116730,
+    "durationSec": 1425
+  },
+  {
+    "episode": 5,
+    "dub": "Озвучка NDA Studio",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123445/2b10e53270e95e50b46ba0be5fd6ebf6/720p?translations=false&only_episode=true&only_season=true&episode=5",
+    "date": 1793283006,
+    "durationSec": 1425
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка NDA Studio",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=NDA+Studio&anime_id=63337&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+NDA+Studio",
+    "date": 1791811692,
+    "durationSec": 1425
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка NDA Studio",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=NDA+Studio&anime_id=63337&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+NDA+Studio",
+    "date": 1791811692,
+    "durationSec": 1427
   },
   {
     "episode": 1,
@@ -117,6 +189,14 @@
     "openingLength": 89,
     "endingTime": 1305,
     "endingLength": 109
+  },
+  {
+    "episode": 5,
+    "dub": "Субтитры Crunchyroll",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123046/0cfd7326173886cbae36e6f60c041ce0/720p?translations=false&only_episode=true&only_season=true&episode=5",
+    "date": 1793279333,
+    "durationSec": 1425
   },
   {
     "episode": 1,
@@ -172,7 +252,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123063/8cdfce2200ec98d08d2ec0396bf0e706/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1790887210,
-    "durationSec": 1425
+    "durationSec": 1425,
+    "openingTime": 17,
+    "openingLength": 114,
+    "endingTime": 1368,
+    "endingLength": 24
   },
   {
     "episode": 2,
@@ -269,46 +353,6 @@
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=hon-kon+studio&anime_id=63337&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+hon-kon+studio",
     "date": 1792226878,
     "durationSec": 1425
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка NDA Studio",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123445/2b10e53270e95e50b46ba0be5fd6ebf6/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1791473228,
-    "durationSec": 1429,
-    "openingTime": 56,
-    "openingLength": 89,
-    "endingTime": 1310,
-    "endingLength": 109
-  },
-  {
-    "episode": 2,
-    "dub": "Озвучка NDA Studio",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123445/2b10e53270e95e50b46ba0be5fd6ebf6/720p?translations=false&only_episode=true&only_season=true&episode=2",
-    "date": 1791478787,
-    "durationSec": 1429,
-    "openingTime": 106,
-    "openingLength": 89,
-    "endingTime": 1309,
-    "endingLength": 109
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка NDA Studio",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=NDA+Studio&anime_id=63337&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+NDA+Studio",
-    "date": 1791811692,
-    "durationSec": 1425
-  },
-  {
-    "episode": 2,
-    "dub": "Озвучка NDA Studio",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=NDA+Studio&anime_id=63337&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+NDA+Studio",
-    "date": 1791811692,
-    "durationSec": 1427
   },
   {
     "episode": 2,

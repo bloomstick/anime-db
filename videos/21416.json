@@ -169,7 +169,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/122007/802463b5696ce16afbd5d8db91a8a8ca/720p?translations=false&only_episode=true&only_season=true&episode=15",
     "date": 1793035091,
-    "durationSec": 1181
+    "durationSec": 1181,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1063,
+    "endingLength": 24
   },
   {
     "episode": 1,
@@ -293,7 +297,7 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=FumoDub&anime_id=61634&episode=14&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+FumoDub",
     "date": 1793009554,
-    "durationSec": 0
+    "durationSec": 1205
   },
   {
     "episode": 15,
@@ -463,7 +467,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/122040/05c16e1044237914d68d7d18a4e2bd62/720p?translations=false&only_episode=true&only_season=true&episode=14",
     "date": 1792673739,
-    "durationSec": 1205
+    "durationSec": 1205,
+    "openingTime": 32,
+    "openingLength": 59,
+    "endingTime": 1137,
+    "endingLength": 49
   },
   {
     "episode": 1,
@@ -647,6 +655,14 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=BlackCat&anime_id=61634&episode=10&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+BlackCat",
     "date": 1792697748,
+    "durationSec": 0
+  },
+  {
+    "episode": 13,
+    "dub": "Дубляж BlackCat",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=BlackCat&anime_id=61634&episode=13&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+BlackCat",
+    "date": 1793187785,
     "durationSec": 0
   },
   {

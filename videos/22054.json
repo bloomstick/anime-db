@@ -277,7 +277,7 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=SubVost&anime_id=63042&episode=3&dubbing=%D0%A1%D1%83%D0%B1%D1%82%D0%B8%D1%82%D1%80%D1%8B+SubVost",
     "date": 1791205331,
-    "durationSec": 0
+    "durationSec": 1448
   },
   {
     "episode": 16,
@@ -505,7 +505,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/117190/c0a3527c2d0ba89e8668bcb5cc964da3/720p?translations=false&only_episode=true&only_season=true&episode=17",
     "date": 1779699977,
-    "durationSec": 1448
+    "durationSec": 1448,
+    "openingTime": 107,
+    "openingLength": 89,
+    "endingTime": 1355,
+    "endingLength": 89
   },
   {
     "episode": 18,

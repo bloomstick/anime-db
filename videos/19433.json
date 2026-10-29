@@ -256,7 +256,11 @@
     "iframeUrl": "https://alloha.yani.tv/?token_movie=cb51e17861b0b5cd2e854482a2d529&translation=340&season=1&episode=5&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1793006906,
     "durationSec": 1421,
-    "translationId": 340
+    "translationId": 340,
+    "openingTime": 89,
+    "openingLength": 89,
+    "endingTime": 1262,
+    "endingLength": 99
   },
   {
     "episode": 1,
@@ -310,7 +314,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123238/953af98403b5e0001509fc6badcdf8fa/720p?translations=false&only_episode=true&only_season=true&episode=5",
     "date": 1792984108,
-    "durationSec": 1421
+    "durationSec": 1421,
+    "openingTime": 93,
+    "openingLength": 89,
+    "endingTime": 1401,
+    "endingLength": 19
   },
   {
     "episode": 1,

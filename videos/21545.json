@@ -250,7 +250,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123195/8ade4a470e19fb4468710f9d2a492970/720p?translations=false&only_episode=true&only_season=true&episode=4",
     "date": 1793027749,
-    "durationSec": 1452
+    "durationSec": 1452,
+    "endingTime": 1432,
+    "endingLength": 14
   },
   {
     "episode": 1,
@@ -308,78 +310,6 @@
     "iframeUrl": "https://kodikplayer.com/season/123124/59d231783bb3b5626a4e2e14b0ab14c6/720p?translations=false&only_episode=true&only_season=true&episode=4",
     "date": 1792859255,
     "durationSec": 1430
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка VOLKOFRENIA",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123134/dc4b9f679ed97946b8b1da3fb26a47a1/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1791064608,
-    "durationSec": 1429
-  },
-  {
-    "episode": 2,
-    "dub": "Озвучка VOLKOFRENIA",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123134/dc4b9f679ed97946b8b1da3fb26a47a1/720p?translations=false&only_episode=true&only_season=true&episode=2",
-    "date": 1791650774,
-    "durationSec": 1429,
-    "openingTime": 45,
-    "openingLength": 184,
-    "endingTime": 1343,
-    "endingLength": 89
-  },
-  {
-    "episode": 3,
-    "dub": "Озвучка VOLKOFRENIA",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123134/dc4b9f679ed97946b8b1da3fb26a47a1/720p?translations=false&only_episode=true&only_season=true&episode=3",
-    "date": 1792254167,
-    "durationSec": 1429,
-    "openingTime": 218,
-    "openingLength": 59,
-    "endingTime": 1375,
-    "endingLength": 29
-  },
-  {
-    "episode": 4,
-    "dub": "Озвучка VOLKOFRENIA",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123134/dc4b9f679ed97946b8b1da3fb26a47a1/720p?translations=false&only_episode=true&only_season=true&episode=4",
-    "date": 1792872745,
-    "durationSec": 1429
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка VOLKOFRENIA",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=VOLKOFRENIA&anime_id=61967&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+VOLKOFRENIA",
-    "date": 1791054126,
-    "durationSec": 1429
-  },
-  {
-    "episode": 2,
-    "dub": "Озвучка VOLKOFRENIA",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=VOLKOFRENIA&anime_id=61967&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+VOLKOFRENIA",
-    "date": 1791649902,
-    "durationSec": 1429
-  },
-  {
-    "episode": 3,
-    "dub": "Озвучка VOLKOFRENIA",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=VOLKOFRENIA&anime_id=61967&episode=3&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+VOLKOFRENIA",
-    "date": 1792255705,
-    "durationSec": 1429
-  },
-  {
-    "episode": 4,
-    "dub": "Озвучка VOLKOFRENIA",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=VOLKOFRENIA&anime_id=61967&episode=4&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+VOLKOFRENIA",
-    "date": 1792872186,
-    "durationSec": 1429
   },
   {
     "episode": 1,
@@ -468,6 +398,78 @@
   },
   {
     "episode": 1,
+    "dub": "Озвучка VOLKOFRENIA",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123134/dc4b9f679ed97946b8b1da3fb26a47a1/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1791064608,
+    "durationSec": 1429
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка VOLKOFRENIA",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123134/dc4b9f679ed97946b8b1da3fb26a47a1/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1791650774,
+    "durationSec": 1429,
+    "openingTime": 45,
+    "openingLength": 184,
+    "endingTime": 1343,
+    "endingLength": 89
+  },
+  {
+    "episode": 3,
+    "dub": "Озвучка VOLKOFRENIA",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123134/dc4b9f679ed97946b8b1da3fb26a47a1/720p?translations=false&only_episode=true&only_season=true&episode=3",
+    "date": 1792254167,
+    "durationSec": 1429,
+    "openingTime": 218,
+    "openingLength": 59,
+    "endingTime": 1375,
+    "endingLength": 29
+  },
+  {
+    "episode": 4,
+    "dub": "Озвучка VOLKOFRENIA",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123134/dc4b9f679ed97946b8b1da3fb26a47a1/720p?translations=false&only_episode=true&only_season=true&episode=4",
+    "date": 1792872745,
+    "durationSec": 1429
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка VOLKOFRENIA",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=VOLKOFRENIA&anime_id=61967&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+VOLKOFRENIA",
+    "date": 1791054126,
+    "durationSec": 1429
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка VOLKOFRENIA",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=VOLKOFRENIA&anime_id=61967&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+VOLKOFRENIA",
+    "date": 1791649902,
+    "durationSec": 1429
+  },
+  {
+    "episode": 3,
+    "dub": "Озвучка VOLKOFRENIA",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=VOLKOFRENIA&anime_id=61967&episode=3&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+VOLKOFRENIA",
+    "date": 1792255705,
+    "durationSec": 1429
+  },
+  {
+    "episode": 4,
+    "dub": "Озвучка VOLKOFRENIA",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=VOLKOFRENIA&anime_id=61967&episode=4&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+VOLKOFRENIA",
+    "date": 1792872186,
+    "durationSec": 1429
+  },
+  {
+    "episode": 1,
     "dub": "Озвучка AniBaza",
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123260/1f47b5e9a090f94b5bbeadec4aa6e500/720p?translations=false&only_episode=true&only_season=true&episode=1",
@@ -512,6 +514,74 @@
   },
   {
     "episode": 1,
+    "dub": "Озвучка DubClub",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123217/e8ae342f5cf737e49743f4fc0eeb9eca/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1791136148,
+    "durationSec": 1430
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка DubClub",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123217/e8ae342f5cf737e49743f4fc0eeb9eca/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1791836184,
+    "durationSec": 1430,
+    "openingTime": 18,
+    "openingLength": 189,
+    "endingTime": 1384,
+    "endingLength": 29
+  },
+  {
+    "episode": 3,
+    "dub": "Озвучка DubClub",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123217/e8ae342f5cf737e49743f4fc0eeb9eca/720p?translations=false&only_episode=true&only_season=true&episode=3",
+    "date": 1792416889,
+    "durationSec": 1430
+  },
+  {
+    "episode": 4,
+    "dub": "Озвучка DubClub",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123217/e8ae342f5cf737e49743f4fc0eeb9eca/720p?translations=false&only_episode=true&only_season=true&episode=4",
+    "date": 1793101127,
+    "durationSec": 1430
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка DubClub",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=DubClub&anime_id=61967&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+DubClub",
+    "date": 1791851521,
+    "durationSec": 1430
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка DubClub",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=DubClub&anime_id=61967&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+DubClub",
+    "date": 1791851521,
+    "durationSec": 1430
+  },
+  {
+    "episode": 3,
+    "dub": "Озвучка DubClub",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=DubClub&anime_id=61967&episode=3&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+DubClub",
+    "date": 1792403355,
+    "durationSec": 1429
+  },
+  {
+    "episode": 4,
+    "dub": "Озвучка DubClub",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=DubClub&anime_id=61967&episode=4&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+DubClub",
+    "date": 1793099663,
+    "durationSec": 1430
+  },
+  {
+    "episode": 1,
     "dub": "Субтитры SubVost",
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=SubVost&anime_id=61967&episode=1&dubbing=%D0%A1%D1%83%D0%B1%D1%82%D0%B8%D1%82%D1%80%D1%8B+SubVost",
@@ -550,54 +620,6 @@
   },
   {
     "episode": 1,
-    "dub": "Озвучка DubClub",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123217/e8ae342f5cf737e49743f4fc0eeb9eca/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1791136148,
-    "durationSec": 1430
-  },
-  {
-    "episode": 2,
-    "dub": "Озвучка DubClub",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123217/e8ae342f5cf737e49743f4fc0eeb9eca/720p?translations=false&only_episode=true&only_season=true&episode=2",
-    "date": 1791836184,
-    "durationSec": 1430
-  },
-  {
-    "episode": 3,
-    "dub": "Озвучка DubClub",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123217/e8ae342f5cf737e49743f4fc0eeb9eca/720p?translations=false&only_episode=true&only_season=true&episode=3",
-    "date": 1792416889,
-    "durationSec": 1430
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка DubClub",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=DubClub&anime_id=61967&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+DubClub",
-    "date": 1791851521,
-    "durationSec": 1430
-  },
-  {
-    "episode": 2,
-    "dub": "Озвучка DubClub",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=DubClub&anime_id=61967&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+DubClub",
-    "date": 1791851521,
-    "durationSec": 1430
-  },
-  {
-    "episode": 3,
-    "dub": "Озвучка DubClub",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=DubClub&anime_id=61967&episode=3&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+DubClub",
-    "date": 1792403355,
-    "durationSec": 1429
-  },
-  {
-    "episode": 1,
     "dub": "Озвучка Mirano",
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123618/f2fc99fc1e1a8ead0db44669645e3d93/720p?translations=false&only_episode=true&only_season=true&episode=1",
@@ -610,7 +632,7 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123618/f2fc99fc1e1a8ead0db44669645e3d93/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1792497764,
-    "durationSec": 0
+    "durationSec": 1430
   },
   {
     "episode": 3,
@@ -618,7 +640,7 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123618/f2fc99fc1e1a8ead0db44669645e3d93/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 1792781238,
-    "durationSec": 0
+    "durationSec": 1429
   },
   {
     "episode": 1,
