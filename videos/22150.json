@@ -214,7 +214,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Dream+Cast&anime_id=63382&episode=4&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Dream+Cast",
     "date": 1793229706,
-    "durationSec": 1449
+    "durationSec": 1449,
+    "openingTime": 114,
+    "openingLength": 44,
+    "endingTime": 1395,
+    "endingLength": 34
   },
   {
     "episode": 1,
@@ -453,6 +457,49 @@
   },
   {
     "episode": 1,
+    "dub": "Озвучка AniBaza",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123481/edfd5e8e034bf7f329f6a07776434251/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1791494707,
+    "durationSec": 1443,
+    "endingTime": 1350,
+    "endingLength": 89
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniBaza",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123481/edfd5e8e034bf7f329f6a07776434251/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1792249570,
+    "durationSec": 1443
+  },
+  {
+    "episode": 3,
+    "dub": "Озвучка AniBaza",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123481/edfd5e8e034bf7f329f6a07776434251/720p?translations=false&only_episode=true&only_season=true&episode=3",
+    "date": 1792707847,
+    "durationSec": 1443
+  },
+  {
+    "episode": 4,
+    "dub": "Озвучка AniBaza",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123481/edfd5e8e034bf7f329f6a07776434251/720p?translations=false&only_episode=true&only_season=true&episode=4",
+    "date": 1793376592,
+    "durationSec": 1443
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniBaza",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=bb5c729b2ada5aa7f56fb7c126d3ee&translation=271&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1792056283,
+    "durationSec": 1443,
+    "translationId": 271
+  },
+  {
+    "episode": 1,
     "dub": "Озвучка AniLibria",
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123856/3e38cf84ace134d7b10463f6891274da/720p?translations=false&only_episode=true&only_season=true&episode=1",
@@ -532,41 +579,6 @@
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=DreamyVoice&anime_id=63382&episode=3&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+DreamyVoice",
     "date": 1792614558,
     "durationSec": 1443
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка AniBaza",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123481/edfd5e8e034bf7f329f6a07776434251/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1791494707,
-    "durationSec": 1443,
-    "endingTime": 1350,
-    "endingLength": 89
-  },
-  {
-    "episode": 2,
-    "dub": "Озвучка AniBaza",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123481/edfd5e8e034bf7f329f6a07776434251/720p?translations=false&only_episode=true&only_season=true&episode=2",
-    "date": 1792249570,
-    "durationSec": 1443
-  },
-  {
-    "episode": 3,
-    "dub": "Озвучка AniBaza",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123481/edfd5e8e034bf7f329f6a07776434251/720p?translations=false&only_episode=true&only_season=true&episode=3",
-    "date": 1792707847,
-    "durationSec": 1443
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка AniBaza",
-    "player": "Плеер Alloha",
-    "iframeUrl": "https://alloha.yani.tv/?token_movie=bb5c729b2ada5aa7f56fb7c126d3ee&translation=271&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
-    "date": 1792056283,
-    "durationSec": 1443,
-    "translationId": 271
   },
   {
     "episode": 1,

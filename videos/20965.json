@@ -70,6 +70,14 @@
     "endingLength": 19
   },
   {
+    "episode": 7,
+    "dub": "Озвучка Дублированная",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123108/cf1646c983daf4e198c848d86152956f/720p?translations=false&only_episode=true&only_season=true&episode=7",
+    "date": 1793442620,
+    "durationSec": 1439
+  },
+  {
     "episode": 1,
     "dub": "Озвучка FumoDub",
     "player": "Плеер Kodik",
@@ -140,11 +148,27 @@
     "endingLength": 19
   },
   {
+    "episode": 7,
+    "dub": "Озвучка FumoDub",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123232/a080629cb351456017025f72a3f96bc0/720p?translations=false&only_episode=true&only_season=true&episode=7",
+    "date": 1793430767,
+    "durationSec": 1456
+  },
+  {
     "episode": 6,
     "dub": "Озвучка FumoDub",
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=FumoDub&anime_id=60597&episode=6&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+FumoDub",
     "date": 1792830277,
+    "durationSec": 0
+  },
+  {
+    "episode": 7,
+    "dub": "Озвучка FumoDub",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=FumoDub&anime_id=60597&episode=7&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+FumoDub",
+    "date": 1793434300,
     "durationSec": 0
   },
   {
@@ -218,6 +242,14 @@
     "endingLength": 19
   },
   {
+    "episode": 7,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123253/a83ebdfefa0acac4d50767c71a93d09d/720p?translations=false&only_episode=true&only_season=true&episode=7",
+    "date": 1793451863,
+    "durationSec": 1439
+  },
+  {
     "episode": 1,
     "dub": "Озвучка AnimeVost",
     "player": "Плеер Kodik",
@@ -278,6 +310,14 @@
     "openingLength": 69,
     "endingTime": 1606,
     "endingLength": 29
+  },
+  {
+    "episode": 7,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123269/c3dc0c4010dd7bee05ff0b72a3871cd5/720p?translations=false&only_episode=true&only_season=true&episode=7",
+    "date": 1793462807,
+    "durationSec": 1439
   },
   {
     "episode": 1,
@@ -360,5 +400,13 @@
     "durationSec": 1420,
     "endingTime": 1323,
     "endingLength": 89
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка LightFamily",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123794/d6aacf2818739cbedb73db8e60a76921/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1793469234,
+    "durationSec": 1507
   }
 ]

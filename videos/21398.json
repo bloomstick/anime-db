@@ -293,7 +293,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/122199/13224a25dffa3d4aa78af35bf8431ba0/720p?translations=false&only_episode=true&only_season=true&episode=12",
     "date": 1792729849,
-    "durationSec": 1345
+    "durationSec": 1345,
+    "endingTime": 1325,
+    "endingLength": 19
   },
   {
     "episode": 1,
@@ -334,6 +336,8 @@
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniLibria&anime_id=61607&episode=4&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
     "date": 1788907454,
     "durationSec": 1435,
+    "openingTime": 152,
+    "openingLength": 89,
     "endingTime": 1338,
     "endingLength": 19
   },

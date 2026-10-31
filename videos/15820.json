@@ -4247,7 +4247,9 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniStar&anime_id=47405&episode=79&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniStar",
     "date": 1751849653,
-    "durationSec": 1284
+    "durationSec": 1284,
+    "endingTime": 1056,
+    "endingLength": 19
   },
   {
     "episode": 80,
@@ -4263,7 +4265,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniStar&anime_id=47405&episode=81&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniStar",
     "date": 1751849653,
-    "durationSec": 1225
+    "durationSec": 1225,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1059,
+    "endingLength": 149
   },
   {
     "episode": 82,
@@ -7473,7 +7479,7 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=88ecdf40673e7c5e905838dc9f5413&translation=158&season=1&episode=132&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1697229529,
-    "durationSec": 0,
+    "durationSec": 1333,
     "translationId": 158
   },
   {
