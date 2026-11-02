@@ -767,7 +767,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/83732/1a6a97782d697939a1e5767c40d612ee/720p?translations=false&only_episode=true&only_season=true&episode=91",
     "date": 1714493737,
-    "durationSec": 1346
+    "durationSec": 1346,
+    "openingTime": 0,
+    "openingLength": 109,
+    "endingTime": 1114,
+    "endingLength": 19
   },
   {
     "episode": 92,
@@ -839,7 +843,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/83732/1a6a97782d697939a1e5767c40d612ee/720p?translations=false&only_episode=true&only_season=true&episode=98",
     "date": 1718753150,
-    "durationSec": 1304
+    "durationSec": 1304,
+    "openingTime": 0,
+    "openingLength": 49,
+    "endingTime": 1082,
+    "endingLength": 24
   },
   {
     "episode": 99,
@@ -1851,7 +1859,7 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=56524&episode=7&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
     "date": 1751856366,
-    "durationSec": 0
+    "durationSec": 1312
   },
   {
     "episode": 8,
@@ -6723,7 +6731,7 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniMy+%2F+RuChiMe&anime_id=56524&episode=130&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniMy+%2F+RuChiMe",
     "date": 1768515797,
-    "durationSec": 0
+    "durationSec": 938
   },
   {
     "episode": 131,

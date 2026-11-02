@@ -59,73 +59,145 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/122911/e2f837ba395a999d027896002c44680a/720p?translations=false&only_episode=true&only_season=true&episode=6",
     "date": 1793477494,
-    "durationSec": 1420
+    "durationSec": 1420,
+    "openingTime": 25,
+    "openingLength": 89,
+    "endingTime": 1400,
+    "endingLength": 19
   },
   {
     "episode": 1,
-    "dub": "Озвучка AnimeVost",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/122922/dca371d151c0230039a926991e96d076/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1790506768,
-    "durationSec": 1422,
-    "endingTime": 1328,
-    "endingLength": 64
+    "dub": "Озвучка Dream Cast",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Dream+Cast&anime_id=63140&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Dream+Cast",
+    "date": 1790518269,
+    "durationSec": 1427,
+    "endingTime": 1331,
+    "endingLength": 59
   },
   {
     "episode": 2,
-    "dub": "Озвучка AnimeVost",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/122922/dca371d151c0230039a926991e96d076/720p?translations=false&only_episode=true&only_season=true&episode=2",
-    "date": 1791045427,
-    "durationSec": 1422,
-    "openingTime": 71,
+    "dub": "Озвучка Dream Cast",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Dream+Cast&anime_id=63140&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Dream+Cast",
+    "date": 1791115696,
+    "durationSec": 1427,
+    "openingTime": 68,
+    "openingLength": 49,
+    "endingTime": 1363,
+    "endingLength": 59
+  },
+  {
+    "episode": 3,
+    "dub": "Озвучка Dream Cast",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Dream+Cast&anime_id=63140&episode=3&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Dream+Cast",
+    "date": 1791745474,
+    "durationSec": 1427,
+    "openingTime": 0,
     "openingLength": 89,
-    "endingTime": 1402,
+    "endingTime": 1378,
+    "endingLength": 34
+  },
+  {
+    "episode": 4,
+    "dub": "Озвучка Dream Cast",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Dream+Cast&anime_id=63140&episode=4&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Dream+Cast",
+    "date": 1792366594,
+    "durationSec": 1420,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1321,
+    "endingLength": 89
+  },
+  {
+    "episode": 5,
+    "dub": "Озвучка Dream Cast",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Dream+Cast&anime_id=63140&episode=5&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Dream+Cast",
+    "date": 1792956897,
+    "durationSec": 1427,
+    "openingTime": 89,
+    "openingLength": 64,
+    "endingTime": 1330,
+    "endingLength": 89
+  },
+  {
+    "episode": 6,
+    "dub": "Озвучка Dream Cast",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Dream+Cast&anime_id=63140&episode=6&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Dream+Cast",
+    "date": 1793564748,
+    "durationSec": 1427
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Dream Cast",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/122923/3df94a12182c8d01f3a4249989061692/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1790506768,
+    "durationSec": 1427
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка Dream Cast",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/122923/3df94a12182c8d01f3a4249989061692/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1791121482,
+    "durationSec": 1427,
+    "openingTime": 75,
+    "openingLength": 44,
+    "endingTime": 1407,
     "endingLength": 19
   },
   {
     "episode": 3,
-    "dub": "Озвучка AnimeVost",
+    "dub": "Озвучка Dream Cast",
     "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/122922/dca371d151c0230039a926991e96d076/720p?translations=false&only_episode=true&only_season=true&episode=3",
-    "date": 1791647662,
-    "durationSec": 1422,
+    "iframeUrl": "https://kodikplayer.com/season/122923/3df94a12182c8d01f3a4249989061692/720p?translations=false&only_episode=true&only_season=true&episode=3",
+    "date": 1791742098,
+    "durationSec": 1427,
     "openingTime": 0,
     "openingLength": 89,
-    "endingTime": 1402,
+    "endingTime": 1407,
     "endingLength": 19
   },
   {
     "episode": 4,
-    "dub": "Озвучка AnimeVost",
+    "dub": "Озвучка Dream Cast",
     "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/122922/dca371d151c0230039a926991e96d076/720p?translations=false&only_episode=true&only_season=true&episode=4",
-    "date": 1792257845,
-    "durationSec": 1422,
+    "iframeUrl": "https://kodikplayer.com/season/122923/3df94a12182c8d01f3a4249989061692/720p?translations=false&only_episode=true&only_season=true&episode=4",
+    "date": 1792342389,
+    "durationSec": 1427,
     "openingTime": 0,
     "openingLength": 89,
-    "endingTime": 1402,
+    "endingTime": 1407,
     "endingLength": 19
   },
   {
     "episode": 5,
-    "dub": "Озвучка AnimeVost",
+    "dub": "Озвучка Dream Cast",
     "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/122922/dca371d151c0230039a926991e96d076/720p?translations=false&only_episode=true&only_season=true&episode=5",
-    "date": 1792862941,
-    "durationSec": 1422,
-    "openingTime": 87,
-    "openingLength": 89,
-    "endingTime": 1402,
-    "endingLength": 19
+    "iframeUrl": "https://kodikplayer.com/season/122923/3df94a12182c8d01f3a4249989061692/720p?translations=false&only_episode=true&only_season=true&episode=5",
+    "date": 1792955677,
+    "durationSec": 1427,
+    "openingTime": 92,
+    "openingLength": 69,
+    "endingTime": 1331,
+    "endingLength": 89
   },
   {
     "episode": 6,
-    "dub": "Озвучка AnimeVost",
+    "dub": "Озвучка Dream Cast",
     "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/122922/dca371d151c0230039a926991e96d076/720p?translations=false&only_episode=true&only_season=true&episode=6",
-    "date": 1793462808,
-    "durationSec": 1422
+    "iframeUrl": "https://kodikplayer.com/season/122923/3df94a12182c8d01f3a4249989061692/720p?translations=false&only_episode=true&only_season=true&episode=6",
+    "date": 1793564786,
+    "durationSec": 1427,
+    "openingTime": 30,
+    "openingLength": 69,
+    "endingTime": 1407,
+    "endingLength": 19
   },
   {
     "episode": 1,
@@ -191,7 +263,81 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=63140&episode=6&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
     "date": 1793461332,
-    "durationSec": 1422
+    "durationSec": 1422,
+    "openingTime": 24,
+    "openingLength": 89,
+    "endingTime": 1324,
+    "endingLength": 99
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/122922/dca371d151c0230039a926991e96d076/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1790506768,
+    "durationSec": 1422,
+    "endingTime": 1328,
+    "endingLength": 64
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/122922/dca371d151c0230039a926991e96d076/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1791045427,
+    "durationSec": 1422,
+    "openingTime": 71,
+    "openingLength": 89,
+    "endingTime": 1402,
+    "endingLength": 19
+  },
+  {
+    "episode": 3,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/122922/dca371d151c0230039a926991e96d076/720p?translations=false&only_episode=true&only_season=true&episode=3",
+    "date": 1791647662,
+    "durationSec": 1422,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1402,
+    "endingLength": 19
+  },
+  {
+    "episode": 4,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/122922/dca371d151c0230039a926991e96d076/720p?translations=false&only_episode=true&only_season=true&episode=4",
+    "date": 1792257845,
+    "durationSec": 1422,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1402,
+    "endingLength": 19
+  },
+  {
+    "episode": 5,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/122922/dca371d151c0230039a926991e96d076/720p?translations=false&only_episode=true&only_season=true&episode=5",
+    "date": 1792862941,
+    "durationSec": 1422,
+    "openingTime": 87,
+    "openingLength": 89,
+    "endingTime": 1402,
+    "endingLength": 19
+  },
+  {
+    "episode": 6,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/122922/dca371d151c0230039a926991e96d076/720p?translations=false&only_episode=true&only_season=true&episode=6",
+    "date": 1793462808,
+    "durationSec": 1422,
+    "openingTime": 25,
+    "openingLength": 89,
+    "endingTime": 1402,
+    "endingLength": 19
   },
   {
     "episode": 1,
@@ -255,6 +401,176 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/122908/d3556cda754d1a291980fd537c358472/720p?translations=false&only_episode=true&only_season=true&episode=6",
     "date": 1793457289,
+    "durationSec": 1420,
+    "openingTime": 25,
+    "openingLength": 89,
+    "endingTime": 1400,
+    "endingLength": 19
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123012/d39193c5b957e0c171590b78eaf8ce50/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1790783645,
+    "durationSec": 1420,
+    "endingTime": 1390,
+    "endingLength": 19
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123012/d39193c5b957e0c171590b78eaf8ce50/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1791115068,
+    "durationSec": 1420,
+    "openingTime": 70,
+    "openingLength": 49,
+    "endingTime": 1351,
+    "endingLength": 49
+  },
+  {
+    "episode": 3,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123012/d39193c5b957e0c171590b78eaf8ce50/720p?translations=false&only_episode=true&only_season=true&episode=3",
+    "date": 1791740254,
+    "durationSec": 1420,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1324,
+    "endingLength": 89
+  },
+  {
+    "episode": 4,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123012/d39193c5b957e0c171590b78eaf8ce50/720p?translations=false&only_episode=true&only_season=true&episode=4",
+    "date": 1792324000,
+    "durationSec": 1420,
+    "openingTime": 0,
+    "openingLength": 44,
+    "endingTime": 1385,
+    "endingLength": 14
+  },
+  {
+    "episode": 5,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123012/d39193c5b957e0c171590b78eaf8ce50/720p?translations=false&only_episode=true&only_season=true&episode=5",
+    "date": 1792932704,
+    "durationSec": 1420,
+    "openingTime": 85,
+    "openingLength": 64,
+    "endingTime": 1392,
+    "endingLength": 19
+  },
+  {
+    "episode": 6,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123012/d39193c5b957e0c171590b78eaf8ce50/720p?translations=false&only_episode=true&only_season=true&episode=6",
+    "date": 1793550103,
+    "durationSec": 1420
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка SHIZA Project",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=SHIZA+Project&anime_id=63140&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+SHIZA+Project",
+    "date": 1790585424,
+    "durationSec": 1427
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка SHIZA Project",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=SHIZA+Project&anime_id=63140&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+SHIZA+Project",
+    "date": 1791129491,
+    "durationSec": 1420
+  },
+  {
+    "episode": 3,
+    "dub": "Озвучка SHIZA Project",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=SHIZA+Project&anime_id=63140&episode=3&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+SHIZA+Project",
+    "date": 1791746478,
+    "durationSec": 1420
+  },
+  {
+    "episode": 4,
+    "dub": "Озвучка SHIZA Project",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=SHIZA+Project&anime_id=63140&episode=4&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+SHIZA+Project",
+    "date": 1792359625,
+    "durationSec": 1420
+  },
+  {
+    "episode": 5,
+    "dub": "Озвучка SHIZA Project",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=SHIZA+Project&anime_id=63140&episode=5&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+SHIZA+Project",
+    "date": 1792965892,
+    "durationSec": 1420
+  },
+  {
+    "episode": 6,
+    "dub": "Озвучка SHIZA Project",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=SHIZA+Project&anime_id=63140&episode=6&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+SHIZA+Project",
+    "date": 1793565744,
+    "durationSec": 1420
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка SHIZA Project",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123021/e8d9cef5c9a9aa2b8617574cec836b3a/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1790796468,
+    "durationSec": 1420
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка SHIZA Project",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123021/e8d9cef5c9a9aa2b8617574cec836b3a/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1791129729,
+    "durationSec": 1420
+  },
+  {
+    "episode": 3,
+    "dub": "Озвучка SHIZA Project",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123021/e8d9cef5c9a9aa2b8617574cec836b3a/720p?translations=false&only_episode=true&only_season=true&episode=3",
+    "date": 1791735614,
+    "durationSec": 1420,
+    "openingTime": 0,
+    "openingLength": 44,
+    "endingTime": 1386,
+    "endingLength": 24
+  },
+  {
+    "episode": 4,
+    "dub": "Озвучка SHIZA Project",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123021/e8d9cef5c9a9aa2b8617574cec836b3a/720p?translations=false&only_episode=true&only_season=true&episode=4",
+    "date": 1792357822,
+    "durationSec": 1420
+  },
+  {
+    "episode": 5,
+    "dub": "Озвучка SHIZA Project",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123021/e8d9cef5c9a9aa2b8617574cec836b3a/720p?translations=false&only_episode=true&only_season=true&episode=5",
+    "date": 1792997868,
+    "durationSec": 1420
+  },
+  {
+    "episode": 6,
+    "dub": "Озвучка SHIZA Project",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123021/e8d9cef5c9a9aa2b8617574cec836b3a/720p?translations=false&only_episode=true&only_season=true&episode=6",
+    "date": 1793566621,
     "durationSec": 1420
   },
   {
@@ -434,118 +750,44 @@
     "endingLength": 89
   },
   {
-    "episode": 1,
-    "dub": "Озвучка Dream Cast",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/122923/3df94a12182c8d01f3a4249989061692/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1790506768,
-    "durationSec": 1427
-  },
-  {
-    "episode": 2,
-    "dub": "Озвучка Dream Cast",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/122923/3df94a12182c8d01f3a4249989061692/720p?translations=false&only_episode=true&only_season=true&episode=2",
-    "date": 1791121482,
-    "durationSec": 1427,
-    "openingTime": 75,
-    "openingLength": 44,
-    "endingTime": 1407,
-    "endingLength": 19
-  },
-  {
-    "episode": 3,
-    "dub": "Озвучка Dream Cast",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/122923/3df94a12182c8d01f3a4249989061692/720p?translations=false&only_episode=true&only_season=true&episode=3",
-    "date": 1791742098,
-    "durationSec": 1427,
-    "openingTime": 0,
-    "openingLength": 89,
-    "endingTime": 1407,
-    "endingLength": 19
-  },
-  {
     "episode": 4,
-    "dub": "Озвучка Dream Cast",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/122923/3df94a12182c8d01f3a4249989061692/720p?translations=false&only_episode=true&only_season=true&episode=4",
-    "date": 1792342389,
-    "durationSec": 1427,
-    "openingTime": 0,
-    "openingLength": 89,
-    "endingTime": 1407,
-    "endingLength": 19
-  },
-  {
-    "episode": 5,
-    "dub": "Озвучка Dream Cast",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/122923/3df94a12182c8d01f3a4249989061692/720p?translations=false&only_episode=true&only_season=true&episode=5",
-    "date": 1792955677,
-    "durationSec": 1427,
-    "openingTime": 92,
-    "openingLength": 69,
-    "endingTime": 1331,
-    "endingLength": 89
+    "dub": "Озвучка DiabloVoiceOver",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=DiabloVoiceOver&anime_id=63140&episode=4&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+DiabloVoiceOver",
+    "date": 1792846265,
+    "durationSec": 1420
   },
   {
     "episode": 1,
-    "dub": "Озвучка Dream Cast",
+    "dub": "Озвучка DiabloVoiceOver",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Dream+Cast&anime_id=63140&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Dream+Cast",
-    "date": 1790518269,
-    "durationSec": 1427,
-    "endingTime": 1331,
-    "endingLength": 59
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=DiabloVoiceOver&anime_id=63140&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+DiabloVoiceOver",
+    "date": 1792851242,
+    "durationSec": 1420
   },
   {
     "episode": 2,
-    "dub": "Озвучка Dream Cast",
+    "dub": "Озвучка DiabloVoiceOver",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Dream+Cast&anime_id=63140&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Dream+Cast",
-    "date": 1791115696,
-    "durationSec": 1427,
-    "openingTime": 68,
-    "openingLength": 49,
-    "endingTime": 1363,
-    "endingLength": 59
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=DiabloVoiceOver&anime_id=63140&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+DiabloVoiceOver",
+    "date": 1792851242,
+    "durationSec": 1420
   },
   {
     "episode": 3,
-    "dub": "Озвучка Dream Cast",
+    "dub": "Озвучка DiabloVoiceOver",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Dream+Cast&anime_id=63140&episode=3&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Dream+Cast",
-    "date": 1791745474,
-    "durationSec": 1427,
-    "openingTime": 0,
-    "openingLength": 89,
-    "endingTime": 1378,
-    "endingLength": 34
-  },
-  {
-    "episode": 4,
-    "dub": "Озвучка Dream Cast",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Dream+Cast&anime_id=63140&episode=4&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Dream+Cast",
-    "date": 1792366594,
-    "durationSec": 1420,
-    "openingTime": 0,
-    "openingLength": 89,
-    "endingTime": 1321,
-    "endingLength": 89
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=DiabloVoiceOver&anime_id=63140&episode=3&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+DiabloVoiceOver",
+    "date": 1792852242,
+    "durationSec": 1420
   },
   {
     "episode": 5,
-    "dub": "Озвучка Dream Cast",
+    "dub": "Озвучка DiabloVoiceOver",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Dream+Cast&anime_id=63140&episode=5&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Dream+Cast",
-    "date": 1792956897,
-    "durationSec": 1427,
-    "openingTime": 89,
-    "openingLength": 64,
-    "endingTime": 1330,
-    "endingLength": 89
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=DiabloVoiceOver&anime_id=63140&episode=5&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+DiabloVoiceOver",
+    "date": 1792883130,
+    "durationSec": 1420
   },
   {
     "episode": 1,
@@ -606,144 +848,6 @@
     "endingLength": 89
   },
   {
-    "episode": 4,
-    "dub": "Озвучка DiabloVoiceOver",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=DiabloVoiceOver&anime_id=63140&episode=4&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+DiabloVoiceOver",
-    "date": 1792846265,
-    "durationSec": 1420
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка DiabloVoiceOver",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=DiabloVoiceOver&anime_id=63140&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+DiabloVoiceOver",
-    "date": 1792851242,
-    "durationSec": 1420
-  },
-  {
-    "episode": 2,
-    "dub": "Озвучка DiabloVoiceOver",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=DiabloVoiceOver&anime_id=63140&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+DiabloVoiceOver",
-    "date": 1792851242,
-    "durationSec": 1420
-  },
-  {
-    "episode": 3,
-    "dub": "Озвучка DiabloVoiceOver",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=DiabloVoiceOver&anime_id=63140&episode=3&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+DiabloVoiceOver",
-    "date": 1792852242,
-    "durationSec": 1420
-  },
-  {
-    "episode": 5,
-    "dub": "Озвучка DiabloVoiceOver",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=DiabloVoiceOver&anime_id=63140&episode=5&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+DiabloVoiceOver",
-    "date": 1792883130,
-    "durationSec": 1420
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка AniDUB",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123012/d39193c5b957e0c171590b78eaf8ce50/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1790783645,
-    "durationSec": 1420,
-    "endingTime": 1390,
-    "endingLength": 19
-  },
-  {
-    "episode": 2,
-    "dub": "Озвучка AniDUB",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123012/d39193c5b957e0c171590b78eaf8ce50/720p?translations=false&only_episode=true&only_season=true&episode=2",
-    "date": 1791115068,
-    "durationSec": 1420,
-    "openingTime": 70,
-    "openingLength": 49,
-    "endingTime": 1351,
-    "endingLength": 49
-  },
-  {
-    "episode": 3,
-    "dub": "Озвучка AniDUB",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123012/d39193c5b957e0c171590b78eaf8ce50/720p?translations=false&only_episode=true&only_season=true&episode=3",
-    "date": 1791740254,
-    "durationSec": 1420,
-    "openingTime": 0,
-    "openingLength": 89,
-    "endingTime": 1324,
-    "endingLength": 89
-  },
-  {
-    "episode": 4,
-    "dub": "Озвучка AniDUB",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123012/d39193c5b957e0c171590b78eaf8ce50/720p?translations=false&only_episode=true&only_season=true&episode=4",
-    "date": 1792324000,
-    "durationSec": 1420,
-    "openingTime": 0,
-    "openingLength": 44,
-    "endingTime": 1385,
-    "endingLength": 14
-  },
-  {
-    "episode": 5,
-    "dub": "Озвучка AniDUB",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123012/d39193c5b957e0c171590b78eaf8ce50/720p?translations=false&only_episode=true&only_season=true&episode=5",
-    "date": 1792932704,
-    "durationSec": 1420,
-    "openingTime": 85,
-    "openingLength": 64,
-    "endingTime": 1392,
-    "endingLength": 19
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка Комната Диди",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/122946/5bb2d8922b15bc8b172577c881a28417/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1790562898,
-    "durationSec": 1427
-  },
-  {
-    "episode": 2,
-    "dub": "Озвучка Комната Диди",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/122946/5bb2d8922b15bc8b172577c881a28417/720p?translations=false&only_episode=true&only_season=true&episode=2",
-    "date": 1791356574,
-    "durationSec": 1426
-  },
-  {
-    "episode": 3,
-    "dub": "Озвучка Комната Диди",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/122946/5bb2d8922b15bc8b172577c881a28417/720p?translations=false&only_episode=true&only_season=true&episode=3",
-    "date": 1791921559,
-    "durationSec": 1426
-  },
-  {
-    "episode": 4,
-    "dub": "Озвучка Комната Диди",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/122946/5bb2d8922b15bc8b172577c881a28417/720p?translations=false&only_episode=true&only_season=true&episode=4",
-    "date": 1792999704,
-    "durationSec": 1424
-  },
-  {
-    "episode": 5,
-    "dub": "Озвучка Комната Диди",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/122946/5bb2d8922b15bc8b172577c881a28417/720p?translations=false&only_episode=true&only_season=true&episode=5",
-    "date": 1792999704,
-    "durationSec": 1424
-  },
-  {
     "episode": 1,
     "dub": "Озвучка Комната Диди",
     "player": "Плеер CVH",
@@ -785,87 +889,43 @@
   },
   {
     "episode": 1,
-    "dub": "Озвучка SHIZA Project",
+    "dub": "Озвучка Комната Диди",
     "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123021/e8d9cef5c9a9aa2b8617574cec836b3a/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1790796468,
-    "durationSec": 1420
-  },
-  {
-    "episode": 2,
-    "dub": "Озвучка SHIZA Project",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123021/e8d9cef5c9a9aa2b8617574cec836b3a/720p?translations=false&only_episode=true&only_season=true&episode=2",
-    "date": 1791129729,
-    "durationSec": 1420
-  },
-  {
-    "episode": 3,
-    "dub": "Озвучка SHIZA Project",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123021/e8d9cef5c9a9aa2b8617574cec836b3a/720p?translations=false&only_episode=true&only_season=true&episode=3",
-    "date": 1791735614,
-    "durationSec": 1420,
-    "openingTime": 0,
-    "openingLength": 44,
-    "endingTime": 1386,
-    "endingLength": 24
-  },
-  {
-    "episode": 4,
-    "dub": "Озвучка SHIZA Project",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123021/e8d9cef5c9a9aa2b8617574cec836b3a/720p?translations=false&only_episode=true&only_season=true&episode=4",
-    "date": 1792357822,
-    "durationSec": 1420
-  },
-  {
-    "episode": 5,
-    "dub": "Озвучка SHIZA Project",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123021/e8d9cef5c9a9aa2b8617574cec836b3a/720p?translations=false&only_episode=true&only_season=true&episode=5",
-    "date": 1792997868,
-    "durationSec": 1420
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка SHIZA Project",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=SHIZA+Project&anime_id=63140&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+SHIZA+Project",
-    "date": 1790585424,
+    "iframeUrl": "https://kodikplayer.com/season/122946/5bb2d8922b15bc8b172577c881a28417/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1790562898,
     "durationSec": 1427
   },
   {
     "episode": 2,
-    "dub": "Озвучка SHIZA Project",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=SHIZA+Project&anime_id=63140&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+SHIZA+Project",
-    "date": 1791129491,
-    "durationSec": 1420
+    "dub": "Озвучка Комната Диди",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/122946/5bb2d8922b15bc8b172577c881a28417/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1791356574,
+    "durationSec": 1426
   },
   {
     "episode": 3,
-    "dub": "Озвучка SHIZA Project",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=SHIZA+Project&anime_id=63140&episode=3&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+SHIZA+Project",
-    "date": 1791746478,
-    "durationSec": 1420
+    "dub": "Озвучка Комната Диди",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/122946/5bb2d8922b15bc8b172577c881a28417/720p?translations=false&only_episode=true&only_season=true&episode=3",
+    "date": 1791921559,
+    "durationSec": 1426
   },
   {
     "episode": 4,
-    "dub": "Озвучка SHIZA Project",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=SHIZA+Project&anime_id=63140&episode=4&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+SHIZA+Project",
-    "date": 1792359625,
-    "durationSec": 1420
+    "dub": "Озвучка Комната Диди",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/122946/5bb2d8922b15bc8b172577c881a28417/720p?translations=false&only_episode=true&only_season=true&episode=4",
+    "date": 1792999704,
+    "durationSec": 1424
   },
   {
     "episode": 5,
-    "dub": "Озвучка SHIZA Project",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=SHIZA+Project&anime_id=63140&episode=5&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+SHIZA+Project",
-    "date": 1792965892,
-    "durationSec": 1420
+    "dub": "Озвучка Комната Диди",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/122946/5bb2d8922b15bc8b172577c881a28417/720p?translations=false&only_episode=true&only_season=true&episode=5",
+    "date": 1792999704,
+    "durationSec": 1424
   },
   {
     "episode": 1,

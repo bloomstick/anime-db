@@ -257,7 +257,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/119217/df20771a27bee6a84f4552b4dba0294a/720p?translations=false&only_episode=true&only_season=true&episode=22",
     "date": 1793451863,
-    "durationSec": 1177
+    "durationSec": 1177,
+    "openingTime": 0,
+    "openingLength": 114,
+    "endingTime": 1157,
+    "endingLength": 19
   },
   {
     "episode": 1,
@@ -511,7 +515,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/119291/aa6106c9cddfe1a84241928b06df80d0/720p?translations=false&only_episode=true&only_season=true&episode=22",
     "date": 1793442632,
-    "durationSec": 1169
+    "durationSec": 1169,
+    "endingTime": 1149,
+    "endingLength": 19
   },
   {
     "episode": 1,
@@ -767,6 +773,10 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/119219/45fe2e454241fd4c884f14190bbdfd52/720p?translations=false&only_episode=true&only_season=true&episode=22",
     "date": 1793454617,
-    "durationSec": 1180
+    "durationSec": 1180,
+    "openingTime": 0,
+    "openingLength": 104,
+    "endingTime": 1082,
+    "endingLength": 34
   }
 ]
