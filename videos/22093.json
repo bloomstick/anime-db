@@ -341,7 +341,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123093/f3cc692b65f024f8220832efada961a3/720p?translations=false&only_episode=true&only_season=true&episode=5",
     "date": 1793379347,
-    "durationSec": 1392
+    "durationSec": 1392,
+    "openingTime": 50,
+    "openingLength": 89,
+    "endingTime": 1250,
+    "endingLength": 99
   },
   {
     "episode": 1,
@@ -485,7 +489,7 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123596/8ab238b045cb8bcf3b5733e7a8b18838/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1792000633,
-    "durationSec": 0
+    "durationSec": 1334
   },
   {
     "episode": 3,
