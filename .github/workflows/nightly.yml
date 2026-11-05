@@ -27,10 +27,10 @@ on:
         type: boolean
 
 env:
-  # Pinned to the step-0 merge commit on monorepo main
-  # (monorepo PR bloomstick/dream#1 seeds tools/anime_db/registry.json
-  # from anime-db tag v0-partial; merged 2026-10-03 as 8a70f29).
-  MONOREPO_REF: '8a70f29ec4036dcedc025ec1e490689a3d85ce40'
+  # Pinned to the monorepo merge that added the S3 cover inventory
+  # (`covers.json` + `emit --covers-index`, 2026-11-06).
+  MONOREPO_REF: 'a48c8d69d339809f564d6b72776d6d9cc8aea033'
+  COVERS_INDEX_URL: 'https://3a4bb16ee9b5156df4f9712cffe6d7a4.bckt.ru/covers/index.json'
   MANAMI_VERSION: '2026-27'
   MANAMI_SHA256: '8a63189782176fe19e00eca275288ba855ce54d6cb4d7ae97ec71450f861b1aa'
   DART_SDK_VERSION: '3.13.4'
@@ -159,6 +159,24 @@ jobs:
           set -o pipefail
           dart bin/anime_db.dart merge 2>&1 | tee "$GITHUB_WORKSPACE/logs/merge.log"
 
+      - name: Fetch S3 cover inventory (fail closed)
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        working-directory: ${{ env.SCRAPER_DIR }}
+        run: |
+          mkdir -p build/covers
+          curl -fSL "$COVERS_INDEX_URL" -o build/covers/index.json
+          python3 - <<'EOF'
+          import json
+          doc = json.load(open('build/covers/index.json'))
+          assert doc.get('version') == 2, 'cover index version must be 2'
+          ids = doc.get('ids') or []
+          full = doc.get('full_ids') or []
+          assert isinstance(ids, list) and isinstance(full, list), 'cover ids must be lists'
+          assert all(isinstance(i, int) and i > 0 for i in ids + full), 'cover ids must be positive ints'
+          assert set(full) <= set(ids), 'full_ids must be a subset of ids'
+          print(f"cover inventory: {len(ids)} thumbs, {len(full)} full")
+          EOF
+
       - name: Emit
         if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         working-directory: ${{ env.SCRAPER_DIR }}
@@ -197,8 +215,10 @@ jobs:
 
           # Keep the previous manifest for the diff, then overwrite.
           shutil.copyfile(os.path.join(ws, 'manifest.json'), os.path.join(ws, 'manifest.prev.json'))
-          for name in ('manifest.json', 'aliases.json'):
-              shutil.copyfile(os.path.join(out, name), os.path.join(ws, name))
+          for name in ('manifest.json', 'aliases.json', 'covers.json'):
+              src = os.path.join(out, name)
+              if os.path.exists(src):
+                  shutil.copyfile(src, os.path.join(ws, name))
           for sub in ('videos', 'linked'):
               os.makedirs(os.path.join(ws, sub), exist_ok=True)
               for f in os.listdir(os.path.join(out, sub)):
@@ -273,13 +293,13 @@ jobs:
           BRANCH="nightly/${{ steps.cal.outputs.today }}"
           git config user.name 'dreamdb-nightly'
           git config user.email 'dreamdb-nightly@users.noreply.github.com'
-          if [ -z "$(git status --porcelain -- manifest.json meta-*.json aliases.json registry.json manifest.prev.json videos linked)" ]; then
+          if [ -z "$(git status --porcelain -- manifest.json meta-*.json aliases.json covers.json registry.json manifest.prev.json videos linked)" ]; then
             echo 'No dirty chunks — nothing to publish, no PR.'
             echo "opened=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
           git checkout -b "$BRANCH"
-          git add manifest.json manifest.prev.json meta-*.json aliases.json registry.json videos linked
+          git add manifest.json manifest.prev.json meta-*.json aliases.json covers.json registry.json videos linked
           git commit -m "nightly(${{ steps.cal.outputs.today }}): rebuild from monorepo ${MONOREPO_REF:0:7} ($([ '${{ steps.mode.outputs.full }}' = 'true' ] && echo 'full recrawl' || echo 'delta'))"
           # Never force-push: a rejected push (same-date rerun raced) fails
           # the job instead of rewriting the registry history.
@@ -317,6 +337,7 @@ jobs:
             echo '| names gate (ruNames/enNames, yummy first) | PASS (verify exit 0) |'
             echo '| vocab gate (genres/tags, cap-aware 24) | PASS (verify exit 0) |'
             echo '| linked gate (dream: resolves, linkedCount) | PASS (verify exit 0) |'
+            echo '| covers gate (covers.json sha/counts/ids/full subset) | PASS (verify exit 0) |'
             echo '| registry append-only (nextId monotonic, no id reuse) | PASS (job gate above) |'
           } > /tmp/pr_body.md
           PR_URL=$(gh pr create --base main --head "$BRANCH" \
