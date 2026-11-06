@@ -24,6 +24,22 @@ host migration needs zero client change.
   rows. Consumers poll `manifest.json` and fetch only chunks whose `sha256`
   changed.
 
+## Branches and refs
+
+- `main` - published catalog snapshots; the publish target.
+- `v1` **branch** - mutable remote config (`policy/ads.json`, future
+  `policy/covers.json`) plus the catalog mirror for installed clients that
+  still read the bare `/v1/` URL. Publish merges `main` into it after moving
+  the `v1` tag, so those clients see fresh data; policy edits stay immediate.
+- `v1` **tag** - floating catalog release moved by publish; the catalog
+  client reads this ref explicitly (`refs/tags/v1`).
+- `anime-db-v1-YYYYMMDD[-x]` - immutable dated releases (history/rollback).
+
+GitHub raw resolves a bare `/v1/` path to the branch when a branch and tag
+share the name, so clients must pin `refs/tags/v1` for catalog data and
+`refs/heads/v1` for remote config. Never move the tag for a policy-only
+change.
+
 ## Nightly scheduler (`.github/workflows/nightly.yml`)
 
 - **What runs when.** `0 2 * * *` nightly UTC (+ manual
