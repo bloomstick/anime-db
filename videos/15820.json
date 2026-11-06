@@ -10773,7 +10773,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/70070/9a355d720c7010f7c70f4fb7202e61ca/720p?translations=false&only_episode=true&only_season=true&episode=221",
     "date": 1772028400,
-    "durationSec": 898
+    "durationSec": 898,
+    "endingTime": 878,
+    "endingLength": 19
   },
   {
     "episode": 222,
@@ -16946,7 +16948,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/107924/45485e1a6350ef4094ac304a171c5a4b/720p?translations=false&only_episode=true&only_season=true&episode=178",
     "date": 1786889055,
-    "durationSec": 1172
+    "durationSec": 1172,
+    "openingTime": 0,
+    "openingLength": 64,
+    "endingTime": 1017,
+    "endingLength": 19
   },
   {
     "episode": 179,
@@ -16954,7 +16960,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/107924/45485e1a6350ef4094ac304a171c5a4b/720p?translations=false&only_episode=true&only_season=true&episode=179",
     "date": 1786889055,
-    "durationSec": 1199
+    "durationSec": 1199,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1046,
+    "endingLength": 24
   },
   {
     "episode": 180,
@@ -17058,7 +17068,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/107924/45485e1a6350ef4094ac304a171c5a4b/720p?translations=false&only_episode=true&only_season=true&episode=191",
     "date": 1787493121,
-    "durationSec": 1169
+    "durationSec": 1169,
+    "openingTime": 0,
+    "openingLength": 99,
+    "endingTime": 1015,
+    "endingLength": 14
   },
   {
     "episode": 192,
