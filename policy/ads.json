@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "killSwitch": false,
+  "rolloutPercent": 100,
+  "banner": {
+    "enabled": true,
+    "unitId": "R-M-20310729-2",
+    "sizeMode": "inline",
+    "maxHeightDp": 60,
+    "minLaunchCount": 0
+  },
+  "inline": {
+    "enabled": true,
+    "unitId": "R-M-20310729-3",
+    "firstBlock": 8,
+    "everyBlocks": 10,
+    "maxPerSession": 3,
+    "maxHeightDp": 60,
+    "minLaunchCount": 3
+  },
+  "interstitial": {
+    "enabled": true,
+    "unitId": "R-M-20310729-4",
+    "minFinishedEpisodes": 3,
+    "minGapSec": 240,
+    "maxPerSession": 2,
+    "maxPerDay": 4,
+    "minLaunchCount": 3
+  },
+  "rewarded": {
+    "enabled": true,
+    "unitId": "R-M-20310729-5",
+    "bannerFreeMinutes": 30,
+    "minLaunchCount": 3
+  },
+  "downloadGate": {
+    "enabled": true,
+    "unitId": "R-M-20310729-6",
+    "freeBatchesPerDay": 1,
+    "minEpisodesPerBatch": 3,
+    "unlockMinutes": 30,
+    "maxUnlocksPerDay": 2,
+    "minLaunchCount": 3,
+    "failOpenOnNoFill": true
+  },
+  "appOpen": {
+    "enabled": true,
+    "unitId": "R-M-20310729-7",
+    "minBackgroundSec": 120,
+    "minGapSec": 21600,
+    "maxPerDay": 1,
+    "minLaunchCount": 3,
+    "portraitOnly": true
+  },
+  "fullscreen": {
+    "minGapSec": 300,
+    "maxPerSession": 2,
+    "maxPerDay": 4
+  }
+}
