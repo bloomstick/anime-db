@@ -65,7 +65,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/122925/141598c308c95d166c51d1a849cf850e/720p?translations=false&only_episode=true&only_season=true&episode=6",
     "date": 1793886290,
-    "durationSec": 1425
+    "durationSec": 1425,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1317,
+    "endingLength": 99
   },
   {
     "episode": 1,
@@ -224,7 +228,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123046/0cfd7326173886cbae36e6f60c041ce0/720p?translations=false&only_episode=true&only_season=true&episode=6",
     "date": 1793883536,
-    "durationSec": 1425
+    "durationSec": 1425,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1308,
+    "endingLength": 104
   },
   {
     "episode": 1,

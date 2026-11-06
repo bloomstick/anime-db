@@ -300,7 +300,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123195/8ade4a470e19fb4468710f9d2a492970/720p?translations=false&only_episode=true&only_season=true&episode=5",
     "date": 1793814432,
-    "durationSec": 1452
+    "durationSec": 1452,
+    "endingTime": 1432,
+    "endingLength": 19
   },
   {
     "episode": 1,
@@ -716,7 +718,9 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=DEEP&anime_id=61967&episode=2&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+DEEP",
     "date": 1793529609,
-    "durationSec": 1430
+    "durationSec": 1430,
+    "endingTime": 1282,
+    "endingLength": 24
   },
   {
     "episode": 3,

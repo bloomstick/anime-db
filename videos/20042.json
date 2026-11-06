@@ -161,7 +161,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123432/294f9328902128da33cb6c05144856c3/720p?translations=false&only_episode=true&only_season=true&episode=5",
     "date": 1793887206,
-    "durationSec": 1420
+    "durationSec": 1420,
+    "openingTime": 20,
+    "openingLength": 89,
+    "endingTime": 1400,
+    "endingLength": 19
   },
   {
     "episode": 1,

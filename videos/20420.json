@@ -153,7 +153,7 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123735/84bbc20582f07cb3bab191d93a75dca1/720p?translations=false&only_episode=true&only_season=true&episode=4",
     "date": 1793745068,
-    "durationSec": 0
+    "durationSec": 1370
   },
   {
     "episode": 1,
@@ -161,7 +161,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123776/14002c1ebdbaefa6dfad34394322661d/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1791993377,
-    "durationSec": 1370
+    "durationSec": 1370,
+    "openingTime": 79,
+    "openingLength": 69,
+    "endingTime": 1307,
+    "endingLength": 44
   },
   {
     "episode": 2,

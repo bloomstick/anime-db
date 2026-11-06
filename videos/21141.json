@@ -149,7 +149,9 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniLiberty&anime_id=60948&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
     "date": 1793612140,
-    "durationSec": 1422
+    "durationSec": 1422,
+    "endingTime": 1371,
+    "endingLength": 29
   },
   {
     "episode": 3,
@@ -157,7 +159,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniLiberty&anime_id=60948&episode=3&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
     "date": 1793613145,
-    "durationSec": 1423
+    "durationSec": 1423,
+    "openingTime": 69,
+    "openingLength": 89,
+    "endingTime": 1407,
+    "endingLength": 14
   },
   {
     "episode": 4,
@@ -165,7 +171,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniLiberty&anime_id=60948&episode=4&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
     "date": 1793613145,
-    "durationSec": 1422
+    "durationSec": 1422,
+    "openingTime": 83,
+    "openingLength": 54,
+    "endingTime": 1372,
+    "endingLength": 39
   },
   {
     "episode": 5,
