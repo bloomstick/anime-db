@@ -77,7 +77,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniLiberty&anime_id=62922&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
     "date": 1793634086,
-    "durationSec": 1373
+    "durationSec": 1373,
+    "openingTime": 61,
+    "openingLength": 59,
+    "endingTime": 1320,
+    "endingLength": 24
   },
   {
     "episode": 3,
@@ -85,7 +89,9 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniLiberty&anime_id=62922&episode=3&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
     "date": 1793634086,
-    "durationSec": 1373
+    "durationSec": 1373,
+    "endingTime": 1297,
+    "endingLength": 89
   },
   {
     "episode": 5,
@@ -93,7 +99,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniLiberty&anime_id=62922&episode=5&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
     "date": 1793634086,
-    "durationSec": 1372
+    "durationSec": 1372,
+    "openingTime": 140,
+    "openingLength": 44,
+    "endingTime": 1274,
+    "endingLength": 89
   },
   {
     "episode": 4,
@@ -101,7 +111,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniLiberty&anime_id=62922&episode=4&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
     "date": 1793635078,
-    "durationSec": 1372
+    "durationSec": 1372,
+    "openingTime": 60,
+    "openingLength": 89,
+    "endingTime": 1328,
+    "endingLength": 34
   },
   {
     "episode": 1,
@@ -875,7 +889,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%9C%D0%B0%D0%BD%D0%B8%D0%BF%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80&anime_id=62922&episode=4&dubbing=%D0%A1%D1%83%D0%B1%D1%82%D0%B8%D1%82%D1%80%D1%8B+%D0%9C%D0%B0%D0%BD%D0%B8%D0%BF%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80",
     "date": 1792867231,
-    "durationSec": 1371
+    "durationSec": 1371,
+    "openingTime": 0,
+    "openingLength": 124,
+    "endingTime": 1317,
+    "endingLength": 44
   },
   {
     "episode": 5,

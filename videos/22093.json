@@ -171,7 +171,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123147/69471c3d6c965768792ed45447239352/720p?translations=false&only_episode=true&only_season=true&episode=5",
     "date": 1793562955,
-    "durationSec": 1399
+    "durationSec": 1399,
+    "openingTime": 58,
+    "openingLength": 89,
+    "endingTime": 1379,
+    "endingLength": 14
   },
   {
     "episode": 1,
@@ -279,7 +283,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123095/0632b5257a5e63dda2e59ee714fe08f3/720p?translations=false&only_episode=true&only_season=true&episode=4",
     "date": 1793389448,
-    "durationSec": 1393
+    "durationSec": 1393,
+    "openingTime": 107,
+    "openingLength": 89,
+    "endingTime": 1290,
+    "endingLength": 29
   },
   {
     "episode": 5,

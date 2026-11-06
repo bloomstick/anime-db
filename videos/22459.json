@@ -929,7 +929,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/121411/6a197a67701735243f2116d67910ff3b/720p?translations=false&only_episode=true&only_season=true&episode=16",
     "date": 1791896749,
-    "durationSec": 1327
+    "durationSec": 1327,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1209,
+    "endingLength": 29
   },
   {
     "episode": 17,

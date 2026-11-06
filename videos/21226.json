@@ -246,7 +246,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Dream+Cast&anime_id=61153&episode=6&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Dream+Cast",
     "date": 1793573878,
-    "durationSec": 1427
+    "durationSec": 1427,
+    "openingTime": 266,
+    "openingLength": 89,
+    "endingTime": 1348,
+    "endingLength": 89
   },
   {
     "episode": 1,
@@ -495,7 +499,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123304/77734958fdbc3c869fbc910946cbdd5c/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1791267188,
-    "durationSec": 1429
+    "durationSec": 1429,
+    "openingTime": 18,
+    "openingLength": 99,
+    "endingTime": 1385,
+    "endingLength": 24
   },
   {
     "episode": 2,
@@ -503,7 +511,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123304/77734958fdbc3c869fbc910946cbdd5c/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1791267188,
-    "durationSec": 1429
+    "durationSec": 1429,
+    "openingTime": 51,
+    "openingLength": 89,
+    "endingTime": 1235,
+    "endingLength": 54
   },
   {
     "episode": 3,
@@ -587,54 +599,6 @@
   },
   {
     "episode": 1,
-    "dub": "Озвучка AniTime voice",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniTime+voice&anime_id=61153&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniTime+voice",
-    "date": 1791260138,
-    "durationSec": 1427
-  },
-  {
-    "episode": 2,
-    "dub": "Озвучка AniTime voice",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniTime+voice&anime_id=61153&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniTime+voice",
-    "date": 1791260138,
-    "durationSec": 1427
-  },
-  {
-    "episode": 3,
-    "dub": "Озвучка AniTime voice",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniTime+voice&anime_id=61153&episode=3&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniTime+voice",
-    "date": 1791657897,
-    "durationSec": 1430
-  },
-  {
-    "episode": 4,
-    "dub": "Озвучка AniTime voice",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniTime+voice&anime_id=61153&episode=4&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniTime+voice",
-    "date": 1792265709,
-    "durationSec": 1434
-  },
-  {
-    "episode": 5,
-    "dub": "Озвучка AniTime voice",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniTime+voice&anime_id=61153&episode=5&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniTime+voice",
-    "date": 1792879138,
-    "durationSec": 1431
-  },
-  {
-    "episode": 6,
-    "dub": "Озвучка AniTime voice",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniTime+voice&anime_id=61153&episode=6&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniTime+voice",
-    "date": 1793629068,
-    "durationSec": 1422
-  },
-  {
-    "episode": 1,
     "dub": "Озвучка ShiModzi Dub Studio",
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/124286/02586783b1b571e8c655cec82ad9ebe2/720p?translations=false&only_episode=true&only_season=true&episode=1",
@@ -680,6 +644,54 @@
     "iframeUrl": "https://kodikplayer.com/season/124286/02586783b1b571e8c655cec82ad9ebe2/720p?translations=false&only_episode=true&only_season=true&episode=6",
     "date": 1793691513,
     "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniTime voice",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniTime+voice&anime_id=61153&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniTime+voice",
+    "date": 1791260138,
+    "durationSec": 1427
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniTime voice",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniTime+voice&anime_id=61153&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniTime+voice",
+    "date": 1791260138,
+    "durationSec": 1427
+  },
+  {
+    "episode": 3,
+    "dub": "Озвучка AniTime voice",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniTime+voice&anime_id=61153&episode=3&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniTime+voice",
+    "date": 1791657897,
+    "durationSec": 1430
+  },
+  {
+    "episode": 4,
+    "dub": "Озвучка AniTime voice",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniTime+voice&anime_id=61153&episode=4&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniTime+voice",
+    "date": 1792265709,
+    "durationSec": 1434
+  },
+  {
+    "episode": 5,
+    "dub": "Озвучка AniTime voice",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniTime+voice&anime_id=61153&episode=5&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniTime+voice",
+    "date": 1792879138,
+    "durationSec": 1431
+  },
+  {
+    "episode": 6,
+    "dub": "Озвучка AniTime voice",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniTime+voice&anime_id=61153&episode=6&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniTime+voice",
+    "date": 1793629068,
+    "durationSec": 1422
   },
   {
     "episode": 1,

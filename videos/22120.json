@@ -45,7 +45,11 @@
     "iframeUrl": "https://alloha.yani.tv/?token_movie=f1ae824f563f3d7669e7fca9afaad2&translation=340&season=1&episode=4&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1793699235,
     "durationSec": 1420,
-    "translationId": 340
+    "translationId": 340,
+    "openingTime": 0,
+    "openingLength": 99,
+    "endingTime": 1316,
+    "endingLength": 104
   },
   {
     "episode": 1,
@@ -97,7 +101,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniLiberty&anime_id=63292&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
     "date": 1793620178,
-    "durationSec": 1420
+    "durationSec": 1420,
+    "openingTime": 0,
+    "openingLength": 39,
+    "endingTime": 1322,
+    "endingLength": 99
   },
   {
     "episode": 2,
@@ -105,7 +113,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniLiberty&anime_id=63292&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
     "date": 1793620178,
-    "durationSec": 1420
+    "durationSec": 1420,
+    "openingTime": 51,
+    "openingLength": 89,
+    "endingTime": 1403,
+    "endingLength": 14
   },
   {
     "episode": 3,
@@ -113,7 +125,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniLiberty&anime_id=63292&episode=3&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
     "date": 1793620178,
-    "durationSec": 1420
+    "durationSec": 1420,
+    "openingTime": 89,
+    "openingLength": 54,
+    "endingTime": 1316,
+    "endingLength": 89
   },
   {
     "episode": 4,
@@ -121,7 +137,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniLiberty&anime_id=63292&episode=4&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
     "date": 1793720872,
-    "durationSec": 1420
+    "durationSec": 1420,
+    "openingTime": 15,
+    "openingLength": 89,
+    "endingTime": 1380,
+    "endingLength": 29
   },
   {
     "episode": 1,
@@ -295,7 +315,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Dream+Cast&anime_id=63292&episode=4&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Dream+Cast",
     "date": 1793640191,
-    "durationSec": 1427
+    "durationSec": 1427,
+    "openingTime": 22,
+    "openingLength": 89,
+    "endingTime": 1365,
+    "endingLength": 59
   },
   {
     "episode": 1,

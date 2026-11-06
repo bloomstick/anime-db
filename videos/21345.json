@@ -161,7 +161,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/117741/556e9916c3990330c8c6971f72761f0a/720p?translations=false&only_episode=true&only_season=true&episode=7",
     "date": 1793696102,
-    "durationSec": 1504
+    "durationSec": 1504,
+    "openingTime": 177,
+    "openingLength": 89,
+    "endingTime": 1484,
+    "endingLength": 19
   },
   {
     "episode": 1,
@@ -225,7 +229,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniLiberty&anime_id=61469&episode=7&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
     "date": 1793721843,
-    "durationSec": 1504
+    "durationSec": 1504,
+    "openingTime": 176,
+    "openingLength": 89,
+    "endingTime": 1318,
+    "endingLength": 29
   },
   {
     "episode": 1,
@@ -1735,7 +1743,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/117758/f417fc969092a923bb2196abab96a235/720p?translations=false&only_episode=true&only_season=true&episode=5",
     "date": 1792356903,
-    "durationSec": 1510
+    "durationSec": 1510,
+    "openingTime": 70,
+    "openingLength": 89,
+    "endingTime": 1474,
+    "endingLength": 19
   },
   {
     "episode": 6,
@@ -1767,7 +1779,7 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Amazing+Dubbing&anime_id=61469&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Amazing+Dubbing",
     "date": 1791586332,
-    "durationSec": 0
+    "durationSec": 1516
   },
   {
     "episode": 1,
@@ -1871,7 +1883,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/117765/783be9fc54490c8d0e5f17b70ae44405/720p?translations=false&only_episode=true&only_season=true&episode=6",
     "date": 1792997868,
-    "durationSec": 1527
+    "durationSec": 1527,
+    "openingTime": 150,
+    "openingLength": 89,
+    "endingTime": 1419,
+    "endingLength": 89
   },
   {
     "episode": 7,
@@ -1938,134 +1954,6 @@
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniDub+Online&anime_id=61469&episode=7&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniDUB+Online",
     "date": 1793651394,
     "durationSec": 0
-  },
-  {
-    "episode": 2,
-    "dub": "Озвучка SHIZA Project",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/122917/7a7ca25a7739022463bd9ed126d18846/720p?translations=false&only_episode=true&only_season=true&episode=2",
-    "date": 1790456602,
-    "durationSec": 1516,
-    "endingTime": 1443,
-    "endingLength": 54
-  },
-  {
-    "episode": 3,
-    "dub": "Озвучка SHIZA Project",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/122917/7a7ca25a7739022463bd9ed126d18846/720p?translations=false&only_episode=true&only_season=true&episode=3",
-    "date": 1791121483,
-    "durationSec": 1512,
-    "openingTime": 181,
-    "openingLength": 89,
-    "endingTime": 1477,
-    "endingLength": 14
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка SHIZA Project",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/122917/7a7ca25a7739022463bd9ed126d18846/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1791390717,
-    "durationSec": 2924
-  },
-  {
-    "episode": 4,
-    "dub": "Озвучка SHIZA Project",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/122917/7a7ca25a7739022463bd9ed126d18846/720p?translations=false&only_episode=true&only_season=true&episode=4",
-    "date": 1791740254,
-    "durationSec": 1502,
-    "openingTime": 100,
-    "openingLength": 89,
-    "endingTime": 1469,
-    "endingLength": 24
-  },
-  {
-    "episode": 5,
-    "dub": "Озвучка SHIZA Project",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/122917/7a7ca25a7739022463bd9ed126d18846/720p?translations=false&only_episode=true&only_season=true&episode=5",
-    "date": 1792318485,
-    "durationSec": 1510,
-    "endingTime": 1484,
-    "endingLength": 14
-  },
-  {
-    "episode": 6,
-    "dub": "Озвучка SHIZA Project",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/122917/7a7ca25a7739022463bd9ed126d18846/720p?translations=false&only_episode=true&only_season=true&episode=6",
-    "date": 1792997868,
-    "durationSec": 1514
-  },
-  {
-    "episode": 7,
-    "dub": "Озвучка SHIZA Project",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/122917/7a7ca25a7739022463bd9ed126d18846/720p?translations=false&only_episode=true&only_season=true&episode=7",
-    "date": 1793601477,
-    "durationSec": 1504
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка SHIZA Project",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=SHIZA+Project&anime_id=61469&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+SHIZA+Project",
-    "date": 1774075342,
-    "durationSec": 2924,
-    "openingTime": 0,
-    "openingLength": 234,
-    "endingTime": 2848,
-    "endingLength": 44
-  },
-  {
-    "episode": 2,
-    "dub": "Озвучка SHIZA Project",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=SHIZA+Project&anime_id=61469&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+SHIZA+Project",
-    "date": 1790468836,
-    "durationSec": 1516
-  },
-  {
-    "episode": 3,
-    "dub": "Озвучка SHIZA Project",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=SHIZA+Project&anime_id=61469&episode=3&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+SHIZA+Project",
-    "date": 1791051205,
-    "durationSec": 1512
-  },
-  {
-    "episode": 4,
-    "dub": "Озвучка SHIZA Project",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=SHIZA+Project&anime_id=61469&episode=4&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+SHIZA+Project",
-    "date": 1791747469,
-    "durationSec": 1502
-  },
-  {
-    "episode": 5,
-    "dub": "Озвучка SHIZA Project",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=SHIZA+Project&anime_id=61469&episode=5&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+SHIZA+Project",
-    "date": 1792318455,
-    "durationSec": 1510
-  },
-  {
-    "episode": 6,
-    "dub": "Озвучка SHIZA Project",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=SHIZA+Project&anime_id=61469&episode=6&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+SHIZA+Project",
-    "date": 1792964890,
-    "durationSec": 1514
-  },
-  {
-    "episode": 7,
-    "dub": "Озвучка SHIZA Project",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=SHIZA+Project&anime_id=61469&episode=7&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+SHIZA+Project",
-    "date": 1793570750,
-    "durationSec": 1504
   },
   {
     "episode": 1,
@@ -2144,6 +2032,138 @@
     "openingLength": 89,
     "endingTime": 1337,
     "endingLength": 64
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка SHIZA Project",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/122917/7a7ca25a7739022463bd9ed126d18846/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1790456602,
+    "durationSec": 1516,
+    "endingTime": 1443,
+    "endingLength": 54
+  },
+  {
+    "episode": 3,
+    "dub": "Озвучка SHIZA Project",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/122917/7a7ca25a7739022463bd9ed126d18846/720p?translations=false&only_episode=true&only_season=true&episode=3",
+    "date": 1791121483,
+    "durationSec": 1512,
+    "openingTime": 181,
+    "openingLength": 89,
+    "endingTime": 1477,
+    "endingLength": 14
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка SHIZA Project",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/122917/7a7ca25a7739022463bd9ed126d18846/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1791390717,
+    "durationSec": 2924
+  },
+  {
+    "episode": 4,
+    "dub": "Озвучка SHIZA Project",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/122917/7a7ca25a7739022463bd9ed126d18846/720p?translations=false&only_episode=true&only_season=true&episode=4",
+    "date": 1791740254,
+    "durationSec": 1502,
+    "openingTime": 100,
+    "openingLength": 89,
+    "endingTime": 1469,
+    "endingLength": 24
+  },
+  {
+    "episode": 5,
+    "dub": "Озвучка SHIZA Project",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/122917/7a7ca25a7739022463bd9ed126d18846/720p?translations=false&only_episode=true&only_season=true&episode=5",
+    "date": 1792318485,
+    "durationSec": 1510,
+    "endingTime": 1484,
+    "endingLength": 14
+  },
+  {
+    "episode": 6,
+    "dub": "Озвучка SHIZA Project",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/122917/7a7ca25a7739022463bd9ed126d18846/720p?translations=false&only_episode=true&only_season=true&episode=6",
+    "date": 1792997868,
+    "durationSec": 1514,
+    "openingTime": 147,
+    "openingLength": 89,
+    "endingTime": 1423,
+    "endingLength": 89
+  },
+  {
+    "episode": 7,
+    "dub": "Озвучка SHIZA Project",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/122917/7a7ca25a7739022463bd9ed126d18846/720p?translations=false&only_episode=true&only_season=true&episode=7",
+    "date": 1793601477,
+    "durationSec": 1504
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка SHIZA Project",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=SHIZA+Project&anime_id=61469&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+SHIZA+Project",
+    "date": 1774075342,
+    "durationSec": 2924,
+    "openingTime": 0,
+    "openingLength": 234,
+    "endingTime": 2848,
+    "endingLength": 44
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка SHIZA Project",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=SHIZA+Project&anime_id=61469&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+SHIZA+Project",
+    "date": 1790468836,
+    "durationSec": 1516
+  },
+  {
+    "episode": 3,
+    "dub": "Озвучка SHIZA Project",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=SHIZA+Project&anime_id=61469&episode=3&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+SHIZA+Project",
+    "date": 1791051205,
+    "durationSec": 1512
+  },
+  {
+    "episode": 4,
+    "dub": "Озвучка SHIZA Project",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=SHIZA+Project&anime_id=61469&episode=4&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+SHIZA+Project",
+    "date": 1791747469,
+    "durationSec": 1502
+  },
+  {
+    "episode": 5,
+    "dub": "Озвучка SHIZA Project",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=SHIZA+Project&anime_id=61469&episode=5&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+SHIZA+Project",
+    "date": 1792318455,
+    "durationSec": 1510
+  },
+  {
+    "episode": 6,
+    "dub": "Озвучка SHIZA Project",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=SHIZA+Project&anime_id=61469&episode=6&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+SHIZA+Project",
+    "date": 1792964890,
+    "durationSec": 1514
+  },
+  {
+    "episode": 7,
+    "dub": "Озвучка SHIZA Project",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=SHIZA+Project&anime_id=61469&episode=7&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+SHIZA+Project",
+    "date": 1793570750,
+    "durationSec": 1504
   },
   {
     "episode": 1,
@@ -2737,7 +2757,7 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Mirano&anime_id=61469&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Mirano",
     "date": 1792697769,
-    "durationSec": 0
+    "durationSec": 2925
   },
   {
     "episode": 2,
@@ -2785,7 +2805,7 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniCore&anime_id=61469&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniCore",
     "date": 1791586332,
-    "durationSec": 0
+    "durationSec": 2924
   },
   {
     "episode": 2,
