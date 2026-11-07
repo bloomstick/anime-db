@@ -46,7 +46,7 @@
       "isCurrent": true
     },
     {
-      "slug": "dream:10412",
+      "slug": "mal:36162",
       "title": "https://myanimelist.net/anime/36162",
       "detail": "",
       "kindLabel": "",
@@ -55,7 +55,7 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:10428",
+      "slug": "mal:36223",
       "title": "https://myanimelist.net/anime/36223",
       "detail": "",
       "kindLabel": "",
@@ -125,6 +125,48 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    }
+  ],
+  "similar": [
+    {
+      "id": 355,
+      "score": 0.9990724147198063
+    },
+    {
+      "id": 2710,
+      "score": 0.9918205028266202
+    },
+    {
+      "id": 455,
+      "score": 0.9908037691768206
+    },
+    {
+      "id": 2232,
+      "score": 0.9873293399823954
+    },
+    {
+      "id": 898,
+      "score": 0.9554077454741712
+    },
+    {
+      "id": 891,
+      "score": 0.9450463092730719
+    },
+    {
+      "id": 59,
+      "score": 0.9416548520343024
+    },
+    {
+      "id": 422,
+      "score": 0.9399598699283533
+    },
+    {
+      "id": 430,
+      "score": 0.9266042076655489
+    },
+    {
+      "id": 1293,
+      "score": 0.9189253040486784
     }
   ]
 }
