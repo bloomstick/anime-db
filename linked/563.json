@@ -55,15 +55,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:22783",
-      "title": "https://myanimelist.net/anime/689",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://animenewsnetwork.com/encyclopedia/anime.php?id=4444",
       "title": "https://animenewsnetwork.com/encyclopedia/anime.php?id=4444",
       "detail": "",
@@ -74,6 +65,10 @@
     }
   ],
   "similar": [
+    {
+      "id": 13136,
+      "score": 1.1670119981210516
+    },
     {
       "id": 617,
       "score": 1.081232920681422
@@ -91,6 +86,10 @@
       "score": 1.0781949955237373
     },
     {
+      "id": 284,
+      "score": 1.0556444374735938
+    },
+    {
       "id": 3492,
       "score": 1.0415503810022155
     },
@@ -99,20 +98,12 @@
       "score": 1.012347627390503
     },
     {
-      "id": 12807,
-      "score": 0.994189434242597
+      "id": 135,
+      "score": 0.9978163888383436
     },
     {
-      "id": 10534,
-      "score": 0.9826249856339129
-    },
-    {
-      "id": 10039,
-      "score": 0.9574902061705157
-    },
-    {
-      "id": 1234,
-      "score": 0.9502067203032531
+      "id": 740,
+      "score": 0.9953163888408434
     }
   ]
 }

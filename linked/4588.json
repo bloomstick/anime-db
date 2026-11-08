@@ -35,15 +35,6 @@
       "relation": "",
       "year": "",
       "isCurrent": false
-    },
-    {
-      "slug": "dream:5009",
-      "title": "https://myanimelist.net/anime/12447",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
     }
   ],
   "similar": [
@@ -56,16 +47,8 @@
       "score": 0.9921639454505815
     },
     {
-      "id": 1762,
-      "score": 0.9918502898367598
-    },
-    {
       "id": 10065,
       "score": 0.9895473608123357
-    },
-    {
-      "id": 3879,
-      "score": 0.989188726020205
     },
     {
       "id": 1328,
@@ -86,6 +69,14 @@
     {
       "id": 752,
       "score": 0.985529410094498
+    },
+    {
+      "id": 180,
+      "score": 0.9820857533734402
+    },
+    {
+      "id": 85,
+      "score": 0.974810912200459
     }
   ]
 }

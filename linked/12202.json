@@ -586,15 +586,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:12953",
-      "title": "https://myanimelist.net/anime/42653",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/1028669",
       "title": "https://simkl.com/anime/1028669",
       "detail": "",
@@ -683,6 +674,15 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:22519",
+      "title": "Звёзды Айкацу! Прогресс звёзд",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
@@ -699,6 +699,18 @@
       "score": 1.2042490231399334
     },
     {
+      "id": 17057,
+      "score": 1.1974296792273722
+    },
+    {
+      "id": 18682,
+      "score": 1.1973703884198637
+    },
+    {
+      "id": 23743,
+      "score": 1.197174531364833
+    },
+    {
       "id": 12433,
       "score": 1.1966149799205015
     },
@@ -713,18 +725,6 @@
     {
       "id": 9854,
       "score": 1.1950661249344645
-    },
-    {
-      "id": 8798,
-      "score": 1.1926378971487468
-    },
-    {
-      "id": 6710,
-      "score": 1.191857454776158
-    },
-    {
-      "id": 5154,
-      "score": 1.1901869793741575
     }
   ]
 }

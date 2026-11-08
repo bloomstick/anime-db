@@ -82,24 +82,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:2316",
-      "title": "Доктор Сламп (1997)",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:4028",
-      "title": "Доктор Сламп: Доктор Маширито и Абале",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://animenewsnetwork.com/encyclopedia/anime.php?id=32278",
       "title": "https://animenewsnetwork.com/encyclopedia/anime.php?id=32278",
       "detail": "",
@@ -719,9 +701,59 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:3636",
+      "title": "Доктор Сламп (фильм #09)",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:4027",
+      "title": "Доктор Сламп (фильм #10)",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
+    {
+      "id": 3636,
+      "score": 1.209612343176498
+    },
+    {
+      "id": 3635,
+      "score": 1.207868687583661
+    },
+    {
+      "id": 4027,
+      "score": 1.2070365856051848
+    },
+    {
+      "id": 3781,
+      "score": 1.2051173936815487
+    },
+    {
+      "id": 4025,
+      "score": 1.2044883942903484
+    },
+    {
+      "id": 3253,
+      "score": 1.203391304353826
+    },
+    {
+      "id": 4026,
+      "score": 1.2032292014919768
+    },
+    {
+      "id": 3826,
+      "score": 1.1899710561269892
+    },
     {
       "id": 1806,
       "score": 1.0339143316059323
@@ -729,38 +761,6 @@
     {
       "id": 995,
       "score": 0.9983702132482815
-    },
-    {
-      "id": 993,
-      "score": 0.9943133734147185
-    },
-    {
-      "id": 991,
-      "score": 0.9877416336138751
-    },
-    {
-      "id": 703,
-      "score": 0.9781626969044362
-    },
-    {
-      "id": 702,
-      "score": 0.9770365471586127
-    },
-    {
-      "id": 697,
-      "score": 0.9755198859975602
-    },
-    {
-      "id": 705,
-      "score": 0.973804833666375
-    },
-    {
-      "id": 701,
-      "score": 0.9732432395323418
-    },
-    {
-      "id": 708,
-      "score": 0.9719974082959787
     }
   ]
 }

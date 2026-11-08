@@ -1025,6 +1025,33 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:4338",
+      "title": "Гинтама: Сказание о Бэнидзакуре — Дополнение",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:17259",
+      "title": "Душа маджонга",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:19788",
+      "title": "Душа маджонга: Кан!",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
@@ -1039,10 +1066,6 @@
     {
       "id": 19367,
       "score": 1.0965982776849978
-    },
-    {
-      "id": 6461,
-      "score": 1.0962894684944264
     },
     {
       "id": 2662,
@@ -1067,6 +1090,10 @@
     {
       "id": 8596,
       "score": 0.9495954326476777
+    },
+    {
+      "id": 468,
+      "score": 0.9477142809429691
     }
   ]
 }

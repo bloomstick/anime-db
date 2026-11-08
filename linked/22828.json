@@ -115,16 +115,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:6857",
-      "title": "https://myanimelist.net/anime/23825",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "https://simkl.com/anime/37801",
@@ -155,10 +147,6 @@
       "score": 1.1051596365326026
     },
     {
-      "id": 3210,
-      "score": 1.03765902608315
-    },
-    {
       "id": 360,
       "score": 1.0338569606334473
     },
@@ -179,12 +167,16 @@
       "score": 0.9949853114609938
     },
     {
-      "id": 4075,
-      "score": 0.9927735640107584
-    },
-    {
       "id": 988,
       "score": 0.9926833491961844
+    },
+    {
+      "id": 1154,
+      "score": 0.9695340862110637
+    },
+    {
+      "id": 241,
+      "score": 0.9612203798211714
     }
   ]
 }

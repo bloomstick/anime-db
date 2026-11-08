@@ -190,15 +190,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:4326",
-      "title": "https://myanimelist.net/anime/9673",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/39728",
       "title": "https://simkl.com/anime/39728",
       "detail": "",
@@ -219,16 +210,20 @@
   ],
   "similar": [
     {
-      "id": 2010,
-      "score": 1.1839464706927423
+      "id": 3384,
+      "score": 1.2347516436457386
     },
     {
       "id": 920,
       "score": 1.096209709002612
     },
     {
-      "id": 511,
-      "score": 1.0905277831140814
+      "id": 3870,
+      "score": 1.0903698738772096
+    },
+    {
+      "id": 3043,
+      "score": 1.0898431944611318
     },
     {
       "id": 239,
@@ -253,10 +248,6 @@
     {
       "id": 886,
       "score": 1.080068178923605
-    },
-    {
-      "id": 267,
-      "score": 1.0763464706927421
     }
   ]
 }

@@ -478,15 +478,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:5829",
-      "title": "Покемон: Наилучших благ! 2 &mdash; Приключения на островах Деколора",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:6034",
       "title": "Покемон: Мьюту. Пролог к пробуждению",
       "detail": "",
@@ -543,15 +534,6 @@
     {
       "slug": "dream:6745",
       "title": "Покемон XY: Мега-эволюция",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:6068",
-      "title": "Покемон: Приключения в Калосе",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -3745,71 +3727,8 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:23316",
-      "title": "https://myanimelist.net/anime/10302",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:10682",
-      "title": "https://myanimelist.net/anime/36825",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:23828",
-      "title": "https://myanimelist.net/anime/42136",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:12775",
-      "title": "https://myanimelist.net/anime/42137",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "mal:50815",
       "title": "https://myanimelist.net/anime/50815",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:3414",
-      "title": "https://myanimelist.net/anime/6555",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:3745",
-      "title": "https://myanimelist.net/anime/7550",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:4067",
-      "title": "https://myanimelist.net/anime/8709",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -4616,16 +4535,99 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:12788",
+      "title": "Покетун",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:13298",
+      "title": "Сумеречные крылья: Фестиваль звёзд",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:18361",
+      "title": "Покемон: Далёкое синее небо",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:18679",
+      "title": "Покемон: Консьерж",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:19182",
+      "title": "Покемон: Палдейские ветры",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:19539",
+      "title": "Детектив Пикачу: Великолепная утренняя рутина",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:22652",
+      "title": "Покемон: Дикая карта",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
+    {
+      "id": 12235,
+      "score": 1.205922097311172
+    },
     {
       "id": 1205,
       "score": 1.2054012866239998
     },
     {
+      "id": 8504,
+      "score": 1.2046016627883316
+    },
+    {
+      "id": 4165,
+      "score": 1.203227196472663
+    },
+    {
+      "id": 5269,
+      "score": 1.200529770065089
+    },
+    {
       "id": 458,
       "score": 1.1991627346167424
+    },
+    {
+      "id": 18362,
+      "score": 1.1934763854329562
     },
     {
       "id": 435,
@@ -4636,28 +4638,8 @@
       "score": 1.1866977866916733
     },
     {
-      "id": 1139,
-      "score": 1.1131772538486029
-    },
-    {
-      "id": 1227,
-      "score": 1.1100349514792107
-    },
-    {
-      "id": 1039,
-      "score": 1.1054784123168435
-    },
-    {
-      "id": 230,
-      "score": 1.0635528131035468
-    },
-    {
-      "id": 803,
-      "score": 1.0633256027779412
-    },
-    {
-      "id": 199,
-      "score": 1.0626850766454903
+      "id": 18734,
+      "score": 1.1831249935732733
     }
   ]
 }

@@ -584,6 +584,24 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:9757",
+      "title": "Дитя хаоса: Эпизод 0",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:10080",
+      "title": "Дитя хаоса: Безмолвное небо — Фильм",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
@@ -608,10 +626,6 @@
       "score": 0.9807829170995375
     },
     {
-      "id": 6379,
-      "score": 0.9798059790092698
-    },
-    {
       "id": 11970,
       "score": 0.9754732823874768
     },
@@ -626,6 +640,10 @@
     {
       "id": 12807,
       "score": 0.9711456820216523
+    },
+    {
+      "id": 22798,
+      "score": 0.9708046989683867
     }
   ]
 }

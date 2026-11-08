@@ -44,15 +44,6 @@
       "relation": "",
       "year": "",
       "isCurrent": false
-    },
-    {
-      "slug": "dream:3620",
-      "title": "https://myanimelist.net/anime/7083",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
     }
   ],
   "similar": [
@@ -63,6 +54,10 @@
     {
       "id": 748,
       "score": 1.189414399377185
+    },
+    {
+      "id": 2405,
+      "score": 1.1142194888713979
     },
     {
       "id": 9146,
@@ -91,10 +86,6 @@
     {
       "id": 78,
       "score": 1.0354060962682041
-    },
-    {
-      "id": 19130,
-      "score": 1.0346246611588321
     }
   ]
 }

@@ -1081,51 +1081,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:4552",
-      "title": "https://myanimelist.net/anime/10276",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:4751",
-      "title": "https://myanimelist.net/anime/10862",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:941",
-      "title": "https://myanimelist.net/anime/1190",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:23557",
-      "title": "https://myanimelist.net/anime/29697",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:10738",
-      "title": "https://myanimelist.net/anime/36952",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "mal:42602",
       "title": "https://myanimelist.net/anime/42602",
       "detail": "",
@@ -1135,26 +1090,8 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:23132",
-      "title": "https://myanimelist.net/anime/5996",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "mal:6749",
       "title": "https://myanimelist.net/anime/6749",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:632",
-      "title": "https://myanimelist.net/anime/814",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -1304,6 +1241,15 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:12723",
+      "title": "Новый принц тенниса: Хётэй против Риккая — Игра будущего",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
@@ -1328,6 +1274,10 @@
       "score": 1.1966663670591748
     },
     {
+      "id": 23532,
+      "score": 1.1962713880507867
+    },
+    {
       "id": 10926,
       "score": 1.1953018025345377
     },
@@ -1336,16 +1286,12 @@
       "score": 1.1945167383171231
     },
     {
-      "id": 8437,
-      "score": 1.185385849055581
+      "id": 19168,
+      "score": 1.1919360202790825
     },
     {
-      "id": 16827,
-      "score": 1.1842014378589862
-    },
-    {
-      "id": 145,
-      "score": 1.1827229959440722
+      "id": 18992,
+      "score": 1.191217007623603
     }
   ]
 }

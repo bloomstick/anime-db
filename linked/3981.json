@@ -35,18 +35,13 @@
       "relation": "",
       "year": "",
       "isCurrent": false
-    },
-    {
-      "slug": "dream:4771",
-      "title": "https://myanimelist.net/anime/10935",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
     }
   ],
   "similar": [
+    {
+      "id": 8957,
+      "score": 1.1797349239453734
+    },
     {
       "id": 5013,
       "score": 1.0768452843587837
@@ -72,20 +67,16 @@
       "score": 1.0274032048307968
     },
     {
+      "id": 8636,
+      "score": 1.0192899797389132
+    },
+    {
       "id": 280,
       "score": 1.0191024472783254
     },
     {
       "id": 1127,
       "score": 1.018812856866715
-    },
-    {
-      "id": 1556,
-      "score": 1.0172645459662348
-    },
-    {
-      "id": 575,
-      "score": 1.009757618549315
     }
   ]
 }

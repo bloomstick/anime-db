@@ -1754,9 +1754,31 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:4872",
+      "title": "Пинк: Водяные воры, Дождевые воры",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:5967",
+      "title": "Кэнноскэ",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
+    {
+      "id": 3098,
+      "score": 1.0361470066005536
+    },
     {
       "id": 599,
       "score": 1.034736635993149
@@ -1792,10 +1814,6 @@
     {
       "id": 646,
       "score": 0.9949668096506238
-    },
-    {
-      "id": 1863,
-      "score": 0.9928130063041831
     }
   ]
 }

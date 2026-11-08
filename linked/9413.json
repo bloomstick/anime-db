@@ -73,15 +73,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:9848",
-      "title": "https://myanimelist.net/anime/34961",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/612377",
       "title": "https://simkl.com/anime/612377",
       "detail": "",
@@ -92,10 +83,6 @@
     }
   ],
   "similar": [
-    {
-      "id": 492,
-      "score": 1.1833926475135859
-    },
     {
       "id": 90,
       "score": 1.0667125717810977
@@ -117,20 +104,24 @@
       "score": 1.0627660062137636
     },
     {
-      "id": 948,
-      "score": 1.0612061205829124
-    },
-    {
       "id": 1553,
       "score": 1.0606800554889837
     },
     {
-      "id": 897,
-      "score": 1.0605090014630263
-    },
-    {
       "id": 505,
       "score": 1.0603150995940962
+    },
+    {
+      "id": 656,
+      "score": 1.0586062864412749
+    },
+    {
+      "id": 677,
+      "score": 1.0575788029023365
+    },
+    {
+      "id": 28,
+      "score": 1.0574374226628405
     }
   ]
 }

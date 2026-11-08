@@ -629,9 +629,31 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:1564",
+      "title": "Кошачий глаз 2",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:24012",
+      "title": "Кошачий глаз",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
+    {
+      "id": 16091,
+      "score": 1.038351592809653
+    },
     {
       "id": 216,
       "score": 1.0262717588658516
@@ -661,16 +683,12 @@
       "score": 0.9897972981123019
     },
     {
+      "id": 17693,
+      "score": 0.9887390954768083
+    },
+    {
       "id": 2858,
       "score": 0.982627196906439
-    },
-    {
-      "id": 11909,
-      "score": 0.9785933716886808
-    },
-    {
-      "id": 6379,
-      "score": 0.9770471012195349
     }
   ]
 }

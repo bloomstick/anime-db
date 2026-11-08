@@ -55,15 +55,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:13415",
-      "title": "Портрет Цзянху: Туманные рыцари",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:11435",
       "title": "Хранители ветра",
       "detail": "",
@@ -120,15 +111,6 @@
     {
       "slug": "dream:17640",
       "title": "Портрет Цзянху: Реки и озёра 6",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:21066",
-      "title": "Портрет Цзянху: Реки и озёра 7",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -433,15 +415,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:11747",
-      "title": "https://myanimelist.net/anime/39141",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/1033691",
       "title": "https://simkl.com/anime/1033691",
       "detail": "",
@@ -543,10 +516,6 @@
   ],
   "similar": [
     {
-      "id": 11747,
-      "score": 1.2324372577282117
-    },
-    {
       "id": 17081,
       "score": 1.2279588628476832
     },
@@ -579,8 +548,12 @@
       "score": 1.067108488302649
     },
     {
-      "id": 13415,
-      "score": 1.0442873556052514
+      "id": 16613,
+      "score": 1.0363757779554488
+    },
+    {
+      "id": 12713,
+      "score": 1.028834053965745
     }
   ]
 }

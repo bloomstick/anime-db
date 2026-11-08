@@ -478,15 +478,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:5829",
-      "title": "Покемон: Наилучших благ! 2 &mdash; Приключения на островах Деколора",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:6034",
       "title": "Покемон: Мьюту. Пролог к пробуждению",
       "detail": "",
@@ -543,15 +534,6 @@
     {
       "slug": "dream:6745",
       "title": "Покемон XY: Мега-эволюция",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:6068",
-      "title": "Покемон: Приключения в Калосе",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -2656,33 +2638,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:7586",
-      "title": "https://myanimelist.net/anime/28853",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:8162",
-      "title": "https://myanimelist.net/anime/30686",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:8358",
-      "title": "https://myanimelist.net/anime/31168",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/1123609",
       "title": "https://simkl.com/anime/1123609",
       "detail": "",
@@ -3482,48 +3437,111 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:12788",
+      "title": "Покетун",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:13298",
+      "title": "Сумеречные крылья: Фестиваль звёзд",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:18361",
+      "title": "Покемон: Далёкое синее небо",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:18679",
+      "title": "Покемон: Консьерж",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:19182",
+      "title": "Покемон: Палдейские ветры",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:19539",
+      "title": "Детектив Пикачу: Великолепная утренняя рутина",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:22652",
+      "title": "Покемон: Дикая карта",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
     {
-      "id": 813,
-      "score": 1.0565213963097835
+      "id": 8373,
+      "score": 1.210603512869085
     },
     {
-      "id": 1396,
-      "score": 1.0453637241499245
+      "id": 6414,
+      "score": 1.2093771143803234
     },
     {
-      "id": 882,
-      "score": 1.0440556636263048
+      "id": 23218,
+      "score": 1.1969179523750868
     },
     {
-      "id": 1178,
-      "score": 1.0438701268990829
+      "id": 1809,
+      "score": 1.1962073562627207
     },
     {
-      "id": 883,
-      "score": 1.042667296650206
+      "id": 19466,
+      "score": 1.1955925488061827
     },
     {
-      "id": 884,
-      "score": 1.0423984668039776
+      "id": 2918,
+      "score": 1.19358942505352
     },
     {
-      "id": 880,
-      "score": 1.0357489215522553
+      "id": 3675,
+      "score": 1.1920126115077627
     },
     {
-      "id": 885,
-      "score": 1.0066759209538207
+      "id": 1722,
+      "score": 1.191738079001405
     },
     {
-      "id": 881,
-      "score": 0.997275531649163
+      "id": 7840,
+      "score": 1.191608449173975
     },
     {
-      "id": 595,
-      "score": 0.9921969008096496
+      "id": 6143,
+      "score": 1.1873227348882605
     }
   ]
 }

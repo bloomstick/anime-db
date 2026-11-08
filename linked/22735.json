@@ -172,15 +172,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:18364",
-      "title": "Ван-Пис: Космос &mdash; это весело! Остров звёздного неба",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:2558",
       "title": "Ван-Пис: Эпизод Чоппера Плюс &mdash; Зимнее цветение, чудесная сакура &mdash; Фильм 9",
       "detail": "",
@@ -3976,38 +3967,12 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:6884",
-      "title": "https://myanimelist.net/anime/23933",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:6885",
-      "title": "https://myanimelist.net/anime/23935",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "dream:7553",
       "title": "https://myanimelist.net/anime/28683",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:8781",
-      "title": "https://myanimelist.net/anime/32437",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -4033,15 +3998,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:11404",
-      "title": "https://myanimelist.net/anime/38419",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "mal:40181",
       "title": "https://myanimelist.net/anime/40181",
       "detail": "",
@@ -4060,24 +4016,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:17122",
-      "title": "https://myanimelist.net/anime/50385",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:23911",
-      "title": "https://myanimelist.net/anime/51162",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "mal:51163",
       "title": "https://myanimelist.net/anime/51163",
       "detail": "",
@@ -4089,15 +4027,6 @@
     {
       "slug": "mal:52139",
       "title": "https://myanimelist.net/anime/52139",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:18366",
-      "title": "https://myanimelist.net/anime/53880",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -4168,26 +4097,8 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:21042",
-      "title": "https://myanimelist.net/anime/60790",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:21504",
       "title": "https://myanimelist.net/anime/61892",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:21737",
-      "title": "https://myanimelist.net/anime/62394",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -4210,7 +4121,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "https://simkl.com/anime/1239423",

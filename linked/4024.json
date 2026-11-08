@@ -82,24 +82,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:2316",
-      "title": "Доктор Сламп (1997)",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:4028",
-      "title": "Доктор Сламп: Доктор Маширито и Абале",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "anidb:1925",
       "title": "https://anidb.net/anime/1925",
       "detail": "",
@@ -647,16 +629,34 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:3636",
+      "title": "Доктор Сламп (фильм #09)",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:4027",
+      "title": "Доктор Сламп (фильм #10)",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
     {
-      "id": 1796,
-      "score": 1.1902375646318661
+      "id": 3025,
+      "score": 1.1969012604258638
     },
     {
-      "id": 2005,
-      "score": 1.055538923726696
+      "id": 1796,
+      "score": 1.1902375646318661
     },
     {
       "id": 1797,
@@ -679,16 +679,16 @@
       "score": 0.9845267709494611
     },
     {
-      "id": 1280,
-      "score": 0.983415165238476
-    },
-    {
       "id": 1057,
       "score": 0.9820525208477273
     },
     {
       "id": 699,
       "score": 0.9816964435289586
+    },
+    {
+      "id": 704,
+      "score": 0.9767416304928251
     }
   ]
 }

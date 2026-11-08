@@ -88,7 +88,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "dream:10816",
@@ -106,7 +107,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "dream:12375",
@@ -115,7 +117,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "dream:13724",
@@ -124,7 +127,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "dream:18501",
@@ -133,7 +137,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "dream:20663",
@@ -142,11 +147,12 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
-      "slug": "dream:22187",
-      "title": "https://myanimelist.net/anime/63497",
+      "slug": "dream:17131",
+      "title": "Тянь Бао - падение демонов 3",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -154,8 +160,89 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:4370",
-      "title": "https://myanimelist.net/anime/9806",
+      "slug": "dream:17197",
+      "title": "Мастер льда и пламени",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:17433",
+      "title": "Трон, отмеченный Богом",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:17608",
+      "title": "Боевой континент 2: Непревзойдённый клан Тан",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:17914",
+      "title": "Трон, отмеченный богом 2",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:18214",
+      "title": "Мастер льда и пламени 2",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:19709",
+      "title": "Боевой континент: Битва богов (Режиссёрская версия)",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:21355",
+      "title": "Трон, отмеченный богом: Легенда о Лайкэйсы И",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:21455",
+      "title": "Боевой континент: Путь меча Чэнь Синя",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:21900",
+      "title": "Боевой континент: 9528",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:22484",
+      "title": "Трон, отмеченный богом: Битва за святой Вавилон",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -165,32 +252,20 @@
   ],
   "similar": [
     {
-      "id": 19438,
-      "score": 0.7921854340198495
+      "id": 20990,
+      "score": 0.7933913618415694
     },
     {
-      "id": 10862,
-      "score": 0.7911441506930647
+      "id": 19438,
+      "score": 0.7921854340198495
     },
     {
       "id": 17349,
       "score": 0.7905007612687655
     },
     {
-      "id": 8788,
-      "score": 0.7904964902672875
-    },
-    {
-      "id": 10854,
-      "score": 0.7904800404759389
-    },
-    {
-      "id": 6298,
-      "score": 0.7897866402027425
-    },
-    {
-      "id": 10087,
-      "score": 0.7896433630622235
+      "id": 20437,
+      "score": 0.789647694153597
     },
     {
       "id": 19035,
@@ -199,6 +274,18 @@
     {
       "id": 17864,
       "score": 0.7890835861504237
+    },
+    {
+      "id": 11836,
+      "score": 0.7889978320213429
+    },
+    {
+      "id": 20654,
+      "score": 0.7887147207222368
+    },
+    {
+      "id": 13010,
+      "score": 0.7886828413365936
     },
     {
       "id": 13011,

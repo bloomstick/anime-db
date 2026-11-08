@@ -514,26 +514,8 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:21231",
-      "title": "Судьба/Великий приказ: Рицука Фудзимару не понимает этого 2 &mdash; Спецвыпуски",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:19079",
       "title": "Судьба/Странная подделка",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:22593",
-      "title": "Судьба/Великий приказ: Рицука Фудзимару не понимает этого 4",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -1540,15 +1522,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:24025",
-      "title": "https://myanimelist.net/anime/62149",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/1002141",
       "title": "https://simkl.com/anime/1002141",
       "detail": "",
@@ -1961,48 +1934,57 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:133",
+      "title": "Повесть о лунной принцессе",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
     {
-      "id": 10651,
-      "score": 0.7976020116038637
+      "id": 18453,
+      "score": 0.8450854319890693
     },
     {
-      "id": 12755,
-      "score": 0.7975194962584651
+      "id": 13010,
+      "score": 0.8005976471829968
     },
     {
-      "id": 11633,
-      "score": 0.7974016832499986
+      "id": 20654,
+      "score": 0.7990670265686397
+    },
+    {
+      "id": 11836,
+      "score": 0.7989881469123837
+    },
+    {
+      "id": 21201,
+      "score": 0.798578676338739
+    },
+    {
+      "id": 21016,
+      "score": 0.7983107151221858
+    },
+    {
+      "id": 19831,
+      "score": 0.7976288971861214
     },
     {
       "id": 13395,
       "score": 0.7973409085539291
     },
     {
-      "id": 10088,
-      "score": 0.7968635500673253
+      "id": 20990,
+      "score": 0.7967885394731006
     },
     {
-      "id": 12725,
-      "score": 0.796319474079961
-    },
-    {
-      "id": 11377,
-      "score": 0.796139161514088
-    },
-    {
-      "id": 17864,
-      "score": 0.7961312612932234
-    },
-    {
-      "id": 14602,
-      "score": 0.7957366708227123
-    },
-    {
-      "id": 4785,
-      "score": 0.795689952252093
+      "id": 17624,
+      "score": 0.7961606704720688
     }
   ]
 }

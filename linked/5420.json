@@ -1,15 +1,6 @@
 {
   "links": [
     {
-      "slug": "dream:6004",
-      "title": "Привет, Китти: Спящая принцесса",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:6565",
       "title": "Привет, Китти: Биг-Бен остановился",
       "detail": "",
@@ -46,26 +37,8 @@
       "isCurrent": true
     },
     {
-      "slug": "dream:6557",
-      "title": "Привет, Китти: Момотаро",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:6570",
       "title": "Привет, Китти: Девочка со спичками",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:8018",
-      "title": "Привет, Китти: Золушка &mdash; OVA",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -224,48 +197,66 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:1842",
+      "title": "Пожалуйста, Моя Мелодия",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:2664",
+      "title": "Пожалуйста, Моя Мелодия 2",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
-    {
-      "id": 5841,
-      "score": 1.2170050609570149
-    },
     {
       "id": 5862,
       "score": 1.214228130845409
     },
     {
-      "id": 6004,
-      "score": 1.2123401562829363
+      "id": 6565,
+      "score": 1.2091355541693856
     },
     {
-      "id": 5843,
-      "score": 1.2096868357004735
+      "id": 6570,
+      "score": 1.204673489621603
     },
     {
-      "id": 5873,
-      "score": 1.2058813296740452
+      "id": 8112,
+      "score": 1.1968920046378109
     },
     {
-      "id": 5872,
-      "score": 1.2054684258758854
+      "id": 2417,
+      "score": 1.1885441785508548
     },
     {
-      "id": 5855,
-      "score": 1.2046025278139114
+      "id": 7721,
+      "score": 1.1852358251041655
     },
     {
-      "id": 5754,
-      "score": 1.2037664720724104
+      "id": 3279,
+      "score": 1.180884542023637
     },
     {
-      "id": 5853,
-      "score": 1.2034152262266098
+      "id": 10218,
+      "score": 1.1739614650959442
     },
     {
-      "id": 5864,
-      "score": 1.2022973270037027
+      "id": 7038,
+      "score": 1.0642876546585043
+    },
+    {
+      "id": 4964,
+      "score": 1.0580068229422697
     }
   ]
 }

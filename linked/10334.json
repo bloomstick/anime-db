@@ -487,15 +487,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:20542",
-      "title": "Мобильный воин Гандам: Происхождение &mdash; Фильм",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:8385",
       "title": "Мобильный воин Гандам: Железнокровные сироты",
       "detail": "",
@@ -705,15 +696,6 @@
     {
       "slug": "dream:16725",
       "title": "Мобильный воин Гандам: Поколение &mdash; Фильм",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:21674",
-      "title": "Мобильный воин Гандам: Железнокровные сироты &mdash; Клин антракта",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -2933,6 +2915,51 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:7004",
+      "title": "Мобильный доспех Гандам-сан",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:19084",
+      "title": "Мобильный воин Гандам: Реквием Возмездия",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:21290",
+      "title": "Мобильный воин Гандам: GQuuuuuuX — Начало",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:22565",
+      "title": "Мобильный воин Гандам: RG XARX-ZERO",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:23780",
+      "title": "Гандам против Китти",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
@@ -2961,10 +2988,6 @@
       "score": 1.2043522174534345
     },
     {
-      "id": 22930,
-      "score": 1.1954639438037584
-    },
-    {
       "id": 2605,
       "score": 1.1866815400277462
     },
@@ -2975,6 +2998,10 @@
     {
       "id": 858,
       "score": 1.1601605626751668
+    },
+    {
+      "id": 860,
+      "score": 1.1542035653037872
     }
   ]
 }

@@ -55,24 +55,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:23876",
-      "title": "Осомацу-сан. Фильм 3",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:19343",
-      "title": "Мацуину",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:20223",
       "title": "Осомацу-сан 4",
       "detail": "",
@@ -712,15 +694,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:9877",
-      "title": "https://myanimelist.net/anime/35018",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "mal:36664",
       "title": "https://myanimelist.net/anime/36664",
       "detail": "",
@@ -730,35 +703,8 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:10659",
-      "title": "https://myanimelist.net/anime/36761",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:10712",
-      "title": "https://myanimelist.net/anime/36890",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "mal:37818",
       "title": "https://myanimelist.net/anime/37818",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:11264",
-      "title": "https://myanimelist.net/anime/38087",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -890,13 +836,36 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:11048",
+      "title": "Ночной эфир! Гениальный Бакабон",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:12490",
+      "title": "Осомацу-сан. Фильм: Пролог",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:16529",
+      "title": "Чокомацу-сан: Белый день",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
-    {
-      "id": 583,
-      "score": 1.1922120033499428
-    },
     {
       "id": 945,
       "score": 1.1855589059383933
@@ -914,24 +883,28 @@
       "score": 0.9966352870164574
     },
     {
-      "id": 415,
-      "score": 0.9949523809523809
-    },
-    {
       "id": 190,
       "score": 0.9919999563764645
     },
     {
-      "id": 540,
-      "score": 0.9914781587076038
-    },
-    {
-      "id": 542,
-      "score": 0.9912799268130575
-    },
-    {
       "id": 441,
       "score": 0.9882344817262739
+    },
+    {
+      "id": 313,
+      "score": 0.9850509726891021
+    },
+    {
+      "id": 285,
+      "score": 0.9848231144610539
+    },
+    {
+      "id": 286,
+      "score": 0.9834437976551812
+    },
+    {
+      "id": 1266,
+      "score": 0.9826984636720748
     }
   ]
 }

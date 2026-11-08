@@ -871,7 +871,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "dream:8312",
@@ -880,7 +881,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "https://simkl.com/anime/1464713",
@@ -1340,12 +1342,12 @@
       "score": 0.9944754590506246
     },
     {
-      "id": 9956,
-      "score": 0.9887828334131612
-    },
-    {
       "id": 2788,
       "score": 0.9822797189310875
+    },
+    {
+      "id": 340,
+      "score": 0.9673375350441507
     }
   ]
 }

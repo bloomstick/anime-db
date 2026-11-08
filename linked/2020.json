@@ -757,15 +757,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:23075",
-      "title": "https://myanimelist.net/anime/4406",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/1464713",
       "title": "https://simkl.com/anime/1464713",
       "detail": "",
@@ -1187,9 +1178,22 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:2732",
+      "title": "Великий Мазингер против Робота Геттера",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
+    {
+      "id": 13262,
+      "score": 1.200150969334695
+    },
     {
       "id": 1275,
       "score": 1.0706381281269715
@@ -1219,16 +1223,12 @@
       "score": 1.0590474664512683
     },
     {
-      "id": 2017,
-      "score": 1.0582994217348065
+      "id": 22740,
+      "score": 1.003407499775081
     },
     {
-      "id": 1709,
-      "score": 1.0560070051765402
-    },
-    {
-      "id": 2363,
-      "score": 1.0525122165567549
+      "id": 4261,
+      "score": 1.0023973987649801
     }
   ]
 }

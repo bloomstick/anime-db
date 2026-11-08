@@ -757,15 +757,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:17344",
-      "title": "https://myanimelist.net/anime/51125",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/1572407",
       "title": "https://simkl.com/anime/1572407",
       "detail": "",
@@ -908,9 +899,40 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:5144",
+      "title": "Одиннадцать молний: Только вперёд! — Камень времени",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:23413",
+      "title": "Инадзума 11: Только вперёд! против Хроник карточных битв",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:23440",
+      "title": "Инадзума 11: Только вперёд! — Галактика",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
+    {
+      "id": 23749,
+      "score": 1.2151410326387169
+    },
     {
       "id": 4620,
       "score": 1.2071929076892365
@@ -920,36 +942,32 @@
       "score": 1.1968595132571216
     },
     {
-      "id": 4426,
-      "score": 0.9880603062727741
+      "id": 23440,
+      "score": 1.060334579381336
     },
     {
-      "id": 2994,
-      "score": 0.9796244522682163
+      "id": 12298,
+      "score": 0.99396570354061
     },
     {
-      "id": 11300,
-      "score": 0.9400465693976551
+      "id": 12421,
+      "score": 0.9932995488624737
     },
     {
-      "id": 3643,
-      "score": 0.9291227598638454
+      "id": 13734,
+      "score": 0.992599676437615
     },
     {
-      "id": 8113,
-      "score": 0.9286313746505641
+      "id": 16924,
+      "score": 0.9917688654964444
     },
     {
-      "id": 6652,
-      "score": 0.9278406590867524
+      "id": 18778,
+      "score": 0.9886679127127646
     },
     {
-      "id": 3162,
-      "score": 0.927790965558607
-    },
-    {
-      "id": 5174,
-      "score": 0.927390965558607
+      "id": 19887,
+      "score": 0.9852183647892383
     }
   ]
 }

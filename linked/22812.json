@@ -154,15 +154,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:2745",
-      "title": "https://myanimelist.net/anime/4416",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/36332",
       "title": "https://simkl.com/anime/36332",
       "detail": "",
@@ -206,16 +197,50 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:693",
+      "title": "Король храбрецов Гаогайгар",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:1078",
+      "title": "Король храбрецов Гаогайгар: Финал OVA",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
+    {
+      "id": 23497,
+      "score": 1.0563443519879205
+    },
     {
       "id": 785,
       "score": 1.0233231944009784
     },
     {
-      "id": 1654,
-      "score": 1.0041976718853667
+      "id": 17422,
+      "score": 1.0151169225738443
+    },
+    {
+      "id": 907,
+      "score": 1.0136171139040047
+    },
+    {
+      "id": 17421,
+      "score": 1.0039312834621215
+    },
+    {
+      "id": 2913,
+      "score": 1.003064658284318
     },
     {
       "id": 470,
@@ -226,28 +251,12 @@
       "score": 1.0024312985134354
     },
     {
-      "id": 566,
-      "score": 0.9989058619615446
+      "id": 729,
+      "score": 0.9937232539127965
     },
     {
-      "id": 124,
-      "score": 0.9836981985196556
-    },
-    {
-      "id": 314,
-      "score": 0.9781010387402197
-    },
-    {
-      "id": 913,
-      "score": 0.975826953069438
-    },
-    {
-      "id": 22844,
-      "score": 0.9755689712687822
-    },
-    {
-      "id": 325,
-      "score": 0.9714971515771665
+      "id": 307,
+      "score": 0.9922078139017709
     }
   ]
 }

@@ -566,9 +566,122 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:3253",
+      "title": "Доктор Сламп: Сокровище замка Нанаба",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:3635",
+      "title": "Доктор Сламп: Из Пингвиньего Городка С Любовью",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:3781",
+      "title": "Доктор Сламп: Привет, удивительный остров!",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:3782",
+      "title": "Доктор Сламп: Большая кругосветная гонка",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:3826",
+      "title": "Доктор Сламп: Ясное небо над деревней пингвинов",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:4024",
+      "title": "Доктор Сламп: Космические приключения",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:4025",
+      "title": "Доктор Сламп: Город мечты Мехаполис",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:4026",
+      "title": "Доктор Сламп: Следуй за спасённой акулой",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:4027",
+      "title": "Доктор Сламп (фильм #10)",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
+    {
+      "id": 3635,
+      "score": 1.212660604390602
+    },
+    {
+      "id": 3781,
+      "score": 1.212063492063492
+    },
+    {
+      "id": 4027,
+      "score": 1.2105555555511112
+    },
+    {
+      "id": 3782,
+      "score": 1.209612343176498
+    },
+    {
+      "id": 4025,
+      "score": 1.2084138687777553
+    },
+    {
+      "id": 3253,
+      "score": 1.207142865797755
+    },
+    {
+      "id": 4026,
+      "score": 1.2067737235984315
+    },
+    {
+      "id": 3826,
+      "score": 1.1983965306143962
+    },
     {
       "id": 1806,
       "score": 1.0394357656769757
@@ -576,38 +689,6 @@
     {
       "id": 993,
       "score": 0.9999926126581126
-    },
-    {
-      "id": 995,
-      "score": 0.9962384610593605
-    },
-    {
-      "id": 991,
-      "score": 0.9937116713811396
-    },
-    {
-      "id": 703,
-      "score": 0.9863608986645707
-    },
-    {
-      "id": 702,
-      "score": 0.9852056113896095
-    },
-    {
-      "id": 697,
-      "score": 0.9831694984160018
-    },
-    {
-      "id": 705,
-      "score": 0.9816533850768591
-    },
-    {
-      "id": 701,
-      "score": 0.9813426270632271
-    },
-    {
-      "id": 708,
-      "score": 0.9800062161167191
     }
   ]
 }

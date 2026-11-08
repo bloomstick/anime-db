@@ -448,7 +448,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "dream:8207",
@@ -457,7 +458,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "dream:8381",
@@ -466,7 +468,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "dream:8831",
@@ -475,7 +478,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "dream:10291",
@@ -484,7 +488,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "dream:16492",
@@ -493,7 +498,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "mal:62710",
@@ -601,6 +607,10 @@
       "score": 0.7961681509510464
     },
     {
+      "id": 7906,
+      "score": 0.7955637412127123
+    },
+    {
       "id": 17218,
       "score": 0.7952398739237094
     },
@@ -631,10 +641,6 @@
     {
       "id": 19890,
       "score": 0.7947726633213684
-    },
-    {
-      "id": 10592,
-      "score": 0.7945476190513706
     }
   ]
 }

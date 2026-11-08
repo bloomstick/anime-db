@@ -721,15 +721,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:5139",
-      "title": "https://myanimelist.net/anime/13245",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/1065791",
       "title": "https://simkl.com/anime/1065791",
       "detail": "",
@@ -872,13 +863,18 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:12723",
+      "title": "Новый принц тенниса: Хётэй против Риккая — Игра будущего",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
-    {
-      "id": 9748,
-      "score": 1.1941027167310125
-    },
     {
       "id": 5713,
       "score": 1.1931952062084745
@@ -908,12 +904,16 @@
       "score": 1.0898352184605973
     },
     {
-      "id": 9770,
-      "score": 1.0846717977416607
+      "id": 1034,
+      "score": 1.0660368756617846
     },
     {
-      "id": 7728,
-      "score": 1.0830987776533096
+      "id": 2525,
+      "score": 1.0629251717895487
+    },
+    {
+      "id": 11642,
+      "score": 1.0592459472549127
     }
   ]
 }

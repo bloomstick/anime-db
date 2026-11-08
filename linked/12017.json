@@ -568,15 +568,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:12917",
-      "title": "https://myanimelist.net/anime/42490",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/1088633",
       "title": "https://simkl.com/anime/1088633",
       "detail": "",
@@ -678,6 +669,10 @@
   ],
   "similar": [
     {
+      "id": 3870,
+      "score": 1.1956150834121335
+    },
+    {
       "id": 2084,
       "score": 1.1550548595359982
     },
@@ -702,20 +697,16 @@
       "score": 1.093883595411803
     },
     {
-      "id": 2010,
-      "score": 1.0771113690395628
+      "id": 3384,
+      "score": 1.0869870252018619
+    },
+    {
+      "id": 3946,
+      "score": 1.0838110442458648
     },
     {
       "id": 2050,
       "score": 1.0677558204555244
-    },
-    {
-      "id": 760,
-      "score": 1.0532585788149356
-    },
-    {
-      "id": 1623,
-      "score": 1.049721526202665
     }
   ]
 }

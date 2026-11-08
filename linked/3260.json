@@ -595,15 +595,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:4663",
-      "title": "https://myanimelist.net/anime/10628",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/36168",
       "title": "https://simkl.com/anime/36168",
       "detail": "",
@@ -714,16 +705,20 @@
   ],
   "similar": [
     {
+      "id": 548,
+      "score": 1.013335491923519
+    },
+    {
+      "id": 549,
+      "score": 1.0099607841611737
+    },
+    {
       "id": 3383,
       "score": 0.9984592507583097
     },
     {
       "id": 3988,
       "score": 0.997345848550553
-    },
-    {
-      "id": 4769,
-      "score": 0.995987017558561
     },
     {
       "id": 8161,
@@ -748,10 +743,6 @@
     {
       "id": 10079,
       "score": 0.9853665693933236
-    },
-    {
-      "id": 4188,
-      "score": 0.9681424631538331
     }
   ]
 }

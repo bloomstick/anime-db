@@ -145,33 +145,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:19091",
-      "title": "Дораэмон: Симфония Земли Нобиты &mdash; Фильм 43",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:20678",
-      "title": "Дораэмон: Истории о мире искусства Нобиты &mdash; Фильм 44",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:21800",
-      "title": "Дораэмон: Нобита и новый замок Дьявольской скалы &mdash; Фильм 45",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:22659",
       "title": "Дораэмон: Паровая машина времени Нобиты",
       "detail": "",
@@ -2393,6 +2366,24 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:23966",
+      "title": "Патруль времени Бона",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:24001",
+      "title": "Патруль времени Бона 2",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
@@ -2421,20 +2412,20 @@
       "score": 1.017655154729737
     },
     {
-      "id": 994,
-      "score": 1.0171022182097538
-    },
-    {
       "id": 506,
       "score": 0.9995000000015
     },
     {
-      "id": 570,
-      "score": 0.9989458137916154
+      "id": 1400,
+      "score": 0.9949012604208637
     },
     {
-      "id": 911,
-      "score": 0.9954503064703546
+      "id": 885,
+      "score": 0.9908214643298323
+    },
+    {
+      "id": 422,
+      "score": 0.9904329452550569
     }
   ]
 }

@@ -88,7 +88,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "dream:401",
@@ -97,7 +98,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "dream:737",
@@ -106,7 +108,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     }
   ],
   "similar": [
@@ -119,20 +122,12 @@
       "score": 1.1888648585847261
     },
     {
-      "id": 552,
-      "score": 1.1789080251612432
-    },
-    {
       "id": 801,
       "score": 1.1670918003577062
     },
     {
-      "id": 572,
-      "score": 0.9928919456298851
-    },
-    {
-      "id": 541,
-      "score": 0.9802557495548213
+      "id": 1331,
+      "score": 0.9916636957904978
     },
     {
       "id": 545,
@@ -143,12 +138,20 @@
       "score": 0.9306397306397305
     },
     {
-      "id": 603,
-      "score": 0.9250543655155713
-    },
-    {
       "id": 152,
       "score": 0.9250460405600224
+    },
+    {
+      "id": 1040,
+      "score": 0.9214798625328405
+    },
+    {
+      "id": 1147,
+      "score": 0.9205391392145427
+    },
+    {
+      "id": 599,
+      "score": 0.9049952052002814
     }
   ]
 }

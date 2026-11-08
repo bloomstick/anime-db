@@ -10,15 +10,6 @@
       "isCurrent": true
     },
     {
-      "slug": "dream:7020",
-      "title": "Мы из общаги Кавай: Первое время",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "anilist:20780",
       "title": "https://anilist.co/anime/20780",
       "detail": "",
@@ -107,15 +98,6 @@
       "relation": "",
       "year": "",
       "isCurrent": false
-    },
-    {
-      "slug": "dream:7027",
-      "title": "https://myanimelist.net/anime/24973",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
     }
   ],
   "similar": [
@@ -136,6 +118,10 @@
       "score": 1.0953708847306298
     },
     {
+      "id": 12029,
+      "score": 1.094099158785558
+    },
+    {
       "id": 2276,
       "score": 1.0931245123765354
     },
@@ -148,16 +134,12 @@
       "score": 1.0909894689562967
     },
     {
-      "id": 44,
-      "score": 1.0321009941625081
+      "id": 9640,
+      "score": 1.0887163972054372
     },
     {
-      "id": 1442,
-      "score": 1.0301021933244998
-    },
-    {
-      "id": 5013,
-      "score": 0.9967337427730985
+      "id": 16570,
+      "score": 1.0635112343569126
     }
   ]
 }

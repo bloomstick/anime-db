@@ -352,15 +352,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:12728",
-      "title": "https://myanimelist.net/anime/41873",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/36107",
       "title": "https://simkl.com/anime/36107",
       "detail": "",
@@ -417,6 +408,10 @@
   ],
   "similar": [
     {
+      "id": 3860,
+      "score": 1.2071639364506452
+    },
+    {
       "id": 1114,
       "score": 1.099669935478494
     },
@@ -437,6 +432,10 @@
       "score": 1.0322019763044268
     },
     {
+      "id": 3284,
+      "score": 1.031786361864373
+    },
+    {
       "id": 494,
       "score": 1.0178008118390647
     },
@@ -447,14 +446,6 @@
     {
       "id": 1371,
       "score": 0.995232100773593
-    },
-    {
-      "id": 1147,
-      "score": 0.9930421100917117
-    },
-    {
-      "id": 1915,
-      "score": 0.9866079074899348
     }
   ]
 }

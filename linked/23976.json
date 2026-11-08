@@ -28,26 +28,8 @@
       "isCurrent": true
     },
     {
-      "slug": "dream:24016",
-      "title": "Фермер-аристократ 2: Спецвыпуски",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:24015",
       "title": "Фермер-аристократ 3",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:22086",
-      "title": "Фермер-аристократ 3: Спецвыпуски",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -271,15 +253,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:23944",
-      "title": "https://myanimelist.net/anime/53426",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/2020844",
       "title": "https://simkl.com/anime/2020844",
       "detail": "",
@@ -309,10 +282,6 @@
   ],
   "similar": [
     {
-      "id": 23944,
-      "score": 1.2162294867202559
-    },
-    {
       "id": 5702,
       "score": 1.1947423153272445
     },
@@ -323,10 +292,6 @@
     {
       "id": 23040,
       "score": 1.188001997180842
-    },
-    {
-      "id": 3633,
-      "score": 1.18758593512654
     },
     {
       "id": 184,
@@ -341,12 +306,20 @@
       "score": 1.059553828400557
     },
     {
-      "id": 4571,
-      "score": 1.0576634508035536
+      "id": 1320,
+      "score": 1.056129346565947
     },
     {
-      "id": 23166,
-      "score": 1.0574634507931189
+      "id": 19620,
+      "score": 1.0558362906894891
+    },
+    {
+      "id": 262,
+      "score": 1.0499755004156124
+    },
+    {
+      "id": 2493,
+      "score": 1.0397545267968114
     }
   ]
 }

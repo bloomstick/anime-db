@@ -154,35 +154,18 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:1132",
-      "title": "https://myanimelist.net/anime/1458",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:1783",
       "title": "https://myanimelist.net/anime/2389",
       "detail": "",
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "dream:23091",
       "title": "https://myanimelist.net/anime/4808",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:2867",
-      "title": "https://myanimelist.net/anime/4810",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -197,13 +180,18 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:2348",
+      "title": "Ураганный Полимер",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
-    {
-      "id": 2582,
-      "score": 1.193
-    },
     {
       "id": 5892,
       "score": 1.1902245050504008
@@ -221,24 +209,28 @@
       "score": 1.1851439866417397
     },
     {
-      "id": 5505,
-      "score": 1.0994000000000002
-    },
-    {
-      "id": 3386,
-      "score": 1.0957000000000001
-    },
-    {
       "id": 2330,
       "score": 1.0950544420043649
     },
     {
-      "id": 3379,
-      "score": 1.0945118243809526
+      "id": 23072,
+      "score": 1.0914808183299884
     },
     {
-      "id": 2371,
-      "score": 1.0919296795007032
+      "id": 7151,
+      "score": 1.0913160091512766
+    },
+    {
+      "id": 16554,
+      "score": 1.0876683102393718
+    },
+    {
+      "id": 4504,
+      "score": 1.0845624094244055
+    },
+    {
+      "id": 8756,
+      "score": 1.0824751015813523
     }
   ]
 }

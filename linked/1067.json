@@ -910,15 +910,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:6821",
-      "title": "https://myanimelist.net/anime/23675",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "mal:37384",
       "title": "https://myanimelist.net/anime/37384",
       "detail": "",
@@ -930,24 +921,6 @@
     {
       "slug": "mal:39663",
       "title": "https://myanimelist.net/anime/39663",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:19116",
-      "title": "https://myanimelist.net/anime/55970",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:22434",
-      "title": "https://myanimelist.net/anime/64338",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -1407,44 +1380,44 @@
   ],
   "similar": [
     {
-      "id": 1305,
-      "score": 1.024307519575017
+      "id": 1008,
+      "score": 1.0291859329545148
+    },
+    {
+      "id": 2211,
+      "score": 1.0249999999975001
+    },
+    {
+      "id": 1891,
+      "score": 1.0238411980373328
     },
     {
       "id": 1120,
       "score": 1.0234335342113134
     },
     {
-      "id": 295,
-      "score": 0.9976346687538855
+      "id": 1880,
+      "score": 0.9954612579070604
     },
     {
-      "id": 186,
-      "score": 0.9957984512991412
+      "id": 2091,
+      "score": 0.9943072232323867
     },
     {
-      "id": 279,
-      "score": 0.9919470000853264
+      "id": 1760,
+      "score": 0.9929376990546431
     },
     {
-      "id": 2254,
-      "score": 0.9908217276261815
+      "id": 433,
+      "score": 0.9903064606071613
     },
     {
-      "id": 4783,
-      "score": 0.9907975446213002
+      "id": 2092,
+      "score": 0.9889529553046328
     },
     {
-      "id": 1276,
-      "score": 0.9899070818665092
-    },
-    {
-      "id": 2950,
-      "score": 0.9855002186688006
-    },
-    {
-      "id": 6982,
-      "score": 0.9586716457178363
+      "id": 1907,
+      "score": 0.9871827609676109
     }
   ]
 }

@@ -487,15 +487,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:20542",
-      "title": "Мобильный воин Гандам: Происхождение &mdash; Фильм",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:8385",
       "title": "Мобильный воин Гандам: Железнокровные сироты",
       "detail": "",
@@ -705,15 +696,6 @@
     {
       "slug": "dream:16725",
       "title": "Мобильный воин Гандам: Поколение &mdash; Фильм",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:21674",
-      "title": "Мобильный воин Гандам: Железнокровные сироты &mdash; Клин антракта",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -1241,48 +1223,93 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:7004",
+      "title": "Мобильный доспех Гандам-сан",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:19084",
+      "title": "Мобильный воин Гандам: Реквием Возмездия",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:21290",
+      "title": "Мобильный воин Гандам: GQuuuuuuX — Начало",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:22565",
+      "title": "Мобильный воин Гандам: RG XARX-ZERO",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:23780",
+      "title": "Гандам против Китти",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
-    {
-      "id": 5997,
-      "score": 1.1965624103645864
-    },
-    {
-      "id": 17738,
-      "score": 1.1627135996865445
-    },
     {
       "id": 671,
       "score": 1.102665293167236
     },
     {
-      "id": 4181,
-      "score": 1.0962469149415126
+      "id": 3477,
+      "score": 1.056182107324208
     },
     {
-      "id": 8447,
-      "score": 1.0945557523616813
+      "id": 3476,
+      "score": 1.054928786893151
     },
     {
-      "id": 3148,
-      "score": 1.0899426939057375
+      "id": 1718,
+      "score": 1.039877487722717
     },
     {
-      "id": 2899,
-      "score": 1.0889848692006074
+      "id": 2627,
+      "score": 1.0308995159766305
     },
     {
-      "id": 11724,
-      "score": 1.0872488611688966
+      "id": 2794,
+      "score": 1.0045329024290195
     },
     {
-      "id": 11127,
-      "score": 1.0842167401421712
+      "id": 10787,
+      "score": 0.9983518674732386
     },
     {
-      "id": 9168,
-      "score": 1.0614063288600708
+      "id": 4149,
+      "score": 0.9945154406567078
+    },
+    {
+      "id": 3475,
+      "score": 0.9923797672888373
+    },
+    {
+      "id": 1040,
+      "score": 0.9860345879209056
     }
   ]
 }

@@ -28,15 +28,6 @@
       "isCurrent": true
     },
     {
-      "slug": "dream:12787",
-      "title": "Бессмертный Гу Хай 4",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "anidb:13732",
       "title": "https://anidb.net/anime/13732",
       "detail": "",
@@ -207,6 +198,10 @@
       "score": 0.584550159717829
     },
     {
+      "id": 1680,
+      "score": 0.5841006772721304
+    },
+    {
       "id": 90,
       "score": 0.58268817729216
     },
@@ -217,10 +212,6 @@
     {
       "id": 505,
       "score": 0.5796928184317597
-    },
-    {
-      "id": 332,
-      "score": 0.5792348843082992
     }
   ]
 }

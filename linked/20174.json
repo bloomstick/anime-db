@@ -181,15 +181,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:20190",
-      "title": "https://myanimelist.net/anime/58920",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/1875204",
       "title": "https://simkl.com/anime/1875204",
       "detail": "",
@@ -201,16 +192,20 @@
   ],
   "similar": [
     {
-      "id": 20190,
-      "score": 0.8156694990951109
-    },
-    {
       "id": 10717,
       "score": 0.8000078107108268
     },
     {
       "id": 12049,
       "score": 0.7996880746812166
+    },
+    {
+      "id": 11197,
+      "score": 0.7995300593799461
+    },
+    {
+      "id": 20935,
+      "score": 0.7992842971236478
     },
     {
       "id": 17061,
@@ -235,10 +230,6 @@
     {
       "id": 20393,
       "score": 0.7986468879648467
-    },
-    {
-      "id": 2682,
-      "score": 0.7985513002171016
     }
   ]
 }

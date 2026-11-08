@@ -136,15 +136,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:4205",
-      "title": "https://myanimelist.net/anime/9264",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/1571555",
       "title": "https://simkl.com/anime/1571555",
       "detail": "",
@@ -165,8 +156,16 @@
   ],
   "similar": [
     {
+      "id": 1900,
+      "score": 1.2000080703219687
+    },
+    {
       "id": 484,
       "score": 1.064278011112854
+    },
+    {
+      "id": 1891,
+      "score": 1.0624955389986481
     },
     {
       "id": 135,
@@ -195,14 +194,6 @@
     {
       "id": 243,
       "score": 1.0500223133502167
-    },
-    {
-      "id": 433,
-      "score": 1.000764341162044
-    },
-    {
-      "id": 1760,
-      "score": 0.9986069511682848
     }
   ]
 }

@@ -523,15 +523,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:20009",
-      "title": "Чудесное хорошенькое лекарство! Фильм",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:18708",
       "title": "Хорошенькое лекарство: Девочки-волшебницы 2",
       "detail": "",
@@ -557,33 +548,6 @@
       "relation": "",
       "year": "",
       "isCurrent": true
-    },
-    {
-      "slug": "dream:21033",
-      "title": "Хорошенькое лекарство: Ты и идол. Фильм",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:22267",
-      "title": "Маленькое лекарство: Феи хорошенького лекарства 3",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:22309",
-      "title": "Хорошенькое лекарство: Звёздный детектив &mdash; Фильм",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
     },
     {
       "slug": "anilist:105857",
@@ -1025,57 +989,48 @@
       "relation": "",
       "year": "",
       "isCurrent": false
-    },
-    {
-      "slug": "dream:21872",
-      "title": "https://myanimelist.net/anime/62676",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
     }
   ],
   "similar": [
     {
-      "id": 19438,
-      "score": 0.7916738283120309
+      "id": 20990,
+      "score": 0.7932130894634175
     },
     {
-      "id": 10862,
-      "score": 0.7909658783149127
+      "id": 19438,
+      "score": 0.7916738283120309
     },
     {
       "id": 17349,
       "score": 0.789989155560947
     },
     {
-      "id": 8788,
-      "score": 0.789984884559469
-    },
-    {
-      "id": 10854,
-      "score": 0.7899684347681204
-    },
-    {
-      "id": 6298,
-      "score": 0.7896083678245905
-    },
-    {
       "id": 19035,
       "score": 0.7892126625951357
     },
     {
-      "id": 10087,
-      "score": 0.789131757354405
+      "id": 20437,
+      "score": 0.7891360884457785
     },
     {
       "id": 17864,
       "score": 0.7885719804426052
     },
     {
-      "id": 11546,
-      "score": 0.7883219333187086
+      "id": 11836,
+      "score": 0.7884862263135244
+    },
+    {
+      "id": 20654,
+      "score": 0.7882031150144183
+    },
+    {
+      "id": 13010,
+      "score": 0.7881712356287751
+    },
+    {
+      "id": 13011,
+      "score": 0.7880076825595329
     }
   ]
 }

@@ -109,15 +109,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:21228",
-      "title": "Идолмастер: Концерт на миллион! &mdash; OVA",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:18731",
       "title": "Идолмастер: Блестящие цвета",
       "detail": "",
@@ -129,15 +120,6 @@
     {
       "slug": "dream:19954",
       "title": "Идолмастер: Блестящие цвета 2",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:20707",
-      "title": "Идолмастер: Блестящие цвета 2 &mdash; SHHis",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -1432,15 +1414,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:4931",
-      "title": "https://myanimelist.net/anime/11889",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:5429",
       "title": "https://myanimelist.net/anime/15649",
       "detail": "",
@@ -1799,6 +1772,15 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:12575",
+      "title": "Девушки-золушки: Экстра",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
@@ -1811,8 +1793,16 @@
       "score": 1.2132546315386583
     },
     {
+      "id": 16189,
+      "score": 1.0694560134346625
+    },
+    {
       "id": 6274,
       "score": 1.0675409228357053
+    },
+    {
+      "id": 17063,
+      "score": 1.062587294995676
     },
     {
       "id": 9639,
@@ -1823,24 +1813,16 @@
       "score": 1.0608531029167292
     },
     {
+      "id": 14607,
+      "score": 1.0605612295464173
+    },
+    {
       "id": 10093,
       "score": 1.059907716780241
     },
     {
       "id": 6023,
       "score": 1.0598801812467231
-    },
-    {
-      "id": 9384,
-      "score": 1.0587882977460301
-    },
-    {
-      "id": 12434,
-      "score": 1.0587074290072662
-    },
-    {
-      "id": 11180,
-      "score": 1.0585567127913085
     }
   ]
 }

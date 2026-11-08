@@ -253,15 +253,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:17786",
-      "title": "https://myanimelist.net/anime/52291",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/36929",
       "title": "https://simkl.com/anime/36929",
       "detail": "",
@@ -296,21 +287,18 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:10971",
+      "title": "Двойной удар: Даг и Кирилл",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
-    {
-      "id": 17786,
-      "score": 1.1289566829621624
-    },
-    {
-      "id": 17991,
-      "score": 1.108984300921424
-    },
-    {
-      "id": 8241,
-      "score": 1.0285640672447383
-    },
     {
       "id": 11399,
       "score": 0.9923283470892507
@@ -324,6 +312,10 @@
       "score": 0.9896085058620199
     },
     {
+      "id": 23790,
+      "score": 0.9885541171837451
+    },
+    {
       "id": 10702,
       "score": 0.9859751505873051
     },
@@ -332,12 +324,20 @@
       "score": 0.9807214152738379
     },
     {
+      "id": 23787,
+      "score": 0.9804955111690459
+    },
+    {
       "id": 17561,
       "score": 0.980085254869433
     },
     {
       "id": 17222,
       "score": 0.9753762114364657
+    },
+    {
+      "id": 17535,
+      "score": 0.9742741507325058
     }
   ]
 }

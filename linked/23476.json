@@ -145,33 +145,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:19091",
-      "title": "Дораэмон: Симфония Земли Нобиты &mdash; Фильм 43",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:20678",
-      "title": "Дораэмон: Истории о мире искусства Нобиты &mdash; Фильм 44",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:21800",
-      "title": "Дораэмон: Нобита и новый замок Дьявольской скалы &mdash; Фильм 45",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:22659",
       "title": "Дораэмон: Паровая машина времени Нобиты",
       "detail": "",
@@ -1765,15 +1738,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:23954",
-      "title": "https://myanimelist.net/anime/54594",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/1122139",
       "title": "https://simkl.com/anime/1122139",
       "detail": "",
@@ -2375,12 +2339,30 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:23966",
+      "title": "Патруль времени Бона",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:24001",
+      "title": "Патруль времени Бона 2",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
     {
-      "id": 570,
-      "score": 1.0627537157982374
+      "id": 1796,
+      "score": 1.059576332504762
     },
     {
       "id": 1554,
@@ -2389,6 +2371,14 @@
     {
       "id": 764,
       "score": 1.0377591697656205
+    },
+    {
+      "id": 1731,
+      "score": 0.9976992395056955
+    },
+    {
+      "id": 1788,
+      "score": 0.9882466754252193
     },
     {
       "id": 869,
@@ -2403,20 +2393,12 @@
       "score": 0.9702824611565541
     },
     {
+      "id": 1789,
+      "score": 0.9578260869586956
+    },
+    {
       "id": 1368,
       "score": 0.9440594455741292
-    },
-    {
-      "id": 792,
-      "score": 0.9237923828883674
-    },
-    {
-      "id": 885,
-      "score": 0.9206664033721437
-    },
-    {
-      "id": 698,
-      "score": 0.9164519859020186
     }
   ]
 }

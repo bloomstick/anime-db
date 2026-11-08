@@ -163,15 +163,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:21251",
-      "title": "https://myanimelist.net/anime/61214",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/1079831",
       "title": "https://simkl.com/anime/1079831",
       "detail": "",
@@ -201,6 +192,10 @@
   ],
   "similar": [
     {
+      "id": 1834,
+      "score": 0.9968686875786611
+    },
+    {
       "id": 477,
       "score": 0.95541726158872
     },
@@ -229,16 +224,12 @@
       "score": 0.5867133837427526
     },
     {
+      "id": 1671,
+      "score": 0.5139883942878481
+    },
+    {
       "id": 1585,
       "score": 0.5130365855968515
-    },
-    {
-      "id": 914,
-      "score": 0.5067313082663212
-    },
-    {
-      "id": 992,
-      "score": 0.5060805691821525
     }
   ]
 }

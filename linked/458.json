@@ -1567,24 +1567,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:21284",
-      "title": "https://myanimelist.net/anime/61286",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:21961",
-      "title": "https://myanimelist.net/anime/62807",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/1244151",
       "title": "https://simkl.com/anime/1244151",
       "detail": "",
@@ -1799,12 +1781,37 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:12552",
+      "title": "Приключения Дигимонов: Рассказ о двадцатилетнем юбилее",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
     {
       "id": 1031,
       "score": 1.2209671996375135
+    },
+    {
+      "id": 23810,
+      "score": 1.2045690558278326
+    },
+    {
+      "id": 12235,
+      "score": 1.2044551566734523
+    },
+    {
+      "id": 4165,
+      "score": 1.2011448814363406
+    },
+    {
+      "id": 5269,
+      "score": 1.200915608725781
     },
     {
       "id": 1205,
@@ -1815,32 +1822,16 @@
       "score": 1.1991627346167424
     },
     {
-      "id": 435,
-      "score": 1.1837998697192684
+      "id": 8504,
+      "score": 1.1948115081890265
     },
     {
-      "id": 1139,
-      "score": 1.115181364145764
+      "id": 18362,
+      "score": 1.1922385520019847
     },
     {
-      "id": 1227,
-      "score": 1.10819809792095
-    },
-    {
-      "id": 1039,
-      "score": 1.1067365531209767
-    },
-    {
-      "id": 803,
-      "score": 1.0664355954339262
-    },
-    {
-      "id": 892,
-      "score": 1.0629249960134879
-    },
-    {
-      "id": 230,
-      "score": 1.0617159595452859
+      "id": 18734,
+      "score": 1.1862349862292583
     }
   ]
 }

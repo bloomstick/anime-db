@@ -514,26 +514,8 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:21231",
-      "title": "Судьба/Великий приказ: Рицука Фудзимару не понимает этого 2 &mdash; Спецвыпуски",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:19079",
       "title": "Судьба/Странная подделка",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:22593",
-      "title": "Судьба/Великий приказ: Рицука Фудзимару не понимает этого 4",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -2060,13 +2042,18 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:133",
+      "title": "Повесть о лунной принцессе",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
-    {
-      "id": 6152,
-      "score": 1.0694166923543358
-    },
     {
       "id": 818,
       "score": 1.065124298791469
@@ -2102,6 +2089,10 @@
     {
       "id": 7559,
       "score": 0.991876540411098
+    },
+    {
+      "id": 4218,
+      "score": 0.9809391525939516
     }
   ]
 }

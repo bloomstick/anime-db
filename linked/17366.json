@@ -19,44 +19,8 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:23925",
-      "title": "Боги и духи 2",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:19881",
       "title": "Боги и духи: Весенний фестиваль",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:21531",
-      "title": "Боги и духи 3",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:21672",
-      "title": "Боги и духи: Игрок с ограниченным временем",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:22273",
-      "title": "Боги и духи 3 | Часть 2",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -80,12 +44,52 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:12677",
+      "title": "Улица всех святых",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:12950",
+      "title": "Улица всех святых 2",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:16899",
+      "title": "Улица всех святых 3",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:18354",
+      "title": "Улица всех святых 4",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
     {
-      "id": 1720,
-      "score": 1.0509853722891613
+      "id": 2747,
+      "score": 1.0641155997046812
+    },
+    {
+      "id": 2748,
+      "score": 1.0557938720789999
     },
     {
       "id": 1179,
@@ -112,16 +116,12 @@
       "score": 0.5986470560646026
     },
     {
+      "id": 2142,
+      "score": 0.598589849806415
+    },
+    {
       "id": 643,
       "score": 0.5973291406306238
-    },
-    {
-      "id": 1440,
-      "score": 0.5963080162609476
-    },
-    {
-      "id": 1991,
-      "score": 0.5955701329876795
     }
   ]
 }

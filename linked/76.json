@@ -289,22 +289,14 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:10375",
-      "title": "https://myanimelist.net/anime/36032",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:16634",
       "title": "https://myanimelist.net/anime/48775",
       "detail": "",
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "dream:17235",
@@ -313,7 +305,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "mal:62027",

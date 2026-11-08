@@ -1,17 +1,92 @@
 {
-  "links": [],
+  "links": [
+    {
+      "slug": "dream:3563",
+      "title": "Гермес: Ветры любви",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:3584",
+      "title": "Воскрешение Будды",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:3854",
+      "title": "Законы Солнца",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:5177",
+      "title": "Мистические законы",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:8210",
+      "title": "Законы Вселенной: Часть 0",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:21199",
+      "title": "Сердце дракона: Хроника исследования мира духов",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    }
+  ],
   "similar": [
+    {
+      "id": 2174,
+      "score": 1.1967744278741672
+    },
+    {
+      "id": 2529,
+      "score": 1.1952172360546882
+    },
+    {
+      "id": 2481,
+      "score": 1.185076319279621
+    },
+    {
+      "id": 2292,
+      "score": 1.1772172360526878
+    },
+    {
+      "id": 2608,
+      "score": 0.998432337045051
+    },
     {
       "id": 928,
       "score": 0.998040862683095
     },
     {
-      "id": 1586,
-      "score": 0.9963714107317874
+      "id": 2381,
+      "score": 0.9972528967718703
     },
     {
-      "id": 1451,
-      "score": 0.9956880484737061
+      "id": 1586,
+      "score": 0.9963714107317874
     },
     {
       "id": 1464,
@@ -20,26 +95,6 @@
     {
       "id": 1991,
       "score": 0.9929667500005164
-    },
-    {
-      "id": 372,
-      "score": 0.9929131484424315
-    },
-    {
-      "id": 1773,
-      "score": 0.9927194867737492
-    },
-    {
-      "id": 1511,
-      "score": 0.9912372048319992
-    },
-    {
-      "id": 1072,
-      "score": 0.9898898269235932
-    },
-    {
-      "id": 1259,
-      "score": 0.9891647344252558
     }
   ]
 }

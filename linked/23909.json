@@ -523,15 +523,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:20009",
-      "title": "Чудесное хорошенькое лекарство! Фильм",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:18708",
       "title": "Хорошенькое лекарство: Девочки-волшебницы 2",
       "detail": "",
@@ -552,33 +543,6 @@
     {
       "slug": "dream:21277",
       "title": "Маленькое лекарство: Феи хорошенького лекарства",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:21033",
-      "title": "Хорошенькое лекарство: Ты и идол. Фильм",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:22267",
-      "title": "Маленькое лекарство: Феи хорошенького лекарства 3",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:22309",
-      "title": "Хорошенькое лекарство: Звёздный детектив &mdash; Фильм",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -694,15 +658,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:18143",
-      "title": "https://myanimelist.net/anime/53196",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/1768565",
       "title": "https://simkl.com/anime/1768565",
       "detail": "",
@@ -714,8 +669,20 @@
   ],
   "similar": [
     {
+      "id": 2553,
+      "score": 1.189952955303933
+    },
+    {
+      "id": 2294,
+      "score": 1.181599553706937
+    },
+    {
       "id": 688,
       "score": 1.1756094295449577
+    },
+    {
+      "id": 1702,
+      "score": 1.0614787444354283
     },
     {
       "id": 1287,
@@ -730,28 +697,16 @@
       "score": 1.0004963409632315
     },
     {
-      "id": 1383,
-      "score": 0.9772127513054606
+      "id": 1626,
+      "score": 0.9945832974823621
     },
     {
-      "id": 379,
-      "score": 0.9767079010555728
+      "id": 810,
+      "score": 0.9891666666666666
     },
     {
-      "id": 383,
-      "score": 0.9765272427225595
-    },
-    {
-      "id": 378,
-      "score": 0.9730576258737947
-    },
-    {
-      "id": 381,
-      "score": 0.972998107082265
-    },
-    {
-      "id": 377,
-      "score": 0.9727229767585692
+      "id": 2557,
+      "score": 0.9856770977277357
     }
   ]
 }

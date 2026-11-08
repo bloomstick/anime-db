@@ -478,15 +478,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:5829",
-      "title": "Покемон: Наилучших благ! 2 &mdash; Приключения на островах Деколора",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:6034",
       "title": "Покемон: Мьюту. Пролог к пробуждению",
       "detail": "",
@@ -543,15 +534,6 @@
     {
       "slug": "dream:6745",
       "title": "Покемон XY: Мега-эволюция",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:6068",
-      "title": "Покемон: Приключения в Калосе",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -3410,48 +3392,102 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:12788",
+      "title": "Покетун",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:13298",
+      "title": "Сумеречные крылья: Фестиваль звёзд",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:18679",
+      "title": "Покемон: Консьерж",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:19182",
+      "title": "Покемон: Палдейские ветры",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:19539",
+      "title": "Детектив Пикачу: Великолепная утренняя рутина",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:22652",
+      "title": "Покемон: Дикая карта",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
+    {
+      "id": 5598,
+      "score": 1.1191317249200434
+    },
+    {
+      "id": 11183,
+      "score": 1.1166909538595693
+    },
+    {
+      "id": 4438,
+      "score": 1.1014807494435348
+    },
+    {
+      "id": 1786,
+      "score": 1.0946704729472114
+    },
     {
       "id": 885,
       "score": 1.075501515752753
     },
     {
-      "id": 881,
-      "score": 1.0674932613989325
+      "id": 10726,
+      "score": 1.0743632881937915
     },
     {
-      "id": 436,
-      "score": 1.0604901602660861
+      "id": 5038,
+      "score": 1.0729075255873202
     },
     {
-      "id": 1178,
-      "score": 1.0072760226495183
+      "id": 12435,
+      "score": 1.0725762662597056
     },
     {
-      "id": 883,
-      "score": 1.0063334524696708
+      "id": 3303,
+      "score": 1.0719589828279965
     },
     {
-      "id": 882,
-      "score": 1.0056815325993185
-    },
-    {
-      "id": 884,
-      "score": 1.0022317312936555
-    },
-    {
-      "id": 1110,
-      "score": 0.999869839879206
-    },
-    {
-      "id": 880,
-      "score": 0.9994683348037081
-    },
-    {
-      "id": 1098,
-      "score": 0.9993703796958853
+      "id": 2102,
+      "score": 1.070324697140566
     }
   ]
 }

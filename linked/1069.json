@@ -647,17 +647,27 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:722",
+      "title": "Рэй",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:2905",
+      "title": "Осаму Тэдзука ушёл?! Последнее чудо 20-го века",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
-    {
-      "id": 2122,
-      "score": 1.0613622964227734
-    },
-    {
-      "id": 754,
-      "score": 1.044610343425878
-    },
     {
       "id": 1148,
       "score": 0.9970632394720527
@@ -689,6 +699,14 @@
     {
       "id": 1371,
       "score": 0.9278239562713269
+    },
+    {
+      "id": 1034,
+      "score": 0.9234002663962346
+    },
+    {
+      "id": 2525,
+      "score": 0.9181999272208382
     }
   ]
 }

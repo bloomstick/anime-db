@@ -100,15 +100,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:325",
-      "title": "https://myanimelist.net/anime/395",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/37477",
       "title": "https://simkl.com/anime/37477",
       "detail": "",
@@ -119,6 +110,10 @@
     }
   ],
   "similar": [
+    {
+      "id": 8669,
+      "score": 1.0870953520101472
+    },
     {
       "id": 1365,
       "score": 1.0639348506341932
@@ -154,10 +149,6 @@
     {
       "id": 2042,
       "score": 0.9904174963139185
-    },
-    {
-      "id": 22918,
-      "score": 0.9902352870256066
     }
   ]
 }

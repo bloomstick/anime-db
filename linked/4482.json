@@ -514,26 +514,8 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:21231",
-      "title": "Судьба/Великий приказ: Рицука Фудзимару не понимает этого 2 &mdash; Спецвыпуски",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:19079",
       "title": "Судьба/Странная подделка",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:22593",
-      "title": "Судьба/Великий приказ: Рицука Фудзимару не понимает этого 4",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -1927,15 +1909,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:6047",
-      "title": "https://myanimelist.net/anime/19165",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/1002141",
       "title": "https://simkl.com/anime/1002141",
       "detail": "",
@@ -2348,12 +2321,25 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:133",
+      "title": "Повесть о лунной принцессе",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
     {
       "id": 4900,
       "score": 1.15078403401469
+    },
+    {
+      "id": 10905,
+      "score": 1.1127660578342735
     },
     {
       "id": 6721,
@@ -2372,6 +2358,10 @@
       "score": 1.0708778612837198
     },
     {
+      "id": 10198,
+      "score": 1.026045062329075
+    },
+    {
       "id": 215,
       "score": 1.0259517633149708
     },
@@ -2380,16 +2370,8 @@
       "score": 1.0249718775741383
     },
     {
-      "id": 119,
-      "score": 1.0210975253515986
-    },
-    {
-      "id": 4581,
-      "score": 1.0149473881688595
-    },
-    {
-      "id": 2673,
-      "score": 1.0116899146580205
+      "id": 8609,
+      "score": 1.0241031101217855
     }
   ]
 }

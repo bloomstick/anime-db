@@ -28,15 +28,6 @@
       "isCurrent": true
     },
     {
-      "slug": "dream:22005",
-      "title": "Третьеклассник Асибэ: QQ Гома",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "anidb:11887",
       "title": "https://anidb.net/anime/11887",
       "detail": "",
@@ -280,33 +271,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:11908",
-      "title": "https://myanimelist.net/anime/39457",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:23258",
-      "title": "https://myanimelist.net/anime/8829",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:4088",
-      "title": "https://myanimelist.net/anime/8832",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/1056373",
       "title": "https://simkl.com/anime/1056373",
       "detail": "",
@@ -363,12 +327,24 @@
   ],
   "similar": [
     {
+      "id": 9858,
+      "score": 1.2474118243799526
+    },
+    {
+      "id": 8813,
+      "score": 1.2410534287059758
+    },
+    {
       "id": 4960,
       "score": 1.1877108245254864
     },
     {
       "id": 4946,
       "score": 1.174492393568581
+    },
+    {
+      "id": 16444,
+      "score": 1.166380259158188
     },
     {
       "id": 4848,
@@ -383,24 +359,12 @@
       "score": 1.076191808391672
     },
     {
-      "id": 5991,
-      "score": 0.9886199154391228
+      "id": 9555,
+      "score": 1.0640342141728776
     },
     {
-      "id": 653,
-      "score": 0.9882781043606305
-    },
-    {
-      "id": 4127,
-      "score": 0.9861307073520148
-    },
-    {
-      "id": 5525,
-      "score": 0.9856603062777741
-    },
-    {
-      "id": 834,
-      "score": 0.9812109266338556
+      "id": 12715,
+      "score": 1.0609572910998006
     }
   ]
 }

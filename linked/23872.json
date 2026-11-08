@@ -208,15 +208,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:22314",
-      "title": "Карточные бои Авангарда: Святая Зет &mdash; Сражение за звёздную судьбу",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "anidb:10090",
       "title": "https://anidb.net/anime/10090",
       "detail": "",
@@ -1178,6 +1169,15 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:22590",
+      "title": "Призрак встречает гяру!",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
@@ -1210,16 +1210,16 @@
       "score": 0.9945082104786591
     },
     {
-      "id": 1330,
-      "score": 0.9939254720616095
-    },
-    {
       "id": 913,
       "score": 0.9892545737504658
     },
     {
       "id": 1270,
       "score": 0.9870991182576946
+    },
+    {
+      "id": 903,
+      "score": 0.9851377011618465
     }
   ]
 }

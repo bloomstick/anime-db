@@ -46,15 +46,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:21068",
-      "title": "Семёрка идолов &mdash; Фильм",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:21067",
       "title": "Семёрка идолов 4",
       "detail": "",
@@ -1288,15 +1279,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:23725",
-      "title": "https://myanimelist.net/anime/37710",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "mal:37863",
       "title": "https://myanimelist.net/anime/37863",
       "detail": "",
@@ -1335,15 +1317,6 @@
     {
       "slug": "mal:41167",
       "title": "https://myanimelist.net/anime/41167",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:16744",
-      "title": "https://myanimelist.net/anime/49134",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -1434,15 +1407,6 @@
     {
       "slug": "mal:60479",
       "title": "https://myanimelist.net/anime/60479",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:21690",
-      "title": "https://myanimelist.net/anime/62292",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -1556,12 +1520,42 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:18496",
+      "title": "IDOLISH7: Концерт «Вне времени»",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:22606",
+      "title": "Кукольный парад пушистиков",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
     {
       "id": 11180,
       "score": 1.229356699825408
+    },
+    {
+      "id": 14607,
+      "score": 1.2216700401135756
+    },
+    {
+      "id": 15328,
+      "score": 1.2121133975438914
+    },
+    {
+      "id": 17063,
+      "score": 1.194196105557645
     },
     {
       "id": 9639,
@@ -1572,32 +1566,20 @@
       "score": 1.1853351456594199
     },
     {
-      "id": 10179,
-      "score": 1.0610516570699389
+      "id": 23805,
+      "score": 1.1823042136662938
     },
     {
-      "id": 5895,
-      "score": 1.0595892818456907
+      "id": 22780,
+      "score": 1.1739065742365626
     },
     {
-      "id": 4553,
-      "score": 1.0587882977460301
+      "id": 17520,
+      "score": 1.0628064145249039
     },
     {
-      "id": 6795,
-      "score": 1.0570946506187877
-    },
-    {
-      "id": 10941,
-      "score": 1.056036560098397
-    },
-    {
-      "id": 8786,
-      "score": 1.0559114568137091
-    },
-    {
-      "id": 2540,
-      "score": 1.0557781234850423
+      "id": 19487,
+      "score": 1.0615852654233755
     }
   ]
 }

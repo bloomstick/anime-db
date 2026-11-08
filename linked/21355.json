@@ -134,9 +134,120 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:10816",
+      "title": "Боевой континент",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:17131",
+      "title": "Тянь Бао - падение демонов 3",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:17197",
+      "title": "Мастер льда и пламени",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:17608",
+      "title": "Боевой континент 2: Непревзойдённый клан Тан",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:18214",
+      "title": "Мастер льда и пламени 2",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:19709",
+      "title": "Боевой континент: Битва богов (Режиссёрская версия)",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:19892",
+      "title": "Новогодний альянс: В поисках Дракона",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:20016",
+      "title": "Полёт на Луну на банкет",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:21077",
+      "title": "Новогодний альянс: Благословения Нюйвы",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:21455",
+      "title": "Боевой континент: Путь меча Чэнь Синя",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:21900",
+      "title": "Боевой континент: 9528",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
+    {
+      "id": 16940,
+      "score": 0.8045808407386972
+    },
+    {
+      "id": 21378,
+      "score": 0.8038098043932802
+    },
+    {
+      "id": 21380,
+      "score": 0.8019704652258484
+    },
     {
       "id": 17433,
       "score": 0.8017264484067744
@@ -144,10 +255,6 @@
     {
       "id": 20194,
       "score": 0.8017236251211056
-    },
-    {
-      "id": 22460,
-      "score": 0.8015620378295577
     },
     {
       "id": 20655,
@@ -158,24 +265,16 @@
       "score": 0.8013447014106321
     },
     {
-      "id": 23928,
-      "score": 0.8010919484398531
+      "id": 18020,
+      "score": 0.8010554598023996
     },
     {
-      "id": 16523,
-      "score": 0.8007183893606206
+      "id": 12801,
+      "score": 0.800914144184805
     },
     {
       "id": 16987,
       "score": 0.8004477920594756
-    },
-    {
-      "id": 16768,
-      "score": 0.8003945121786448
-    },
-    {
-      "id": 11205,
-      "score": 0.7997907306402886
     }
   ]
 }

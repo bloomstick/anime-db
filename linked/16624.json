@@ -64,15 +64,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:17682",
-      "title": "Превзойти богов: Удар грома",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "anilist:130759",
       "title": "https://anilist.co/anime/130759",
       "detail": "",
@@ -125,18 +116,13 @@
       "relation": "",
       "year": "",
       "isCurrent": false
-    },
-    {
-      "slug": "dream:22399",
-      "title": "https://myanimelist.net/anime/64229",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
     }
   ],
   "similar": [
+    {
+      "id": 1834,
+      "score": 1.1879842872807869
+    },
     {
       "id": 870,
       "score": 0.9916272054067778
@@ -162,20 +148,16 @@
       "score": 0.5913468719920465
     },
     {
+      "id": 1855,
+      "score": 0.5882044728828989
+    },
+    {
       "id": 1593,
       "score": 0.46313423554622635
     },
     {
       "id": 1605,
       "score": 0.46077702567422374
-    },
-    {
-      "id": 1281,
-      "score": 0.4575898498055263
-    },
-    {
-      "id": 1510,
-      "score": 0.4571924165555108
     }
   ]
 }

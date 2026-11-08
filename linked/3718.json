@@ -44,18 +44,13 @@
       "relation": "",
       "year": "",
       "isCurrent": false
-    },
-    {
-      "slug": "dream:8272",
-      "title": "https://myanimelist.net/anime/30973",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
     }
   ],
   "similar": [
+    {
+      "id": 9066,
+      "score": 1.175588684304027
+    },
     {
       "id": 3628,
       "score": 0.9988654226062819
@@ -91,10 +86,6 @@
     {
       "id": 1761,
       "score": 0.9281469247100209
-    },
-    {
-      "id": 7357,
-      "score": 0.9273101928425352
     }
   ]
 }

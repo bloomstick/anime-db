@@ -487,15 +487,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:20542",
-      "title": "Мобильный воин Гандам: Происхождение &mdash; Фильм",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:8385",
       "title": "Мобильный воин Гандам: Железнокровные сироты",
       "detail": "",
@@ -712,15 +703,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:21674",
-      "title": "Мобильный воин Гандам: Железнокровные сироты &mdash; Клин антракта",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:21959",
       "title": "Мобильный воин Гандам: Железнокровные сироты &mdash; Охота Урд. Путь маленького претендента",
       "detail": "",
@@ -903,15 +885,6 @@
     {
       "slug": "https://livechart.me/anime/7403",
       "title": "https://livechart.me/anime/7403",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:1736",
-      "title": "https://myanimelist.net/anime/2294",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -1475,48 +1448,93 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:7004",
+      "title": "Мобильный доспех Гандам-сан",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:19084",
+      "title": "Мобильный воин Гандам: Реквием Возмездия",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:21290",
+      "title": "Мобильный воин Гандам: GQuuuuuuX — Начало",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:22565",
+      "title": "Мобильный воин Гандам: RG XARX-ZERO",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:23780",
+      "title": "Гандам против Китти",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
     {
-      "id": 6178,
-      "score": 1.2009023197130269
-    },
-    {
-      "id": 4648,
-      "score": 1.1328372877522221
-    },
-    {
       "id": 671,
       "score": 1.1317211231269095
-    },
-    {
-      "id": 3148,
-      "score": 1.1207037931395423
-    },
-    {
-      "id": 8447,
-      "score": 1.116561277459477
-    },
-    {
-      "id": 2899,
-      "score": 1.1081523989641142
-    },
-    {
-      "id": 2761,
-      "score": 1.1030748647704742
     },
     {
       "id": 1077,
       "score": 1.0595299145272223
     },
     {
-      "id": 11841,
-      "score": 1.0571668342993492
-    },
-    {
       "id": 2208,
       "score": 1.056053915454302
+    },
+    {
+      "id": 463,
+      "score": 1.0546756154274624
+    },
+    {
+      "id": 3614,
+      "score": 1.039877487722717
+    },
+    {
+      "id": 5802,
+      "score": 1.0367705604303588
+    },
+    {
+      "id": 10787,
+      "score": 1.0366668551959555
+    },
+    {
+      "id": 7360,
+      "score": 0.9929939290684962
+    },
+    {
+      "id": 887,
+      "score": 0.9790490553370172
+    },
+    {
+      "id": 1284,
+      "score": 0.9700249444381284
     }
   ]
 }

@@ -19,15 +19,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:23589",
-      "title": "Повелитель: Пле-пле-плеяды",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:9153",
       "title": "Повелитель: Пле-пле-плеяды OVA",
       "detail": "",
@@ -413,12 +404,52 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:16492",
+      "title": "Восхождение в тени!",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:18193",
+      "title": "Восхождение в тени: Мини-аниме!",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:18671",
+      "title": "Восхождение в тени! 2",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:19738",
+      "title": "Восхождение в тени! Реверберация",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
     {
-      "id": 1720,
-      "score": 1.0546942663891365
+      "id": 2748,
+      "score": 1.0481401774239645
+    },
+    {
+      "id": 2747,
+      "score": 1.0391285717123129
     },
     {
       "id": 1179,
@@ -437,24 +468,20 @@
       "score": 0.866890797303926
     },
     {
-      "id": 1451,
-      "score": 0.5916975372943192
+      "id": 2320,
+      "score": 0.5911535442014111
     },
     {
       "id": 283,
       "score": 0.5891003582059503
     },
     {
-      "id": 1986,
-      "score": 0.5879762684250531
-    },
-    {
-      "id": 415,
-      "score": 0.5875407059301617
-    },
-    {
       "id": 285,
       "score": 0.586790749789409
+    },
+    {
+      "id": 1473,
+      "score": 0.5866174503522028
     }
   ]
 }

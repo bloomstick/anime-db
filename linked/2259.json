@@ -109,15 +109,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:1351",
-      "title": "https://myanimelist.net/anime/1768",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/40054",
       "title": "https://simkl.com/anime/40054",
       "detail": "",
@@ -138,8 +129,16 @@
   ],
   "similar": [
     {
+      "id": 2980,
+      "score": 0.991311075469554
+    },
+    {
       "id": 1148,
       "score": 0.9898084095835071
+    },
+    {
+      "id": 3003,
+      "score": 0.9860081701480682
     },
     {
       "id": 534,
@@ -168,14 +167,6 @@
     {
       "id": 1385,
       "score": 0.9130851075950221
-    },
-    {
-      "id": 2525,
-      "score": 0.9082797829306699
-    },
-    {
-      "id": 1147,
-      "score": 0.8867512604239365
     }
   ]
 }

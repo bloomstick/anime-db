@@ -298,42 +298,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:2400",
-      "title": "https://myanimelist.net/anime/3496",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:11151",
-      "title": "https://myanimelist.net/anime/37915",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:16687",
-      "title": "https://myanimelist.net/anime/48951",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:3564",
-      "title": "https://myanimelist.net/anime/6939",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/36881",
       "title": "https://simkl.com/anime/36881",
       "detail": "",
@@ -359,13 +323,18 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:21199",
+      "title": "Сердце дракона: Хроника исследования мира духов",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
-    {
-      "id": 2400,
-      "score": 1.2159558309586371
-    },
     {
       "id": 3761,
       "score": 1.193191862794007
@@ -375,32 +344,36 @@
       "score": 1.1645463776070892
     },
     {
-      "id": 4279,
-      "score": 1.067021530756233
-    },
-    {
-      "id": 5570,
-      "score": 1.0648656307714548
-    },
-    {
-      "id": 2704,
-      "score": 1.063168164546998
-    },
-    {
       "id": 2167,
       "score": 1.0597077408623106
     },
     {
-      "id": 6252,
-      "score": 1.0114058307522167
+      "id": 12076,
+      "score": 1.0386324651003245
     },
     {
-      "id": 6786,
-      "score": 1.0087881644365042
+      "id": 2782,
+      "score": 0.9953954973952117
     },
     {
-      "id": 2656,
-      "score": 1.0019388687788662
+      "id": 7857,
+      "score": 0.9949323872957181
+    },
+    {
+      "id": 2269,
+      "score": 0.9947913806595542
+    },
+    {
+      "id": 2338,
+      "score": 0.9944203909970724
+    },
+    {
+      "id": 2461,
+      "score": 0.9863961918056785
+    },
+    {
+      "id": 18670,
+      "score": 0.956139140716529
     }
   ]
 }

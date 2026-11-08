@@ -172,24 +172,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:1413",
-      "title": "https://myanimelist.net/anime/1849",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:1415",
-      "title": "https://myanimelist.net/anime/1851",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/36275",
       "title": "https://simkl.com/anime/36275",
       "detail": "",
@@ -219,10 +201,6 @@
   ],
   "similar": [
     {
-      "id": 1413,
-      "score": 1.212589900065487
-    },
-    {
       "id": 1671,
       "score": 1.1104376990514613
     },
@@ -239,10 +217,6 @@
       "score": 1.0649660687092988
     },
     {
-      "id": 1415,
-      "score": 1.0466694604497926
-    },
-    {
       "id": 4709,
       "score": 1.040596266784152
     },
@@ -255,8 +229,16 @@
       "score": 1.0334755776390563
     },
     {
-      "id": 4243,
-      "score": 1.0284549936357115
+      "id": 1499,
+      "score": 1.0268156343603576
+    },
+    {
+      "id": 409,
+      "score": 1.026481877599816
+    },
+    {
+      "id": 921,
+      "score": 1.0207637501562508
     }
   ]
 }

@@ -745,16 +745,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:1706",
-      "title": "https://myanimelist.net/anime/2253",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "dream:8312",
@@ -763,7 +755,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "https://simkl.com/anime/1464713",
@@ -1187,6 +1180,15 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:2732",
+      "title": "Великий Мазингер против Робота Геттера",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
@@ -1207,8 +1209,20 @@
       "score": 0.9555916033723111
     },
     {
+      "id": 9294,
+      "score": 0.9303859981049868
+    },
+    {
       "id": 1711,
       "score": 0.925560176977194
+    },
+    {
+      "id": 10503,
+      "score": 0.9098983870480674
+    },
+    {
+      "id": 9697,
+      "score": 0.9083594605180255
     },
     {
       "id": 2207,
@@ -1217,18 +1231,6 @@
     {
       "id": 228,
       "score": 0.5978257268962001
-    },
-    {
-      "id": 1124,
-      "score": 0.5971428571428572
-    },
-    {
-      "id": 1985,
-      "score": 0.5937850976292864
-    },
-    {
-      "id": 693,
-      "score": 0.5934139025152476
     }
   ]
 }

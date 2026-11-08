@@ -235,15 +235,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:9856",
-      "title": "https://myanimelist.net/anime/34975",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/36369",
       "title": "https://simkl.com/anime/36369",
       "detail": "",
@@ -287,48 +278,84 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:3539",
+      "title": "Железный человек",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:3556",
+      "title": "Люди Икс",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:3557",
+      "title": "Блэйд",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:23177",
+      "title": "Росомаха",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
     {
-      "id": 9856,
-      "score": 1.1951252816845899
-    },
-    {
-      "id": 10817,
-      "score": 1.1942277170140454
-    },
-    {
       "id": 12997,
       "score": 1.050891355010795
-    },
-    {
-      "id": 19529,
-      "score": 1.0499953036220684
     },
     {
       "id": 9607,
       "score": 1.0496519862645175
     },
     {
-      "id": 19267,
-      "score": 1.0439257259287333
-    },
-    {
-      "id": 19266,
-      "score": 1.0439257259287333
-    },
-    {
-      "id": 11268,
-      "score": 1.0439257259287333
-    },
-    {
-      "id": 7910,
-      "score": 1.0105923925954001
-    },
-    {
       "id": 3556,
       "score": 0.99867900811931
+    },
+    {
+      "id": 1651,
+      "score": 0.9920074914868914
+    },
+    {
+      "id": 8986,
+      "score": 0.9883697930898043
+    },
+    {
+      "id": 1156,
+      "score": 0.9876092632838677
+    },
+    {
+      "id": 16960,
+      "score": 0.986498574690982
+    },
+    {
+      "id": 8729,
+      "score": 0.9859723892206453
+    },
+    {
+      "id": 6078,
+      "score": 0.9857121684338818
+    },
+    {
+      "id": 8622,
+      "score": 0.9812024137261106
     }
   ]
 }

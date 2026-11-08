@@ -28,33 +28,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:5029",
-      "title": "https://myanimelist.net/anime/12589",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:8847",
-      "title": "https://myanimelist.net/anime/32663",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:16888",
-      "title": "https://myanimelist.net/anime/49555",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "anidb:11909",
       "title": "https://anidb.net/anime/11909",
       "detail": "",
@@ -377,12 +350,25 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:12078",
+      "title": "Тама: Откуда же он взялся?",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
     {
       "id": 1213,
       "score": 1.1941512604173636
+    },
+    {
+      "id": 1652,
+      "score": 0.9962499999999999
     },
     {
       "id": 763,
@@ -393,16 +379,12 @@
       "score": 0.9942737485348425
     },
     {
+      "id": 1692,
+      "score": 0.9907384551934086
+    },
+    {
       "id": 715,
       "score": 0.9862500000000001
-    },
-    {
-      "id": 492,
-      "score": 0.9852176681646245
-    },
-    {
-      "id": 573,
-      "score": 0.980912872239881
     },
     {
       "id": 713,
@@ -413,12 +395,12 @@
       "score": 0.9312207486210022
     },
     {
-      "id": 897,
-      "score": 0.9301659061720361
-    },
-    {
       "id": 135,
       "score": 0.9301274929761042
+    },
+    {
+      "id": 1137,
+      "score": 0.929366352508154
     }
   ]
 }

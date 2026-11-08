@@ -145,33 +145,6 @@
       "isCurrent": true
     },
     {
-      "slug": "dream:19091",
-      "title": "Дораэмон: Симфония Земли Нобиты &mdash; Фильм 43",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:20678",
-      "title": "Дораэмон: Истории о мире искусства Нобиты &mdash; Фильм 44",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:21800",
-      "title": "Дораэмон: Нобита и новый замок Дьявольской скалы &mdash; Фильм 45",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:22659",
       "title": "Дораэмон: Паровая машина времени Нобиты",
       "detail": "",
@@ -2204,16 +2177,42 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:23966",
+      "title": "Патруль времени Бона",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:24001",
+      "title": "Патруль времени Бона 2",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
     {
-      "id": 570,
-      "score": 1.1909798280323667
+      "id": 1788,
+      "score": 1.1018299305189343
+    },
+    {
+      "id": 1731,
+      "score": 1.0943907096910532
     },
     {
       "id": 1368,
       "score": 1.0333333333399999
+    },
+    {
+      "id": 1789,
+      "score": 1.0329000252754337
     },
     {
       "id": 506,
@@ -2228,24 +2227,16 @@
       "score": 0.9964604069433425
     },
     {
+      "id": 1797,
+      "score": 0.9963272977179778
+    },
+    {
       "id": 1554,
       "score": 0.996100283821546
     },
     {
       "id": 698,
       "score": 0.9959400029004957
-    },
-    {
-      "id": 911,
-      "score": 0.995384017099233
-    },
-    {
-      "id": 1280,
-      "score": 0.9943838978949378
-    },
-    {
-      "id": 699,
-      "score": 0.9929614724817166
     }
   ]
 }

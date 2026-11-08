@@ -592,7 +592,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "https://simkl.com/anime/1237993",
@@ -697,16 +698,16 @@
       "score": 1.0410339286675172
     },
     {
+      "id": 10546,
+      "score": 1.0400207883543962
+    },
+    {
       "id": 274,
       "score": 1.039245182178815
     },
     {
       "id": 10951,
       "score": 1.0318482941491909
-    },
-    {
-      "id": 16552,
-      "score": 1.02880519932094
     }
   ]
 }

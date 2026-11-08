@@ -181,15 +181,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:20280",
-      "title": "https://myanimelist.net/anime/59117",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/1183485",
       "title": "https://simkl.com/anime/1183485",
       "detail": "",
@@ -215,12 +206,21 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:12914",
+      "title": "Поэзия теней: Рекапы",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
     {
-      "id": 1561,
-      "score": 1.1940924165582663
+      "id": 2503,
+      "score": 1.1873848331138657
     },
     {
       "id": 479,
@@ -235,14 +235,6 @@
       "score": 0.9982428886223759
     },
     {
-      "id": 2024,
-      "score": 0.998099000144534
-    },
-    {
-      "id": 2087,
-      "score": 0.9979
-    },
-    {
       "id": 287,
       "score": 0.9973848331138657
     },
@@ -251,12 +243,20 @@
       "score": 0.9968635718165031
     },
     {
-      "id": 1688,
-      "score": 0.9964588438615976
-    },
-    {
       "id": 271,
       "score": 0.9957249894044689
+    },
+    {
+      "id": 196,
+      "score": 0.9949887460051793
+    },
+    {
+      "id": 1904,
+      "score": 0.9928182871240598
+    },
+    {
+      "id": 288,
+      "score": 0.9921040014126312
     }
   ]
 }

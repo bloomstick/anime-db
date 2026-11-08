@@ -556,7 +556,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "dream:5212",
@@ -565,7 +566,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "dream:112",
@@ -574,7 +576,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "dream:1182",
@@ -583,7 +586,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "dream:1657",
@@ -592,7 +596,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "dream:8562",
@@ -601,7 +606,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "dream:3413",
@@ -610,7 +616,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "https://simkl.com/anime/1815402",
@@ -687,6 +694,10 @@
   ],
   "similar": [
     {
+      "id": 10838,
+      "score": 1.1994427423227885
+    },
+    {
       "id": 3431,
       "score": 1.1974493066187888
     },
@@ -703,28 +714,24 @@
       "score": 1.1960003975012468
     },
     {
+      "id": 8513,
+      "score": 1.194551390148768
+    },
+    {
+      "id": 7966,
+      "score": 1.1944762147155508
+    },
+    {
+      "id": 12411,
+      "score": 1.1944580152418391
+    },
+    {
       "id": 6308,
       "score": 1.1932783680781003
     },
     {
       "id": 5262,
       "score": 1.1929516124905757
-    },
-    {
-      "id": 6789,
-      "score": 1.190582188830645
-    },
-    {
-      "id": 2551,
-      "score": 1.1892362925145665
-    },
-    {
-      "id": 4672,
-      "score": 1.0643397962468928
-    },
-    {
-      "id": 3644,
-      "score": 1.063618360414733
     }
   ]
 }

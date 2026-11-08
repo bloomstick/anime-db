@@ -514,26 +514,8 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:21231",
-      "title": "Судьба/Великий приказ: Рицука Фудзимару не понимает этого 2 &mdash; Спецвыпуски",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:19079",
       "title": "Судьба/Странная подделка",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:22593",
-      "title": "Судьба/Великий приказ: Рицука Фудзимару не понимает этого 4",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -759,15 +741,6 @@
     {
       "slug": "https://livechart.me/anime/9852",
       "title": "https://livechart.me/anime/9852",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:10383",
-      "title": "https://myanimelist.net/anime/36064",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -2051,6 +2024,15 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:133",
+      "title": "Повесть о лунной принцессе",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
@@ -2063,20 +2045,28 @@
       "score": 1.1965077705477833
     },
     {
+      "id": 8349,
+      "score": 1.1950031691528267
+    },
+    {
       "id": 3300,
       "score": 1.0906762162706767
     },
     {
-      "id": 3888,
-      "score": 1.0881483713904907
+      "id": 9002,
+      "score": 1.0867769736252981
     },
     {
       "id": 424,
       "score": 1.072753440879146
     },
     {
-      "id": 5916,
-      "score": 1.0383549828403817
+      "id": 8022,
+      "score": 1.0536923105780098
+    },
+    {
+      "id": 9003,
+      "score": 1.0257570063388428
     },
     {
       "id": 4684,
@@ -2085,14 +2075,6 @@
     {
       "id": 3889,
       "score": 1.0152845262607957
-    },
-    {
-      "id": 6058,
-      "score": 1.0102539036743556
-    },
-    {
-      "id": 3999,
-      "score": 0.9831229041014662
     }
   ]
 }

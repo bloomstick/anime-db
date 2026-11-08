@@ -145,15 +145,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:12785",
-      "title": "https://myanimelist.net/anime/42151",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/1695709",
       "title": "https://simkl.com/anime/1695709",
       "detail": "",
@@ -173,6 +164,10 @@
     }
   ],
   "similar": [
+    {
+      "id": 1834,
+      "score": 1.1921904152073426
+    },
     {
       "id": 870,
       "score": 0.9958333333333333
@@ -198,20 +193,16 @@
       "score": 0.5949231905704455
     },
     {
+      "id": 1855,
+      "score": 0.5894694243388663
+    },
+    {
       "id": 1593,
       "score": 0.4659929698605513
     },
     {
       "id": 1605,
       "score": 0.46498315360077946
-    },
-    {
-      "id": 1281,
-      "score": 0.4608706889345847
-    },
-    {
-      "id": 1510,
-      "score": 0.45965295530673284
     }
   ]
 }

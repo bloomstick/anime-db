@@ -109,15 +109,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:21228",
-      "title": "Идолмастер: Концерт на миллион! &mdash; OVA",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:18731",
       "title": "Идолмастер: Блестящие цвета",
       "detail": "",
@@ -129,15 +120,6 @@
     {
       "slug": "dream:19954",
       "title": "Идолмастер: Блестящие цвета 2",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:20707",
-      "title": "Идолмастер: Блестящие цвета 2 &mdash; SHHis",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -982,33 +964,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:10420",
-      "title": "https://myanimelist.net/anime/36186",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:10536",
-      "title": "https://myanimelist.net/anime/36529",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:11329",
-      "title": "https://myanimelist.net/anime/38203",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/1204947",
       "title": "https://simkl.com/anime/1204947",
       "detail": "",
@@ -1250,16 +1205,50 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:5429",
+      "title": "Тиби-Идолмастер",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:12575",
+      "title": "Девушки-золушки: Экстра",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
+    {
+      "id": 18731,
+      "score": 1.2072871321035743
+    },
     {
       "id": 10761,
       "score": 1.2006636034620422
     },
     {
+      "id": 23693,
+      "score": 1.199119881310196
+    },
+    {
+      "id": 23755,
+      "score": 1.19902960796585
+    },
+    {
       "id": 9436,
       "score": 1.198917001874412
+    },
+    {
+      "id": 23654,
+      "score": 1.1987586202719314
     },
     {
       "id": 12882,
@@ -1274,24 +1263,8 @@
       "score": 1.1973302701287087
     },
     {
-      "id": 1202,
-      "score": 1.196638344383399
-    },
-    {
-      "id": 6712,
-      "score": 1.196502135434898
-    },
-    {
-      "id": 5450,
-      "score": 1.196301317806369
-    },
-    {
-      "id": 9237,
-      "score": 1.1957111615234326
-    },
-    {
-      "id": 7367,
-      "score": 1.1954735968915666
+      "id": 19032,
+      "score": 1.1969527582520212
     }
   ]
 }

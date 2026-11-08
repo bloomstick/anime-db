@@ -100,15 +100,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:19789",
-      "title": "Шальная мечта! Это MyGO! &mdash; Фильм",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:19495",
       "title": "MyGO! Повседневная жизнь участниц",
       "detail": "",
@@ -523,24 +514,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:14691",
-      "title": "https://myanimelist.net/anime/45731",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:16862",
-      "title": "https://myanimelist.net/anime/49471",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/1519483",
       "title": "https://simkl.com/anime/1519483",
       "detail": "",
@@ -593,6 +566,24 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:11980",
+      "title": "Ура мечте! Лайв",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:12631",
+      "title": "Ура мечте! Лайв 2",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
@@ -601,8 +592,20 @@
       "score": 1.1921042910698054
     },
     {
+      "id": 22780,
+      "score": 1.1916023605702688
+    },
+    {
       "id": 9639,
       "score": 1.1890158759234564
+    },
+    {
+      "id": 17063,
+      "score": 1.1881081081086486
+    },
+    {
+      "id": 14607,
+      "score": 1.1856341735527183
     },
     {
       "id": 11180,
@@ -613,28 +616,16 @@
       "score": 1.1823042136662938
     },
     {
+      "id": 15328,
+      "score": 1.1739653259261766
+    },
+    {
+      "id": 22940,
+      "score": 1.065646415907336
+    },
+    {
       "id": 8051,
       "score": 1.0604157161519931
-    },
-    {
-      "id": 6795,
-      "score": 1.0580654766900137
-    },
-    {
-      "id": 4553,
-      "score": 1.056849249253597
-    },
-    {
-      "id": 2540,
-      "score": 1.0552901260268568
-    },
-    {
-      "id": 8786,
-      "score": 1.05515679269819
-    },
-    {
-      "id": 10179,
-      "score": 1.0526559673102143
     }
   ]
 }

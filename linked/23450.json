@@ -655,79 +655,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:1706",
-      "title": "https://myanimelist.net/anime/2253",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:6988",
-      "title": "https://myanimelist.net/anime/24763",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:8233",
-      "title": "https://myanimelist.net/anime/30912",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:10461",
-      "title": "https://myanimelist.net/anime/36298",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:11007",
-      "title": "https://myanimelist.net/anime/37562",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:3124",
-      "title": "https://myanimelist.net/anime/5658",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:22065",
-      "title": "https://myanimelist.net/anime/63092",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:747",
-      "title": "https://myanimelist.net/anime/956",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "https://simkl.com/anime/36236",
@@ -858,44 +787,44 @@
   ],
   "similar": [
     {
+      "id": 6707,
+      "score": 1.062604158342796
+    },
+    {
       "id": 1040,
       "score": 1.0539955805530714
     },
     {
-      "id": 2373,
-      "score": 1.0537380288243177
-    },
-    {
-      "id": 4775,
-      "score": 1.0532877089934063
-    },
-    {
-      "id": 2351,
-      "score": 1.0531965804144465
-    },
-    {
-      "id": 2395,
-      "score": 1.0484156583840343
+      "id": 4776,
+      "score": 1.0516201599449526
     },
     {
       "id": 1298,
       "score": 0.9972931042694441
     },
     {
-      "id": 2353,
-      "score": 0.996928924492845
-    },
-    {
-      "id": 3742,
-      "score": 0.9938601909963529
-    },
-    {
-      "id": 3836,
-      "score": 0.989590535176702
+      "id": 8958,
+      "score": 0.9912389797033707
     },
     {
       "id": 4549,
       "score": 0.9857533468560618
+    },
+    {
+      "id": 8067,
+      "score": 0.8979939290773424
+    },
+    {
+      "id": 5802,
+      "score": 0.8977068851231923
+    },
+    {
+      "id": 2145,
+      "score": 0.896487726248631
+    },
+    {
+      "id": 4149,
+      "score": 0.8879764333006919
     }
   ]
 }

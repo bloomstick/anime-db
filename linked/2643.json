@@ -10,24 +10,6 @@
       "isCurrent": true
     },
     {
-      "slug": "dream:23165",
-      "title": "Пукка",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:23335",
-      "title": "Пукка 2",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "anidb:5257",
       "title": "https://anidb.net/anime/5257",
       "detail": "",
@@ -138,6 +120,10 @@
   ],
   "similar": [
     {
+      "id": 3820,
+      "score": 1.1922291580010826
+    },
+    {
       "id": 964,
       "score": 0.9892482650070992
     },
@@ -166,16 +152,12 @@
       "score": 0.6118016947481287
     },
     {
-      "id": 171,
-      "score": 0.599246633783614
-    },
-    {
       "id": 172,
       "score": 0.596428438638288
     },
     {
-      "id": 2387,
-      "score": 0.5847929471260632
+      "id": 3251,
+      "score": 0.5871430713105823
     }
   ]
 }

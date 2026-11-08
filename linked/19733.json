@@ -172,15 +172,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:18364",
-      "title": "Ван-Пис: Космос &mdash; это весело! Остров звёздного неба",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:2558",
       "title": "Ван-Пис: Эпизод Чоппера Плюс &mdash; Зимнее цветение, чудесная сакура &mdash; Фильм 9",
       "detail": "",
@@ -638,6 +629,24 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:7553",
+      "title": "Ван-Пис: Приключения в Алабасте - Пролог",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:21504",
+      "title": "Ван-Пис: Запись приключений доктора Чоппера — Друзья на перепутье!",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
@@ -658,6 +667,10 @@
       "score": 1.0864465048517478
     },
     {
+      "id": 3284,
+      "score": 1.062568506625079
+    },
+    {
       "id": 1115,
       "score": 1.0608670608966413
     },
@@ -676,10 +689,6 @@
     {
       "id": 600,
       "score": 1.0463619918330722
-    },
-    {
-      "id": 1147,
-      "score": 1.0326794250635625
     }
   ]
 }

@@ -676,15 +676,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:994",
-      "title": "https://myanimelist.net/anime/1259",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/1941198",
       "title": "https://simkl.com/anime/1941198",
       "detail": "",
@@ -827,12 +818,25 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:4679",
+      "title": "Рыцари Зодиака: Легенда о святилище",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
     {
       "id": 2084,
       "score": 1.180472528699077
+    },
+    {
+      "id": 3870,
+      "score": 1.1767410100597548
     },
     {
       "id": 876,
@@ -859,16 +863,12 @@
       "score": 1.0951734896186032
     },
     {
-      "id": 2010,
-      "score": 1.0945512604148637
+      "id": 3384,
+      "score": 1.0855953056350596
     },
     {
-      "id": 1623,
-      "score": 1.0771391953657434
-    },
-    {
-      "id": 989,
-      "score": 1.0582692417012005
+      "id": 3946,
+      "score": 1.0821952102678787
     }
   ]
 }

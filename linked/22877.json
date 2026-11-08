@@ -260,31 +260,9 @@
       "relation": "",
       "year": "",
       "isCurrent": false
-    },
-    {
-      "slug": "dream:22874",
-      "title": "https://myanimelist.net/anime/1754",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:22875",
-      "title": "https://myanimelist.net/anime/1755",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
     }
   ],
   "similar": [
-    {
-      "id": 552,
-      "score": 1.1916544858118827
-    },
     {
       "id": 837,
       "score": 1.1886738192250537
@@ -298,12 +276,8 @@
       "score": 1.1747251064024873
     },
     {
-      "id": 541,
-      "score": 0.9968717754141567
-    },
-    {
-      "id": 572,
-      "score": 0.992060628502747
+      "id": 1331,
+      "score": 0.9917202783501669
     },
     {
       "id": 545,
@@ -320,6 +294,14 @@
     {
       "id": 599,
       "score": 0.9216112310596168
+    },
+    {
+      "id": 1040,
+      "score": 0.9192263231716618
+    },
+    {
+      "id": 800,
+      "score": 0.9145528053094956
     }
   ]
 }

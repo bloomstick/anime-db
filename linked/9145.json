@@ -37,15 +37,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:18279",
-      "title": "Вайолет Эвергарден: Воспоминания",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "anidb:14013",
       "title": "https://anidb.net/anime/14013",
       "detail": "",
@@ -377,21 +368,24 @@
       "relation": "",
       "year": "",
       "isCurrent": false
-    },
-    {
-      "slug": "dream:19000",
-      "title": "https://myanimelist.net/anime/55594",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
     }
   ],
   "similar": [
     {
+      "id": 11962,
+      "score": 1.1061455022990416
+    },
+    {
       "id": 4444,
       "score": 1.1055711445803176
+    },
+    {
+      "id": 10387,
+      "score": 1.0768125935196866
+    },
+    {
+      "id": 740,
+      "score": 1.053342683815118
     },
     {
       "id": 851,
@@ -406,28 +400,16 @@
       "score": 1.0128524457184798
     },
     {
-      "id": 5203,
-      "score": 0.9928095725870278
+      "id": 9640,
+      "score": 1.007771321387309
     },
     {
       "id": 5834,
       "score": 0.9927952671835791
     },
     {
-      "id": 3314,
-      "score": 0.9833327306955782
-    },
-    {
-      "id": 375,
-      "score": 0.9690266397280541
-    },
-    {
-      "id": 119,
-      "score": 0.955392861231495
-    },
-    {
-      "id": 1182,
-      "score": 0.954335252511137
+      "id": 11182,
+      "score": 0.9892646753224904
     }
   ]
 }

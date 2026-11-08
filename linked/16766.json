@@ -16,7 +16,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "mal:51479",
@@ -52,10 +53,15 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     }
   ],
   "similar": [
+    {
+      "id": 1834,
+      "score": 0.9202209908651429
+    },
     {
       "id": 961,
       "score": 0.9193926148949467
@@ -79,10 +85,6 @@
     {
       "id": 763,
       "score": 0.5949495736843748
-    },
-    {
-      "id": 573,
-      "score": 0.5902752147055713
     },
     {
       "id": 1606,

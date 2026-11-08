@@ -215,6 +215,60 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:2912",
+      "title": "Вершина хаоса",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:5208",
+      "title": "Записки о робототехнике",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:8119",
+      "title": "Дитя хаоса",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:8964",
+      "title": "Оккультная девятка",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:9757",
+      "title": "Дитя хаоса: Эпизод 0",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:10080",
+      "title": "Дитя хаоса: Безмолвное небо — Фильм",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
@@ -225,6 +279,10 @@
     {
       "id": 961,
       "score": 0.8960352515917696
+    },
+    {
+      "id": 1834,
+      "score": 0.8951726668826527
     },
     {
       "id": 477,
@@ -239,24 +297,20 @@
       "score": 0.8396489183519769
     },
     {
-      "id": 540,
-      "score": 0.5888029794535257
-    },
-    {
-      "id": 542,
-      "score": 0.588001211348072
-    },
-    {
-      "id": 541,
-      "score": 0.5838460193676321
-    },
-    {
-      "id": 1233,
-      "score": 0.5761524717679357
-    },
-    {
       "id": 313,
       "score": 0.5760273489454697
+    },
+    {
+      "id": 557,
+      "score": 0.5688080094602153
+    },
+    {
+      "id": 539,
+      "score": 0.5677381325515443
+    },
+    {
+      "id": 452,
+      "score": 0.5504822516853103
     }
   ]
 }

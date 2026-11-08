@@ -295,7 +295,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "dream:1174",
@@ -313,16 +314,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:2184",
-      "title": "https://myanimelist.net/anime/3024",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "dream:3005",
@@ -331,7 +324,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "https://simkl.com/anime/1572127",
@@ -422,6 +416,87 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:722",
+      "title": "Рэй",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:1069",
+      "title": "Чёрный Джек: Спецвыпуски",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:1175",
+      "title": "Медицинские карты Черного Джека",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:1515",
+      "title": "Чёрный Джек: Два доктора из тьмы",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:1683",
+      "title": "Черный Джек",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:1684",
+      "title": "Черный Джек 21",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:4467",
+      "title": "Чёрный Джек: Бабушка",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:8175",
+      "title": "Молодость Чёрного Джека",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:23150",
+      "title": "Чёрный Джек: Дитя, спустившееся с небес",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
@@ -434,36 +509,36 @@
       "score": 1.1688519970023885
     },
     {
-      "id": 7172,
-      "score": 0.9966118243809525
-    },
-    {
       "id": 2285,
       "score": 0.9900940853472587
     },
     {
-      "id": 8761,
-      "score": 0.9802212886840822
-    },
-    {
-      "id": 1698,
-      "score": 0.9735897661894389
-    },
-    {
-      "id": 6255,
-      "score": 0.9704671625537447
+      "id": 17289,
+      "score": 0.985263379144298
     },
     {
       "id": 5321,
       "score": 0.9309377120409619
     },
     {
-      "id": 7828,
-      "score": 0.9262948334778673
-    },
-    {
       "id": 11577,
       "score": 0.9241777880287765
+    },
+    {
+      "id": 16745,
+      "score": 0.9157964852664382
+    },
+    {
+      "id": 4607,
+      "score": 0.9114594434285714
+    },
+    {
+      "id": 16822,
+      "score": 0.9054062078348921
+    },
+    {
+      "id": 11652,
+      "score": 0.9052002954413556
     }
   ]
 }

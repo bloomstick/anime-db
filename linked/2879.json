@@ -127,26 +127,8 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:10176",
-      "title": "https://myanimelist.net/anime/35497",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:3648",
       "title": "https://myanimelist.net/anime/7193",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:4030",
-      "title": "https://myanimelist.net/anime/8554",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -188,48 +170,57 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:11967",
+      "title": "Human Lost: Исповедь неполноценного человека",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
-    {
-      "id": 5908,
-      "score": 1.0891484818996788
-    },
-    {
-      "id": 7419,
-      "score": 1.0867240547495958
-    },
     {
       "id": 1802,
       "score": 1.0698360417481738
     },
     {
-      "id": 3789,
-      "score": 1.0577132360564645
+      "id": 9929,
+      "score": 0.9965179624840252
     },
     {
-      "id": 3882,
-      "score": 0.995878208509959
+      "id": 369,
+      "score": 0.9825027607079055
     },
     {
-      "id": 6172,
-      "score": 0.9945576322331309
+      "id": 368,
+      "score": 0.9821171014969933
     },
     {
-      "id": 4279,
-      "score": 0.9935672043161471
+      "id": 371,
+      "score": 0.9820696745975699
     },
     {
-      "id": 5570,
-      "score": 0.9915083256167424
+      "id": 11108,
+      "score": 0.9817671561850513
     },
     {
-      "id": 7420,
-      "score": 0.9887092144594434
+      "id": 370,
+      "score": 0.9797608252246799
     },
     {
-      "id": 2104,
-      "score": 0.9878031634177742
+      "id": 468,
+      "score": 0.9777477207752562
+    },
+    {
+      "id": 987,
+      "score": 0.9703713499682958
+    },
+    {
+      "id": 815,
+      "score": 0.9701445262740384
     }
   ]
 }

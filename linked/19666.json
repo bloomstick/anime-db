@@ -10,15 +10,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:12362",
-      "title": "Лазурный путь: Рекап",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:19683",
       "title": "Лазурный путь: Счастливое общежитие",
       "detail": "",
@@ -116,15 +107,6 @@
       "relation": "",
       "year": "",
       "isCurrent": false
-    },
-    {
-      "slug": "dream:18937",
-      "title": "https://myanimelist.net/anime/55351",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
     }
   ],
   "similar": [
@@ -133,8 +115,16 @@
       "score": 0.96702285888892
     },
     {
+      "id": 1317,
+      "score": 0.8981947190050205
+    },
+    {
       "id": 1179,
       "score": 0.8904041538349727
+    },
+    {
+      "id": 1324,
+      "score": 0.8652905538615976
     },
     {
       "id": 513,
@@ -153,20 +143,12 @@
       "score": 0.5892481830532619
     },
     {
-      "id": 772,
-      "score": 0.588280567542005
-    },
-    {
       "id": 745,
       "score": 0.5859352304271643
     },
     {
       "id": 837,
       "score": 0.5826995394553951
-    },
-    {
-      "id": 945,
-      "score": 0.5818239406267467
     }
   ]
 }

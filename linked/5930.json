@@ -100,15 +100,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:20714",
-      "title": "Хвост Феи: Столетний квест &mdash; Дневник Люси",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "anilist:246",
       "title": "https://anilist.co/anime/246",
       "detail": "",
@@ -268,13 +259,22 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     }
   ],
   "similar": [
     {
       "id": 384,
       "score": 1.117004443539394
+    },
+    {
+      "id": 3008,
+      "score": 1.1160967054701472
+    },
+    {
+      "id": 3896,
+      "score": 1.1125797032079112
     },
     {
       "id": 109,
@@ -289,6 +289,10 @@
       "score": 1.090289641323123
     },
     {
+      "id": 3469,
+      "score": 1.0648969106345936
+    },
+    {
       "id": 83,
       "score": 1.0569240521752816
     },
@@ -299,18 +303,6 @@
     {
       "id": 992,
       "score": 1.0477348220342366
-    },
-    {
-      "id": 1571,
-      "score": 1.0399038063634525
-    },
-    {
-      "id": 711,
-      "score": 1.038954564135801
-    },
-    {
-      "id": 919,
-      "score": 1.0287828183801864
     }
   ]
 }

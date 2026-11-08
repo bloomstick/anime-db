@@ -55,24 +55,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:23876",
-      "title": "Осомацу-сан. Фильм 3",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:19343",
-      "title": "Мацуину",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:20223",
       "title": "Осомацу-сан 4",
       "detail": "",
@@ -1036,24 +1018,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:8658",
-      "title": "https://myanimelist.net/anime/32026",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:8766",
-      "title": "https://myanimelist.net/anime/32383",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "mal:33903",
       "title": "https://myanimelist.net/anime/33903",
       "detail": "",
@@ -1065,15 +1029,6 @@
     {
       "slug": "mal:34239",
       "title": "https://myanimelist.net/anime/34239",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:9877",
-      "title": "https://myanimelist.net/anime/35018",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -1099,35 +1054,8 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:15384",
-      "title": "https://myanimelist.net/anime/46735",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:16529",
       "title": "https://myanimelist.net/anime/48409",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:20568",
-      "title": "https://myanimelist.net/anime/59790",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:4399",
-      "title": "https://myanimelist.net/anime/9883",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -1259,13 +1187,27 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:11048",
+      "title": "Ночной эфир! Гениальный Бакабон",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:12490",
+      "title": "Осомацу-сан. Фильм: Пролог",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
-    {
-      "id": 583,
-      "score": 1.1924725098491682
-    },
     {
       "id": 945,
       "score": 1.1858194124376187
@@ -1287,20 +1229,24 @@
       "score": 0.9954684907964209
     },
     {
-      "id": 415,
-      "score": 0.9952128874516064
-    },
-    {
-      "id": 540,
-      "score": 0.9949466931275601
-    },
-    {
-      "id": 542,
-      "score": 0.9947484612330139
-    },
-    {
       "id": 441,
       "score": 0.9895307866713134
+    },
+    {
+      "id": 313,
+      "score": 0.9853114791883275
+    },
+    {
+      "id": 285,
+      "score": 0.9850836209602793
+    },
+    {
+      "id": 286,
+      "score": 0.9837043041544067
+    },
+    {
+      "id": 1266,
+      "score": 0.9829589701713004
     }
   ]
 }

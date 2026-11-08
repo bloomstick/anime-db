@@ -478,15 +478,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:5829",
-      "title": "Покемон: Наилучших благ! 2 &mdash; Приключения на островах Деколора",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:6034",
       "title": "Покемон: Мьюту. Пролог к пробуждению",
       "detail": "",
@@ -543,15 +534,6 @@
     {
       "slug": "dream:6745",
       "title": "Покемон XY: Мега-эволюция",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:6068",
-      "title": "Покемон: Приключения в Калосе",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -971,48 +953,111 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:12788",
+      "title": "Покетун",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:13298",
+      "title": "Сумеречные крылья: Фестиваль звёзд",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:18361",
+      "title": "Покемон: Далёкое синее небо",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:18679",
+      "title": "Покемон: Консьерж",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:19182",
+      "title": "Покемон: Палдейские ветры",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:19539",
+      "title": "Детектив Пикачу: Великолепная утренняя рутина",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:22652",
+      "title": "Покемон: Дикая карта",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
     {
-      "id": 18593,
-      "score": 0.8001429175368628
+      "id": 21201,
+      "score": 0.799768514124704
     },
     {
-      "id": 11663,
-      "score": 0.7998708078736152
+      "id": 8300,
+      "score": 0.7993903672175462
     },
     {
-      "id": 12725,
-      "score": 0.7996774437376291
+      "id": 17624,
+      "score": 0.7991406952563817
     },
     {
       "id": 11581,
       "score": 0.7989841966451059
     },
     {
-      "id": 11377,
-      "score": 0.7972773509519759
+      "id": 21333,
+      "score": 0.7988359107419243
+    },
+    {
+      "id": 19528,
+      "score": 0.7983239237222499
+    },
+    {
+      "id": 22531,
+      "score": 0.7973974165577438
+    },
+    {
+      "id": 21566,
+      "score": 0.7973192313722923
     },
     {
       "id": 13402,
       "score": 0.7968810439823927
     },
     {
-      "id": 14602,
-      "score": 0.7966497358210611
-    },
-    {
-      "id": 6502,
-      "score": 0.7963722958312466
-    },
-    {
-      "id": 9353,
-      "score": 0.796288191594053
-    },
-    {
-      "id": 9611,
-      "score": 0.7956061901769074
+      "id": 20654,
+      "score": 0.7968782743491511
     }
   ]
 }
