@@ -300,6 +300,8 @@
     "iframeUrl": "https://kodikplayer.com/season/55602/fb74a526d6909fdc175e1219efd35790/720p?translations=false&only_episode=true&only_season=true&episode=26",
     "date": 1674774649,
     "durationSec": 1426,
+    "openingTime": 18,
+    "openingLength": 59,
     "endingTime": 1299,
     "endingLength": 59
   },
@@ -1493,7 +1495,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/55602/fb74a526d6909fdc175e1219efd35790/720p?translations=false&only_episode=true&only_season=true&episode=146",
     "date": 1674774649,
-    "durationSec": 1425
+    "durationSec": 1425,
+    "openingTime": 21,
+    "openingLength": 59,
+    "endingTime": 1388,
+    "endingLength": 19
   },
   {
     "episode": 147,
@@ -1565,7 +1571,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/55602/fb74a526d6909fdc175e1219efd35790/720p?translations=false&only_episode=true&only_season=true&episode=154",
     "date": 1674774649,
-    "durationSec": 1425
+    "durationSec": 1425,
+    "openingTime": 16,
+    "openingLength": 69,
+    "endingTime": 1405,
+    "endingLength": 19
   },
   {
     "episode": 155,
@@ -18503,7 +18513,7 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Persona99&anime_id=235&episode=84&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Persona99",
     "date": 1792260708,
-    "durationSec": 0
+    "durationSec": 1424
   },
   {
     "episode": 85,
@@ -18511,7 +18521,7 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Persona99&anime_id=235&episode=85&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Persona99",
     "date": 1792260708,
-    "durationSec": 0
+    "durationSec": 1424
   },
   {
     "episode": 86,
@@ -18671,7 +18681,7 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Persona99&anime_id=235&episode=105&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Persona99",
     "date": 1792260708,
-    "durationSec": 0
+    "durationSec": 1424
   },
   {
     "episode": 106,
@@ -18679,7 +18689,7 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Persona99&anime_id=235&episode=106&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Persona99",
     "date": 1792260708,
-    "durationSec": 0
+    "durationSec": 1424
   },
   {
     "episode": 107,
@@ -18687,7 +18697,7 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Persona99&anime_id=235&episode=107&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Persona99",
     "date": 1792260708,
-    "durationSec": 0
+    "durationSec": 1424
   },
   {
     "episode": 108,
@@ -18695,7 +18705,7 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Persona99&anime_id=235&episode=108&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Persona99",
     "date": 1792260708,
-    "durationSec": 0
+    "durationSec": 1424
   },
   {
     "episode": 109,
@@ -18703,7 +18713,7 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Persona99&anime_id=235&episode=109&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Persona99",
     "date": 1792260708,
-    "durationSec": 0
+    "durationSec": 1424
   },
   {
     "episode": 110,
@@ -18711,7 +18721,7 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Persona99&anime_id=235&episode=110&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Persona99",
     "date": 1792260708,
-    "durationSec": 0
+    "durationSec": 1424
   },
   {
     "episode": 111,
@@ -18727,7 +18737,7 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Persona99&anime_id=235&episode=112&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Persona99",
     "date": 1792260708,
-    "durationSec": 0
+    "durationSec": 1424
   },
   {
     "episode": 113,
@@ -19727,7 +19737,7 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Persona99&anime_id=235&episode=255&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Persona99",
     "date": 1792260708,
-    "durationSec": 0
+    "durationSec": 1425
   },
   {
     "episode": 256,
@@ -19735,7 +19745,7 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Persona99&anime_id=235&episode=256&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Persona99",
     "date": 1792260708,
-    "durationSec": 0
+    "durationSec": 1425
   },
   {
     "episode": 257,
@@ -19743,7 +19753,7 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Persona99&anime_id=235&episode=257&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Persona99",
     "date": 1792260708,
-    "durationSec": 0
+    "durationSec": 1425
   },
   {
     "episode": 258,
@@ -19751,7 +19761,7 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Persona99&anime_id=235&episode=258&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Persona99",
     "date": 1792260708,
-    "durationSec": 0
+    "durationSec": 1425
   },
   {
     "episode": 259,
@@ -19775,7 +19785,7 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Persona99&anime_id=235&episode=261&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Persona99",
     "date": 1792260708,
-    "durationSec": 0
+    "durationSec": 1428
   },
   {
     "episode": 263,
@@ -20223,7 +20233,7 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Persona99&anime_id=235&episode=328&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Persona99",
     "date": 1792260708,
-    "durationSec": 0
+    "durationSec": 1427
   },
   {
     "episode": 333,
@@ -20879,7 +20889,7 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Persona99&anime_id=235&episode=329&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Persona99",
     "date": 1792261704,
-    "durationSec": 0
+    "durationSec": 1427
   },
   {
     "episode": 330,
@@ -20887,7 +20897,7 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Persona99&anime_id=235&episode=330&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Persona99",
     "date": 1792261704,
-    "durationSec": 0
+    "durationSec": 1427
   },
   {
     "episode": 331,
@@ -20895,7 +20905,7 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Persona99&anime_id=235&episode=331&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Persona99",
     "date": 1792261704,
-    "durationSec": 0
+    "durationSec": 1427
   },
   {
     "episode": 332,
@@ -20903,7 +20913,7 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Persona99&anime_id=235&episode=332&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Persona99",
     "date": 1792261704,
-    "durationSec": 0
+    "durationSec": 1427
   },
   {
     "episode": 338,
@@ -24455,7 +24465,7 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Persona99&anime_id=235&episode=837&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+Persona99",
     "date": 1792263700,
-    "durationSec": 0
+    "durationSec": 1480
   },
   {
     "episode": 838,
@@ -39248,7 +39258,7 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/35068/22df9cdc28101f4acf4fb57ac537dcd5/720p?translations=false&only_episode=true&only_season=true&episode=468",
     "date": 1674774649,
-    "durationSec": 0
+    "durationSec": 1480
   },
   {
     "episode": 469,
@@ -39256,7 +39266,7 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/35068/22df9cdc28101f4acf4fb57ac537dcd5/720p?translations=false&only_episode=true&only_season=true&episode=469",
     "date": 1674774649,
-    "durationSec": 0
+    "durationSec": 1480
   },
   {
     "episode": 470,
@@ -39264,7 +39274,7 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/35068/22df9cdc28101f4acf4fb57ac537dcd5/720p?translations=false&only_episode=true&only_season=true&episode=470",
     "date": 1674774649,
-    "durationSec": 0
+    "durationSec": 1480
   },
   {
     "episode": 471,
@@ -43853,6 +43863,8 @@
     "iframeUrl": "https://kodikplayer.com/season/35068/22df9cdc28101f4acf4fb57ac537dcd5/720p?translations=false&only_episode=true&only_season=true&episode=1029",
     "date": 1674774649,
     "durationSec": 1482,
+    "openingTime": 171,
+    "openingLength": 104,
     "endingTime": 1445,
     "endingLength": 24
   },
@@ -45421,6 +45433,14 @@
     "iframeUrl": "https://kodikplayer.com/season/35068/22df9cdc28101f4acf4fb57ac537dcd5/720p?translations=false&only_episode=true&only_season=true&episode=1218",
     "date": 1793461881,
     "durationSec": 1428
+  },
+  {
+    "episode": 1219,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/35068/22df9cdc28101f4acf4fb57ac537dcd5/720p?translations=false&only_episode=true&only_season=true&episode=1219",
+    "date": 1794077577,
+    "durationSec": 0
   },
   {
     "episode": 374,
@@ -49964,7 +49984,7 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=ef4e606cded26cd32a974b969a1179&translation=158&season=1&episode=929&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677666989,
-    "durationSec": 0,
+    "durationSec": 1441,
     "translationId": 158
   },
   {
@@ -49973,7 +49993,7 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=ef4e606cded26cd32a974b969a1179&translation=158&season=1&episode=930&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677666989,
-    "durationSec": 0,
+    "durationSec": 1441,
     "translationId": 158
   },
   {
@@ -49982,7 +50002,7 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=ef4e606cded26cd32a974b969a1179&translation=158&season=1&episode=931&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677666989,
-    "durationSec": 0,
+    "durationSec": 1441,
     "translationId": 158
   },
   {
@@ -50000,7 +50020,7 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=ef4e606cded26cd32a974b969a1179&translation=158&season=1&episode=933&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677666989,
-    "durationSec": 0,
+    "durationSec": 1441,
     "translationId": 158
   },
   {
@@ -50009,7 +50029,7 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=ef4e606cded26cd32a974b969a1179&translation=158&season=1&episode=934&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677666989,
-    "durationSec": 0,
+    "durationSec": 1447,
     "translationId": 158
   },
   {
@@ -50018,7 +50038,7 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=ef4e606cded26cd32a974b969a1179&translation=158&season=1&episode=935&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677666989,
-    "durationSec": 0,
+    "durationSec": 1441,
     "translationId": 158
   },
   {
@@ -50027,7 +50047,7 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=ef4e606cded26cd32a974b969a1179&translation=158&season=1&episode=936&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677666989,
-    "durationSec": 0,
+    "durationSec": 1441,
     "translationId": 158
   },
   {
@@ -50036,7 +50056,7 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=ef4e606cded26cd32a974b969a1179&translation=158&season=1&episode=937&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1688492939,
-    "durationSec": 0,
+    "durationSec": 1441,
     "translationId": 158
   },
   {

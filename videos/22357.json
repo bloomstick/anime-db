@@ -186,7 +186,11 @@
     "iframeUrl": "https://alloha.yani.tv/?token_movie=5bdcdaed722fb26422e59c1668d239&translation=66&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1793887767,
     "durationSec": 1420,
-    "translationId": 66
+    "translationId": 66,
+    "openingTime": 19,
+    "openingLength": 89,
+    "endingTime": 1323,
+    "endingLength": 89
   },
   {
     "episode": 2,
@@ -195,7 +199,11 @@
     "iframeUrl": "https://alloha.yani.tv/?token_movie=5bdcdaed722fb26422e59c1668d239&translation=66&season=1&episode=2&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1793888694,
     "durationSec": 1420,
-    "translationId": 66
+    "translationId": 66,
+    "openingTime": 0,
+    "openingLength": 174,
+    "endingTime": 1322,
+    "endingLength": 14
   },
   {
     "episode": 3,
@@ -204,7 +212,11 @@
     "iframeUrl": "https://alloha.yani.tv/?token_movie=5bdcdaed722fb26422e59c1668d239&translation=66&season=1&episode=3&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1793888694,
     "durationSec": 1420,
-    "translationId": 66
+    "translationId": 66,
+    "openingTime": 80,
+    "openingLength": 89,
+    "endingTime": 1324,
+    "endingLength": 89
   },
   {
     "episode": 4,

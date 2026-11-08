@@ -2559,7 +2559,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/92007/ee316100598e4e7a4479d92102a70864/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1687675012,
-    "durationSec": 1286
+    "durationSec": 1286,
+    "openingTime": 0,
+    "openingLength": 44,
+    "endingTime": 994,
+    "endingLength": 279
   },
   {
     "episode": 2,
@@ -7731,7 +7735,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/114719/7d3fca0e55ce6a95b3288037b89adc4b/720p?translations=false&only_episode=true&only_season=true&episode=176",
     "date": 1792852819,
-    "durationSec": 1213
+    "durationSec": 1213,
+    "openingTime": 0,
+    "openingLength": 124,
+    "endingTime": 1105,
+    "endingLength": 99
   },
   {
     "episode": 177,
@@ -7740,6 +7748,14 @@
     "iframeUrl": "https://kodikplayer.com/season/114719/7d3fca0e55ce6a95b3288037b89adc4b/720p?translations=false&only_episode=true&only_season=true&episode=177",
     "date": 1793458168,
     "durationSec": 1168
+  },
+  {
+    "episode": 178,
+    "dub": "Озвучка AniMaunt",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/114719/7d3fca0e55ce6a95b3288037b89adc4b/720p?translations=false&only_episode=true&only_season=true&episode=178",
+    "date": 1794055761,
+    "durationSec": 1177
   },
   {
     "episode": 1,

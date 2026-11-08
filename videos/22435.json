@@ -318,7 +318,11 @@
     "iframeUrl": "https://alloha.yani.tv/?token_movie=7080c5f3957af534d7f68454d90709&translation=340&season=1&episode=6&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1793956629,
     "durationSec": 1423,
-    "translationId": 340
+    "translationId": 340,
+    "openingTime": 106,
+    "openingLength": 89,
+    "endingTime": 1383,
+    "endingLength": 29
   },
   {
     "episode": 1,
@@ -414,7 +418,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniLiberty&anime_id=64340&episode=3&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
     "date": 1793625200,
-    "durationSec": 1422
+    "durationSec": 1422,
+    "openingTime": 116,
+    "openingLength": 89,
+    "endingTime": 1369,
+    "endingLength": 44
   },
   {
     "episode": 4,
@@ -422,7 +430,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniLiberty&anime_id=64340&episode=4&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
     "date": 1793625200,
-    "durationSec": 1422
+    "durationSec": 1422,
+    "openingTime": 39,
+    "openingLength": 89,
+    "endingTime": 1324,
+    "endingLength": 89
   },
   {
     "episode": 5,
@@ -430,7 +442,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniLiberty&anime_id=64340&episode=5&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
     "date": 1793625200,
-    "durationSec": 1423
+    "durationSec": 1423,
+    "openingTime": 92,
+    "openingLength": 89,
+    "endingTime": 1323,
+    "endingLength": 99
   },
   {
     "episode": 6,
@@ -966,7 +982,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123461/f576f3a7dcf458365b4d8c9561e30b03/720p?translations=false&only_episode=true&only_season=true&episode=6",
     "date": 1793783240,
-    "durationSec": 1420
+    "durationSec": 1420,
+    "endingTime": 1326,
+    "endingLength": 24
   },
   {
     "episode": 1,
