@@ -53,7 +53,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123291/9c44178791c7bd67a14d02c3f6bdd752/720p?translations=false&only_episode=true&only_season=true&episode=5",
     "date": 1793646493,
-    "durationSec": 1433
+    "durationSec": 1433,
+    "openingTime": 153,
+    "openingLength": 89,
+    "endingTime": 1339,
+    "endingLength": 89
   },
   {
     "episode": 1,
@@ -185,46 +189,6 @@
   },
   {
     "episode": 1,
-    "dub": "Субтитры FSG Sanae",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123316/a5782d9c6882987d8ada307ab2d55e83/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1791276955,
-    "durationSec": 1431
-  },
-  {
-    "episode": 2,
-    "dub": "Субтитры FSG Sanae",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123316/a5782d9c6882987d8ada307ab2d55e83/720p?translations=false&only_episode=true&only_season=true&episode=2",
-    "date": 1792124672,
-    "durationSec": 1430
-  },
-  {
-    "episode": 3,
-    "dub": "Субтитры FSG Sanae",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123316/a5782d9c6882987d8ada307ab2d55e83/720p?translations=false&only_episode=true&only_season=true&episode=3",
-    "date": 1792490419,
-    "durationSec": 1430
-  },
-  {
-    "episode": 4,
-    "dub": "Субтитры FSG Sanae",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123316/a5782d9c6882987d8ada307ab2d55e83/720p?translations=false&only_episode=true&only_season=true&episode=4",
-    "date": 1793151712,
-    "durationSec": 1430
-  },
-  {
-    "episode": 5,
-    "dub": "Субтитры FSG Sanae",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123316/a5782d9c6882987d8ada307ab2d55e83/720p?translations=false&only_episode=true&only_season=true&episode=5",
-    "date": 1793719025,
-    "durationSec": 1430
-  },
-  {
-    "episode": 1,
     "dub": "Озвучка AniStar",
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123303/a993fd605b1f083bb077b08ec2ed9e86/720p?translations=false&only_episode=true&only_season=true&episode=1",
@@ -261,6 +225,46 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123303/a993fd605b1f083bb077b08ec2ed9e86/720p?translations=false&only_episode=true&only_season=true&episode=5",
     "date": 1793652978,
+    "durationSec": 1430
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры FSG Sanae",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123316/a5782d9c6882987d8ada307ab2d55e83/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1791276955,
+    "durationSec": 1431
+  },
+  {
+    "episode": 2,
+    "dub": "Субтитры FSG Sanae",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123316/a5782d9c6882987d8ada307ab2d55e83/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1792124672,
+    "durationSec": 1430
+  },
+  {
+    "episode": 3,
+    "dub": "Субтитры FSG Sanae",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123316/a5782d9c6882987d8ada307ab2d55e83/720p?translations=false&only_episode=true&only_season=true&episode=3",
+    "date": 1792490419,
+    "durationSec": 1430
+  },
+  {
+    "episode": 4,
+    "dub": "Субтитры FSG Sanae",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123316/a5782d9c6882987d8ada307ab2d55e83/720p?translations=false&only_episode=true&only_season=true&episode=4",
+    "date": 1793151712,
+    "durationSec": 1430
+  },
+  {
+    "episode": 5,
+    "dub": "Субтитры FSG Sanae",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123316/a5782d9c6882987d8ada307ab2d55e83/720p?translations=false&only_episode=true&only_season=true&episode=5",
+    "date": 1793719025,
     "durationSec": 1430
   },
   {
@@ -413,6 +417,6 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123992/d0fc9266b188be0ea6800e0b4d80c42d/720p?translations=false&only_episode=true&only_season=true&episode=4",
     "date": 1794008088,
-    "durationSec": 0
+    "durationSec": 1430
   }
 ]

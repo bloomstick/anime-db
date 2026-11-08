@@ -561,7 +561,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/121304/e3dc1c277748129e9164204617c79de2/720p?translations=false&only_episode=true&only_season=true&episode=15",
     "date": 1792007067,
-    "durationSec": 1377
+    "durationSec": 1377,
+    "openingTime": 0,
+    "openingLength": 54,
+    "endingTime": 1315,
+    "endingLength": 44
   },
   {
     "episode": 16,
@@ -1119,7 +1123,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/121292/a175dcec5bccdbde1a5354ac15b7f38c/720p?translations=false&only_episode=true&only_season=true&episode=18",
     "date": 1793737387,
-    "durationSec": 1370
+    "durationSec": 1370,
+    "openingTime": 94,
+    "openingLength": 54,
+    "endingTime": 1299,
+    "endingLength": 54
   },
   {
     "episode": 11,

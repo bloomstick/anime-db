@@ -109,7 +109,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123125/445b469e6d768838c8bbb9ed9c7250ca/720p?translations=false&only_episode=true&only_season=true&episode=4",
     "date": 1792859258,
-    "durationSec": 1417
+    "durationSec": 1417,
+    "openingTime": 150,
+    "openingLength": 54,
+    "endingTime": 1320,
+    "endingLength": 89
   },
   {
     "episode": 5,

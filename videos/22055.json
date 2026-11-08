@@ -5,7 +5,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/124398/8e05a2decbedd4ecd6452d793d73440f/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1793975045,
-    "durationSec": 1491
+    "durationSec": 1491,
+    "openingTime": 102,
+    "openingLength": 89,
+    "endingTime": 1422,
+    "endingLength": 49
   },
   {
     "episode": 2,
@@ -13,7 +17,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/124398/8e05a2decbedd4ecd6452d793d73440f/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1793975045,
-    "durationSec": 1489
+    "durationSec": 1489,
+    "openingTime": 131,
+    "openingLength": 89,
+    "endingTime": 1469,
+    "endingLength": 19
   },
   {
     "episode": 1,
@@ -21,7 +29,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=FumoDub&anime_id=63045&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+FumoDub",
     "date": 1793973690,
-    "durationSec": 1491
+    "durationSec": 1491,
+    "openingTime": 102,
+    "openingLength": 89,
+    "endingTime": 1425,
+    "endingLength": 19
   },
   {
     "episode": 2,
@@ -37,7 +49,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/124401/27d18915ff55c54762a4b73b1a4d39d9/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1793978718,
-    "durationSec": 1491
+    "durationSec": 1491,
+    "openingTime": 102,
+    "openingLength": 89,
+    "endingTime": 1421,
+    "endingLength": 49
   },
   {
     "episode": 2,
@@ -45,7 +61,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/124401/27d18915ff55c54762a4b73b1a4d39d9/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1793981470,
-    "durationSec": 1489
+    "durationSec": 1489,
+    "openingTime": 131,
+    "openingLength": 89,
+    "endingTime": 1452,
+    "endingLength": 19
   },
   {
     "episode": 1,
@@ -81,6 +101,54 @@
   },
   {
     "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/124421/04a148f2bfedec5745ed6268b7aefa27/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1794056694,
+    "durationSec": 1491
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/124421/04a148f2bfedec5745ed6268b7aefa27/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1794056694,
+    "durationSec": 1489
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/124419/a6b0d291beeb0acfb52ddde94d4bed69/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1794055776,
+    "durationSec": 1492
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/124419/a6b0d291beeb0acfb52ddde94d4bed69/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1794055776,
+    "durationSec": 1490
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Комната Диди",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/124424/de2e75acd5073588e90f4b8a1342ca72/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1794077589,
+    "durationSec": 1496
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка Комната Диди",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/124424/de2e75acd5073588e90f4b8a1342ca72/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1794077589,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
     "dub": "Субтитры SubVost",
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/124408/3bc7bd267dafc26269a3761b4c4db6de/720p?translations=false&only_episode=true&only_season=true&episode=1",
@@ -93,6 +161,6 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=SubVost&anime_id=63045&episode=1&dubbing=%D0%A1%D1%83%D0%B1%D1%82%D0%B8%D1%82%D1%80%D1%8B+SubVost",
     "date": 1794006483,
-    "durationSec": 0
+    "durationSec": 1491
   }
 ]

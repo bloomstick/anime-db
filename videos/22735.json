@@ -55174,7 +55174,7 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=9b17a12a903c39ebcfbcc103aca350&translation=103&season=1&episode=150&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1691932850,
-    "durationSec": 0,
+    "durationSec": 1416,
     "translationId": 103
   },
   {
@@ -55183,7 +55183,7 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=9b17a12a903c39ebcfbcc103aca350&translation=103&season=1&episode=151&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1691932850,
-    "durationSec": 0,
+    "durationSec": 1416,
     "translationId": 103
   },
   {
@@ -60602,7 +60602,11 @@
     "iframeUrl": "https://alloha.yani.tv/?token_movie=9b17a12a903c39ebcfbcc103aca350&translation=103&season=1&episode=750&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1691932850,
     "durationSec": 1443,
-    "translationId": 103
+    "translationId": 103,
+    "openingTime": 0,
+    "openingLength": 114,
+    "endingTime": 1397,
+    "endingLength": 24
   },
   {
     "episode": 751,
@@ -60652,6 +60656,8 @@
     "date": 1691932850,
     "durationSec": 1444,
     "translationId": 103,
+    "openingTime": 15,
+    "openingLength": 44,
     "endingTime": 1398,
     "endingLength": 39
   },
@@ -62253,7 +62259,11 @@
     "iframeUrl": "https://alloha.yani.tv/?token_movie=9b17a12a903c39ebcfbcc103aca350&translation=103&season=1&episode=900&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1691932850,
     "durationSec": 1432,
-    "translationId": 103
+    "translationId": 103,
+    "openingTime": 0,
+    "openingLength": 134,
+    "endingTime": 1384,
+    "endingLength": 19
   },
   {
     "episode": 901,
@@ -94652,7 +94662,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/61369/8f191de360118dd309aba0aa884077c8/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1784302714,
-    "durationSec": 1500
+    "durationSec": 1500,
+    "endingTime": 1380,
+    "endingLength": 99
   },
   {
     "episode": 3,
