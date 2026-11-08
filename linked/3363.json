@@ -28,24 +28,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:13049",
-      "title": "Прощай, унылый учитель: Еженедельная критика унылого учителя",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:3949",
-      "title": "Прощай, унылый учитель 2: Спецвыпуск",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:2877",
       "title": "Прощай, унылый учитель &mdash; OVA",
       "detail": "",
@@ -395,6 +377,24 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:4607",
+      "title": "Прощай, унылый учитель: Покаяние — Спецвыпуск",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:23392",
+      "title": "Прощай, унылый учитель: Покаяние — Омакэ",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
@@ -423,20 +423,20 @@
       "score": 1.1959108685464241
     },
     {
+      "id": 6077,
+      "score": 1.1950890203881586
+    },
+    {
+      "id": 6365,
+      "score": 1.191576871078007
+    },
+    {
       "id": 4055,
       "score": 1.1898666497991406
     },
     {
-      "id": 2801,
-      "score": 1.183460219126711
-    },
-    {
       "id": 4899,
       "score": 1.0990415391861643
-    },
-    {
-      "id": 13,
-      "score": 1.0985828113434994
     }
   ]
 }

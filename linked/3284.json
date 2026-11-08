@@ -1321,7 +1321,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "https://simkl.com/anime/39564",
@@ -1361,6 +1362,10 @@
       "score": 1.115230550953397
     },
     {
+      "id": 12321,
+      "score": 1.0769680747245114
+    },
+    {
       "id": 1102,
       "score": 1.076375342902525
     },
@@ -1387,10 +1392,6 @@
     {
       "id": 1094,
       "score": 1.0731712820333006
-    },
-    {
-      "id": 1101,
-      "score": 1.0731595571498715
     }
   ]
 }

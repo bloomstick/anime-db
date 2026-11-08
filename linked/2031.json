@@ -10,15 +10,6 @@
       "isCurrent": true
     },
     {
-      "slug": "dream:4570",
-      "title": "Могучий Атом: Герой космоса",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:2197",
       "title": "Могучий Атом (1980)",
       "detail": "",
@@ -28,26 +19,8 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:5846",
-      "title": "Могучий Атом: Конец света",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "yummy:moguchiy-atom-sinsengumi",
       "title": "Могучий Атом: Синсэнгуми",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:762",
-      "title": "Могучий Атом (2003)",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -1225,33 +1198,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:5845",
-      "title": "https://myanimelist.net/anime/17959",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:5847",
-      "title": "https://myanimelist.net/anime/17963",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:16653",
-      "title": "https://myanimelist.net/anime/48850",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/1100043",
       "title": "https://simkl.com/anime/1100043",
       "detail": "",
@@ -1695,10 +1641,6 @@
   ],
   "similar": [
     {
-      "id": 840,
-      "score": 1.1813909923383892
-    },
-    {
       "id": 338,
       "score": 1.1739687912388916
     },
@@ -1711,28 +1653,32 @@
       "score": 1.1275538424243314
     },
     {
-      "id": 1674,
-      "score": 1.1186950906036832
-    },
-    {
       "id": 1364,
       "score": 1.1184041202606547
     },
     {
-      "id": 2834,
-      "score": 1.1156773569730314
-    },
-    {
-      "id": 1706,
-      "score": 1.11423517140061
-    },
-    {
-      "id": 1285,
-      "score": 1.1130886807673925
-    },
-    {
       "id": 725,
       "score": 1.0800158880468156
+    },
+    {
+      "id": 729,
+      "score": 1.074691816989209
+    },
+    {
+      "id": 22754,
+      "score": 1.069106797138331
+    },
+    {
+      "id": 1133,
+      "score": 1.06523513763167
+    },
+    {
+      "id": 2778,
+      "score": 1.0643803528118951
+    },
+    {
+      "id": 8996,
+      "score": 1.0640948570722717
     }
   ]
 }

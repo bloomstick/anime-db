@@ -271,24 +271,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:9696",
-      "title": "https://myanimelist.net/anime/34647",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:11307",
-      "title": "https://myanimelist.net/anime/38154",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/523964",
       "title": "https://simkl.com/anime/523964",
       "detail": "",
@@ -313,12 +295,20 @@
       "score": 1.1952579629614921
     },
     {
+      "id": 8175,
+      "score": 1.058427508728243
+    },
+    {
       "id": 3779,
       "score": 1.0570440322246246
     },
     {
       "id": 650,
       "score": 1.0465512259415841
+    },
+    {
+      "id": 9658,
+      "score": 1.0460586690060414
     },
     {
       "id": 851,
@@ -339,14 +329,6 @@
     {
       "id": 3752,
       "score": 0.9967391766570199
-    },
-    {
-      "id": 1226,
-      "score": 0.9965748110836165
-    },
-    {
-      "id": 6501,
-      "score": 0.9959704793236929
     }
   ]
 }

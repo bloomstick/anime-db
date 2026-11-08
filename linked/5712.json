@@ -847,33 +847,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:23384",
-      "title": "https://myanimelist.net/anime/12863",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:23481",
-      "title": "https://myanimelist.net/anime/21707",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:6521",
-      "title": "https://myanimelist.net/anime/22215",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:8581",
       "title": "https://myanimelist.net/anime/31762",
       "detail": "",
@@ -998,13 +971,36 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:6710",
+      "title": "При Пара",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:12016",
+      "title": "Король Призмы: Семь сияющих звёзд",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:23642",
+      "title": "Король призмы: Гордость героя",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
-    {
-      "id": 6521,
-      "score": 1.1979818474236956
-    },
     {
       "id": 4543,
       "score": 1.1942593609389958
@@ -1014,32 +1010,36 @@
       "score": 1.1916982318892129
     },
     {
+      "id": 23910,
+      "score": 1.1776838534209526
+    },
+    {
       "id": 7302,
       "score": 1.0548641035966826
     },
     {
-      "id": 16919,
-      "score": 0.9929060090446724
+      "id": 13414,
+      "score": 0.9991316858992165
     },
     {
-      "id": 5790,
-      "score": 0.9898
+      "id": 12882,
+      "score": 0.9962745430506452
     },
     {
-      "id": 12421,
-      "score": 0.9876214150456283
+      "id": 7367,
+      "score": 0.9942162167014239
     },
     {
-      "id": 5860,
-      "score": 0.9868305404095054
+      "id": 6712,
+      "score": 0.9938461538461538
     },
     {
-      "id": 12298,
-      "score": 0.9860771436358546
+      "id": 13640,
+      "score": 0.993698231897213
     },
     {
-      "id": 13734,
-      "score": 0.9847111165328598
+      "id": 9237,
+      "score": 0.9928628722423809
     }
   ]
 }

@@ -64,15 +64,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:19427",
-      "title": "https://myanimelist.net/anime/56717",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/2332366",
       "title": "https://simkl.com/anime/2332366",
       "detail": "",
@@ -83,10 +74,6 @@
     }
   ],
   "similar": [
-    {
-      "id": 19427,
-      "score": 1.2134232677366175
-    },
     {
       "id": 18877,
       "score": 1.2049305435059297
@@ -120,8 +107,12 @@
       "score": 1.1985283164761578
     },
     {
-      "id": 14599,
-      "score": 1.1981116143207489
+      "id": 18502,
+      "score": 1.197697697810302
+    },
+    {
+      "id": 19426,
+      "score": 1.197695113148451
     }
   ]
 }

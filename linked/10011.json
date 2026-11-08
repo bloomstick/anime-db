@@ -361,24 +361,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:9348",
-      "title": "https://myanimelist.net/anime/33845",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:23731",
-      "title": "https://myanimelist.net/anime/37859",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "anidb:10415",
       "title": "https://anidb.net/anime/10415",
       "detail": "",
@@ -597,10 +579,6 @@
   ],
   "similar": [
     {
-      "id": 9348,
-      "score": 1.222714904697523
-    },
-    {
       "id": 11679,
       "score": 1.2093614433950568
     },
@@ -617,10 +595,6 @@
       "score": 1.1993055842165334
     },
     {
-      "id": 6025,
-      "score": 1.1154553216565426
-    },
-    {
       "id": 8090,
       "score": 1.0732275457647862
     },
@@ -635,6 +609,14 @@
     {
       "id": 14632,
       "score": 1.0614382593066902
+    },
+    {
+      "id": 1850,
+      "score": 1.0590507116200985
+    },
+    {
+      "id": 1849,
+      "score": 1.0578091319932823
     }
   ]
 }

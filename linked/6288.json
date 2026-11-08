@@ -44,22 +44,9 @@
       "relation": "",
       "year": "",
       "isCurrent": false
-    },
-    {
-      "slug": "dream:7133",
-      "title": "https://myanimelist.net/anime/25647",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
     }
   ],
   "similar": [
-    {
-      "id": 2016,
-      "score": 1.1780599246560994
-    },
     {
       "id": 39,
       "score": 1.0625195690081841
@@ -95,6 +82,10 @@
     {
       "id": 6820,
       "score": 1.0292658581005891
+    },
+    {
+      "id": 710,
+      "score": 1.0277093951748824
     }
   ]
 }

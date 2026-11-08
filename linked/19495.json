@@ -100,15 +100,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:19789",
-      "title": "Шальная мечта! Это MyGO! &mdash; Фильм",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:19495",
       "title": "MyGO! Повседневная жизнь участниц",
       "detail": "",
@@ -197,28 +188,30 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:11980",
+      "title": "Ура мечте! Лайв",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:12631",
+      "title": "Ура мечте! Лайв 2",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
     {
-      "id": 8850,
-      "score": 1.1932914167028001
-    },
-    {
-      "id": 7454,
-      "score": 1.192573517479893
-    },
-    {
-      "id": 19053,
-      "score": 1.1923411102309456
-    },
-    {
       "id": 2421,
       "score": 1.1912091503352704
-    },
-    {
-      "id": 5310,
-      "score": 1.190924989399469
     },
     {
       "id": 19044,
@@ -239,6 +232,22 @@
     {
       "id": 10774,
       "score": 1.0388380674940905
+    },
+    {
+      "id": 11115,
+      "score": 1.038076953574023
+    },
+    {
+      "id": 10031,
+      "score": 1.037619424916902
+    },
+    {
+      "id": 18947,
+      "score": 0.9303763402854252
+    },
+    {
+      "id": 17373,
+      "score": 0.92791824241868
     }
   ]
 }

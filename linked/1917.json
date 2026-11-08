@@ -404,15 +404,6 @@
       "relation": "",
       "year": "",
       "isCurrent": false
-    },
-    {
-      "slug": "dream:6823",
-      "title": "https://myanimelist.net/anime/23697",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
     }
   ],
   "similar": [
@@ -433,6 +424,10 @@
       "score": 0.9113450586907801
     },
     {
+      "id": 7604,
+      "score": 0.890176112735287
+    },
+    {
       "id": 1516,
       "score": 0.8777621931870975
     },
@@ -451,10 +446,6 @@
     {
       "id": 2985,
       "score": 0.5453529795612481
-    },
-    {
-      "id": 2519,
-      "score": 0.5438288168218612
     }
   ]
 }

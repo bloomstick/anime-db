@@ -62,9 +62,49 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:10662",
+      "title": "Звёздные войны: Последние джедаи",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:16821",
+      "title": "Звёздные войны: Видения",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:20812",
+      "title": "Звёздные войны: Видения 3",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:21367",
+      "title": "Звёздные войны: Видения представляют — Девятый джедай",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
+    {
+      "id": 1834,
+      "score": 0.9948686875796611
+    },
     {
       "id": 961,
       "score": 0.9947687277132222
@@ -94,16 +134,12 @@
       "score": 0.5939999999960001
     },
     {
+      "id": 1818,
+      "score": 0.5902710453683906
+    },
+    {
       "id": 1058,
       "score": 0.5674700949529454
-    },
-    {
-      "id": 509,
-      "score": 0.39948839429301475
-    },
-    {
-      "id": 1054,
-      "score": 0.39691158485679356
     }
   ]
 }

@@ -127,15 +127,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:18844",
-      "title": "https://myanimelist.net/anime/55043",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/1185563",
       "title": "https://simkl.com/anime/1185563",
       "detail": "",
@@ -146,6 +137,14 @@
     }
   ],
   "similar": [
+    {
+      "id": 9652,
+      "score": 1.1171404871138957
+    },
+    {
+      "id": 8354,
+      "score": 1.098140551336675
+    },
     {
       "id": 6010,
       "score": 1.0938357214785166
@@ -163,10 +162,6 @@
       "score": 1.0573431427464324
     },
     {
-      "id": 325,
-      "score": 1.0511230775290343
-    },
-    {
       "id": 2817,
       "score": 1.0505579831178502
     },
@@ -181,10 +176,6 @@
     {
       "id": 5295,
       "score": 1.0368246473194889
-    },
-    {
-      "id": 42,
-      "score": 1.035615848576894
     }
   ]
 }

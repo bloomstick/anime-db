@@ -1,15 +1,6 @@
 {
   "links": [
     {
-      "slug": "dream:6004",
-      "title": "Привет, Китти: Спящая принцесса",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:6565",
       "title": "Привет, Китти: Биг-Бен остановился",
       "detail": "",
@@ -46,26 +37,8 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:6557",
-      "title": "Привет, Китти: Момотаро",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:6570",
       "title": "Привет, Китти: Девочка со спичками",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:8018",
-      "title": "Привет, Китти: Золушка &mdash; OVA",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -253,51 +226,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:5843",
-      "title": "https://myanimelist.net/anime/17955",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:5963",
-      "title": "https://myanimelist.net/anime/18587",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:6563",
-      "title": "https://myanimelist.net/anime/22461",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:6882",
-      "title": "https://myanimelist.net/anime/23915",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:2621",
-      "title": "https://myanimelist.net/anime/4023",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/1572245",
       "title": "https://simkl.com/anime/1572245",
       "detail": "",
@@ -314,48 +242,66 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:1842",
+      "title": "Пожалуйста, Моя Мелодия",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:2664",
+      "title": "Пожалуйста, Моя Мелодия 2",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
-    {
-      "id": 5963,
-      "score": 1.2085435559466537
-    },
-    {
-      "id": 5842,
-      "score": 1.1978404152023425
-    },
-    {
-      "id": 5964,
-      "score": 1.1952967975673547
-    },
-    {
-      "id": 6002,
-      "score": 1.1941737833734831
-    },
-    {
-      "id": 6005,
-      "score": 1.1940546874809432
-    },
-    {
-      "id": 5863,
-      "score": 1.1939967975673547
-    },
-    {
-      "id": 4120,
-      "score": 1.1921626722623722
-    },
     {
       "id": 4397,
       "score": 1.1910716498567777
     },
     {
-      "id": 5851,
-      "score": 1.1885118303380862
+      "id": 4855,
+      "score": 1.1854370777737617
     },
     {
-      "id": 6107,
-      "score": 1.187858083369467
+      "id": 5862,
+      "score": 1.0145660477054457
+    },
+    {
+      "id": 6565,
+      "score": 1.0133647647323463
+    },
+    {
+      "id": 5420,
+      "score": 1.0100441785508545
+    },
+    {
+      "id": 6570,
+      "score": 1.0092595778181404
+    },
+    {
+      "id": 8112,
+      "score": 1.002045454545455
+    },
+    {
+      "id": 8185,
+      "score": 0.9856638737347831
+    },
+    {
+      "id": 2417,
+      "score": 0.9808333333333334
+    },
+    {
+      "id": 5989,
+      "score": 0.9782335520046339
     }
   ]
 }

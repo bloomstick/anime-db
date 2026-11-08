@@ -1,13 +1,55 @@
 {
-  "links": [],
+  "links": [
+    {
+      "slug": "dream:1603",
+      "title": "Поцелуй в глазик",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:1604",
+      "title": "Популярный парень",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:1612",
+      "title": "Одиночки",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:3065",
+      "title": "Отличница",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:5276",
+      "title": "Эдо никогда не спит!",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    }
+  ],
   "similar": [
     {
       "id": 1612,
       "score": 1.198103140741916
-    },
-    {
-      "id": 4191,
-      "score": 1.1973357135866902
     },
     {
       "id": 637,
@@ -30,16 +72,20 @@
       "score": 1.1818617854847717
     },
     {
-      "id": 4078,
-      "score": 1.1705586582358678
-    },
-    {
       "id": 1604,
       "score": 1.0696768819003195
     },
     {
       "id": 1603,
       "score": 1.0675475851870748
+    },
+    {
+      "id": 6110,
+      "score": 1.0657269334980493
+    },
+    {
+      "id": 4032,
+      "score": 1.0619428585289745
     }
   ]
 }

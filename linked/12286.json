@@ -10,24 +10,6 @@
       "isCurrent": true
     },
     {
-      "slug": "dream:18527",
-      "title": "Легенда о Тибе",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:21809",
-      "title": "Chou Futsuu Mahou Shoujo Asumi Toruverse",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "anidb:18423",
       "title": "https://anidb.net/anime/18423",
       "detail": "",
@@ -179,15 +161,6 @@
       "relation": "",
       "year": "",
       "isCurrent": false
-    },
-    {
-      "slug": "dream:23825",
-      "title": "https://myanimelist.net/anime/42055",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
     }
   ],
   "similar": [
@@ -216,20 +189,20 @@
       "score": 0.5903580555067602
     },
     {
+      "id": 2143,
+      "score": 0.5898960340900921
+    },
+    {
+      "id": 2142,
+      "score": 0.5888958333326669
+    },
+    {
+      "id": 2664,
+      "score": 0.5880328123624567
+    },
+    {
       "id": 1242,
       "score": 0.5872330555036351
-    },
-    {
-      "id": 1072,
-      "score": 0.5853905395815207
-    },
-    {
-      "id": 1440,
-      "score": 0.5853242270505932
-    },
-    {
-      "id": 1805,
-      "score": 0.5840149552195997
     }
   ]
 }

@@ -478,15 +478,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:5829",
-      "title": "Покемон: Наилучших благ! 2 &mdash; Приключения на островах Деколора",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:6034",
       "title": "Покемон: Мьюту. Пролог к пробуждению",
       "detail": "",
@@ -543,15 +534,6 @@
     {
       "slug": "dream:6745",
       "title": "Покемон XY: Мега-эволюция",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:6068",
-      "title": "Покемон: Приключения в Калосе",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -2953,15 +2935,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:18173",
-      "title": "https://myanimelist.net/anime/53327",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:19182",
       "title": "https://myanimelist.net/anime/56218",
       "detail": "",
@@ -2982,24 +2955,6 @@
     {
       "slug": "mal:57199",
       "title": "https://myanimelist.net/anime/57199",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:19715",
-      "title": "https://myanimelist.net/anime/57488",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:21045",
-      "title": "https://myanimelist.net/anime/60799",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -3833,12 +3788,82 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:12788",
+      "title": "Покетун",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:13298",
+      "title": "Сумеречные крылья: Фестиваль звёзд",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:18361",
+      "title": "Покемон: Далёкое синее небо",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:18679",
+      "title": "Покемон: Консьерж",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:19539",
+      "title": "Детектив Пикачу: Великолепная утренняя рутина",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:22652",
+      "title": "Покемон: Дикая карта",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
     {
+      "id": 8504,
+      "score": 1.1691394781490643
+    },
+    {
+      "id": 12235,
+      "score": 1.1681664023989051
+    },
+    {
       "id": 1205,
       "score": 1.161333658964721
+    },
+    {
+      "id": 5269,
+      "score": 1.1588970114639021
+    },
+    {
+      "id": 4165,
+      "score": 1.1580820936685023
     },
     {
       "id": 1206,
@@ -3849,32 +3874,16 @@
       "score": 1.1506343226485298
     },
     {
+      "id": 18362,
+      "score": 1.1503144281957933
+    },
+    {
       "id": 1031,
       "score": 1.142584742497989
     },
     {
       "id": 435,
       "score": 1.1408435587428511
-    },
-    {
-      "id": 1139,
-      "score": 1.0624823534609606
-    },
-    {
-      "id": 1039,
-      "score": 1.0610624293147852
-    },
-    {
-      "id": 1227,
-      "score": 1.0579990872361467
-    },
-    {
-      "id": 803,
-      "score": 1.0141053292559705
-    },
-    {
-      "id": 586,
-      "score": 1.012849368700607
     }
   ]
 }

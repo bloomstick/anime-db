@@ -100,15 +100,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:22347",
-      "title": "Звучи, эуфониум! Финал | Часть 2",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "anidb:10889",
       "title": "https://anidb.net/anime/10889",
       "detail": "",
@@ -514,15 +505,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:11013",
-      "title": "https://myanimelist.net/anime/37577",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/1104067",
       "title": "https://simkl.com/anime/1104067",
       "detail": "",
@@ -615,8 +597,20 @@
   ],
   "similar": [
     {
+      "id": 17670,
+      "score": 1.205485364151301
+    },
+    {
       "id": 10248,
       "score": 1.2044895812996148
+    },
+    {
+      "id": 22949,
+      "score": 1.1014756809079056
+    },
+    {
+      "id": 13008,
+      "score": 1.094848534720029
     },
     {
       "id": 8649,
@@ -627,14 +621,6 @@
       "score": 1.0653212268034682
     },
     {
-      "id": 12351,
-      "score": 1.063791410071529
-    },
-    {
-      "id": 7583,
-      "score": 1.0621194002068115
-    },
-    {
       "id": 8093,
       "score": 1.0568344607211224
     },
@@ -643,16 +629,12 @@
       "score": 1.0500289676585566
     },
     {
-      "id": 3342,
-      "score": 1.0422204134313633
-    },
-    {
-      "id": 12338,
-      "score": 1.0407380815984877
-    },
-    {
       "id": 7034,
       "score": 1.0032364304497914
+    },
+    {
+      "id": 10247,
+      "score": 1.0027574844261662
     }
   ]
 }

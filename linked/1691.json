@@ -19,33 +19,6 @@
       "isCurrent": true
     },
     {
-      "slug": "dream:3694",
-      "title": "Драгон Квест: Приключения Дая &mdash; Фильм",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:3695",
-      "title": "Драгон Квест: Приключения Дая &mdash; Ученик Абана",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:3683",
-      "title": "Драгон Квест: Приключения Дая &mdash; Возрождение шести полководцев",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:3720",
       "title": "Драгон Квест: Герб Рото",
       "detail": "",
@@ -66,15 +39,6 @@
     {
       "slug": "dream:12445",
       "title": "Драгон Квест: Приключения Дая (2020)",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:16774",
-      "title": "Драгон Квест: Приключения Дая &mdash; Тропа приключений, путь вперёд",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -525,10 +489,6 @@
   ],
   "similar": [
     {
-      "id": 10366,
-      "score": 1.039539703850812
-    },
-    {
       "id": 442,
       "score": 1.0215184604297882
     },
@@ -557,12 +517,16 @@
       "score": 1.0057142535345662
     },
     {
-      "id": 23163,
-      "score": 1.0020510813444614
-    },
-    {
       "id": 803,
       "score": 1.0008454290938578
+    },
+    {
+      "id": 555,
+      "score": 0.9867311262070679
+    },
+    {
+      "id": 713,
+      "score": 0.9852508804743145
     }
   ]
 }

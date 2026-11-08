@@ -55,15 +55,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:727",
-      "title": "Трансформеры: Энергон",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:728",
       "title": "Трансформеры: Кибертрон",
       "detail": "",
@@ -739,53 +730,8 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:6050",
-      "title": "https://myanimelist.net/anime/19171",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:12024",
-      "title": "https://myanimelist.net/anime/39711",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:3024",
       "title": "https://myanimelist.net/anime/5289",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:18808",
-      "title": "https://myanimelist.net/anime/54922",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:21270",
-      "title": "https://myanimelist.net/anime/61258",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:3403",
-      "title": "https://myanimelist.net/anime/6511",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -935,6 +881,15 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:3503",
+      "title": "Трансформеры: Схватка в городе",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
@@ -947,12 +902,24 @@
       "score": 1.198175807279057
     },
     {
+      "id": 9596,
+      "score": 1.1973204037842395
+    },
+    {
+      "id": 19172,
+      "score": 1.1971521195762784
+    },
+    {
       "id": 1864,
       "score": 1.197020685335099
     },
     {
       "id": 1409,
       "score": 1.1959209649923905
+    },
+    {
+      "id": 17279,
+      "score": 1.1954536269960978
     },
     {
       "id": 1708,
@@ -963,20 +930,8 @@
       "score": 1.1928914679481333
     },
     {
-      "id": 1770,
-      "score": 1.1913275945704096
-    },
-    {
-      "id": 4356,
-      "score": 1.1904444143097044
-    },
-    {
-      "id": 3037,
-      "score": 1.1899969367944234
-    },
-    {
-      "id": 2334,
-      "score": 1.1894638221323905
+      "id": 8963,
+      "score": 1.1921194249122355
     }
   ]
 }

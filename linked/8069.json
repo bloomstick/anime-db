@@ -88,13 +88,18 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     }
   ],
   "similar": [
     {
       "id": 156,
       "score": 1.1964707796498883
+    },
+    {
+      "id": 6450,
+      "score": 1.193649439613269
     },
     {
       "id": 437,
@@ -127,10 +132,6 @@
     {
       "id": 4589,
       "score": 1.0367895362239117
-    },
-    {
-      "id": 418,
-      "score": 1.0353591993465636
     }
   ]
 }

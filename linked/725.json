@@ -55,15 +55,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:727",
-      "title": "Трансформеры: Энергон",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:728",
       "title": "Трансформеры: Кибертрон",
       "detail": "",
@@ -721,53 +712,8 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:6050",
-      "title": "https://myanimelist.net/anime/19171",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:7489",
-      "title": "https://myanimelist.net/anime/28401",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:12024",
-      "title": "https://myanimelist.net/anime/39711",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:18808",
-      "title": "https://myanimelist.net/anime/54922",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "mal:59807",
       "title": "https://myanimelist.net/anime/59807",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:21270",
-      "title": "https://myanimelist.net/anime/61258",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -926,48 +872,57 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:3024",
+      "title": "Трансформеры. Битвы зверей 2: Лио Конвой в неизбежной опасности!",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
     {
-      "id": 1132,
-      "score": 1.2006113925359188
-    },
-    {
-      "id": 2446,
-      "score": 1.196274107308881
-    },
-    {
       "id": 22951,
       "score": 1.1399603695428229
-    },
-    {
-      "id": 3403,
-      "score": 1.1370577963866888
-    },
-    {
-      "id": 23087,
-      "score": 1.1323163372461624
-    },
-    {
-      "id": 4529,
-      "score": 1.1316233220592316
     },
     {
       "id": 23099,
       "score": 1.1311276490498057
     },
     {
+      "id": 2197,
+      "score": 1.1288849356679465
+    },
+    {
       "id": 2200,
       "score": 1.1284522937820092
     },
     {
-      "id": 2609,
-      "score": 1.1251370082065433
+      "id": 146,
+      "score": 1.1239934193259056
     },
     {
-      "id": 975,
-      "score": 1.1249945319593595
+      "id": 22936,
+      "score": 1.1236609046476966
+    },
+    {
+      "id": 1364,
+      "score": 1.1224026922858361
+    },
+    {
+      "id": 1769,
+      "score": 1.1198088920532863
+    },
+    {
+      "id": 932,
+      "score": 1.0802749675502339
+    },
+    {
+      "id": 2031,
+      "score": 1.0800158880468156
     }
   ]
 }

@@ -550,15 +550,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:1826",
-      "title": "https://myanimelist.net/anime/2466",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/36084",
       "title": "https://simkl.com/anime/36084",
       "detail": "",
@@ -782,6 +773,15 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:3350",
+      "title": "Десять маленьких девичьих сил",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
@@ -810,10 +810,6 @@
       "score": 1.1878782664135903
     },
     {
-      "id": 4333,
-      "score": 1.1864573432136885
-    },
-    {
       "id": 4100,
       "score": 1.1829837287834617
     },
@@ -822,8 +818,12 @@
       "score": 1.1373063859281785
     },
     {
-      "id": 5784,
-      "score": 1.117426444916036
+      "id": 1816,
+      "score": 1.1157938720815
+    },
+    {
+      "id": 3937,
+      "score": 1.1134981828444497
     }
   ]
 }

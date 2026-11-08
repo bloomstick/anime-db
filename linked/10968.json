@@ -152,16 +152,66 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:2912",
+      "title": "Вершина хаоса",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:5208",
+      "title": "Записки о робототехнике",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:8119",
+      "title": "Дитя хаоса",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:8964",
+      "title": "Оккультная девятка",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:9757",
+      "title": "Дитя хаоса: Эпизод 0",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:10080",
+      "title": "Дитя хаоса: Безмолвное небо — Фильм",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
     {
       "id": 801,
       "score": 1.1937805606298448
-    },
-    {
-      "id": 552,
-      "score": 1.1864005440476308
     },
     {
       "id": 837,
@@ -176,24 +226,28 @@
       "score": 0.9942761286831574
     },
     {
-      "id": 541,
-      "score": 0.9850528196540527
-    },
-    {
-      "id": 572,
-      "score": 0.9751944013567665
+      "id": 1331,
+      "score": 0.9736448734183761
     },
     {
       "id": 599,
       "score": 0.926716792888872
     },
     {
-      "id": 974,
-      "score": 0.9133552170656728
-    },
-    {
       "id": 1147,
       "score": 0.9114360966609978
+    },
+    {
+      "id": 1040,
+      "score": 0.9104953733426999
+    },
+    {
+      "id": 152,
+      "score": 0.9095607742628865
+    },
+    {
+      "id": 800,
+      "score": 0.895709351222559
     }
   ]
 }

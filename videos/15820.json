@@ -5427,7 +5427,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniStar&anime_id=47405&episode=197&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniStar",
     "date": 1751849653,
-    "durationSec": 1296
+    "durationSec": 1296,
+    "openingTime": 0,
+    "openingLength": 114,
+    "endingTime": 1089,
+    "endingLength": 19
   },
   {
     "episode": 198,
@@ -5455,7 +5459,9 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniStar&anime_id=47405&episode=200&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniStar",
     "date": 1751849653,
-    "durationSec": 1305
+    "durationSec": 1305,
+    "endingTime": 1099,
+    "endingLength": 24
   },
   {
     "episode": 201,
@@ -5465,7 +5471,9 @@
     "date": 1751849653,
     "durationSec": 1340,
     "openingTime": 0,
-    "openingLength": 129
+    "openingLength": 129,
+    "endingTime": 1134,
+    "endingLength": 14
   },
   {
     "episode": 202,
@@ -17014,7 +17022,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/107924/45485e1a6350ef4094ac304a171c5a4b/720p?translations=false&only_episode=true&only_season=true&episode=183",
     "date": 1787491183,
-    "durationSec": 1192
+    "durationSec": 1192,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1037,
+    "endingLength": 14
   },
   {
     "episode": 184,
@@ -17090,7 +17102,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/107924/45485e1a6350ef4094ac304a171c5a4b/720p?translations=false&only_episode=true&only_season=true&episode=192",
     "date": 1787493121,
-    "durationSec": 1231
+    "durationSec": 1231,
+    "endingTime": 1077,
+    "endingLength": 19
   },
   {
     "episode": 193,

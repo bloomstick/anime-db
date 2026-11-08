@@ -100,26 +100,8 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:10890",
-      "title": "https://myanimelist.net/anime/37311",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "mal:39415",
       "title": "https://myanimelist.net/anime/39415",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:11890",
-      "title": "https://myanimelist.net/anime/39416",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -137,10 +119,6 @@
     }
   ],
   "similar": [
-    {
-      "id": 1289,
-      "score": 1.0632224689404748
-    },
     {
       "id": 34,
       "score": 1.058679313090141
@@ -176,6 +154,10 @@
     {
       "id": 282,
       "score": 0.9557909007745709
+    },
+    {
+      "id": 895,
+      "score": 0.9536121297768145
     }
   ]
 }

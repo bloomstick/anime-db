@@ -1,17 +1,55 @@
 {
-  "links": [],
-  "similar": [
+  "links": [
     {
-      "id": 6894,
-      "score": 1.0921418887644099
+      "slug": "dream:1602",
+      "title": "Клёвый мальчик",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     },
+    {
+      "slug": "dream:1603",
+      "title": "Поцелуй в глазик",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:1604",
+      "title": "Популярный парень",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:1612",
+      "title": "Одиночки",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:3065",
+      "title": "Отличница",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    }
+  ],
+  "similar": [
     {
       "id": 1478,
       "score": 1.0370692955491672
-    },
-    {
-      "id": 23346,
-      "score": 1.031263413195932
     },
     {
       "id": 6348,
@@ -20,10 +58,6 @@
     {
       "id": 311,
       "score": 1.0215203753458104
-    },
-    {
-      "id": 5691,
-      "score": 1.0194655712442167
     },
     {
       "id": 8456,
@@ -38,8 +72,20 @@
       "score": 0.9974761032148374
     },
     {
-      "id": 10228,
-      "score": 0.9961017324814736
+      "id": 2169,
+      "score": 0.9966716720182743
+    },
+    {
+      "id": 5088,
+      "score": 0.9952480107332764
+    },
+    {
+      "id": 98,
+      "score": 0.9940145647540679
+    },
+    {
+      "id": 1572,
+      "score": 0.9935452313770408
     }
   ]
 }

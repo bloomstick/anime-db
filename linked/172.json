@@ -91,15 +91,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:171",
-      "title": "https://myanimelist.net/anime/215",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/37737",
       "title": "https://simkl.com/anime/37737",
       "detail": "",
@@ -119,6 +110,10 @@
     }
   ],
   "similar": [
+    {
+      "id": 3751,
+      "score": 1.0701909202705475
+    },
     {
       "id": 1195,
       "score": 1.0565818376244547
@@ -152,12 +147,8 @@
       "score": 0.9387633465227783
     },
     {
-      "id": 2703,
-      "score": 0.9338431757172905
-    },
-    {
-      "id": 485,
-      "score": 0.9222561963831499
+      "id": 3399,
+      "score": 0.9244313147704182
     }
   ]
 }

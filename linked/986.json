@@ -154,15 +154,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:2342",
-      "title": "https://myanimelist.net/anime/3381",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/39491",
       "title": "https://simkl.com/anime/39491",
       "detail": "",
@@ -174,10 +165,6 @@
   ],
   "similar": [
     {
-      "id": 3822,
-      "score": 1.094690743450748
-    },
-    {
       "id": 1879,
       "score": 1.0373446281346843
     },
@@ -188,10 +175,6 @@
     {
       "id": 1008,
       "score": 1.0262067695967105
-    },
-    {
-      "id": 4496,
-      "score": 1.018290743450748
     },
     {
       "id": 3980,
@@ -210,8 +193,16 @@
       "score": 0.9957760887372029
     },
     {
-      "id": 750,
-      "score": 0.9955468664818619
+      "id": 6920,
+      "score": 0.9938305476591057
+    },
+    {
+      "id": 1360,
+      "score": 0.993218803662172
+    },
+    {
+      "id": 2597,
+      "score": 0.9917056497658179
     }
   ]
 }

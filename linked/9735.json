@@ -44,15 +44,6 @@
       "relation": "",
       "year": "",
       "isCurrent": false
-    },
-    {
-      "slug": "dream:23714",
-      "title": "https://myanimelist.net/anime/37272",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
     }
   ],
   "similar": [
@@ -63,6 +54,10 @@
     {
       "id": 122,
       "score": 1.0256770489181937
+    },
+    {
+      "id": 1194,
+      "score": 1.0174362825445975
     },
     {
       "id": 22790,
@@ -89,12 +84,8 @@
       "score": 0.9929862371957712
     },
     {
-      "id": 7963,
-      "score": 0.98945918327263
-    },
-    {
-      "id": 8360,
-      "score": 0.9881536913230207
+      "id": 4505,
+      "score": 0.9911300683888483
     }
   ]
 }

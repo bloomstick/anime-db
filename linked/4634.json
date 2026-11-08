@@ -145,33 +145,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:19091",
-      "title": "Дораэмон: Симфония Земли Нобиты &mdash; Фильм 43",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:20678",
-      "title": "Дораэмон: Истории о мире искусства Нобиты &mdash; Фильм 44",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:21800",
-      "title": "Дораэмон: Нобита и новый замок Дьявольской скалы &mdash; Фильм 45",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:22659",
       "title": "Дораэмон: Паровая машина времени Нобиты",
       "detail": "",
@@ -1729,15 +1702,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:1967",
-      "title": "https://myanimelist.net/anime/2665",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/1122139",
       "title": "https://simkl.com/anime/1122139",
       "detail": "",
@@ -2339,40 +2303,42 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:23966",
+      "title": "Патруль времени Бона",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:24001",
+      "title": "Патруль времени Бона 2",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
-    {
-      "id": 1967,
-      "score": 1.2015242108587045
-    },
-    {
-      "id": 3985,
-      "score": 1.1121335267844117
-    },
     {
       "id": 1731,
       "score": 1.036365858534539
     },
     {
-      "id": 4159,
-      "score": 1.0359982681181124
-    },
-    {
-      "id": 4162,
-      "score": 1.035354996568289
+      "id": 9080,
+      "score": 1.0177969523007941
     },
     {
       "id": 506,
       "score": 0.9598875646300661
     },
     {
-      "id": 4736,
-      "score": 0.9536908448462009
-    },
-    {
-      "id": 4089,
-      "score": 0.9517894850730293
+      "id": 22745,
+      "score": 0.9573903286974546
     },
     {
       "id": 1252,
@@ -2381,6 +2347,22 @@
     {
       "id": 1458,
       "score": 0.937603444405082
+    },
+    {
+      "id": 323,
+      "score": 0.9361987201468305
+    },
+    {
+      "id": 1087,
+      "score": 0.9350047513499598
+    },
+    {
+      "id": 2663,
+      "score": 0.9283966098986725
+    },
+    {
+      "id": 4903,
+      "score": 0.9261929596268523
     }
   ]
 }

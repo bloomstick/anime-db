@@ -100,15 +100,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:20714",
-      "title": "Хвост Феи: Столетний квест &mdash; Дневник Люси",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "anidb:11247",
       "title": "https://anidb.net/anime/11247",
       "detail": "",
@@ -772,7 +763,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "mal:39721",

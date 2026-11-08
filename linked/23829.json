@@ -226,15 +226,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:16930",
-      "title": "https://myanimelist.net/anime/49708",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/1572915",
       "title": "https://simkl.com/anime/1572915",
       "detail": "",
@@ -260,9 +251,22 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:17678",
+      "title": "Рука Бога Q",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
+    {
+      "id": 23915,
+      "score": 1.067188643963732
+    },
     {
       "id": 46,
       "score": 1.0601116716306223
@@ -288,20 +292,16 @@
       "score": 1.0216783627974033
     },
     {
+      "id": 1791,
+      "score": 1.0193852106696237
+    },
+    {
       "id": 6370,
       "score": 1.0166116834860048
     },
     {
       "id": 3301,
       "score": 1.014138894383203
-    },
-    {
-      "id": 5485,
-      "score": 0.9941481588524474
-    },
-    {
-      "id": 176,
-      "score": 0.9940895135196752
     }
   ]
 }

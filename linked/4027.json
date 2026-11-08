@@ -442,15 +442,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:2316",
-      "title": "https://myanimelist.net/anime/3312",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/1571893",
       "title": "https://simkl.com/anime/1571893",
       "detail": "",
@@ -566,9 +557,131 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:3253",
+      "title": "Доктор Сламп: Сокровище замка Нанаба",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:3635",
+      "title": "Доктор Сламп: Из Пингвиньего Городка С Любовью",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:3636",
+      "title": "Доктор Сламп (фильм #09)",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:3781",
+      "title": "Доктор Сламп: Привет, удивительный остров!",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:3782",
+      "title": "Доктор Сламп: Большая кругосветная гонка",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:3826",
+      "title": "Доктор Сламп: Ясное небо над деревней пингвинов",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:4024",
+      "title": "Доктор Сламп: Космические приключения",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:4025",
+      "title": "Доктор Сламп: Город мечты Мехаполис",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:4026",
+      "title": "Доктор Сламп: Следуй за спасённой акулой",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:22923",
+      "title": "Доктор Сламп",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
+    {
+      "id": 3636,
+      "score": 1.2105555555511112
+    },
+    {
+      "id": 3635,
+      "score": 1.2083559115022857
+    },
+    {
+      "id": 3782,
+      "score": 1.2070365856051848
+    },
+    {
+      "id": 3781,
+      "score": 1.2055555555511113
+    },
+    {
+      "id": 4025,
+      "score": 1.2021714445308866
+    },
+    {
+      "id": 3253,
+      "score": 1.1981159506794388
+    },
+    {
+      "id": 4026,
+      "score": 1.1973000393834607
+    },
+    {
+      "id": 3826,
+      "score": 1.1902555049689263
+    },
     {
       "id": 1806,
       "score": 1.0365064727555615
@@ -576,38 +689,6 @@
     {
       "id": 995,
       "score": 0.9980092943971384
-    },
-    {
-      "id": 993,
-      "score": 0.9950536627124958
-    },
-    {
-      "id": 991,
-      "score": 0.9888631865282103
-    },
-    {
-      "id": 703,
-      "score": 0.9836960145246537
-    },
-    {
-      "id": 702,
-      "score": 0.980205611385165
-    },
-    {
-      "id": 697,
-      "score": 0.9801953604805229
-    },
-    {
-      "id": 705,
-      "score": 0.9787779271969568
-    },
-    {
-      "id": 701,
-      "score": 0.9786131584597488
-    },
-    {
-      "id": 708,
-      "score": 0.9772211283929764
     }
   ]
 }

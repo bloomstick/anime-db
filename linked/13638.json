@@ -199,24 +199,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:13639",
-      "title": "https://myanimelist.net/anime/44079",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:13727",
-      "title": "https://myanimelist.net/anime/44228",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/1192427",
       "title": "https://simkl.com/anime/1192427",
       "detail": "",
@@ -264,16 +246,8 @@
   ],
   "similar": [
     {
-      "id": 13639,
-      "score": 1.229411268521688
-    },
-    {
       "id": 11891,
       "score": 1.2102587294575071
-    },
-    {
-      "id": 18146,
-      "score": 1.1860447198530815
     },
     {
       "id": 17127,
@@ -302,6 +276,14 @@
     {
       "id": 13947,
       "score": 1.0697573063147945
+    },
+    {
+      "id": 12553,
+      "score": 1.0686331803075602
+    },
+    {
+      "id": 17591,
+      "score": 1.0673794667073104
     }
   ]
 }

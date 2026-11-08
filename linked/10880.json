@@ -19,44 +19,8 @@
       "isCurrent": true
     },
     {
-      "slug": "dream:23925",
-      "title": "Боги и духи 2",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:19881",
       "title": "Боги и духи: Весенний фестиваль",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:21531",
-      "title": "Боги и духи 3",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:21672",
-      "title": "Боги и духи: Игрок с ограниченным временем",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:22273",
-      "title": "Боги и духи 3 | Часть 2",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -557,48 +521,75 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:12677",
+      "title": "Улица всех святых",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:12950",
+      "title": "Улица всех святых 2",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:18354",
+      "title": "Улица всех святых 4",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
+    {
+      "id": 9175,
+      "score": 1.1754913967905951
+    },
+    {
+      "id": 9137,
+      "score": 1.0631313733298406
+    },
+    {
+      "id": 9232,
+      "score": 1.0549691875917404
+    },
     {
       "id": 7622,
       "score": 0.9915383157526114
     },
     {
-      "id": 7485,
-      "score": 0.9907640077829014
+      "id": 9083,
+      "score": 0.9908598290123651
     },
     {
-      "id": 5584,
-      "score": 0.9733167192676158
+      "id": 8463,
+      "score": 0.9773630657854117
     },
     {
       "id": 2152,
       "score": 0.958427351056589
     },
     {
-      "id": 6676,
-      "score": 0.9551269157306533
-    },
-    {
       "id": 6092,
       "score": 0.9377284305027873
     },
     {
-      "id": 7032,
-      "score": 0.9295043613733858
+      "id": 8726,
+      "score": 0.9230395917132175
     },
     {
-      "id": 4328,
-      "score": 0.9285649253344744
-    },
-    {
-      "id": 7450,
-      "score": 0.8947796113372523
-    },
-    {
-      "id": 6861,
-      "score": 0.8930216765958088
+      "id": 8425,
+      "score": 0.9222408641772432
     }
   ]
 }

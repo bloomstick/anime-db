@@ -172,33 +172,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:10111",
-      "title": "https://myanimelist.net/anime/35379",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:11047",
-      "title": "https://myanimelist.net/anime/37661",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:22066",
-      "title": "https://myanimelist.net/anime/63093",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/1572941",
       "title": "https://simkl.com/anime/1572941",
       "detail": "",
@@ -278,48 +251,57 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:13722",
+      "title": "Глубокое море",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
     {
-      "id": 4386,
-      "score": 1.201572799047039
+      "id": 812,
+      "score": 1.16883800204625
     },
     {
-      "id": 5381,
-      "score": 1.1998441137469
+      "id": 4360,
+      "score": 0.9959861749958403
     },
     {
-      "id": 5380,
-      "score": 1.1976083619788982
+      "id": 5249,
+      "score": 0.9948337661537472
     },
     {
-      "id": 5753,
-      "score": 1.1945335267880117
+      "id": 2504,
+      "score": 0.9933452275401502
     },
     {
-      "id": 4253,
-      "score": 1.194012569398451
+      "id": 23034,
+      "score": 0.9932020755008927
     },
     {
-      "id": 5577,
-      "score": 1.1929777053388662
+      "id": 2144,
+      "score": 0.9902362886402327
     },
     {
-      "id": 4302,
-      "score": 1.1921663296005445
+      "id": 2488,
+      "score": 0.9896713338614278
     },
     {
-      "id": 6085,
-      "score": 1.191725943346278
+      "id": 8422,
+      "score": 0.9848417837326785
     },
     {
-      "id": 4213,
-      "score": 1.1911156275651047
+      "id": 2502,
+      "score": 0.9822091503322521
     },
     {
-      "id": 3617,
-      "score": 1.1906493066175887
+      "id": 1786,
+      "score": 0.9347287130864017
     }
   ]
 }

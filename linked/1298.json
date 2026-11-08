@@ -109,15 +109,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:21228",
-      "title": "Идолмастер: Концерт на миллион! &mdash; OVA",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:18731",
       "title": "Идолмастер: Блестящие цвета",
       "detail": "",
@@ -129,15 +120,6 @@
     {
       "slug": "dream:19954",
       "title": "Идолмастер: Блестящие цвета 2",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:20707",
-      "title": "Идолмастер: Блестящие цвета 2 &mdash; SHHis",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -1099,15 +1081,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:2351",
-      "title": "https://myanimelist.net/anime/3406",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/1204947",
       "title": "https://simkl.com/anime/1204947",
       "detail": "",
@@ -1349,24 +1322,30 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:5429",
+      "title": "Тиби-Идолмастер",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:12575",
+      "title": "Девушки-золушки: Экстра",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
     {
-      "id": 2351,
-      "score": 1.129236809478336
-    },
-    {
-      "id": 2331,
-      "score": 1.0972631226205685
-    },
-    {
-      "id": 1362,
-      "score": 1.0923855031510152
-    },
-    {
-      "id": 3047,
-      "score": 1.0913205412626237
+      "id": 6707,
+      "score": 1.0986443874066856
     },
     {
       "id": 1040,
@@ -1377,20 +1356,32 @@
       "score": 1.0896902341981773
     },
     {
-      "id": 4775,
-      "score": 1.0893279380572953
-    },
-    {
-      "id": 2373,
-      "score": 1.08818674594391
-    },
-    {
       "id": 4776,
       "score": 1.087660389008842
     },
     {
+      "id": 6951,
+      "score": 1.0862997331298032
+    },
+    {
       "id": 1812,
       "score": 1.0862438177351899
+    },
+    {
+      "id": 2794,
+      "score": 1.0846727724258654
+    },
+    {
+      "id": 6121,
+      "score": 1.0291918290642323
+    },
+    {
+      "id": 4549,
+      "score": 1.0284602425866176
+    },
+    {
+      "id": 2145,
+      "score": 1.0118888243206046
     }
   ]
 }

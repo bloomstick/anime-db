@@ -55,8 +55,8 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:19653",
-      "title": "https://myanimelist.net/anime/57314",
+      "slug": "mal:60681",
+      "title": "https://myanimelist.net/anime/60681",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -64,8 +64,17 @@
       "isCurrent": false
     },
     {
-      "slug": "mal:60681",
-      "title": "https://myanimelist.net/anime/60681",
+      "slug": "dream:18922",
+      "title": "Honkai: Star Rail — Вспышка",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:19329",
+      "title": "Honkai: Star Rail — Кровь двух драконов",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -75,44 +84,44 @@
   ],
   "similar": [
     {
-      "id": 20015,
-      "score": 0.7971220565484165
+      "id": 18922,
+      "score": 0.8016903267692482
     },
     {
-      "id": 23928,
-      "score": 0.795327998704676
+      "id": 19329,
+      "score": 0.7986778765300181
     },
     {
-      "id": 12657,
-      "score": 0.794958045531686
+      "id": 10521,
+      "score": 0.7970252558165334
     },
     {
-      "id": 23655,
-      "score": 0.7947613721444959
+      "id": 11497,
+      "score": 0.7968724868556849
     },
     {
-      "id": 22460,
-      "score": 0.7947056365786076
+      "id": 11167,
+      "score": 0.796801807663967
     },
     {
-      "id": 20961,
-      "score": 0.7946511331827195
+      "id": 11939,
+      "score": 0.7967594382702706
     },
     {
-      "id": 12949,
-      "score": 0.7945221379593184
+      "id": 11639,
+      "score": 0.7966328305998438
     },
     {
-      "id": 23893,
-      "score": 0.7939666549966287
+      "id": 7533,
+      "score": 0.7964078649200217
     },
     {
-      "id": 17036,
-      "score": 0.7939444785027373
+      "id": 13776,
+      "score": 0.7963942659372614
     },
     {
-      "id": 16972,
-      "score": 0.7939260537009812
+      "id": 12808,
+      "score": 0.7962624604739449
     }
   ]
 }

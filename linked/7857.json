@@ -1,15 +1,6 @@
 {
   "links": [
     {
-      "slug": "dream:4370",
-      "title": "Легенда о мечнике",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:7871",
       "title": "Легенда о мечнике: Пение птиц в долине пустоты",
       "detail": "",
@@ -415,24 +406,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:7873",
-      "title": "https://myanimelist.net/anime/29937",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:9114",
-      "title": "https://myanimelist.net/anime/33278",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/1162105",
       "title": "https://simkl.com/anime/1162105",
       "detail": "",
@@ -552,14 +525,6 @@
   ],
   "similar": [
     {
-      "id": 19811,
-      "score": 1.1501104643235145
-    },
-    {
-      "id": 10111,
-      "score": 1.1003073175498106
-    },
-    {
       "id": 4342,
       "score": 1.0509923015044236
     },
@@ -568,28 +533,36 @@
       "score": 1.0286270991893283
     },
     {
-      "id": 687,
-      "score": 1.0086701940253064
+      "id": 7918,
+      "score": 0.9862588415589473
     },
     {
-      "id": 18368,
-      "score": 0.9955160942995555
+      "id": 4684,
+      "score": 0.9848720157257973
     },
     {
-      "id": 12848,
-      "score": 0.9886396547118784
+      "id": 8799,
+      "score": 0.98013311486709
     },
     {
-      "id": 19851,
-      "score": 0.9883247500378001
+      "id": 7566,
+      "score": 0.9728491476748556
     },
     {
-      "id": 13396,
-      "score": 0.9879798109948149
+      "id": 22832,
+      "score": 0.9723368201313431
     },
     {
-      "id": 8266,
-      "score": 0.9872998584659953
+      "id": 2787,
+      "score": 0.9581374762794931
+    },
+    {
+      "id": 3085,
+      "score": 0.9570373556075847
+    },
+    {
+      "id": 19802,
+      "score": 0.9537166708196847
     }
   ]
 }

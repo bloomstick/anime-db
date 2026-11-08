@@ -910,15 +910,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:8789",
-      "title": "https://myanimelist.net/anime/32476",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "mal:32730",
       "title": "https://myanimelist.net/anime/32730",
       "detail": "",
@@ -1214,6 +1205,15 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:17754",
+      "title": "Йохане из паргелия: Солнечный свет в зеркале",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
@@ -1226,20 +1226,12 @@
       "score": 1.2017282108158598
     },
     {
-      "id": 9546,
-      "score": 1.1963899084168228
-    },
-    {
-      "id": 8627,
-      "score": 1.1956986303784807
+      "id": 19051,
+      "score": 1.1999276005142168
     },
     {
       "id": 8457,
       "score": 1.1901685665199064
-    },
-    {
-      "id": 12577,
-      "score": 1.0861379874280042
     },
     {
       "id": 8649,
@@ -1250,12 +1242,20 @@
       "score": 1.0658264038356848
     },
     {
-      "id": 12351,
-      "score": 1.0645235712273962
-    },
-    {
       "id": 12220,
       "score": 1.0607997931884388
+    },
+    {
+      "id": 9926,
+      "score": 1.0032364304497914
+    },
+    {
+      "id": 3840,
+      "score": 0.9969113709584589
+    },
+    {
+      "id": 17670,
+      "score": 0.9949839433766898
     }
   ]
 }

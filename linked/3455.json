@@ -89,27 +89,13 @@
       "relation": "",
       "year": "",
       "isCurrent": false
-    },
-    {
-      "slug": "dream:6275",
-      "title": "https://myanimelist.net/anime/20557",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:3801",
-      "title": "https://myanimelist.net/anime/7739",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
     }
   ],
   "similar": [
+    {
+      "id": 5122,
+      "score": 1.106262565534855
+    },
     {
       "id": 12681,
       "score": 1.1011795276523997
@@ -145,10 +131,6 @@
     {
       "id": 17124,
       "score": 1.0438069601801296
-    },
-    {
-      "id": 17695,
-      "score": 1.018045158844708
     }
   ]
 }

@@ -181,15 +181,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:21271",
-      "title": "https://myanimelist.net/anime/61260",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "anidb:19855",
       "title": "https://anidb.net/anime/19855",
       "detail": "",
@@ -219,20 +210,12 @@
   ],
   "similar": [
     {
-      "id": 21322,
-      "score": 0.7985901159868377
-    },
-    {
       "id": 7370,
       "score": 0.7985546815238096
     },
     {
       "id": 12479,
       "score": 0.7982416760371075
-    },
-    {
-      "id": 19618,
-      "score": 0.7981859939401488
     },
     {
       "id": 5806,
@@ -257,6 +240,14 @@
     {
       "id": 4569,
       "score": 0.79756943930783
+    },
+    {
+      "id": 11224,
+      "score": 0.7974801535847944
+    },
+    {
+      "id": 6788,
+      "score": 0.7974613838023614
     }
   ]
 }

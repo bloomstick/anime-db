@@ -215,15 +215,6 @@
       "relation": "",
       "year": "",
       "isCurrent": false
-    },
-    {
-      "slug": "dream:24031",
-      "title": "https://myanimelist.net/anime/63504",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
     }
   ],
   "similar": [
@@ -234,6 +225,10 @@
     {
       "id": 9598,
       "score": 0.9962067203004485
+    },
+    {
+      "id": 17510,
+      "score": 0.994006822951603
     },
     {
       "id": 987,
@@ -262,10 +257,6 @@
     {
       "id": 10292,
       "score": 0.9493213382064372
-    },
-    {
-      "id": 6376,
-      "score": 0.9462067203018278
     }
   ]
 }

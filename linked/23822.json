@@ -100,15 +100,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:19789",
-      "title": "Шальная мечта! Это MyGO! &mdash; Фильм",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:19495",
       "title": "MyGO! Повседневная жизнь участниц",
       "detail": "",
@@ -379,15 +370,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:12707",
-      "title": "https://myanimelist.net/anime/41780",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "anidb:11841",
       "title": "https://anidb.net/anime/11841",
       "detail": "",
@@ -548,13 +530,27 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:11980",
+      "title": "Ура мечте! Лайв",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:12631",
+      "title": "Ура мечте! Лайв 2",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
-    {
-      "id": 12707,
-      "score": 1.216111482374811
-    },
     {
       "id": 12708,
       "score": 1.2102784465667442
@@ -568,28 +564,32 @@
       "score": 1.2074587506987444
     },
     {
-      "id": 10653,
-      "score": 1.2022894943220037
+      "id": 12972,
+      "score": 1.197036129106742
     },
     {
-      "id": 5559,
-      "score": 1.1994079438365457
+      "id": 17136,
+      "score": 1.1921433165833182
     },
     {
-      "id": 8225,
-      "score": 1.1992079438365457
+      "id": 3448,
+      "score": 1.190397921462225
     },
     {
-      "id": 3126,
-      "score": 1.197195119600127
+      "id": 8581,
+      "score": 1.1862092070469605
     },
     {
-      "id": 11820,
-      "score": 1.1955844930539063
+      "id": 19841,
+      "score": 1.1820959456314002
     },
     {
-      "id": 11534,
-      "score": 1.1955031633798616
+      "id": 18496,
+      "score": 1.1724394964915965
+    },
+    {
+      "id": 10237,
+      "score": 0.9988316090825005
     }
   ]
 }

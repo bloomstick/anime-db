@@ -910,15 +910,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:6934",
-      "title": "https://myanimelist.net/anime/24347",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "mal:36913",
       "title": "https://myanimelist.net/anime/36913",
       "detail": "",
@@ -1079,12 +1070,56 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:5144",
+      "title": "Одиннадцать молний: Только вперёд! — Камень времени",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:23413",
+      "title": "Инадзума 11: Только вперёд! против Хроник карточных битв",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:23440",
+      "title": "Инадзума 11: Только вперёд! — Галактика",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:23646",
+      "title": "Одиннадцать молний: Внешний код",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
     {
       "id": 4620,
       "score": 0.995606147753583
+    },
+    {
+      "id": 5144,
+      "score": 0.9944351920721646
+    },
+    {
+      "id": 9290,
+      "score": 0.9796244522682163
     },
     {
       "id": 16902,
@@ -1113,14 +1148,6 @@
     {
       "id": 10979,
       "score": 0.9347051430414605
-    },
-    {
-      "id": 17047,
-      "score": 0.9345242580238423
-    },
-    {
-      "id": 758,
-      "score": 0.9331546747453028
     }
   ]
 }

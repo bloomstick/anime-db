@@ -55,24 +55,6 @@
       "isCurrent": true
     },
     {
-      "slug": "dream:23876",
-      "title": "Осомацу-сан. Фильм 3",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:19343",
-      "title": "Мацуину",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:20223",
       "title": "Осомацу-сан 4",
       "detail": "",
@@ -449,6 +431,33 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:11048",
+      "title": "Ночной эфир! Гениальный Бакабон",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:12490",
+      "title": "Осомацу-сан. Фильм: Пролог",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:16529",
+      "title": "Чокомацу-сан: Белый день",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
@@ -457,20 +466,12 @@
       "score": 1.0010222586987647
     },
     {
-      "id": 341,
-      "score": 0.9768389324488949
-    },
-    {
       "id": 620,
       "score": 0.9259766589257379
     },
     {
       "id": 344,
       "score": 0.9246694355287718
-    },
-    {
-      "id": 570,
-      "score": 0.9219814572403161
     },
     {
       "id": 1195,
@@ -491,6 +492,14 @@
     {
       "id": 676,
       "score": 0.9122217120565814
+    },
+    {
+      "id": 622,
+      "score": 0.9037617529874344
+    },
+    {
+      "id": 869,
+      "score": 0.8944852130513085
     }
   ]
 }

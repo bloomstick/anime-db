@@ -424,15 +424,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:23118",
-      "title": "https://myanimelist.net/anime/5520",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/1571835",
       "title": "https://simkl.com/anime/1571835",
       "detail": "",
@@ -521,6 +512,51 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:5420",
+      "title": "Привет, Китти: Алиса в Стране чудес",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:5862",
+      "title": "Привет, Китти: Замечательные сёстры",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:6555",
+      "title": "Привет, Китти: Хайди — девочка Альп",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:6565",
+      "title": "Привет, Китти: Биг-Бен остановился",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:6570",
+      "title": "Привет, Китти: Девочка со спичками",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
@@ -541,10 +577,6 @@
       "score": 1.188751980663889
     },
     {
-      "id": 2087,
-      "score": 1.1854520207487425
-    },
-    {
       "id": 287,
       "score": 1.183175669513314
     },
@@ -557,12 +589,16 @@
       "score": 1.180654408210618
     },
     {
-      "id": 1986,
-      "score": 1.179468889574974
+      "id": 2320,
+      "score": 1.172412303458756
     },
     {
-      "id": 1441,
-      "score": 1.174233725016491
+      "id": 2534,
+      "score": 1.0618759395284867
+    },
+    {
+      "id": 2307,
+      "score": 1.0616383748975293
     }
   ]
 }

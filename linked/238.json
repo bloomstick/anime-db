@@ -44,15 +44,6 @@
       "relation": "",
       "year": "",
       "isCurrent": false
-    },
-    {
-      "slug": "dream:2726",
-      "title": "https://myanimelist.net/anime/4361",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
     }
   ],
   "similar": [
@@ -67,6 +58,10 @@
     {
       "id": 2449,
       "score": 1.0619083863934455
+    },
+    {
+      "id": 199,
+      "score": 1.05965562187788
     },
     {
       "id": 521,
@@ -89,12 +84,8 @@
       "score": 1.0204591094601951
     },
     {
-      "id": 17211,
-      "score": 1.0165130750078637
-    },
-    {
-      "id": 407,
-      "score": 1.0154847010057433
+      "id": 22792,
+      "score": 1.018616800105692
     }
   ]
 }

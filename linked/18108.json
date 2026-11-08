@@ -44,17 +44,27 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:11018",
+      "title": "Девочки дня",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:12155",
+      "title": "22/7",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
-    {
-      "id": 1903,
-      "score": 1.015956039482938
-    },
-    {
-      "id": 1273,
-      "score": 0.9851893375601983
-    },
     {
       "id": 2249,
       "score": 0.9762245741735281
@@ -66,6 +76,10 @@
     {
       "id": 2092,
       "score": 0.9717755412158436
+    },
+    {
+      "id": 11962,
+      "score": 0.9707078780803732
     },
     {
       "id": 2774,
@@ -86,6 +100,10 @@
     {
       "id": 20519,
       "score": 0.9578262145990748
+    },
+    {
+      "id": 4324,
+      "score": 0.9481791137962445
     }
   ]
 }

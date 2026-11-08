@@ -109,15 +109,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:21228",
-      "title": "Идолмастер: Концерт на миллион! &mdash; OVA",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:18731",
       "title": "Идолмастер: Блестящие цвета",
       "detail": "",
@@ -129,15 +120,6 @@
     {
       "slug": "dream:19954",
       "title": "Идолмастер: Блестящие цвета 2",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:20707",
-      "title": "Идолмастер: Блестящие цвета 2 &mdash; SHHis",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -874,24 +856,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:18963",
-      "title": "https://myanimelist.net/anime/55517",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:19069",
-      "title": "https://myanimelist.net/anime/55802",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/1204947",
       "title": "https://simkl.com/anime/1204947",
       "detail": "",
@@ -1133,16 +1097,46 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:5429",
+      "title": "Тиби-Идолмастер",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:12575",
+      "title": "Девушки-золушки: Экстра",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
     {
-      "id": 2139,
-      "score": 1.19883896592698
+      "id": 18731,
+      "score": 1.2094511781973127
+    },
+    {
+      "id": 12882,
+      "score": 1.205580961419821
+    },
+    {
+      "id": 23733,
+      "score": 1.1978686579739308
     },
     {
       "id": 8994,
       "score": 1.1978121856238482
+    },
+    {
+      "id": 13052,
+      "score": 1.1975897702016547
     },
     {
       "id": 11128,
@@ -1153,28 +1147,16 @@
       "score": 1.1964069244757694
     },
     {
-      "id": 12149,
-      "score": 1.1945128471247317
+      "id": 18818,
+      "score": 1.1962420745163471
     },
     {
-      "id": 12155,
-      "score": 1.1939910538302891
+      "id": 19411,
+      "score": 1.19540157313849
     },
     {
-      "id": 9824,
-      "score": 1.1926260963082957
-    },
-    {
-      "id": 1202,
-      "score": 1.1921415980787429
-    },
-    {
-      "id": 10761,
-      "score": 1.1906340221165652
-    },
-    {
-      "id": 7874,
-      "score": 1.1891282317431933
+      "id": 23632,
+      "score": 1.1952409460801756
     }
   ]
 }

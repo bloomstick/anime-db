@@ -37,15 +37,6 @@
       "isCurrent": true
     },
     {
-      "slug": "dream:19918",
-      "title": "Милый дом Чи 5",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "anidb:13488",
       "title": "https://anidb.net/anime/13488",
       "detail": "",
@@ -307,15 +298,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:10493",
-      "title": "https://myanimelist.net/anime/36418",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/2382556",
       "title": "https://simkl.com/anime/2382556",
       "detail": "",
@@ -363,44 +345,44 @@
   ],
   "similar": [
     {
+      "id": 12590,
+      "score": 1.1979269869570688
+    },
+    {
       "id": 6356,
       "score": 1.197731060278186
     },
     {
-      "id": 2551,
-      "score": 1.0065477094421622
+      "id": 16871,
+      "score": 1.1968376166622259
     },
     {
-      "id": 5507,
-      "score": 0.999088797204127
+      "id": 12465,
+      "score": 1.195506415417624
     },
     {
-      "id": 5262,
-      "score": 0.9960948612444033
+      "id": 9580,
+      "score": 1.1947689865257871
     },
     {
-      "id": 1656,
-      "score": 0.9957525525602229
+      "id": 10501,
+      "score": 1.1947087764677071
     },
     {
-      "id": 3431,
-      "score": 0.9955060578601611
+      "id": 17813,
+      "score": 1.193539595550797
     },
     {
-      "id": 6789,
-      "score": 0.9954929941252715
+      "id": 16658,
+      "score": 1.1927196234126818
     },
     {
-      "id": 400,
-      "score": 0.9941284015799495
+      "id": 10362,
+      "score": 1.191296387111753
     },
     {
-      "id": 6308,
-      "score": 0.9883675627834738
-    },
-    {
-      "id": 6381,
-      "score": 0.9863449650310196
+      "id": 8166,
+      "score": 1.188376765080482
     }
   ]
 }

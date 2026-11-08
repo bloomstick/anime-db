@@ -53,18 +53,17 @@
       "relation": "",
       "year": "",
       "isCurrent": false
-    },
-    {
-      "slug": "dream:14952",
-      "title": "https://myanimelist.net/anime/46119",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
     }
   ],
   "similar": [
+    {
+      "id": 17520,
+      "score": 1.0984271578633753
+    },
+    {
+      "id": 19487,
+      "score": 1.094755158003043
+    },
     {
       "id": 10179,
       "score": 1.0889518961248847
@@ -96,14 +95,6 @@
     {
       "id": 9384,
       "score": 0.9945669057216127
-    },
-    {
-      "id": 11180,
-      "score": 0.9943157624107458
-    },
-    {
-      "id": 9772,
-      "score": 0.9942737791897623
     }
   ]
 }

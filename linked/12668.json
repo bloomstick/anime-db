@@ -376,7 +376,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "dream:8207",
@@ -385,7 +386,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "dream:8381",
@@ -394,7 +396,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "dream:8831",
@@ -403,7 +406,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "dream:10291",
@@ -412,7 +416,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "https://simkl.com/anime/1117265",
@@ -511,6 +516,10 @@
       "score": 1.185695827597566
     },
     {
+      "id": 2194,
+      "score": 1.1813887549657927
+    },
+    {
       "id": 444,
       "score": 1.0648923090954088
     },
@@ -523,28 +532,24 @@
       "score": 1.0606679578145055
     },
     {
-      "id": 1958,
-      "score": 1.0588380719064707
+      "id": 1975,
+      "score": 1.0468605538955638
     },
     {
-      "id": 1968,
-      "score": 1.057454259544163
+      "id": 1972,
+      "score": 1.0417806638521943
     },
     {
-      "id": 1965,
-      "score": 1.055469077855955
+      "id": 1960,
+      "score": 1.039926163327545
     },
     {
-      "id": 1953,
-      "score": 1.0552614944142211
+      "id": 1680,
+      "score": 1.0386614944142212
     },
     {
-      "id": 1955,
-      "score": 1.055121405239804
-    },
-    {
-      "id": 1954,
-      "score": 1.0525433720204007
+      "id": 1943,
+      "score": 1.0355519984950954
     }
   ]
 }

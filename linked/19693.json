@@ -2564,13 +2564,18 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:3101",
+      "title": "Сборник историй Госё Аоямы OVA-2",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
-    {
-      "id": 4359,
-      "score": 1.1352723130489426
-    },
     {
       "id": 1062,
       "score": 1.1299995282766098
@@ -2606,6 +2611,10 @@
     {
       "id": 2757,
       "score": 1.126163961006171
+    },
+    {
+      "id": 5328,
+      "score": 1.1257476234858976
     }
   ]
 }

@@ -70,16 +70,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:4329",
-      "title": "https://myanimelist.net/anime/9690",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "https://simkl.com/anime/41294",
@@ -117,8 +109,12 @@
       "score": 1.0980422746346363
     },
     {
-      "id": 2010,
-      "score": 1.0812700482623963
+      "id": 3384,
+      "score": 1.0911457044246953
+    },
+    {
+      "id": 3946,
+      "score": 1.0903698738772096
     },
     {
       "id": 2050,
@@ -127,10 +123,6 @@
     {
       "id": 760,
       "score": 1.057417258037769
-    },
-    {
-      "id": 1623,
-      "score": 1.0563802054254983
     }
   ]
 }

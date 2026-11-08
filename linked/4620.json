@@ -793,15 +793,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:23378",
-      "title": "https://myanimelist.net/anime/12585",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:5144",
       "title": "https://myanimelist.net/anime/13261",
       "detail": "",
@@ -813,15 +804,6 @@
     {
       "slug": "mal:16964",
       "title": "https://myanimelist.net/anime/16964",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:17343",
-      "title": "https://myanimelist.net/anime/51123",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -971,6 +953,42 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:11109",
+      "title": "Одиннадцать молний: Перезагрузка. Реформация футбола",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:23413",
+      "title": "Инадзума 11: Только вперёд! против Хроник карточных битв",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:23440",
+      "title": "Инадзума 11: Только вперёд! — Галактика",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:23646",
+      "title": "Одиннадцать молний: Внешний код",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
@@ -979,40 +997,40 @@
       "score": 1.2156999594597107
     },
     {
+      "id": 23749,
+      "score": 1.21245591545456
+    },
+    {
       "id": 9290,
       "score": 1.2071929076892365
+    },
+    {
+      "id": 23440,
+      "score": 1.0790668004757
+    },
+    {
+      "id": 5076,
+      "score": 0.9989234938145739
+    },
+    {
+      "id": 19887,
+      "score": 0.9980254571000018
+    },
+    {
+      "id": 18778,
+      "score": 0.9970512965967631
+    },
+    {
+      "id": 18446,
+      "score": 0.9961243397817552
     },
     {
       "id": 2994,
       "score": 0.995606147753583
     },
     {
-      "id": 4426,
-      "score": 0.9933103568291535
-    },
-    {
-      "id": 12997,
-      "score": 0.9314728682114729
-    },
-    {
-      "id": 9607,
-      "score": 0.9296885687484044
-    },
-    {
-      "id": 11300,
-      "score": 0.9272394770868915
-    },
-    {
-      "id": 19529,
-      "score": 0.9250907096391319
-    },
-    {
-      "id": 4542,
-      "score": 0.9244728104202248
-    },
-    {
-      "id": 23198,
-      "score": 0.9233232824843345
+      "id": 16924,
+      "score": 0.995424042192792
     }
   ]
 }

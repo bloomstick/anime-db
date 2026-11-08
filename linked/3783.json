@@ -316,15 +316,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:2548",
-      "title": "https://myanimelist.net/anime/3836",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "anilist:178520",
       "title": "https://anilist.co/anime/178520",
       "detail": "",
@@ -498,15 +489,6 @@
     {
       "slug": "https://anime-planet.com/anime/kin-no-makiba",
       "title": "https://anime-planet.com/anime/kin-no-makiba",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:12748",
-      "title": "https://myanimelist.net/anime/42008",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -772,7 +754,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "mal:8604",
@@ -813,15 +796,6 @@
     {
       "slug": "https://anisearch.com/anime/2455",
       "title": "https://anisearch.com/anime/2455",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:1932",
-      "title": "https://myanimelist.net/anime/2612",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -1107,6 +1081,10 @@
       "score": 0.9986921254689418
     },
     {
+      "id": 3262,
+      "score": 0.9983403385098737
+    },
+    {
       "id": 554,
       "score": 0.9979717368026226
     },
@@ -1117,10 +1095,6 @@
     {
       "id": 1259,
       "score": 0.9974283892016342
-    },
-    {
-      "id": 1595,
-      "score": 0.996834235551782
     }
   ]
 }

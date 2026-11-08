@@ -106,7 +106,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "dream:5619",
@@ -124,7 +125,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "dream:7449",
@@ -133,16 +135,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:9399",
-      "title": "https://myanimelist.net/anime/33934",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     }
   ],
   "similar": [
@@ -153,18 +147,6 @@
     {
       "id": 330,
       "score": 0.5113251330005442
-    },
-    {
-      "id": 4575,
-      "score": 0.48406583587708973
-    },
-    {
-      "id": 9018,
-      "score": 0.4838784244039417
-    },
-    {
-      "id": 23353,
-      "score": 0.4599697236785774
     },
     {
       "id": 1246,
@@ -185,6 +167,18 @@
     {
       "id": 2012,
       "score": 0.4340427507402081
+    },
+    {
+      "id": 3034,
+      "score": 0.4336301266463692
+    },
+    {
+      "id": 529,
+      "score": 0.43304497364911054
+    },
+    {
+      "id": 11536,
+      "score": 0.43290549600629913
     }
   ]
 }

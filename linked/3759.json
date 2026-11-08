@@ -46,15 +46,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:19807",
-      "title": "Маленькие спасатели: Легенда о лорде демонов",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "anidb:1083",
       "title": "https://anidb.net/anime/1083",
       "detail": "",
@@ -334,15 +325,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:12318",
-      "title": "https://myanimelist.net/anime/40567",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/1189489",
       "title": "https://simkl.com/anime/1189489",
       "detail": "",
@@ -408,6 +390,26 @@
   ],
   "similar": [
     {
+      "id": 2481,
+      "score": 1.1995921411551849
+    },
+    {
+      "id": 2529,
+      "score": 1.1920828033274862
+    },
+    {
+      "id": 2292,
+      "score": 1.1905623354892287
+    },
+    {
+      "id": 2174,
+      "score": 1.1864107789757583
+    },
+    {
+      "id": 2185,
+      "score": 1.0005103349094202
+    },
+    {
       "id": 301,
       "score": 1.0001615855956292
     },
@@ -426,26 +428,6 @@
     {
       "id": 1259,
       "score": 0.9978846783905023
-    },
-    {
-      "id": 1572,
-      "score": 0.9955973818447537
-    },
-    {
-      "id": 1072,
-      "score": 0.9947786335112125
-    },
-    {
-      "id": 1222,
-      "score": 0.9928053133082801
-    },
-    {
-      "id": 1991,
-      "score": 0.9917017104342895
-    },
-    {
-      "id": 1464,
-      "score": 0.9914153404945218
     }
   ]
 }

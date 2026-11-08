@@ -901,24 +901,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:2433",
-      "title": "https://myanimelist.net/anime/3579",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:3124",
-      "title": "https://myanimelist.net/anime/5658",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/1464713",
       "title": "https://simkl.com/anime/1464713",
       "detail": "",
@@ -1340,6 +1322,69 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:836",
+      "title": "Мазинкайзер OVA-1",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:1695",
+      "title": "Панда-Зет: Робонимация",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:2020",
+      "title": "Мазинкайзер OVA-2",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:2581",
+      "title": "Мазингер Зэт против Человека-демона",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:3081",
+      "title": "Новый Мазингер Зет",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:4052",
+      "title": "Мазинкайзер OVA-3",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:9783",
+      "title": "Мадзингер Зэд",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
@@ -1360,6 +1405,14 @@
       "score": 1.0657708800423669
     },
     {
+      "id": 10503,
+      "score": 1.029521583827741
+    },
+    {
+      "id": 9697,
+      "score": 1.02214285714
+    },
+    {
       "id": 2207,
       "score": 0.9980427364639965
     },
@@ -1368,20 +1421,12 @@
       "score": 0.9555916033723111
     },
     {
-      "id": 2733,
-      "score": 0.6101460182164967
+      "id": 9294,
+      "score": 0.9432692681439645
     },
     {
       "id": 3942,
       "score": 0.5991972991429365
-    },
-    {
-      "id": 1770,
-      "score": 0.5984965788989114
-    },
-    {
-      "id": 1605,
-      "score": 0.5984777727333677
     }
   ]
 }

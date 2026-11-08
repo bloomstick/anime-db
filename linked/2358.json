@@ -10,15 +10,6 @@
       "isCurrent": true
     },
     {
-      "slug": "dream:2839",
-      "title": "Сигофуми: Письма с того света &mdash; Спецвыпуск",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "anilist:4173",
       "title": "https://anilist.co/anime/4173",
       "detail": "",
@@ -107,15 +98,6 @@
       "relation": "",
       "year": "",
       "isCurrent": false
-    },
-    {
-      "slug": "dream:2680",
-      "title": "https://myanimelist.net/anime/4173",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
     }
   ],
   "similar": [
@@ -136,6 +118,10 @@
       "score": 1.0905416959089536
     },
     {
+      "id": 13136,
+      "score": 1.0883743224256037
+    },
+    {
       "id": 563,
       "score": 1.0786376756954479
     },
@@ -154,10 +140,6 @@
     {
       "id": 6533,
       "score": 0.9977956284850833
-    },
-    {
-      "id": 6902,
-      "score": 0.9970418543580659
     }
   ]
 }

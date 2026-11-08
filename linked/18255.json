@@ -79,7 +79,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "dream:19423",
@@ -88,13 +89,18 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     }
   ],
   "similar": [
     {
       "id": 961,
       "score": 0.9925798318534829
+    },
+    {
+      "id": 1834,
+      "score": 0.9913601042857947
     },
     {
       "id": 829,
@@ -121,16 +127,12 @@
       "score": 0.5904914167021336
     },
     {
+      "id": 1818,
+      "score": 0.589934657044029
+    },
+    {
       "id": 1058,
       "score": 0.5689786782534787
-    },
-    {
-      "id": 509,
-      "score": 0.3966696890851188
-    },
-    {
-      "id": 1054,
-      "score": 0.3947226889970542
     }
   ]
 }

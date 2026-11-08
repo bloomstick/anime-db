@@ -17,15 +17,6 @@
       "relation": "",
       "year": "",
       "isCurrent": false
-    },
-    {
-      "slug": "dream:20789",
-      "title": "https://myanimelist.net/anime/60284",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
     }
   ],
   "similar": [
@@ -50,6 +41,10 @@
       "score": 0.9295073019633766
     },
     {
+      "id": 1080,
+      "score": 0.926359248711849
+    },
+    {
       "id": 452,
       "score": 0.9257111005707378
     },
@@ -64,10 +59,6 @@
     {
       "id": 888,
       "score": 0.9219533655841654
-    },
-    {
-      "id": 644,
-      "score": 0.919881736824328
     }
   ]
 }

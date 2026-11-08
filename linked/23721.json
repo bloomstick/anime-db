@@ -208,15 +208,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:22314",
-      "title": "Карточные бои Авангарда: Святая Зет &mdash; Сражение за звёздную судьбу",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "anidb:10090",
       "title": "https://anidb.net/anime/10090",
       "detail": "",
@@ -973,24 +964,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:11803",
-      "title": "https://myanimelist.net/anime/39244",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:16826",
-      "title": "https://myanimelist.net/anime/49370",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/1039923",
       "title": "https://simkl.com/anime/1039923",
       "detail": "",
@@ -1223,12 +1196,25 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:22590",
+      "title": "Призрак встречает гяру!",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
     {
       "id": 343,
       "score": 0.9706407408313418
+    },
+    {
+      "id": 1623,
+      "score": 0.9273583803988108
     },
     {
       "id": 1190,
@@ -1261,10 +1247,6 @@
     {
       "id": 365,
       "score": 0.9173876201607989
-    },
-    {
-      "id": 366,
-      "score": 0.9173526208264537
     }
   ]
 }

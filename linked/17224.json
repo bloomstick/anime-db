@@ -53,18 +53,13 @@
       "relation": "",
       "year": "",
       "isCurrent": false
-    },
-    {
-      "slug": "dream:18402",
-      "title": "https://myanimelist.net/anime/53958",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
     }
   ],
   "similar": [
+    {
+      "id": 3132,
+      "score": 1.0872576696266962
+    },
     {
       "id": 558,
       "score": 1.087231442702
@@ -94,16 +89,12 @@
       "score": 1.074001164361273
     },
     {
-      "id": 1430,
-      "score": 1.0703519549264864
-    },
-    {
       "id": 503,
       "score": 1.0682693820852838
     },
     {
-      "id": 2387,
-      "score": 1.0598632233807792
+      "id": 3811,
+      "score": 1.0600549051315618
     }
   ]
 }

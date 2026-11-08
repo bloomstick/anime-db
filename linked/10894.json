@@ -44,12 +44,52 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:11460",
+      "title": "Хан Соло: Звёздные войны. Истории",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:16821",
+      "title": "Звёздные войны: Видения",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:20812",
+      "title": "Звёздные войны: Видения 3",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:21367",
+      "title": "Звёздные войны: Видения представляют — Девятый джедай",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
     {
       "id": 961,
       "score": 0.9957817443468875
+    },
+    {
+      "id": 1834,
+      "score": 0.9949191596377707
     },
     {
       "id": 829,
@@ -68,6 +108,10 @@
       "score": 0.8927287444404282
     },
     {
+      "id": 1818,
+      "score": 0.5990062875939948
+    },
+    {
       "id": 1523,
       "score": 0.5965504720641096
     },
@@ -78,14 +122,6 @@
     {
       "id": 1058,
       "score": 0.5798607993634242
-    },
-    {
-      "id": 888,
-      "score": 0.3997163543796086
-    },
-    {
-      "id": 557,
-      "score": 0.3981121644513335
     }
   ]
 }

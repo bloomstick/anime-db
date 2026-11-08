@@ -233,38 +233,12 @@
       "relation": "",
       "year": "",
       "isCurrent": false
-    },
-    {
-      "slug": "dream:7583",
-      "title": "https://myanimelist.net/anime/28841",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:8765",
-      "title": "https://myanimelist.net/anime/32382",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
     }
   ],
   "similar": [
     {
-      "id": 7583,
-      "score": 1.2089503242347424
-    },
-    {
       "id": 6350,
       "score": 1.2088080600509874
-    },
-    {
-      "id": 12338,
-      "score": 1.1825551203813762
     },
     {
       "id": 12367,
@@ -279,20 +253,28 @@
       "score": 1.0540411742806741
     },
     {
-      "id": 12569,
-      "score": 1.052465726235562
+      "id": 17670,
+      "score": 1.0513058388584375
     },
     {
       "id": 10248,
       "score": 1.0490561375114535
     },
     {
-      "id": 12163,
-      "score": 1.0482808366006673
+      "id": 14078,
+      "score": 1.0486130705471002
     },
     {
       "id": 3448,
       "score": 0.9945454545454546
+    },
+    {
+      "id": 824,
+      "score": 0.992904060829564
+    },
+    {
+      "id": 17136,
+      "score": 0.9928000594243613
     }
   ]
 }

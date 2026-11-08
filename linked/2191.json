@@ -1079,9 +1079,31 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:12159",
+      "title": "Приключение Дигимонов: Пролог",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:12552",
+      "title": "Приключения Дигимонов: Рассказ о двадцатилетнем юбилее",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
+    {
+      "id": 1806,
+      "score": 1.0324199359797452
+    },
     {
       "id": 991,
       "score": 1.0003695825258379
@@ -1117,10 +1139,6 @@
     {
       "id": 708,
       "score": 0.9856631407103011
-    },
-    {
-      "id": 709,
-      "score": 0.9853376442106805
     }
   ]
 }

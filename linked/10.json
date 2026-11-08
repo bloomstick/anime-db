@@ -52,7 +52,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "mal:48554",
@@ -109,15 +110,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:23770",
-      "title": "https://myanimelist.net/anime/39332",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "anilist:118123",
       "title": "https://anilist.co/anime/118123",
       "detail": "",
@@ -151,7 +143,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     }
   ],
   "similar": [

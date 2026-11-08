@@ -109,15 +109,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:21536",
-      "title": "https://myanimelist.net/anime/61955",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/1251317",
       "title": "https://simkl.com/anime/1251317",
       "detail": "",
@@ -134,16 +125,33 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:13722",
+      "title": "Глубокое море",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
     {
-      "id": 815,
-      "score": 0.9966732284137193
+      "id": 12141,
+      "score": 1.1373332075897395
     },
     {
-      "id": 3965,
-      "score": 0.981557805798377
+      "id": 16088,
+      "score": 1.0590787210063874
+    },
+    {
+      "id": 11435,
+      "score": 1.0180722917748213
+    },
+    {
+      "id": 815,
+      "score": 0.9966732284137193
     },
     {
       "id": 342,
@@ -154,10 +162,6 @@
       "score": 0.9716679629570346
     },
     {
-      "id": 2704,
-      "score": 0.970839118219716
-    },
-    {
       "id": 12184,
       "score": 0.9682719780556713
     },
@@ -166,16 +170,12 @@
       "score": 0.9663925016214574
     },
     {
-      "id": 3609,
-      "score": 0.9558752730900212
+      "id": 11918,
+      "score": 0.952371365398188
     },
     {
       "id": 1119,
       "score": 0.9419784786258287
-    },
-    {
-      "id": 3073,
-      "score": 0.9415886391472699
     }
   ]
 }

@@ -487,15 +487,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:12889",
-      "title": "https://myanimelist.net/anime/42400",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/1572465",
       "title": "https://simkl.com/anime/1572465",
       "detail": "",
@@ -629,6 +620,24 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:722",
+      "title": "Рэй",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:2905",
+      "title": "Осаму Тэдзука ушёл?! Последнее чудо 20-го века",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
@@ -645,32 +654,32 @@
       "score": 0.9295257830573523
     },
     {
+      "id": 4025,
+      "score": 0.9291179579489184
+    },
+    {
+      "id": 4026,
+      "score": 0.9287354658914115
+    },
+    {
+      "id": 3253,
+      "score": 0.9278644167491374
+    },
+    {
+      "id": 3781,
+      "score": 0.9277540489488958
+    },
+    {
+      "id": 3636,
+      "score": 0.9255318267266736
+    },
+    {
       "id": 995,
       "score": 0.9246031423579886
     },
     {
-      "id": 1780,
-      "score": 0.912768838151546
-    },
-    {
-      "id": 686,
-      "score": 0.8996016505905673
-    },
-    {
-      "id": 2393,
-      "score": 0.8953475468405736
-    },
-    {
-      "id": 2581,
-      "score": 0.8951171808945566
-    },
-    {
-      "id": 1145,
-      "score": 0.8904514910879565
-    },
-    {
-      "id": 1843,
-      "score": 0.886419323381031
+      "id": 3826,
+      "score": 0.9245249395740429
     }
   ]
 }

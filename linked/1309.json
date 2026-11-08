@@ -469,24 +469,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:1418",
-      "title": "https://myanimelist.net/anime/1854",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:1618",
-      "title": "https://myanimelist.net/anime/2108",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:2075",
       "title": "https://myanimelist.net/anime/2808",
       "detail": "",
@@ -575,25 +557,27 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:1401",
+      "title": "Воин Мегамен: Метеор",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:2399",
+      "title": "Воин Мегамен: Племя",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
-    {
-      "id": 1618,
-      "score": 1.2155377858851577
-    },
-    {
-      "id": 1620,
-      "score": 1.1462016233413332
-    },
-    {
-      "id": 22963,
-      "score": 1.1454059463406483
-    },
-    {
-      "id": 1619,
-      "score": 1.103378053180859
-    },
     {
       "id": 907,
       "score": 1.081017043382041
@@ -611,12 +595,28 @@
       "score": 1.0639541211608026
     },
     {
-      "id": 601,
-      "score": 1.0599425516069405
+      "id": 307,
+      "score": 1.0444898354477667
     },
     {
-      "id": 1285,
-      "score": 1.0566969221830163
+      "id": 970,
+      "score": 1.0441545196603434
+    },
+    {
+      "id": 2031,
+      "score": 1.0412272890346714
+    },
+    {
+      "id": 6701,
+      "score": 1.0366666666688888
+    },
+    {
+      "id": 725,
+      "score": 1.0355288913672012
+    },
+    {
+      "id": 1401,
+      "score": 1.0345029207502925
     }
   ]
 }

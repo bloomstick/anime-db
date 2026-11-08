@@ -28,15 +28,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:5077",
-      "title": "https://myanimelist.net/anime/12877",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "anilist:139630",
       "title": "https://anilist.co/anime/139630",
       "detail": "",
@@ -70,7 +61,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     }
   ],
   "similar": [
@@ -79,16 +71,16 @@
       "score": 1.0520715852943567
     },
     {
+      "id": 23497,
+      "score": 1.0227954255902336
+    },
+    {
       "id": 314,
       "score": 1.0227707849715895
     },
     {
       "id": 493,
       "score": 1.0222099192202736
-    },
-    {
-      "id": 325,
-      "score": 1.0121244735782329
     },
     {
       "id": 8118,
@@ -107,12 +99,12 @@
       "score": 0.9983294502060328
     },
     {
-      "id": 528,
-      "score": 0.9931479151235696
+      "id": 19798,
+      "score": 0.9971997502404917
     },
     {
-      "id": 15,
-      "score": 0.9916639232162827
+      "id": 1221,
+      "score": 0.9950305545337321
     }
   ]
 }

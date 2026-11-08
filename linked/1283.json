@@ -622,26 +622,8 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:6050",
-      "title": "https://myanimelist.net/anime/19171",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:1726",
       "title": "https://myanimelist.net/anime/2284",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:12024",
-      "title": "https://myanimelist.net/anime/39711",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -658,35 +640,8 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:18808",
-      "title": "https://myanimelist.net/anime/54922",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:21270",
-      "title": "https://myanimelist.net/anime/61258",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:725",
       "title": "https://myanimelist.net/anime/925",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:727",
-      "title": "https://myanimelist.net/anime/927",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -836,48 +791,102 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:724",
+      "title": "Трансформеры: Воины великой силы",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:726",
+      "title": "Трансформеры: Виктори",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:728",
+      "title": "Трансформеры: Кибертрон",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:3024",
+      "title": "Трансформеры. Битвы зверей 2: Лио Конвой в неизбежной опасности!",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:3257",
+      "title": "Трансформеры: Зона",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:3503",
+      "title": "Трансформеры: Схватка в городе",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
     {
-      "id": 3124,
-      "score": 1.1937286029080902
-    },
-    {
-      "id": 2322,
-      "score": 1.1927960300668876
-    },
-    {
-      "id": 2777,
-      "score": 1.1904594432653195
-    },
-    {
-      "id": 2433,
-      "score": 1.190236974705578
-    },
-    {
-      "id": 2021,
-      "score": 1.181762226314436
-    },
-    {
-      "id": 2834,
-      "score": 1.1147025072997403
+      "id": 13404,
+      "score": 1.1767587193855564
     },
     {
       "id": 1364,
       "score": 1.1146210300618877
     },
     {
-      "id": 1674,
-      "score": 1.114120240930392
+      "id": 2197,
+      "score": 1.1009418169912923
     },
     {
-      "id": 1706,
-      "score": 1.113460321727319
+      "id": 146,
+      "score": 1.0985714285714288
     },
     {
-      "id": 1285,
-      "score": 1.1119138310941012
+      "id": 11014,
+      "score": 1.0967751503246257
+    },
+    {
+      "id": 497,
+      "score": 1.0961379745530442
+    },
+    {
+      "id": 6073,
+      "score": 1.0932016150674055
+    },
+    {
+      "id": 8715,
+      "score": 1.091650074281752
+    },
+    {
+      "id": 6965,
+      "score": 1.090114809804642
+    },
+    {
+      "id": 6382,
+      "score": 1.0891831847933253
     }
   ]
 }

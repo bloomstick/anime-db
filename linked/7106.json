@@ -226,24 +226,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:5459",
-      "title": "https://myanimelist.net/anime/15847",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:9856",
-      "title": "https://myanimelist.net/anime/34975",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/36369",
       "title": "https://simkl.com/anime/36369",
       "detail": "",
@@ -287,9 +269,49 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:3539",
+      "title": "Железный человек",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:3556",
+      "title": "Люди Икс",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:3557",
+      "title": "Блэйд",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:23177",
+      "title": "Росомаха",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
+    {
+      "id": 1855,
+      "score": 1.1953657100870116
+    },
     {
       "id": 1400,
       "score": 1.0633644787309509
@@ -307,6 +329,10 @@
       "score": 0.9992477708814355
     },
     {
+      "id": 1664,
+      "score": 0.9971420656130998
+    },
+    {
       "id": 869,
       "score": 0.9896047087754434
     },
@@ -321,14 +347,6 @@
     {
       "id": 1058,
       "score": 0.9751409704688225
-    },
-    {
-      "id": 1365,
-      "score": 0.9744442344857402
-    },
-    {
-      "id": 2,
-      "score": 0.9551162382848045
     }
   ]
 }

@@ -514,26 +514,8 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:21231",
-      "title": "Судьба/Великий приказ: Рицука Фудзимару не понимает этого 2 &mdash; Спецвыпуски",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:19079",
       "title": "Судьба/Странная подделка",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:22593",
-      "title": "Судьба/Великий приказ: Рицука Фудзимару не понимает этого 4",
       "detail": "",
       "kindLabel": "",
       "relation": "",
@@ -1681,7 +1663,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "https://simkl.com/anime/1002141",
@@ -2120,24 +2103,24 @@
       "score": 1.0600679624989158
     },
     {
-      "id": 5781,
-      "score": 1.058069508672176
-    },
-    {
       "id": 732,
       "score": 1.0511045100151626
     },
     {
-      "id": 4327,
-      "score": 1.0507426044980694
-    },
-    {
-      "id": 4211,
-      "score": 1.045318407826629
-    },
-    {
       "id": 2222,
       "score": 1.0428264883139415
+    },
+    {
+      "id": 4772,
+      "score": 1.0419593705035977
+    },
+    {
+      "id": 1779,
+      "score": 1.0378825536535685
+    },
+    {
+      "id": 4717,
+      "score": 1.03629163154842
     }
   ]
 }

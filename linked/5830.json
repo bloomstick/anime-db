@@ -109,15 +109,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:5039",
-      "title": "https://myanimelist.net/anime/12673",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/39064",
       "title": "https://simkl.com/anime/39064",
       "detail": "",
@@ -128,10 +119,6 @@
     }
   ],
   "similar": [
-    {
-      "id": 171,
-      "score": 1.1841996115721543
-    },
     {
       "id": 581,
       "score": 1.1834546725216688
@@ -161,12 +148,16 @@
       "score": 1.0533291619982381
     },
     {
-      "id": 2600,
-      "score": 1.051261495478772
+      "id": 3213,
+      "score": 1.047190497631112
     },
     {
       "id": 2507,
       "score": 1.0465788443269222
+    },
+    {
+      "id": 1576,
+      "score": 1.0461389576494922
     }
   ]
 }

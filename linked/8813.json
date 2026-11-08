@@ -28,15 +28,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:22005",
-      "title": "Третьеклассник Асибэ: QQ Гома",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "anidb:12124",
       "title": "https://anidb.net/anime/12124",
       "detail": "",
@@ -316,24 +307,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:23258",
-      "title": "https://myanimelist.net/anime/8829",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:4088",
-      "title": "https://myanimelist.net/anime/8832",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "https://simkl.com/anime/1056373",
       "title": "https://simkl.com/anime/1056373",
       "detail": "",
@@ -390,12 +363,24 @@
   ],
   "similar": [
     {
+      "id": 9858,
+      "score": 1.2436416043260232
+    },
+    {
+      "id": 10911,
+      "score": 1.2410534287059758
+    },
+    {
       "id": 4960,
       "score": 1.1802937594540563
     },
     {
       "id": 4946,
       "score": 1.167075328497151
+    },
+    {
+      "id": 16444,
+      "score": 1.1589631940867575
     },
     {
       "id": 4848,
@@ -410,24 +395,12 @@
       "score": 1.0687747433202417
     },
     {
-      "id": 5991,
-      "score": 0.9812028503676925
+      "id": 9555,
+      "score": 1.0566171491014473
     },
     {
-      "id": 653,
-      "score": 0.9808610392892001
-    },
-    {
-      "id": 4127,
-      "score": 0.9787136422805846
-    },
-    {
-      "id": 5525,
-      "score": 0.978243241206344
-    },
-    {
-      "id": 834,
-      "score": 0.9737938615624253
+      "id": 12715,
+      "score": 1.0535402260283704
     }
   ]
 }

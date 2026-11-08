@@ -10,15 +10,6 @@
       "isCurrent": true
     },
     {
-      "slug": "dream:19000",
-      "title": "Время перекусить!",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "dream:19151",
       "title": "Хронуар: Эпизод 0",
       "detail": "",
@@ -127,15 +118,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:11670",
-      "title": "https://myanimelist.net/anime/38998",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "mal:39831",
       "title": "https://myanimelist.net/anime/39831",
       "detail": "",
@@ -151,7 +133,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "mal:50123",
@@ -183,22 +166,6 @@
   ],
   "similar": [
     {
-      "id": 10185,
-      "score": 1.1943492108628795
-    },
-    {
-      "id": 10490,
-      "score": 1.189276579093134
-    },
-    {
-      "id": 7466,
-      "score": 1.1840343159250821
-    },
-    {
-      "id": 10186,
-      "score": 1.1824164167021751
-    },
-    {
       "id": 8660,
       "score": 1.1818992779713988
     },
@@ -219,8 +186,24 @@
       "score": 1.1741510541207782
     },
     {
-      "id": 12434,
-      "score": 1.1696621617334828
+      "id": 8421,
+      "score": 1.052983055510552
+    },
+    {
+      "id": 8051,
+      "score": 1.0473021386938854
+    },
+    {
+      "id": 9319,
+      "score": 1.043028099149668
+    },
+    {
+      "id": 12654,
+      "score": 1.0427435338187325
+    },
+    {
+      "id": 6795,
+      "score": 1.041417084026453
     }
   ]
 }

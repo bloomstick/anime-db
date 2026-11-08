@@ -205,16 +205,8 @@
       "kindLabel": "",
       "relation": "",
       "year": "",
-      "isCurrent": false
-    },
-    {
-      "slug": "dream:7176",
-      "title": "https://myanimelist.net/anime/25999",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
+      "isCurrent": false,
+      "strict": false
     },
     {
       "slug": "https://simkl.com/anime/36441",
@@ -260,12 +252,21 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:16541",
+      "title": "Легенда о героях: След холодной стали - Северная война",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
     {
-      "id": 7176,
-      "score": 1.2003556804936082
+      "id": 8304,
+      "score": 1.1968085177000782
     },
     {
       "id": 4804,
@@ -276,12 +277,20 @@
       "score": 1.1750637579190724
     },
     {
+      "id": 10110,
+      "score": 1.1702784972027107
+    },
+    {
       "id": 7578,
       "score": 1.1701434256657
     },
     {
       "id": 6458,
       "score": 1.1694065613278377
+    },
+    {
+      "id": 8800,
+      "score": 1.1612108999274904
     },
     {
       "id": 3443,
@@ -294,14 +303,6 @@
     {
       "id": 3281,
       "score": 1.0875318557554396
-    },
-    {
-      "id": 670,
-      "score": 1.08436490631787
-    },
-    {
-      "id": 7296,
-      "score": 1.0843374651248023
     }
   ]
 }

@@ -1270,15 +1270,6 @@
       "isCurrent": false
     },
     {
-      "slug": "dream:11506",
-      "title": "https://myanimelist.net/anime/38653",
-      "detail": "",
-      "kindLabel": "",
-      "relation": "",
-      "year": "",
-      "isCurrent": false
-    },
-    {
       "slug": "mal:63368",
       "title": "https://myanimelist.net/anime/63368",
       "detail": "",
@@ -1664,6 +1655,24 @@
       "relation": "",
       "year": "",
       "isCurrent": false
+    },
+    {
+      "slug": "dream:4872",
+      "title": "Пинк: Водяные воры, Дождевые воры",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
+    },
+    {
+      "slug": "dream:5967",
+      "title": "Кэнноскэ",
+      "detail": "",
+      "kindLabel": "",
+      "relation": "",
+      "year": "",
+      "isCurrent": false
     }
   ],
   "similar": [
@@ -1684,16 +1693,12 @@
       "score": 1.1118673815965052
     },
     {
-      "id": 687,
-      "score": 1.0548476460709633
-    },
-    {
       "id": 1355,
       "score": 1.0440264955331544
     },
     {
-      "id": 5899,
-      "score": 1.027360546076593
+      "id": 696,
+      "score": 1.0422716577666735
     },
     {
       "id": 5651,
@@ -1706,6 +1711,10 @@
     {
       "id": 768,
       "score": 1.0032929388976024
+    },
+    {
+      "id": 5654,
+      "score": 0.9949381524485847
     }
   ]
 }
