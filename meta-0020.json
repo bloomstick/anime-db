@@ -4391,10 +4391,8 @@
     "malId": 45783,
     "isAgeRestricted": false,
     "isLicensed": true,
-    "blockedIn": [
-      "RU"
-    ],
-    "licenseNameRu": "Саюки: Перезарядка — Зероин",
+    "blockedIn": [],
+    "licenseNameRu": "",
     "licensors": [
       "DEEP"
     ],
@@ -5076,6 +5074,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "officialLinks": {
+      "amediateka": "https://www.amediateka.ru/watch/series_36379_kardinal-tenej",
+      "wink": "https://wink.ru/series/kardinal-teney-year-2022"
+    },
     "updatedAtSec": 1675810195,
     "lastAirDateSec": 1664280000,
     "bannerUrl": "",
@@ -8653,17 +8655,12 @@
     "malId": 54772,
     "isAgeRestricted": false,
     "isLicensed": true,
-    "blockedIn": [
-      "RU"
-    ],
-    "licenseNameRu": "Слабейший монстр",
+    "blockedIn": [],
+    "licenseNameRu": "",
     "licensors": [
       "DEEP",
       "2x2"
     ],
-    "officialLinks": {
-      "deep": "https://deep-ent.ru/anime/slabejshij-monstr"
-    },
     "updatedAtSec": 1687681441,
     "lastAirDateSec": 1687694400,
     "bannerUrl": "",
@@ -10206,15 +10203,15 @@
     "malId": 58811,
     "isAgeRestricted": false,
     "isLicensed": true,
-    "blockedIn": [
-      "RU"
-    ],
-    "licenseNameRu": "Тёмный демон",
+    "blockedIn": [],
+    "licenseNameRu": "",
     "licensors": [
       "Амедиатека"
     ],
     "officialLinks": {
-      "ivi": "https://www.ivi.ru/watch/tyomnyij-demon"
+      "ivi": "https://www.ivi.ru/watch/tyomnyij-demon",
+      "amediateka": "https://www.amediateka.ru/watch/series_40429_tyomnyij-demon",
+      "wink": "https://wink.ru/series/temnyy-demon-year-2025"
     },
     "updatedAtSec": 1766765195,
     "lastAirDateSec": 1766750400,
