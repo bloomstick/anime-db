@@ -3009,7 +3009,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/105405/07c0f9b552cd583c820414be6d76b735/720p?translations=false&only_episode=true&only_season=true&episode=107",
     "date": 1794072079,
-    "durationSec": 1202
+    "durationSec": 1202,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1096,
+    "endingLength": 89
   },
   {
     "episode": 1,
@@ -6071,7 +6075,7 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=MDA&anime_id=59953&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+MDA",
     "date": 1771327838,
-    "durationSec": 0
+    "durationSec": 948
   },
   {
     "episode": 3,
@@ -6079,7 +6083,7 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=MDA&anime_id=59953&episode=3&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+MDA",
     "date": 1771327838,
-    "durationSec": 0
+    "durationSec": 1215
   },
   {
     "episode": 55,
@@ -6384,6 +6388,14 @@
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=MDA&anime_id=59953&episode=107&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+MDA",
     "date": 1793570729,
     "durationSec": 1249
+  },
+  {
+    "episode": 108,
+    "dub": "Озвучка MDA",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=MDA&anime_id=59953&episode=108&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+MDA",
+    "date": 1794201481,
+    "durationSec": 0
   },
   {
     "episode": 1,

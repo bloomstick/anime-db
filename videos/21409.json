@@ -253,7 +253,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/121730/3f39c7f30f2989b645e416467ed64730/720p?translations=false&only_episode=true&only_season=true&episode=9",
     "date": 1788105359,
-    "durationSec": 1141
+    "durationSec": 1141,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1052,
+    "endingLength": 19
   },
   {
     "episode": 10,
