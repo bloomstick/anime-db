@@ -847,7 +847,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/83732/1a6a97782d697939a1e5767c40d612ee/720p?translations=false&only_episode=true&only_season=true&episode=97",
     "date": 1718125768,
-    "durationSec": 1292
+    "durationSec": 1292,
+    "openingTime": 0,
+    "openingLength": 54,
+    "endingTime": 1059,
+    "endingLength": 214
   },
   {
     "episode": 98,
@@ -3119,6 +3123,14 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=56524&episode=163&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
     "date": 1793726983,
+    "durationSec": 0
+  },
+  {
+    "episode": 164,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=56524&episode=164&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
+    "date": 1794350170,
     "durationSec": 0
   },
   {
@@ -7167,6 +7179,14 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniMy+%2F+RuChiMe&anime_id=56524&episode=163&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniMy+%2F+RuChiMe",
     "date": 1793631840,
+    "durationSec": 0
+  },
+  {
+    "episode": 164,
+    "dub": "Озвучка AniMy / RuChiMe",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniMy+%2F+RuChiMe&anime_id=56524&episode=164&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniMy+%2F+RuChiMe",
+    "date": 1794255576,
     "durationSec": 0
   },
   {

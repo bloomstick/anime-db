@@ -1,296 +1,5 @@
 [
   {
-    "id": 5609,
-    "slugUrl": "dream:5609",
-    "name": "Золотая мозаика",
-    "rusName": "Золотая мозаика",
-    "engName": "KINMOZA!",
-    "coverUrl": "",
-    "coverFallbackUrl": "",
-    "status": "released",
-    "sourceTag": "dream",
-    "rating": 7.69736842081579,
-    "votes": 76,
-    "typeLabel": "tv",
-    "year": "2013",
-    "seasonIndex": 3,
-    "ageRating": "PG-13",
-    "description": "",
-    "genres": [
-      "Повседневность",
-      "Школа"
-    ],
-    "genreIds": [
-      36,
-      23
-    ],
-    "tags": [],
-    "tagIds": [],
-    "anotherName": "Kinmosa / Golden Mosaic / Kin-iro Mosaic",
-    "ruNames": [
-      "Золотая мозаика"
-    ],
-    "enNames": [
-      "KINMOZA!",
-      "Kinmosa",
-      "Golden Mosaic",
-      "Kin-iro Mosaic",
-      "KinMoza! Kin'iro + Mosaic (Saison 1)",
-      "Kinmoza!",
-      "Kin’iro Mosaic",
-      "Yellow Mosaic",
-      "きんいろモザイク",
-      "黄金拼图"
-    ],
-    "shikimoriId": 16732,
-    "malId": 16732,
-    "isAgeRestricted": false,
-    "isLicensed": false,
-    "blockedIn": [],
-    "licenseNameRu": "",
-    "licensors": [],
-    "updatedAtSec": 1674827164,
-    "lastAirDateSec": 1379764800,
-    "bannerUrl": "",
-    "studio": "Studio Gokumi",
-    "director": "Танака Мотоки",
-    "sourceWork": "Манга",
-    "releaseDate": "2013-01-01",
-    "episodeDates": [
-      1674827164,
-      1674827164,
-      1674827164,
-      1674827164,
-      1674827164,
-      1674827164,
-      1674827164,
-      1674827164,
-      1674827164,
-      1674827164,
-      1674827164,
-      1674827164
-    ],
-    "totalEpisodes": 12,
-    "airedEpisodes": 12,
-    "yummyAlias": "zolotaya-mozaika-1"
-  },
-  {
-    "id": 5612,
-    "slugUrl": "dream:5612",
-    "name": "Не моя вина, что я не популярна!",
-    "rusName": "Не моя вина, что я не популярна!",
-    "engName": "WataMote: No Matter How I Look At It, It's You Guys' Fault I'm Not Popular!",
-    "coverUrl": "",
-    "coverFallbackUrl": "",
-    "status": "released",
-    "sourceTag": "dream",
-    "rating": 7.22472677535861,
-    "votes": 1464,
-    "typeLabel": "tv",
-    "year": "2013",
-    "seasonIndex": 3,
-    "ageRating": "PG-13",
-    "description": "",
-    "genres": [
-      "Комедия",
-      "Школа"
-    ],
-    "genreIds": [
-      4,
-      23
-    ],
-    "tags": [],
-    "tagIds": [],
-    "anotherName": "Как ни смотри, это всё вы виноваты, что я не популярна! / Watashi ga Motenai no wa Dou Kangaete mo Omaera ga Warui! / It's Not My Fault That I'm Not Popular! / WataMote",
-    "ruNames": [
-      "Не моя вина, что я не популярна!"
-    ],
-    "enNames": [
-      "WataMote: No Matter How I Look At It, It's You Guys' Fault I'm Not Popular!",
-      "Как ни смотри, это всё вы виноваты, что я не популярна!",
-      "Watashi ga Motenai no wa Dou Kangaete mo Omaera ga Warui!",
-      "It's Not My Fault That I'm Not Popular!",
-      "WataMote",
-      "ワタモテ",
-      "私がモテないのはどう考えてもお前らが悪い！",
-      "Aku Tidak Populer Karena Salah Kalian Semua!",
-      "Bagaimanapun Juga",
-      "It's You Guys' Fault I'm Not Popular!",
-      "It’s Not My Fault That I’m Not Popular!",
-      "Kétség sincs afelől, hogy miattatok nem vagyok népszerű!"
-    ],
-    "shikimoriId": 16742,
-    "malId": 16742,
-    "isAgeRestricted": false,
-    "isLicensed": false,
-    "blockedIn": [],
-    "licenseNameRu": "",
-    "licensors": [],
-    "updatedAtSec": 1677774477,
-    "lastAirDateSec": 1380024000,
-    "bannerUrl": "",
-    "studio": "SILVER LINK.",
-    "director": "Онума Син",
-    "sourceWork": "Манга",
-    "releaseDate": "2013-01-01",
-    "episodeDates": [
-      1674776550,
-      1674776550,
-      1674776550,
-      1674776550,
-      1674776550,
-      1674776550,
-      1674776550,
-      1674776550,
-      1674776550,
-      1674776550,
-      1674776550,
-      1674776550,
-      1677774477
-    ],
-    "totalEpisodes": 12,
-    "airedEpisodes": 13,
-    "yummyAlias": "ne-moya-vina-chto-ya-ne-populyarna"
-  },
-  {
-    "id": 5617,
-    "slugUrl": "dream:5617",
-    "name": "Куйба",
-    "rusName": "Куйба",
-    "engName": "Квиба",
-    "coverUrl": "",
-    "coverFallbackUrl": "",
-    "status": "released",
-    "sourceTag": "dream",
-    "rating": 4.0,
-    "votes": 8,
-    "typeLabel": "movie",
-    "year": "2011",
-    "seasonIndex": 3,
-    "ageRating": "G",
-    "description": "",
-    "genres": [
-      "Детское",
-      "Экшен",
-      "Приключения",
-      "Фэнтези"
-    ],
-    "genreIds": [
-      15,
-      1,
-      2,
-      10
-    ],
-    "tags": [],
-    "tagIds": [],
-    "anotherName": "Квиба / Kuiba / Kuiba: The Urgent",
-    "ruNames": [
-      "Куйба"
-    ],
-    "enNames": [
-      "Квиба",
-      "Kuiba",
-      "Kuiba: The Urgent",
-      "Cribug",
-      "Greatbug",
-      "Kuiba Movie 1: Zhi Shiwanhuoji",
-      "Kuiba Zhi Shiwanhuoji",
-      "Kuiba: Zhi Shiwanhuoji",
-      "魁拔",
-      "魁拔1：十万火急",
-      "魁拔之十万火急"
-    ],
-    "shikimoriId": 16756,
-    "malId": 16756,
-    "isAgeRestricted": false,
-    "isLicensed": false,
-    "blockedIn": [],
-    "licenseNameRu": "",
-    "licensors": [],
-    "updatedAtSec": 1674776180,
-    "lastAirDateSec": 1310126400,
-    "bannerUrl": "",
-    "studio": "Vasoon Animation",
-    "director": "Ван Чуань",
-    "sourceWork": "Оригинальная идея",
-    "releaseDate": "2011-01-01",
-    "episodeDates": [
-      1674776180
-    ],
-    "totalEpisodes": 1,
-    "airedEpisodes": 1,
-    "yummyAlias": "kviba"
-  },
-  {
-    "id": 5618,
-    "slugUrl": "dream:5618",
-    "name": "Дневник будущего: Повторный вызов",
-    "rusName": "Дневник будущего: Повторный вызов",
-    "engName": "The Future Diary: Redial",
-    "coverUrl": "",
-    "coverFallbackUrl": "",
-    "status": "released",
-    "sourceTag": "dream",
-    "rating": 7.62983947092731,
-    "votes": 1059,
-    "typeLabel": "ova",
-    "year": "2013",
-    "seasonIndex": 2,
-    "ageRating": "R-17+",
-    "description": "Бог времени приглашает двенадцать владельцев «дневников будущего» в смертную игру за свой трон. Юкитэру занимает место среди них — и вместе с одноклассницей Юно ведёт эту гонку предсказанных смертей до финала; сезон, пилот и продолжения собирают её целиком.",
-    "genres": [
-      "Сверхъестественное",
-      "Психологическое",
-      "Сёнен"
-    ],
-    "genreIds": [
-      37,
-      40,
-      27
-    ],
-    "tags": [],
-    "tagIds": [],
-    "anotherName": "Mirai Nikki OVA",
-    "ruNames": [
-      "Дневник будущего: Повторный вызов",
-      "Дневник будущего: Повторный набор"
-    ],
-    "enNames": [
-      "The Future Diary: Redial",
-      "Mirai Nikki OVA",
-      "Future Diary Redial",
-      "Future Diary: Redial",
-      "Mirai Nikki Redial",
-      "Mirai Nikki Redial: Data Ikou",
-      "Mirai Nikki: El Diaro del Futuro - Transferencia de datos",
-      "Pamiętnik przyszłości Oddzwoń: Migracja danych",
-      "The Future Diary OVA",
-      "The Future Diary Redial: Data Migration",
-      "mn:redial ova",
-      "mnova"
-    ],
-    "shikimoriId": 16762,
-    "malId": 16762,
-    "isAgeRestricted": true,
-    "isLicensed": false,
-    "blockedIn": [],
-    "licenseNameRu": "",
-    "licensors": [],
-    "updatedAtSec": 1674827214,
-    "lastAirDateSec": 1371643200,
-    "bannerUrl": "",
-    "studio": "asread.",
-    "director": "Хосода Наото",
-    "sourceWork": "Манга",
-    "releaseDate": "2013-01-01",
-    "episodeDates": [
-      1674827214
-    ],
-    "totalEpisodes": 1,
-    "airedEpisodes": 1,
-    "yummyAlias": "dnevnik-buduschego-povtornyy-vyzov"
-  },
-  {
     "id": 5619,
     "slugUrl": "dream:5619",
     "name": "Адский полицейский",
@@ -335,6 +44,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "comix wave films",
+      "trigger"
+    ],
     "updatedAtSec": 1751850006,
     "lastAirDateSec": 1363694400,
     "bannerUrl": "",
@@ -416,6 +129,13 @@
       "Reanimedia",
       "Иноекино"
     ],
+    "producers": [
+      "comix wave films",
+      "sentai filmworks",
+      "shinkai creative",
+      "the answer studio",
+      "toho animation"
+    ],
     "officialLinks": {
       "wink": "https://wink.ru/movies/sad-izyashchnykh-slov-year-2013"
     },
@@ -485,6 +205,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "adda audio visual ltd.",
+      "hapdong donghwa"
+    ],
     "updatedAtSec": 1674776162,
     "lastAirDateSec": 410270400,
     "bannerUrl": "",
@@ -556,6 +280,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "brain's base"
+    ],
     "updatedAtSec": 1674414389,
     "lastAirDateSec": 1376308800,
     "bannerUrl": "",
@@ -625,9 +352,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
-    "officialLinks": {
-      "deep": "https://deep-ent.ru/anime/skazhi-ya-lyublyu-tebya"
-    },
+    "producers": [
+      "zexcs"
+    ],
     "updatedAtSec": 1674776400,
     "lastAirDateSec": 1374667200,
     "bannerUrl": "",
@@ -708,6 +435,16 @@
     "licensors": [
       "Централ Партнершип",
       "All Media Company"
+    ],
+    "producers": [
+      "aniplex",
+      "bandai co., ltd.",
+      "dentsu inc.",
+      "naruto the movie production committee 2014",
+      "shueisha",
+      "studio pierrot",
+      "tv tokyo",
+      "viz media"
     ],
     "updatedAtSec": 1790405691,
     "lastAirDateSec": 1417867200,
@@ -796,6 +533,15 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "doga kobo",
+      "makai ōji production committee",
+      "pierrot",
+      "pony canyon",
+      "sentai filmworks",
+      "sotsu co., ltd.",
+      "tv tokyo"
+    ],
     "updatedAtSec": 1674826971,
     "lastAirDateSec": 1379937600,
     "bannerUrl": "",
@@ -884,6 +630,19 @@
     "licenseNameRu": "Баскетбол Куроко 2",
     "licensors": [
       "Netflix"
+    ],
+    "producers": [
+      "bandai visual",
+      "banpresto",
+      "bs11",
+      "kuroko's basketball production committee",
+      "lantis",
+      "mainichi broadcasting system",
+      "nas",
+      "nihon ad systems",
+      "nippon bs broadcasting corporation",
+      "production i.g",
+      "shueisha"
     ],
     "updatedAtSec": 1690057043,
     "lastAirDateSec": 1396180800,
@@ -977,6 +736,15 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "glovision",
+      "gohands",
+      "klockworx",
+      "mainichi broadcasting system",
+      "starchild records",
+      "the klock worx",
+      "viz media"
+    ],
     "updatedAtSec": 1677783142,
     "lastAirDateSec": 1405166400,
     "bannerUrl": "",
@@ -1042,6 +810,18 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "frontier works",
+      "half h.p studio",
+      "king records",
+      "kodansha",
+      "memory-tech",
+      "namiuchigawa no muromi-san production committee",
+      "starchild records",
+      "studio tulip",
+      "tatsunoko production",
+      "the klockworx co., ltd."
+    ],
     "updatedAtSec": 1674826816,
     "lastAirDateSec": 1372593600,
     "bannerUrl": "",
@@ -1122,6 +902,11 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "bandai visual",
+      "lantis",
+      "production i.g"
+    ],
     "updatedAtSec": 1702495774,
     "lastAirDateSec": 1361534400,
     "bannerUrl": "",
@@ -1193,6 +978,16 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "a-1 pictures",
+      "aniplex of america",
+      "dax production",
+      "dentsu inc.",
+      "ezono production committee",
+      "fuji television network",
+      "fuji tv",
+      "kyoraku industrial holdings co.,ltd."
+    ],
     "updatedAtSec": 1674827158,
     "lastAirDateSec": 1379678400,
     "bannerUrl": "",
@@ -1274,6 +1069,16 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "geneon universal entertainment",
+      "hayate project",
+      "manglobe",
+      "movic",
+      "sentai filmworks",
+      "shogakukan-shueisha productions",
+      "tokyo tv",
+      "tv tokyo"
+    ],
     "updatedAtSec": 1751850410,
     "lastAirDateSec": 1372766400,
     "bannerUrl": "",
@@ -1360,6 +1165,12 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "aniplex of america",
+      "cyclone graphics inc",
+      "kodansha",
+      "shaft"
+    ],
     "updatedAtSec": 1677764995,
     "lastAirDateSec": 1388318400,
     "bannerUrl": "",
@@ -1454,6 +1265,12 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "fafner exodus project",
+      "mainichi broadcasting system",
+      "starchild records",
+      "xebec zwei"
+    ],
     "updatedAtSec": 1674826976,
     "lastAirDateSec": 1428062400,
     "bannerUrl": "",
@@ -1529,6 +1346,13 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "aiura production committee",
+      "lidenfilms",
+      "pony canyon",
+      "tohokushinsha film corporation",
+      "tv tokyo"
+    ],
     "updatedAtSec": 1674775969,
     "lastAirDateSec": 1372248000,
     "bannerUrl": "",
@@ -1603,6 +1427,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "comix wave films",
+      "the answer studio"
+    ],
     "updatedAtSec": 1674776042,
     "lastAirDateSec": 1360497600,
     "bannerUrl": "",
@@ -1666,6 +1494,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "tatsunoko production",
+      "tv asahi"
+    ],
     "updatedAtSec": 1674776196,
     "lastAirDateSec": 512049600,
     "bannerUrl": "",
@@ -1753,6 +1585,13 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "froebel-kan co., ltd.",
+      "nippon television network",
+      "tms entertainment",
+      "vap",
+      "yanase studio"
+    ],
     "updatedAtSec": 1674776285,
     "lastAirDateSec": 1026561600,
     "bannerUrl": "",
@@ -1823,6 +1662,17 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "at-x",
+      "funimation",
+      "genco",
+      "kadokawa shoten",
+      "lerche",
+      "media factory",
+      "movic",
+      "showgate",
+      "unbreakable machine-doll production committee"
+    ],
     "updatedAtSec": 1674776379,
     "lastAirDateSec": 1387800000,
     "bannerUrl": "",
@@ -1895,6 +1745,11 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "dongwoo a&e",
+      "tatsunoko production",
+      "tv tokyo"
+    ],
     "updatedAtSec": 1674776416,
     "lastAirDateSec": 1396094400,
     "bannerUrl": "",
@@ -2008,6 +1863,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "production i.g"
+    ],
     "updatedAtSec": 1748191451,
     "lastAirDateSec": 1356091200,
     "bannerUrl": "",
@@ -2120,6 +1978,11 @@
     "licensors": [
       "Crunchyroll"
     ],
+    "producers": [
+      "nhk enterprises",
+      "satelight",
+      "sentai filmworks"
+    ],
     "updatedAtSec": 1677765127,
     "lastAirDateSec": 1395489600,
     "bannerUrl": "",
@@ -2207,6 +2070,14 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "bushiroad inc.",
+      "bushiroad music",
+      "chrono gear creative",
+      "j.c.staff",
+      "nomad",
+      "sotsu"
+    ],
     "updatedAtSec": 1674776441,
     "lastAirDateSec": 1380369600,
     "bannerUrl": "",
@@ -2292,6 +2163,15 @@
       "Централ Партнершип",
       "FAN"
     ],
+    "producers": [
+      "kinoshita group",
+      "kinoshita koumuten",
+      "marza animation planet",
+      "sammy",
+      "toei animation",
+      "toei company, ltd.",
+      "toei video co., ltd."
+    ],
     "updatedAtSec": 1674776116,
     "lastAirDateSec": 1378555200,
     "bannerUrl": "",
@@ -2351,6 +2231,11 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "frontier works",
+      "funimation",
+      "studio deen"
+    ],
     "updatedAtSec": 1674776577,
     "lastAirDateSec": 1383134400,
     "bannerUrl": "",
@@ -2413,6 +2298,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "wako productions"
+    ],
     "updatedAtSec": 1682678004,
     "lastAirDateSec": 567086400,
     "bannerUrl": "",
@@ -2470,6 +2358,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "kachidoki studio"
+    ],
     "updatedAtSec": 1697059931,
     "lastAirDateSec": 1364472000,
     "bannerUrl": "",
@@ -2540,6 +2431,11 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "capcom",
+      "group tac",
+      "studio pierrot"
+    ],
     "updatedAtSec": 1692658882,
     "lastAirDateSec": 796478400,
     "bannerUrl": "",
@@ -2614,6 +2510,11 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "nhk enterprises",
+      "sogo vision",
+      "studio pierrot"
+    ],
     "updatedAtSec": 1751850141,
     "lastAirDateSec": 1393761600,
     "bannerUrl": "",
@@ -2719,6 +2620,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "lidenfilms",
+      "ordet"
+    ],
     "updatedAtSec": 1715329378,
     "lastAirDateSec": 1385121600,
     "bannerUrl": "",
@@ -2778,6 +2683,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "hoods entertainment",
+      "kodansha"
+    ],
     "updatedAtSec": 1674826874,
     "lastAirDateSec": 1372766400,
     "bannerUrl": "",
@@ -2841,6 +2750,7 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [],
     "updatedAtSec": 1674776537,
     "lastAirDateSec": 1369915200,
     "bannerUrl": "",
@@ -2920,9 +2830,11 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
-    "officialLinks": {
-      "deep": "https://deep-ent.ru/anime/skazhi-ya-lyublyu-tebya"
-    },
+    "producers": [
+      "sentai filmworks",
+      "starchild records",
+      "zexcs"
+    ],
     "updatedAtSec": 1702273349,
     "lastAirDateSec": 1369224000,
     "bannerUrl": "",
@@ -3001,6 +2913,18 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "a-1 pictures",
+      "aniplex",
+      "bandai namco entertainment",
+      "bandai namco games",
+      "banpresto",
+      "columbia music entertainment",
+      "project im@s",
+      "rakuonsha",
+      "tbs",
+      "tokyo broadcasting system"
+    ],
     "updatedAtSec": 1674776050,
     "lastAirDateSec": 1390651200,
     "bannerUrl": "",
@@ -3074,6 +2998,12 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "avex pictures",
+      "dentsu inc.",
+      "seven arcs pictures",
+      "tv tokyo"
+    ],
     "updatedAtSec": 1674826932,
     "lastAirDateSec": 1380542400,
     "bannerUrl": "",
@@ -3168,6 +3098,14 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "at-x",
+      "frontier works",
+      "idea factory",
+      "sentai filmworks",
+      "showgate",
+      "zexcs"
+    ],
     "updatedAtSec": 1722275495,
     "lastAirDateSec": 1386590400,
     "bannerUrl": "",
@@ -3246,6 +3184,17 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "a-1 pictures",
+      "dentsu",
+      "funimation",
+      "satelight",
+      "dentsu inc.",
+      "kodansha",
+      "pony canyon",
+      "shochiku",
+      "tv tokyo"
+    ],
     "updatedAtSec": 1721574095,
     "lastAirDateSec": 1360929600,
     "bannerUrl": "",
@@ -3314,6 +3263,19 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "access",
+      "at-x",
+      "grooove",
+      "kadokawa shoten",
+      "lantis",
+      "media factory",
+      "sentai filmworks",
+      "silver link.",
+      "sony music communications",
+      "tv tokyo",
+      "kadokawa"
+    ],
     "updatedAtSec": 1674776383,
     "lastAirDateSec": 1387886400,
     "bannerUrl": "",
@@ -3389,6 +3351,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "ankama"
+    ],
     "updatedAtSec": 1674827065,
     "lastAirDateSec": 1361534400,
     "bannerUrl": "",
@@ -3456,6 +3421,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "a-1 pictures",
+      "digital media lab"
+    ],
     "updatedAtSec": 1787175184,
     "lastAirDateSec": 1342872000,
     "bannerUrl": "",
@@ -3517,6 +3486,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "bandai visual",
+      "tsuburaya productions"
+    ],
     "updatedAtSec": 1674776159,
     "lastAirDateSec": 843652800,
     "bannerUrl": "",
@@ -3577,6 +3550,15 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "chara-ani.com",
+      "comptiq",
+      "encourage films",
+      "kadokawa shoten",
+      "lantis",
+      "ordet",
+      "the klockworx co., ltd."
+    ],
     "updatedAtSec": 1751854596,
     "lastAirDateSec": 1372680000,
     "bannerUrl": "",
@@ -3650,6 +3632,11 @@
     "licensors": [
       "Wakanim"
     ],
+    "producers": [
+      "aic plus+",
+      "funimation",
+      "nippon columbia"
+    ],
     "updatedAtSec": 1706694754,
     "lastAirDateSec": 1386331200,
     "bannerUrl": "",
@@ -3711,6 +3698,17 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "aic",
+      "anima",
+      "aniplex of america",
+      "asahi broadcasting corporation",
+      "bushiroad",
+      "good smile company",
+      "nas",
+      "nihon ad systems",
+      "progetto gen'ei taiyō"
+    ],
     "updatedAtSec": 1674827068,
     "lastAirDateSec": 1380369600,
     "bannerUrl": "",
@@ -3784,6 +3782,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "shueisha",
+      "studio anima"
+    ],
     "updatedAtSec": 1703864079,
     "lastAirDateSec": 966600000,
     "bannerUrl": "",
@@ -3844,6 +3846,15 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "bandai namco games",
+      "bandai visual",
+      "dentsu inc.",
+      "lantis",
+      "sentai filmworks",
+      "shochiku",
+      "sunrise"
+    ],
     "updatedAtSec": 1674776269,
     "lastAirDateSec": 1374321600,
     "bannerUrl": "",
@@ -3907,6 +3918,17 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "cospa",
+      "geneon universal entertainment",
+      "gonzo",
+      "gree",
+      "leviathan production committee",
+      "sentai filmworks",
+      "studio pierrot",
+      "tv tokyo",
+      "zero-a"
+    ],
     "updatedAtSec": 1674827191,
     "lastAirDateSec": 1373112000,
     "bannerUrl": "",
@@ -3976,6 +3998,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "group tac"
+    ],
     "updatedAtSec": 1674826907,
     "lastAirDateSec": 556027200,
     "bannerUrl": "",
@@ -4048,6 +4073,17 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "bandai co., ltd.",
+      "bandai namco games",
+      "happinet pictures",
+      "nippon columbia",
+      "shueisha",
+      "toei animation",
+      "toei video co., ltd.",
+      "toriko 2013 production committee",
+      "yomiko advertising, inc."
+    ],
     "updatedAtSec": 1674776376,
     "lastAirDateSec": 1374926400,
     "bannerUrl": "",
@@ -4109,6 +4145,14 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "ajia-do",
+      "ajiado",
+      "asia-do",
+      "north stars pictures",
+      "sentai filmworks",
+      "tv tokyo"
+    ],
     "updatedAtSec": 1674776484,
     "lastAirDateSec": 1372248000,
     "bannerUrl": "",
@@ -4189,6 +4233,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "sunrise"
+    ],
     "updatedAtSec": 1775671247,
     "lastAirDateSec": 1361534400,
     "bannerUrl": "",
@@ -4255,6 +4302,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "manglobe",
+      "sentai filmworks"
+    ],
     "updatedAtSec": 1674775988,
     "lastAirDateSec": 1371556800,
     "bannerUrl": "",
@@ -4319,6 +4370,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "passione",
+      "ryukyu asahi broadcasting"
+    ],
     "updatedAtSec": 1674776355,
     "lastAirDateSec": 1372507200,
     "bannerUrl": "",
@@ -4414,6 +4469,20 @@
     ],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "8 bit",
+      "8bit",
+      "at-x",
+      "bushiroad",
+      "front wing",
+      "frontier works",
+      "frontwing",
+      "i0plus inc.",
+      "magic capsule",
+      "nbcuniversal entertainment japan",
+      "project grisaia",
+      "sentai filmworks"
+    ],
     "updatedAtSec": 1677764765,
     "lastAirDateSec": 1419768000,
     "bannerUrl": "",
@@ -4492,6 +4561,16 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "aniplex",
+      "hidamari apartments administration",
+      "houbunsha",
+      "lantis",
+      "movic",
+      "shaft",
+      "tbs",
+      "tokyo broadcasting system"
+    ],
     "updatedAtSec": 1697059928,
     "lastAirDateSec": 1385553600,
     "bannerUrl": "",
@@ -4563,6 +4642,16 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "animax",
+      "arms",
+      "enterbrain",
+      "flying dog",
+      "genco",
+      "kadokawa shoten",
+      "movic",
+      "pony canyon"
+    ],
     "updatedAtSec": 1707996201,
     "lastAirDateSec": 1362830400,
     "bannerUrl": "",
@@ -4625,6 +4714,14 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "dax production",
+      "kadokawa pictures japan",
+      "kansai telecasting corporation",
+      "kansai tv",
+      "studio deen",
+      "tokai television"
+    ],
     "updatedAtSec": 1678665919,
     "lastAirDateSec": 1283515200,
     "bannerUrl": "",
@@ -4687,6 +4784,14 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "dax production",
+      "kadokawa pictures japan",
+      "kansai telecasting corporation",
+      "kansai tv",
+      "studio deen",
+      "tokai television"
+    ],
     "updatedAtSec": 1678665919,
     "lastAirDateSec": 1314964800,
     "bannerUrl": "",
@@ -4763,6 +4868,17 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "bushiroad",
+      "discotek media",
+      "frontier works",
+      "lantis",
+      "magic capsule",
+      "media factory",
+      "project no.9",
+      "showgate",
+      "the klockworx co., ltd."
+    ],
     "updatedAtSec": 1674776396,
     "lastAirDateSec": 1395576000,
     "bannerUrl": "",
@@ -4842,6 +4958,16 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "gainax",
+      "mcray",
+      "movic",
+      "pony canyon",
+      "sentai filmworks",
+      "stella production committe",
+      "tbs",
+      "tokyo broadcasting system"
+    ],
     "updatedAtSec": 1674827009,
     "lastAirDateSec": 1380283200,
     "bannerUrl": "",
@@ -4918,6 +5044,16 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "brave hearts",
+      "bravehearts",
+      "dmm.com labo",
+      "felix film",
+      "funimation",
+      "hobibox",
+      "hoods entertainment",
+      "tis"
+    ],
     "updatedAtSec": 1674826949,
     "lastAirDateSec": 1419508800,
     "bannerUrl": "",
@@ -4994,6 +5130,17 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "avex entertainment",
+      "avex pictures",
+      "dle",
+      "enterbrain",
+      "gonzo",
+      "inuhasa production committee",
+      "sentai filmworks",
+      "studio mausu",
+      "xing, inc."
+    ],
     "updatedAtSec": 1674776423,
     "lastAirDateSec": 1379419200,
     "bannerUrl": "",
@@ -5065,6 +5212,12 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "dax production",
+      "dream creation",
+      "hotline",
+      "takeshobo"
+    ],
     "updatedAtSec": 1674776096,
     "lastAirDateSec": 1372161600,
     "bannerUrl": "",
@@ -5143,6 +5296,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "feel."
+    ],
     "updatedAtSec": 1674776587,
     "lastAirDateSec": 1427284800,
     "bannerUrl": "",
@@ -5210,6 +5366,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "nomad"
+    ],
     "updatedAtSec": 1674827094,
     "lastAirDateSec": 1285329600,
     "bannerUrl": "",
@@ -5283,9 +5442,12 @@
     "licensors": [
       "DEEP"
     ],
-    "officialLinks": {
-      "deep": "https://deep-ent.ru/anime/zolotaya-pora"
-    },
+    "producers": [
+      "genco",
+      "king records",
+      "sentai filmworks",
+      "starchild records"
+    ],
     "updatedAtSec": 1699378957,
     "lastAirDateSec": 1396008000,
     "bannerUrl": "",
@@ -5374,6 +5536,18 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "bandai visual",
+      "good smile company",
+      "kids station",
+      "lantis",
+      "magic capsule",
+      "nis america, inc.",
+      "p.a. works",
+      "uchōten kazoku production committee",
+      "yomiuri telecasting",
+      "ytv"
+    ],
     "updatedAtSec": 1674776362,
     "lastAirDateSec": 1380456000,
     "bannerUrl": "",
@@ -5451,6 +5625,20 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "bs fuji",
+      "dentsu razorfish",
+      "gainax",
+      "hōkago no pleiades production committee",
+      "klockworx",
+      "lawson hmv entertainment",
+      "sentai filmworks",
+      "showgate",
+      "subaru",
+      "warner bros. japan",
+      "dentsu inc.",
+      "dentsu tec"
+    ],
     "updatedAtSec": 1677776050,
     "lastAirDateSec": 1435233600,
     "bannerUrl": "",
@@ -5534,9 +5722,11 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
-    "officialLinks": {
-      "deep": "https://deep-ent.ru/anime/lirichnaya-volshebnica-nanoha"
-    },
+    "producers": [
+      "discotek",
+      "seven arcs pictures",
+      "shochiku"
+    ],
     "updatedAtSec": 1674776402,
     "lastAirDateSec": 1500724800,
     "bannerUrl": "",
@@ -5614,6 +5804,20 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "a.c.g.t.",
+      "at-x",
+      "bushiroad",
+      "dax production",
+      "eswood",
+      "freezing vibration production committee",
+      "funimation",
+      "kadokawa",
+      "kill time communication",
+      "media factory",
+      "s-wood",
+      "t.o entertainment"
+    ],
     "updatedAtSec": 1709068112,
     "lastAirDateSec": 1387540800,
     "bannerUrl": "",
@@ -5692,6 +5896,9 @@
     "blockedIn": [],
     "licenseNameRu": "Привет, Китти: Чудесные сёстры",
     "licensors": [],
+    "producers": [
+      "sanrio"
+    ],
     "updatedAtSec": 1735381852,
     "lastAirDateSec": 737985600,
     "bannerUrl": "",
@@ -5762,6 +5969,13 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "rozen maiden production committee",
+      "sentai filmworks",
+      "studio deen",
+      "tbs",
+      "tokyo broadcasting system"
+    ],
     "updatedAtSec": 1674776329,
     "lastAirDateSec": 1380283200,
     "bannerUrl": "",
@@ -5829,6 +6043,12 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "kadokawa contents gate",
+      "moogoo",
+      "studio ranmaru",
+      "tms entertainment"
+    ],
     "updatedAtSec": 1692918894,
     "lastAirDateSec": 1280923200,
     "bannerUrl": "",
@@ -5900,6 +6120,17 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "bandai visual",
+      "dax production",
+      "frontier works",
+      "hakkenden project",
+      "lantis",
+      "movic",
+      "sentai filmworks",
+      "sony pcl",
+      "studio deen"
+    ],
     "updatedAtSec": 1674827009,
     "lastAirDateSec": 1380456000,
     "bannerUrl": "",
@@ -5980,6 +6211,16 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "frontier works",
+      "funimation",
+      "kadokawa",
+      "landq studios",
+      "movic",
+      "sb creative corp.",
+      "silver link.",
+      "square enix"
+    ],
     "updatedAtSec": 1674827117,
     "lastAirDateSec": 1396094400,
     "bannerUrl": "",
@@ -6062,6 +6303,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "seven",
+      "takeshobo"
+    ],
     "updatedAtSec": 1674826984,
     "lastAirDateSec": 1379937600,
     "bannerUrl": "",
@@ -6153,6 +6398,17 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "a-1 pictures",
+      "aniplex of america",
+      "dentsu inc.",
+      "gyao!",
+      "magi production committee",
+      "mainichi broadcasting system",
+      "movic",
+      "shogakukan productions",
+      "shogakukan-shueisha productions"
+    ],
     "updatedAtSec": 1703773696,
     "lastAirDateSec": 1396180800,
     "bannerUrl": "",
@@ -6243,6 +6499,14 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "a-1 pictures",
+      "aniplex of america",
+      "asahi broadcasting corporation",
+      "half h.p studio",
+      "servant × service production committee",
+      "three s studio"
+    ],
     "updatedAtSec": 1674472428,
     "lastAirDateSec": 1380369600,
     "bannerUrl": "",
@@ -6323,6 +6587,12 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "dax production",
+      "earth star entertainment",
+      "mappa",
+      "millepensee"
+    ],
     "updatedAtSec": 1674472497,
     "lastAirDateSec": 1379851200,
     "bannerUrl": "",
@@ -6398,6 +6668,19 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "anime no seki-kun production committee",
+      "at-x",
+      "gyao!",
+      "kadokawa",
+      "king records",
+      "media factory",
+      "sentai filmworks",
+      "shin-ei animation",
+      "shogakukan-shueisha productions",
+      "starchild records",
+      "tv tokyo"
+    ],
     "updatedAtSec": 1677775998,
     "lastAirDateSec": 1401105600,
     "bannerUrl": "",
@@ -6490,6 +6773,15 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "kyoto animation",
+      "kyōkai no kanata production committee",
+      "lantis",
+      "pony canyon",
+      "sentai filmworks",
+      "tbs",
+      "tokyo broadcasting system"
+    ],
     "updatedAtSec": 1677766155,
     "lastAirDateSec": 1387454400,
     "bannerUrl": "",
@@ -6561,6 +6853,11 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "akita shoten",
+      "tms entertainment",
+      "toho animation"
+    ],
     "updatedAtSec": 1674776184,
     "lastAirDateSec": 1375963200,
     "bannerUrl": "",
@@ -6627,6 +6924,19 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "akita publishing",
+      "akita shoten",
+      "half h.p studio",
+      "medianet",
+      "tms entertainment",
+      "toho animation",
+      "toho company",
+      "tv tokyo",
+      "yowamushi petal production committee",
+      "toho",
+      "tv tokyo medianet"
+    ],
     "updatedAtSec": 1674827191,
     "lastAirDateSec": 1404216000,
     "bannerUrl": "",
@@ -6737,6 +7047,17 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "bushiroad",
+      "j.c. staff",
+      "j.c.staff",
+      "sentai filmworks",
+      "showgate",
+      "team little busters! refrain",
+      "visual arts/key",
+      "warner bros. japan",
+      "yomiko advertising, inc."
+    ],
     "updatedAtSec": 1674776388,
     "lastAirDateSec": 1388232000,
     "bannerUrl": "",
@@ -6812,6 +7133,15 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "dax production",
+      "gatchaman crowds production committee",
+      "nippon television network corporation",
+      "sentai filmworks",
+      "sound inn studio",
+      "tatsunoko production",
+      "vap"
+    ],
     "updatedAtSec": 1790406017,
     "lastAirDateSec": 1380369600,
     "bannerUrl": "",
@@ -6893,6 +7223,13 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "aquaplus",
+      "king records",
+      "project w.a.2",
+      "satelight",
+      "starchild records"
+    ],
     "updatedAtSec": 1674827168,
     "lastAirDateSec": 1388318400,
     "bannerUrl": "",
@@ -6980,6 +7317,17 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "8 bit",
+      "8bit",
+      "lantis",
+      "overlap",
+      "project is",
+      "sentai filmworks",
+      "sony music communications",
+      "tbs",
+      "tokyo broadcasting system"
+    ],
     "updatedAtSec": 1751850758,
     "lastAirDateSec": 1387540800,
     "bannerUrl": "",
@@ -7066,6 +7414,20 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "ascii media works",
+      "at-x",
+      "connect",
+      "discotek media",
+      "klockworx",
+      "movic",
+      "project stb",
+      "showgate",
+      "silver link.",
+      "the klockworx co., ltd.",
+      "warner bros. japan",
+      "warner home video & digital distribution"
+    ],
     "updatedAtSec": 1677766044,
     "lastAirDateSec": 1396008000,
     "bannerUrl": "",
@@ -7162,6 +7524,18 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "aniplex of america",
+      "bandai co., ltd.",
+      "bandai namco entertainment",
+      "bandai namco games",
+      "dentsu inc.",
+      "king records",
+      "mainichi broadcasting system",
+      "movic",
+      "sunrise",
+      "vvv committee"
+    ],
     "updatedAtSec": 1674776120,
     "lastAirDateSec": 1388145600,
     "bannerUrl": "",
@@ -7239,6 +7613,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "actas"
+    ],
     "updatedAtSec": 1769951047,
     "lastAirDateSec": 1371816000,
     "bannerUrl": "",
@@ -7308,6 +7685,11 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "a-1 pictures",
+      "kodansha",
+      "satelight"
+    ],
     "updatedAtSec": 1774600622,
     "lastAirDateSec": 1376654400,
     "bannerUrl": "",
@@ -7394,6 +7776,16 @@
       "DEEP",
       "FAN"
     ],
+    "producers": [
+      "attack on titan oad production committee",
+      "dentsu",
+      "kodansha",
+      "mainichi broadcasting system",
+      "pony canyon enterprise",
+      "production i.g",
+      "pony canyon enterprises",
+      "shingeki no kyojin team"
+    ],
     "updatedAtSec": 1744726227,
     "lastAirDateSec": 1407499200,
     "bannerUrl": "",
@@ -7463,6 +7855,20 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "at-x",
+      "diomedea",
+      "gingitsune production committee",
+      "glovision",
+      "klockworx",
+      "lantis",
+      "medianet",
+      "movic",
+      "pony canyon",
+      "sentai filmworks",
+      "shueisha",
+      "the klockworx co., ltd."
+    ],
     "updatedAtSec": 1674776519,
     "lastAirDateSec": 1387800000,
     "bannerUrl": "",
@@ -7532,6 +7938,11 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "production i.g",
+      "studio puyukai",
+      "viz media"
+    ],
     "updatedAtSec": 1757175711,
     "lastAirDateSec": 1372852800,
     "bannerUrl": "",
@@ -7615,6 +8026,20 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "chukyo tv. broadcasting co., ltd.",
+      "discotek media",
+      "fukuoka broadcasting corporation",
+      "hiroshima tv",
+      "lupin iii vs detective conan production committee",
+      "lupin iii vs detective conan the movie production committee",
+      "miyagi television broadcasting co., ltd.",
+      "nippon television network",
+      "selecta visión",
+      "shizuoka daiichi television corporation",
+      "shogakukan-shueisha productions",
+      "the sapporo television broadcasting co., ltd."
+    ],
     "updatedAtSec": 1789132840,
     "lastAirDateSec": 1386417600,
     "bannerUrl": "",
@@ -7687,6 +8112,11 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "brain's base",
+      "kadokawa shoten",
+      "viz media"
+    ],
     "updatedAtSec": 1674776518,
     "lastAirDateSec": 1386158400,
     "bannerUrl": "",
@@ -7753,6 +8183,11 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "cruise",
+      "sunrise",
+      "sotsu co., ltd."
+    ],
     "updatedAtSec": 1674827077,
     "lastAirDateSec": 1251979200,
     "bannerUrl": "",
@@ -7807,6 +8242,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "j.c.staff"
+    ],
     "updatedAtSec": 1684969581,
     "lastAirDateSec": 716040000,
     "bannerUrl": "",
@@ -7877,6 +8315,15 @@
     ],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "genshiken nidaime production committee",
+      "king records",
+      "kodansha",
+      "nis america inc.",
+      "nis america, inc.",
+      "production i.g",
+      "starchild records"
+    ],
     "updatedAtSec": 1674827165,
     "lastAirDateSec": 1380456000,
     "bannerUrl": "",
@@ -7954,6 +8401,15 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "go home club production committee",
+      "nippon television network",
+      "vap",
+      "nippon television network corporation",
+      "nis america, inc.",
+      "nomad",
+      "sound inn studio"
+    ],
     "updatedAtSec": 1751850403,
     "lastAirDateSec": 1381492800,
     "bannerUrl": "",
@@ -8032,6 +8488,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "tatsunoko production"
+    ],
     "updatedAtSec": 1674827156,
     "lastAirDateSec": 1388318400,
     "bannerUrl": "",
@@ -8112,6 +8571,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "studio guts",
+      "tatsunoko production"
+    ],
     "updatedAtSec": 1675419341,
     "lastAirDateSec": 1415361600,
     "bannerUrl": "",
@@ -8181,6 +8644,16 @@
     "licenseNameRu": "Вольный!",
     "licensors": [
       "Crunchyroll"
+    ],
+    "producers": [
+      "animation do",
+      "asahi broadcasting corporation",
+      "crunchyroll",
+      "discotek media",
+      "iwatobi high school swimming club",
+      "kyoto animation",
+      "lantis",
+      "pony canyon"
     ],
     "updatedAtSec": 1674776303,
     "lastAirDateSec": 1380196800,
@@ -8259,6 +8732,7 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [],
     "updatedAtSec": 1787351075,
     "lastAirDateSec": 890308800,
     "bannerUrl": "",
@@ -8329,6 +8803,19 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "bandai visual",
+      "barnum studio",
+      "dwango",
+      "good smile company",
+      "karaoke no tetsujin",
+      "lantis",
+      "lidenfilms",
+      "ordet",
+      "q-tec",
+      "senyū. production committee",
+      "tv tokyo"
+    ],
     "updatedAtSec": 1674776346,
     "lastAirDateSec": 1380110400,
     "bannerUrl": "",
@@ -8402,6 +8889,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "funimation",
+      "production i.g"
+    ],
     "updatedAtSec": 1675328801,
     "lastAirDateSec": 1323259200,
     "bannerUrl": "",
@@ -8466,6 +8957,11 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "agent 21",
+      "toei animation",
+      "toei video"
+    ],
     "updatedAtSec": 1726773542,
     "lastAirDateSec": 560174400,
     "bannerUrl": "",
@@ -8528,6 +9024,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "j.c.staff"
+    ],
     "updatedAtSec": 1674826842,
     "lastAirDateSec": 1363521600,
     "bannerUrl": "",
@@ -8586,6 +9085,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "toei animation"
+    ],
     "updatedAtSec": 1697030382,
     "lastAirDateSec": 647352000,
     "bannerUrl": "",
@@ -8667,6 +9169,18 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "actas",
+      "bandai visual",
+      "graphinica",
+      "hakuhodo dy media partners",
+      "hakuhodo dy music & pictures",
+      "lantis",
+      "movic",
+      "q-tec",
+      "sentai filmworks",
+      "showgate"
+    ],
     "updatedAtSec": 1677782830,
     "lastAirDateSec": 1448107200,
     "bannerUrl": "",
@@ -8734,6 +9248,14 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "actas",
+      "bandai visual",
+      "lantis",
+      "movic",
+      "q-tec",
+      "sentai filmworks"
+    ],
     "updatedAtSec": 0,
     "lastAirDateSec": 1406289600,
     "bannerUrl": "",
@@ -8807,6 +9329,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "universal music japan",
+      "tms entertainment"
+    ],
     "updatedAtSec": 1674776265,
     "lastAirDateSec": 1377000000,
     "bannerUrl": "",
@@ -8876,6 +9402,13 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "kyoto animation",
+      "lantis",
+      "pony canyon",
+      "tbs",
+      "tokyo broadcasting system"
+    ],
     "updatedAtSec": 1674776359,
     "lastAirDateSec": 1395921600,
     "bannerUrl": "",
@@ -8958,6 +9491,19 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "asread",
+      "chara-ani.com",
+      "docomo anime store",
+      "fujimi shobo",
+      "kadokawa shoten",
+      "klockworx",
+      "lantis",
+      "magic shop leon",
+      "rakuonsha",
+      "sentai filmworks",
+      "the klockworx co., ltd."
+    ],
     "updatedAtSec": 1674776273,
     "lastAirDateSec": 1387627200,
     "bannerUrl": "",
@@ -9051,6 +9597,17 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "aniplex of america",
+      "dentsu inc.",
+      "half h.p studio",
+      "kadokawa shoten",
+      "kill la kill production committee",
+      "lucent pictures entertainment",
+      "mainichi broadcasting system",
+      "movic",
+      "ultra super pictures"
+    ],
     "updatedAtSec": 1683648841,
     "lastAirDateSec": 1396008000,
     "bannerUrl": "",
@@ -9146,6 +9703,16 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "at-x",
+      "dax production",
+      "kodansha",
+      "madhouse",
+      "pony canyon",
+      "production i.g",
+      "sotsu",
+      "tv tokyo"
+    ],
     "updatedAtSec": 1787073003,
     "lastAirDateSec": 1427630400,
     "bannerUrl": "",
@@ -9278,6 +9845,11 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "victor entertainment",
+      "yoyogi animation academy",
+      "yoyogi animation gakuin"
+    ],
     "updatedAtSec": 1674827021,
     "lastAirDateSec": 717422400,
     "bannerUrl": "",
@@ -9347,6 +9919,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "madhouse",
+      "vap"
+    ],
     "updatedAtSec": 1674414342,
     "lastAirDateSec": 1379073600,
     "bannerUrl": "",
@@ -9404,6 +9980,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "shogakukan productions",
+      "shogakukan-shueisha productions"
+    ],
     "updatedAtSec": 1674776044,
     "lastAirDateSec": 672408000,
     "bannerUrl": "",
@@ -9477,8 +10057,8 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [],
     "officialLinks": {
-      "amediateka": "https://www.amediateka.ru/watch/series_62020_kak-i-ozhidalos-moja-shkolnaja-romanticheskaja-zhizn-ne-udalas-trizhdy",
       "wink": "https://wink.ru/series/kak-i-ozhidalos-moya-shkolnaya-romanticheskaya-zhizn-ne-udalas-trizhdy-year-2020"
     },
     "updatedAtSec": 1697024115,
@@ -9538,6 +10118,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "gathering"
+    ],
     "updatedAtSec": 1674826908,
     "lastAirDateSec": 1387540800,
     "bannerUrl": "",
@@ -9613,6 +10196,12 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "blazblue alter memory production committee",
+      "funimation",
+      "lantis",
+      "studio mausu"
+    ],
     "updatedAtSec": 1674826970,
     "lastAirDateSec": 1387972800,
     "bannerUrl": "",
@@ -9695,6 +10284,11 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "north stars pictures",
+      "studio deen",
+      "tv tokyo"
+    ],
     "updatedAtSec": 1674776167,
     "lastAirDateSec": 1387368000,
     "bannerUrl": "",
@@ -9791,6 +10385,12 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "ai addiction",
+      "aniplex",
+      "nas",
+      "nihon ad systems"
+    ],
     "updatedAtSec": 1677771890,
     "lastAirDateSec": 1387108800,
     "bannerUrl": "",
@@ -9861,6 +10461,19 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "discotek media",
+      "flying dog",
+      "klockworx",
+      "sammy",
+      "sanzigen",
+      "shounen gahousha",
+      "showgate",
+      "shōnengahōsha",
+      "sotsu co., ltd.",
+      "the klockworx co., ltd.",
+      "ultra super pictures"
+    ],
     "updatedAtSec": 1674827163,
     "lastAirDateSec": 1387886400,
     "bannerUrl": "",
@@ -9928,6 +10541,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "horipro",
+      "studio 4°c"
+    ],
     "updatedAtSec": 1674776044,
     "lastAirDateSec": 1370088000,
     "bannerUrl": "",
@@ -10001,6 +10618,7 @@
     "licensors": [
       "Русский Репортаж"
     ],
+    "producers": [],
     "updatedAtSec": 1674776029,
     "lastAirDateSec": 1379160000,
     "bannerUrl": "",
@@ -10067,6 +10685,20 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "at-x",
+      "avex entertainment",
+      "dive ii entertainment",
+      "gakken",
+      "good smile company",
+      "rakuonsha",
+      "sega games",
+      "sentai filmworks",
+      "sotsu co., ltd.",
+      "tatsunoko production",
+      "toho",
+      "tv tokyo"
+    ],
     "updatedAtSec": 1674826986,
     "lastAirDateSec": 1396094400,
     "bannerUrl": "",
@@ -10132,6 +10764,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "kinema citrus"
+    ],
     "updatedAtSec": 1773335554,
     "lastAirDateSec": 1382529600,
     "bannerUrl": "",
@@ -10193,6 +10828,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "gakken"
+    ],
     "updatedAtSec": 1674776270,
     "lastAirDateSec": 662731200,
     "bannerUrl": "",
@@ -10262,6 +10900,16 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "east japan marketing & communications, inc.",
+      "olm",
+      "oriental light and magic",
+      "shogakukan-shueisha productions",
+      "takara tomy",
+      "the pokemon company international",
+      "the pokémon company",
+      "tv tokyo"
+    ],
     "updatedAtSec": 1674776508,
     "lastAirDateSec": 1373544000,
     "bannerUrl": "",
@@ -10328,6 +10976,9 @@
     ],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "silver link."
+    ],
     "updatedAtSec": 1695551203,
     "lastAirDateSec": 1391169600,
     "bannerUrl": "",
@@ -10400,6 +11051,15 @@
     "blockedIn": [],
     "licenseNameRu": "Живая любовь! Проект «Школьный идол» 2",
     "licensors": [],
+    "producers": [
+      "2013 project love live!",
+      "ascii media works",
+      "bandai visual",
+      "bushiroad",
+      "lantis",
+      "nis america, inc.",
+      "sunrise"
+    ],
     "updatedAtSec": 1759428844,
     "lastAirDateSec": 1404043200,
     "bannerUrl": "",
@@ -10480,6 +11140,10 @@
     "licensors": [
       "DEEP"
     ],
+    "producers": [
+      "japan association of music enterprises",
+      "production i.g"
+    ],
     "updatedAtSec": 1674775966,
     "lastAirDateSec": 1393070400,
     "bannerUrl": "",
@@ -10549,6 +11213,20 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "3xcube",
+      "bandai visual",
+      "dax production",
+      "japan narration acting institute",
+      "nichinare",
+      "nis america, inc.",
+      "sammy",
+      "sotsu co., ltd.",
+      "tms entertainment",
+      "toaru hikuushi e no koiuta partners",
+      "toaru hikūshi e no koiuta partners",
+      "toppan printing co., ltd."
+    ],
     "updatedAtSec": 1674826986,
     "lastAirDateSec": 1396267200,
     "bannerUrl": "",
@@ -10619,6 +11297,12 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "ashi productions",
+      "fuji tv",
+      "pony canyon",
+      "production reed"
+    ],
     "updatedAtSec": 1674776102,
     "lastAirDateSec": 586353600,
     "bannerUrl": "",
@@ -10683,6 +11367,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "gen productions",
+      "tsuchida production"
+    ],
     "updatedAtSec": 1682615328,
     "lastAirDateSec": 461160000,
     "bannerUrl": "",
@@ -10754,6 +11442,17 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "8 bit",
+      "8bit",
+      "at-x",
+      "frontier works",
+      "klockworx",
+      "lantis",
+      "pony canyon",
+      "the klockworx co., ltd.",
+      "walkure romanze production committee"
+    ],
     "updatedAtSec": 1674826994,
     "lastAirDateSec": 1387800000,
     "bannerUrl": "",
@@ -10834,6 +11533,14 @@
     "blockedIn": [],
     "licenseNameRu": "Время Йо-Кай",
     "licensors": [],
+    "producers": [
+      "dentsu inc.",
+      "olm",
+      "dentsu entertainment usa",
+      "level-5",
+      "oriental light and magic",
+      "tv tokyo"
+    ],
     "updatedAtSec": 1789396106,
     "lastAirDateSec": 1522411200,
     "bannerUrl": "",
@@ -10923,6 +11630,9 @@
     ],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "production i.g"
+    ],
     "updatedAtSec": 1674776144,
     "lastAirDateSec": 1387540800,
     "bannerUrl": "",
@@ -10998,6 +11708,19 @@
     "licenseNameRu": "Рандеву с жизнью 2",
     "licensors": [
       "Wakanim"
+    ],
+    "producers": [
+      "aic plus+",
+      "at-x",
+      "docomo anime store",
+      "funimation",
+      "glovision",
+      "kadokawa media house",
+      "kadokawa shoten",
+      "nippon columbia",
+      "production ims",
+      "sony music communications",
+      "the klockworx co., ltd."
     ],
     "updatedAtSec": 1719340148,
     "lastAirDateSec": 1402747200,
@@ -11075,8 +11798,16 @@
     "licensors": [
       "FAN"
     ],
+    "producers": [
+      "bandai visual",
+      "dentsu",
+      "flying dog",
+      "funimation",
+      "kodansha",
+      "production i.g",
+      "toho animation"
+    ],
     "officialLinks": {
-      "ivi": "https://www.ivi.ru/watch/prizrak-v-dospehah-1995",
       "wink": "https://wink.ru/movies/prizrak-v-dospekhakh-2-nevinnost-year-2004"
     },
     "updatedAtSec": 1674826953,
@@ -11153,6 +11884,16 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "dax production",
+      "diomedea",
+      "kadokawa shoten",
+      "mages.",
+      "noucome production committee",
+      "sentai filmworks",
+      "studio jack",
+      "toranoana inc."
+    ],
     "updatedAtSec": 1674776093,
     "lastAirDateSec": 1386849600,
     "bannerUrl": "",
@@ -11233,6 +11974,16 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "a-1 pictures",
+      "broccoli",
+      "dwango",
+      "hakuhodo dy music & pictures",
+      "king records",
+      "movic",
+      "showgate",
+      "uta☆pri-2 project"
+    ],
     "updatedAtSec": 1702119084,
     "lastAirDateSec": 1387972800,
     "bannerUrl": "",
@@ -11294,6 +12045,13 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "meganebu! film partners",
+      "sentai filmworks",
+      "studio deen",
+      "toho animation",
+      "toho music"
+    ],
     "updatedAtSec": 1674776572,
     "lastAirDateSec": 1387800000,
     "bannerUrl": "",
@@ -11366,6 +12124,11 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "earth star entertainment",
+      "pupa production committee",
+      "studio deen"
+    ],
     "updatedAtSec": 1674776408,
     "lastAirDateSec": 1396008000,
     "bannerUrl": "",
@@ -11441,6 +12204,13 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "nozomi entertainment",
+      "sotsu agency",
+      "sotsu co., ltd.",
+      "sunrise",
+      "tv tokyo"
+    ],
     "updatedAtSec": 1707786959,
     "lastAirDateSec": 1396267200,
     "bannerUrl": "",
@@ -11533,6 +12303,15 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "a-1 pictures",
+      "aniplex of america",
+      "dentsu inc.",
+      "ezono production committee",
+      "fuji television network",
+      "fuji tv",
+      "kyoraku industrial holdings co.,ltd."
+    ],
     "updatedAtSec": 1674827158,
     "lastAirDateSec": 1396008000,
     "bannerUrl": "",
@@ -11607,6 +12386,18 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "aniplex of america",
+      "dena",
+      "dentsu inc.",
+      "fuji television network",
+      "fuji tv",
+      "hobibox co., ltd.",
+      "kyoraku industrial holdings co.,ltd.",
+      "manglobe",
+      "movic",
+      "project samumenco"
+    ],
     "updatedAtSec": 1674776401,
     "lastAirDateSec": 1396008000,
     "bannerUrl": "",
@@ -11695,6 +12486,16 @@
     "licensors": [
       "FAN"
     ],
+    "producers": [
+      "a-1 pictures",
+      "aniplex",
+      "asahi production",
+      "dentsu inc.",
+      "discotek media",
+      "fuji television network",
+      "fuji tv",
+      "kyoraku industrial holdings co.,ltd."
+    ],
     "updatedAtSec": 1677764570,
     "lastAirDateSec": 1387540800,
     "bannerUrl": "",
@@ -11773,6 +12574,16 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "dax production",
+      "feel.",
+      "kodansha",
+      "movic",
+      "pony canyon",
+      "sentai filmworks",
+      "tbs",
+      "tokyo broadcasting system"
+    ],
     "updatedAtSec": 1674827153,
     "lastAirDateSec": 1387540800,
     "bannerUrl": "",
@@ -11853,6 +12664,11 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "ilca",
+      "sentai filmworks",
+      "tv tokyo"
+    ],
     "updatedAtSec": 1674827150,
     "lastAirDateSec": 1380542400,
     "bannerUrl": "",
@@ -11930,6 +12746,12 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "funimation",
+      "production i.g",
+      "studio moriken",
+      "wit studio"
+    ],
     "updatedAtSec": 1674776393,
     "lastAirDateSec": 1395230400,
     "bannerUrl": "",
@@ -12011,6 +12833,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "opera house"
+    ],
     "updatedAtSec": 1674827051,
     "lastAirDateSec": 1375617600,
     "bannerUrl": "",
@@ -12081,6 +12906,12 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "good smile company",
+      "half h.p studio",
+      "toho animation",
+      "ultra super pictures"
+    ],
     "updatedAtSec": 1678993942,
     "lastAirDateSec": 1444392000,
     "bannerUrl": "",
@@ -12151,6 +12982,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "studio pierrot"
+    ],
     "updatedAtSec": 1682687961,
     "lastAirDateSec": 1381060800,
     "bannerUrl": "",
@@ -12206,6 +13040,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "shin-ei animation",
+      "tbs"
+    ],
     "updatedAtSec": 1674776177,
     "lastAirDateSec": 647006400,
     "bannerUrl": "",
@@ -12270,6 +13108,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "sunrise"
+    ],
     "updatedAtSec": 1674776276,
     "lastAirDateSec": 1374321600,
     "bannerUrl": "",
@@ -12336,6 +13177,7 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [],
     "updatedAtSec": 1674776554,
     "lastAirDateSec": 1395835200,
     "bannerUrl": "",
@@ -12402,6 +13244,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "kodansha"
+    ],
     "updatedAtSec": 1709826869,
     "lastAirDateSec": 1374235200,
     "bannerUrl": "",
@@ -12473,9 +13318,18 @@
     "licensors": [
       "DEEP"
     ],
-    "officialLinks": {
-      "deep": "https://deep-ent.ru/anime/inicial-d-stadiya-pervaya"
-    },
+    "producers": [
+      "avex pictures",
+      "kodansha",
+      "lidenfilms",
+      "sammy",
+      "sanzigen",
+      "sentai filmworks",
+      "shin gekijō-ban initial d production committee",
+      "shochiku",
+      "shouchiku",
+      "ultra super pictures"
+    ],
     "updatedAtSec": 1702999872,
     "lastAirDateSec": 1408881600,
     "bannerUrl": "",
@@ -12551,6 +13405,13 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "kodansha",
+      "madhouse",
+      "mappa",
+      "nippon television network corporation",
+      "vap"
+    ],
     "updatedAtSec": 1674826994,
     "lastAirDateSec": 1396180800,
     "bannerUrl": "",
@@ -12645,6 +13506,14 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "bandai visual",
+      "bushiroad inc.",
+      "bushiroad music",
+      "kinema citrus",
+      "nitroplus",
+      "orange"
+    ],
     "updatedAtSec": 1674826964,
     "lastAirDateSec": 1388491200,
     "bannerUrl": "",
@@ -12713,6 +13582,13 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "bandai visual",
+      "lantis",
+      "mainichi broadcasting system",
+      "nas",
+      "production i.g"
+    ],
     "updatedAtSec": 1679249643,
     "lastAirDateSec": 1386158400,
     "bannerUrl": "",
@@ -12782,6 +13658,16 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "flying dog",
+      "gaworare committee",
+      "hoods entertainment",
+      "klockworx",
+      "kodansha",
+      "nis america, inc.",
+      "the klock worx",
+      "the klockworx co., ltd."
+    ],
     "updatedAtSec": 1674827164,
     "lastAirDateSec": 1404129600,
     "bannerUrl": "",
@@ -12865,6 +13751,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "vasoon animation"
+    ],
     "updatedAtSec": 1711725602,
     "lastAirDateSec": 1370001600,
     "bannerUrl": "",
@@ -12929,6 +13818,7 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [],
     "updatedAtSec": 1701880278,
     "lastAirDateSec": 1385553600,
     "bannerUrl": "",
@@ -12996,6 +13886,15 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "aoni production",
+      "asatsu dk",
+      "bandai channel",
+      "discotek",
+      "dwango",
+      "sony music communications",
+      "toei animation"
+    ],
     "updatedAtSec": 1677776275,
     "lastAirDateSec": 1387454400,
     "bannerUrl": "",
@@ -13074,6 +13973,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "kinema citrus"
+    ],
     "updatedAtSec": 1674776050,
     "lastAirDateSec": 1395921600,
     "bannerUrl": "",
@@ -13177,6 +14079,11 @@
     ],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "brain's base",
+      "kansai telecasting corporation",
+      "kansai tv"
+    ],
     "updatedAtSec": 1674401322,
     "lastAirDateSec": 1381060800,
     "bannerUrl": "",
@@ -13241,6 +14148,16 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "flying dog",
+      "kadokawa shoten",
+      "madhouse",
+      "media factory",
+      "sentai filmworks",
+      "sony music communications",
+      "tbs",
+      "tokyo broadcasting system"
+    ],
     "updatedAtSec": 1674826985,
     "lastAirDateSec": 1396008000,
     "bannerUrl": "",
@@ -13324,6 +14241,18 @@
     "blockedIn": [],
     "licenseNameRu": "Рыцари Сидонии",
     "licensors": [],
+    "producers": [
+      "king records",
+      "klockworx",
+      "kodansha",
+      "kos production committee",
+      "mainichi broadcasting system",
+      "polygon pictures",
+      "sentai filmworks",
+      "starchild records",
+      "the klock worx",
+      "the klockworx co., ltd."
+    ],
     "updatedAtSec": 1674776409,
     "lastAirDateSec": 1403870400,
     "bannerUrl": "",
@@ -13404,6 +14333,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "vasoon animation"
+    ],
     "updatedAtSec": 1711726016,
     "lastAirDateSec": 1412164800,
     "bannerUrl": "",
@@ -13464,6 +14396,16 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "bridge",
+      "dax production",
+      "earth star entertainment",
+      "funimation",
+      "japan narration acting institute",
+      "vap",
+      "yomiuri tv enterprise",
+      "ytv"
+    ],
     "updatedAtSec": 1674826987,
     "lastAirDateSec": 1396180800,
     "bannerUrl": "",
@@ -13538,6 +14480,12 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "creative bridge",
+      "kodansha",
+      "nihon eizou",
+      "trans arts"
+    ],
     "updatedAtSec": 1683235649,
     "lastAirDateSec": 629812800,
     "bannerUrl": "",
@@ -13609,6 +14557,14 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "hiroshima television",
+      "kddi",
+      "madhouse",
+      "nippon television network corporation",
+      "shueisha",
+      "vap"
+    ],
     "updatedAtSec": 1677485897,
     "lastAirDateSec": 1388145600,
     "bannerUrl": "",
@@ -13669,6 +14625,17 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "at-x",
+      "encourage films",
+      "flying dog",
+      "nippon ichi software",
+      "q-tec",
+      "shochiku",
+      "shouchiku",
+      "tablier communications",
+      "toppan printing"
+    ],
     "updatedAtSec": 1674826942,
     "lastAirDateSec": 1403697600,
     "bannerUrl": "",
@@ -13731,6 +14698,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "jaggard",
+      "mushi production"
+    ],
     "updatedAtSec": 1674776190,
     "lastAirDateSec": -4795200,
     "bannerUrl": "",
@@ -13798,6 +14769,14 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "a-1 pictures",
+      "aniplex of america",
+      "ascii media works",
+      "bandai namco games",
+      "dax production",
+      "genco"
+    ],
     "updatedAtSec": 1677782948,
     "lastAirDateSec": 1388491200,
     "bannerUrl": "",
@@ -13863,6 +14842,14 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "ameba",
+      "lidenfilms",
+      "miss monochrome production committee",
+      "sanzigen",
+      "starchild records",
+      "tv tokyo"
+    ],
     "updatedAtSec": 1677769386,
     "lastAirDateSec": 1387972800,
     "bannerUrl": "",
@@ -13942,6 +14929,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "geneon universal entertainment"
+    ],
     "updatedAtSec": 1768678257,
     "lastAirDateSec": 1377691200,
     "bannerUrl": "",
@@ -14011,6 +15001,15 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "arms",
+      "genco",
+      "madman entertainment",
+      "pony canyon",
+      "sentai filmworks",
+      "showgate",
+      "udo partners"
+    ],
     "updatedAtSec": 1674826953,
     "lastAirDateSec": 1396267200,
     "bannerUrl": "",
@@ -14094,6 +15093,19 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "adult swim",
+      "bandai namco entertainment",
+      "bandai namco games",
+      "bandai visual",
+      "bones",
+      "bs fuji",
+      "cartoon network",
+      "flying dog",
+      "funimation",
+      "hakuhodo dy media partners",
+      "project space dandy"
+    ],
     "updatedAtSec": 1674826910,
     "lastAirDateSec": 1395921600,
     "bannerUrl": "",
@@ -14173,6 +15185,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "tms entertainment",
+      "vap"
+    ],
     "updatedAtSec": 1674776316,
     "lastAirDateSec": 1026561600,
     "bannerUrl": "",
@@ -14244,6 +15260,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "nippon television network",
+      "tms entertainment"
+    ],
     "updatedAtSec": 1790861014,
     "lastAirDateSec": 1384516800,
     "bannerUrl": "",
@@ -14316,6 +15336,14 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "olm",
+      "oriental light and magic",
+      "production i.g",
+      "the pokemon company international",
+      "the pokémon company",
+      "xebec"
+    ],
     "updatedAtSec": 1722519929,
     "lastAirDateSec": 1380715200,
     "bannerUrl": "",
@@ -14380,6 +15408,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "feel.",
+      "starchild records"
+    ],
     "updatedAtSec": 1674776023,
     "lastAirDateSec": 1375790400,
     "bannerUrl": "",
@@ -14448,6 +15480,12 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "klockworx",
+      "opera house",
+      "studio mausu",
+      "the klock worx"
+    ],
     "updatedAtSec": 1674826995,
     "lastAirDateSec": 1386936000,
     "bannerUrl": "",
@@ -14516,6 +15554,11 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "aubec",
+      "toei video co., ltd.",
+      "tohokushinsha film corporation"
+    ],
     "updatedAtSec": 1674776564,
     "lastAirDateSec": 881928000,
     "bannerUrl": "",
@@ -14582,6 +15625,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "mushi production",
+      "tezuka productions"
+    ],
     "updatedAtSec": 1708005163,
     "lastAirDateSec": -107956800,
     "bannerUrl": "",
@@ -14657,9 +15704,13 @@
     "licensors": [
       "DEEP"
     ],
-    "officialLinks": {
-      "deep": "https://deep-ent.ru/anime/hladnokrovnyj-hodzuki"
-    },
+    "producers": [
+      "king records",
+      "kodansha",
+      "mainichi broadcasting system",
+      "starchild records",
+      "wit studio"
+    ],
     "updatedAtSec": 1674776396,
     "lastAirDateSec": 1396612800,
     "bannerUrl": "",
@@ -14738,6 +15789,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "silver link."
+    ],
     "updatedAtSec": 1674827004,
     "lastAirDateSec": 1413979200,
     "bannerUrl": "",
@@ -14810,6 +15864,17 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "dax production",
+      "flying dog",
+      "funimation",
+      "inari kon kon production committee",
+      "kadokawa media house",
+      "kadokawa shoten",
+      "klockworx",
+      "kyoto broadcasting system",
+      "production ims"
+    ],
     "updatedAtSec": 1674827117,
     "lastAirDateSec": 1395316800,
     "bannerUrl": "",
@@ -14886,6 +15951,12 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "dax production",
+      "earth star entertainment",
+      "mappa",
+      "millepensee"
+    ],
     "updatedAtSec": 1674646201,
     "lastAirDateSec": 1387713600,
     "bannerUrl": "",
@@ -14982,6 +16053,20 @@
       "Reanimedia",
       "FAN"
     ],
+    "producers": [
+      "a-sketch",
+      "ai addiction",
+      "avex entertainment",
+      "avex pictures",
+      "bones",
+      "dentsu inc.",
+      "funimation",
+      "kodansha",
+      "lawson entertainment",
+      "lawson hmv entertainment",
+      "madman entertainment",
+      "movic"
+    ],
     "updatedAtSec": 1679268722,
     "lastAirDateSec": 1395576000,
     "bannerUrl": "",
@@ -15067,6 +16152,18 @@
     ],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "prisma☆illya 2wei! production committee",
+      "at-x",
+      "dax production",
+      "kadokawa media house",
+      "kadokawa shoten",
+      "klockworx",
+      "lantis",
+      "sentai filmworks",
+      "silver link.",
+      "tokyo mx"
+    ],
     "updatedAtSec": 1787072033,
     "lastAirDateSec": 1410436800,
     "bannerUrl": "",
@@ -15143,6 +16240,13 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "j.c.staff",
+      "key",
+      "sentai filmworks",
+      "visual arts",
+      "warner bros. japan"
+    ],
     "updatedAtSec": 1788868406,
     "lastAirDateSec": 1406721600,
     "bannerUrl": "",
@@ -15215,6 +16319,13 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "discotek media",
+      "nippon ichi software",
+      "pony canyon",
+      "sotsu",
+      "telecom animation film"
+    ],
     "updatedAtSec": 1674826983,
     "lastAirDateSec": 1396526400,
     "bannerUrl": "",
@@ -15292,6 +16403,18 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "dax production",
+      "doga kobo",
+      "dōga kōbō",
+      "ichijinsha",
+      "mcray",
+      "mikakunin de shinkoukei production committee",
+      "mikakunin de shinkōkei production committee",
+      "sentai filmworks",
+      "sotsu",
+      "toho animation"
+    ],
     "updatedAtSec": 1674776121,
     "lastAirDateSec": 1395921600,
     "bannerUrl": "",
@@ -15372,6 +16495,18 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "avex entertainment",
+      "bayonetta film club",
+      "funimation",
+      "gonzo",
+      "hakuhodo dy music & pictures",
+      "pony canyon",
+      "q-tec",
+      "sega games",
+      "showgate",
+      "toei animation"
+    ],
     "updatedAtSec": 1677783150,
     "lastAirDateSec": 1385208000,
     "bannerUrl": "",
@@ -15441,6 +16576,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "asread",
+      "sentai filmworks"
+    ],
     "updatedAtSec": 1674775951,
     "lastAirDateSec": 1394193600,
     "bannerUrl": "",
@@ -15507,6 +16646,20 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "at-x",
+      "docomo anime store",
+      "genco",
+      "good smile company",
+      "half h.p studio",
+      "klockworx",
+      "movic",
+      "nitroplus",
+      "pony canyon",
+      "sentai filmworks",
+      "showgate",
+      "the klockworx co., ltd."
+    ],
     "updatedAtSec": 1674826835,
     "lastAirDateSec": 1395662400,
     "bannerUrl": "",
@@ -15594,6 +16747,18 @@
     "blockedIn": [],
     "licenseNameRu": "Хайкю!!",
     "licensors": [],
+    "producers": [
+      "haikyu!! karasuno kōkō vs shiratorizawa gakuen kōkō production committee",
+      "dentsu",
+      "haikyu!! production committee",
+      "mainichi broadcasting system",
+      "movic",
+      "production i.g",
+      "sentai filmworks",
+      "shueisha",
+      "spacey music entertainment",
+      "toho animation"
+    ],
     "updatedAtSec": 1677766116,
     "lastAirDateSec": 1411300800,
     "bannerUrl": "",
@@ -15687,6 +16852,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "gonzo"
+    ],
     "updatedAtSec": 1674827156,
     "lastAirDateSec": 1395057600,
     "bannerUrl": "",
@@ -15764,6 +16932,12 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "aniplex",
+      "brain's base",
+      "nas",
+      "nihon ad systems"
+    ],
     "updatedAtSec": 1674776307,
     "lastAirDateSec": 1391601600,
     "bannerUrl": "",
@@ -15821,6 +16995,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "brain's base"
+    ],
     "updatedAtSec": 1674827077,
     "lastAirDateSec": 1380110400,
     "bannerUrl": "",
@@ -15880,6 +17057,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "mode films inc.",
+      "studio colorido"
+    ],
     "updatedAtSec": 1674827076,
     "lastAirDateSec": 1383998400,
     "bannerUrl": "",
@@ -15942,6 +17123,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "mode films inc.",
+      "studio colorido"
+    ],
     "updatedAtSec": 1674776039,
     "lastAirDateSec": 1383998400,
     "bannerUrl": "",
@@ -16009,6 +17194,19 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "at-x",
+      "avex entertainment",
+      "dax production",
+      "dive ii entertainment",
+      "madman entertainment",
+      "movic",
+      "naz",
+      "sentai filmworks",
+      "shueisha",
+      "sotsu co., ltd.",
+      "tv tokyo"
+    ],
     "updatedAtSec": 1674776106,
     "lastAirDateSec": 1395835200,
     "bannerUrl": "",
@@ -16091,6 +17289,19 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "bandai visual",
+      "banpresto",
+      "japan narration acting institute",
+      "kodansha",
+      "lantis",
+      "nichinare",
+      "nihon narration engi kenkyuujo",
+      "q-tec",
+      "sabagebu! production committee",
+      "sentai filmworks",
+      "studio pierrot"
+    ],
     "updatedAtSec": 1674776548,
     "lastAirDateSec": 1411300800,
     "bannerUrl": "",
@@ -16158,6 +17369,7 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [],
     "updatedAtSec": 1692918894,
     "lastAirDateSec": 1346328000,
     "bannerUrl": "",
@@ -16234,6 +17446,12 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "ai addiction",
+      "avex entertainment",
+      "avex pictures",
+      "bones"
+    ],
     "updatedAtSec": 1679401408,
     "lastAirDateSec": 1405598400,
     "bannerUrl": "",
@@ -16309,6 +17527,14 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "aniplex",
+      "ascii media works",
+      "kadokawa",
+      "magic high school production committee",
+      "movic",
+      "square enix"
+    ],
     "updatedAtSec": 1677765721,
     "lastAirDateSec": 1411905600,
     "bannerUrl": "",
@@ -16401,6 +17627,19 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "ascii media works",
+      "at-x",
+      "black bullet partners",
+      "geneon universal entertainment",
+      "hakuhodo dy music & pictures",
+      "kadokawa",
+      "kinema citrus",
+      "nbcuniversal entertainment japan",
+      "orange",
+      "sentai filmworks",
+      "showgate"
+    ],
     "updatedAtSec": 1674826898,
     "lastAirDateSec": 1404216000,
     "bannerUrl": "",
@@ -16484,6 +17723,20 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "bones",
+      "dax production",
+      "docomo anime store",
+      "dwango",
+      "flying dog",
+      "fujimi shobo",
+      "hitsugi no chaika partners",
+      "kadokawa media house",
+      "kadokawa shoten",
+      "sentai filmworks",
+      "sony pcl",
+      "tsukuru no mori"
+    ],
     "updatedAtSec": 1674775989,
     "lastAirDateSec": 1403784000,
     "bannerUrl": "",
@@ -16571,6 +17824,17 @@
     "licenseNameRu": "Невероятные приключения ДжоДжо: Крестоносцы звёздной пыли",
     "licensors": [
       "Netflix"
+    ],
+    "producers": [
+      "jojo's bizarre adventure production committee",
+      "kamikaze douga",
+      "klockworx",
+      "medicos entertainment",
+      "one music",
+      "shueisha",
+      "the klockworx co., ltd.",
+      "warner bros. japan",
+      "yomiko advertising, inc."
     ],
     "updatedAtSec": 1751850758,
     "lastAirDateSec": 1410609600,
@@ -16664,6 +17928,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "studio rikka",
+      "ultra super pictures"
+    ],
     "updatedAtSec": 1674776070,
     "lastAirDateSec": 1393675200,
     "bannerUrl": "",
@@ -16728,6 +17996,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "a-1 pictures"
+    ],
     "updatedAtSec": 1741429830,
     "lastAirDateSec": 1393675200,
     "bannerUrl": "",
@@ -16793,6 +18064,14 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "frontier works",
+      "idea factory",
+      "production i.g",
+      "sentai filmworks",
+      "showgate",
+      "zexcs"
+    ],
     "updatedAtSec": 1722366486,
     "lastAirDateSec": 1382961600,
     "bannerUrl": "",
@@ -16860,6 +18139,13 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "nhk",
+      "c2c",
+      "onee-chan ga kita partners",
+      "studio chant",
+      "takeshobo"
+    ],
     "updatedAtSec": 1677776063,
     "lastAirDateSec": 1395921600,
     "bannerUrl": "",
@@ -16943,6 +18229,14 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "dax production",
+      "diomedea",
+      "diomedéa",
+      "mages.",
+      "sentai filmworks",
+      "studio jack"
+    ],
     "updatedAtSec": 1674827211,
     "lastAirDateSec": 1400587200,
     "bannerUrl": "",
@@ -17004,6 +18298,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "half h.p studio",
+      "white fox"
+    ],
     "updatedAtSec": 1674776016,
     "lastAirDateSec": 1382011200,
     "bannerUrl": "",
@@ -17072,6 +18370,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "shin-ei animation"
+    ],
     "updatedAtSec": 1674776311,
     "lastAirDateSec": 1393675200,
     "bannerUrl": "",
@@ -17130,6 +18431,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "studio colorido"
+    ],
     "updatedAtSec": 1674827089,
     "lastAirDateSec": 1382184000,
     "bannerUrl": "",
@@ -17198,6 +18502,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "tezuka productions",
+      "toei animation"
+    ],
     "updatedAtSec": 1713173217,
     "lastAirDateSec": 1391860800,
     "bannerUrl": "",
@@ -17268,6 +18576,13 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "hakusensha",
+      "koei tecmo games co., ltd.",
+      "nippon television network",
+      "tyo animations",
+      "vap"
+    ],
     "updatedAtSec": 1674826971,
     "lastAirDateSec": 1403438400,
     "bannerUrl": "",
@@ -17348,6 +18663,17 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "a-1 pictures",
+      "aniplex of america",
+      "atelier musa",
+      "dentsu inc.",
+      "flying dog",
+      "ichijinsha",
+      "mainichi broadcasting system",
+      "movic",
+      "notes"
+    ],
     "updatedAtSec": 1674776328,
     "lastAirDateSec": 1396180800,
     "bannerUrl": "",
@@ -17424,6 +18750,11 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "media factory",
+      "shin-ei animation",
+      "starchild records"
+    ],
     "updatedAtSec": 1674827189,
     "lastAirDateSec": 1388836800,
     "bannerUrl": "",
@@ -17484,6 +18815,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "tatsunoko production"
+    ],
     "updatedAtSec": 1681496156,
     "lastAirDateSec": 1400673600,
     "bannerUrl": "",
@@ -17555,6 +18889,12 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "arms",
+      "earth star entertainment",
+      "funimation",
+      "movic"
+    ],
     "updatedAtSec": 1710680881,
     "lastAirDateSec": 1399896000,
     "bannerUrl": "",
@@ -17573,118 +18913,6 @@
     "totalEpisodes": 6,
     "airedEpisodes": 6,
     "yummyAlias": "hochu-stat-samoy-silnoy-mire-spetsvipuski"
-  },
-  {
-    "id": 6324,
-    "slugUrl": "dream:6324",
-    "name": "Мстители: Дисковые войны",
-    "rusName": "Мстители: Дисковые войны",
-    "engName": "Дисковые войны: Мстители",
-    "coverUrl": "",
-    "coverFallbackUrl": "",
-    "status": "released",
-    "sourceTag": "dream",
-    "rating": 5.09677419319355,
-    "votes": 31,
-    "typeLabel": "tv",
-    "year": "2014",
-    "seasonIndex": 2,
-    "ageRating": "PG",
-    "description": "",
-    "genres": [
-      "Детское",
-      "Экшен",
-      "Супер сила"
-    ],
-    "genreIds": [
-      15,
-      1,
-      31
-    ],
-    "tags": [],
-    "tagIds": [],
-    "anotherName": "Дисковые войны: Мстители",
-    "ruNames": [
-      "Мстители: Дисковые войны",
-      "Войны Марвел: Мстители"
-    ],
-    "enNames": [
-      "Дисковые войны: Мстители",
-      "Disk Wars: Avengers",
-      "ディスク・ウォーズ: アベンジャーズ",
-      "ディスク・ウォーズ：アベンジャーズ",
-      "复仇者联盟：光盘战争"
-    ],
-    "shikimoriId": 21013,
-    "malId": 21013,
-    "isAgeRestricted": false,
-    "isLicensed": false,
-    "blockedIn": [],
-    "licenseNameRu": "",
-    "licensors": [],
-    "updatedAtSec": 1674826835,
-    "lastAirDateSec": 1427284800,
-    "bannerUrl": "",
-    "studio": "Toei Animation",
-    "director": "Комура Тосиаки",
-    "sourceWork": "Комикс",
-    "releaseDate": "2014-01-01",
-    "episodeDates": [
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835,
-      1674826835
-    ],
-    "totalEpisodes": 51,
-    "airedEpisodes": 51,
-    "yummyAlias": "mstiteli-diskovye-voyny"
   },
   {
     "id": 6328,
@@ -17733,6 +18961,14 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "asahi broadcasting corporation",
+      "asatsu-dk",
+      "kinoshita group holdings",
+      "marvelous",
+      "toei animation",
+      "toei company, ltd."
+    ],
     "updatedAtSec": 1674776030,
     "lastAirDateSec": 1394884800,
     "bannerUrl": "",
@@ -17803,6 +19039,13 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "at-x",
+      "kadokawa shoten",
+      "media factory",
+      "sony music communications",
+      "tsukuru no mori"
+    ],
     "updatedAtSec": 1674776361,
     "lastAirDateSec": 1403352000,
     "bannerUrl": "",
@@ -17883,6 +19126,14 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "dax production",
+      "nippon television network",
+      "sentai filmworks",
+      "sound inn studio",
+      "tatsunoko production",
+      "vap"
+    ],
     "updatedAtSec": 1751853503,
     "lastAirDateSec": 1443355200,
     "bannerUrl": "",
@@ -17953,6 +19204,11 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "dax production",
+      "dream creation",
+      "seven"
+    ],
     "updatedAtSec": 1674776458,
     "lastAirDateSec": 1396008000,
     "bannerUrl": "",
@@ -18032,6 +19288,19 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "bandai visual",
+      "hakuhodo dy media partners",
+      "i will",
+      "j.c. staff",
+      "j.c.staff",
+      "kodansha",
+      "lantis",
+      "magic capsule",
+      "movic",
+      "sony pcl",
+      "witch craft works production committee"
+    ],
     "updatedAtSec": 1674776549,
     "lastAirDateSec": 1395576000,
     "bannerUrl": "",
@@ -18099,6 +19368,7 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [],
     "updatedAtSec": 1679227871,
     "lastAirDateSec": 1378209600,
     "bannerUrl": "",
@@ -18164,6 +19434,14 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "gust",
+      "koei tecmo games co., ltd.",
+      "pony canyon",
+      "sentai filmworks",
+      "sotsu co., ltd.",
+      "studio gokumi"
+    ],
     "updatedAtSec": 1674776577,
     "lastAirDateSec": 1403784000,
     "bannerUrl": "",
@@ -18243,6 +19521,15 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "avex pictures",
+      "lantis",
+      "media factory",
+      "satelight",
+      "sentai filmworks",
+      "sotsu co., ltd.",
+      "tv tokyo"
+    ],
     "updatedAtSec": 1674776573,
     "lastAirDateSec": 1403524800,
     "bannerUrl": "",
@@ -18329,6 +19616,12 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "agent 21",
+      "arts pro",
+      "youmex",
+      "yumex"
+    ],
     "updatedAtSec": 1674776348,
     "lastAirDateSec": 669470400,
     "bannerUrl": "",
@@ -18392,6 +19685,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "nhk enterprises",
+      "studio pierrot"
+    ],
     "updatedAtSec": 1679432563,
     "lastAirDateSec": 1411300800,
     "bannerUrl": "",
@@ -18483,6 +19780,20 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "at-x",
+      "avex entertainment",
+      "dive ii entertainment",
+      "gakken",
+      "good smile company",
+      "ordet",
+      "rakuonsha",
+      "sega",
+      "sentai filmworks",
+      "sotsu",
+      "tatsunoko production",
+      "toho"
+    ],
     "updatedAtSec": 1674776408,
     "lastAirDateSec": 1389355200,
     "bannerUrl": "",
@@ -18553,6 +19864,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "dax production",
+      "earth star entertainment"
+    ],
     "updatedAtSec": 1696097133,
     "lastAirDateSec": 1382702400,
     "bannerUrl": "",
@@ -18618,6 +19933,13 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "kyoto animation",
+      "lantis",
+      "pony canyon",
+      "sentai filmworks",
+      "tokyo broadcasting system"
+    ],
     "updatedAtSec": 1725695120,
     "lastAirDateSec": 1404302400,
     "bannerUrl": "",
@@ -18682,6 +20004,12 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "c2c",
+      "half h.p studio",
+      "lay-duce",
+      "sega games"
+    ],
     "updatedAtSec": 1677768106,
     "lastAirDateSec": 1391169600,
     "bannerUrl": "",
@@ -18752,6 +20080,18 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "frontier works",
+      "hakuhodo dy music & pictures",
+      "houbunsha",
+      "magic capsule",
+      "mcray",
+      "nbcuniversal entertainment japan",
+      "sentai filmworks",
+      "showgate",
+      "sotsu co., ltd.",
+      "white fox"
+    ],
     "updatedAtSec": 1787525872,
     "lastAirDateSec": 1403784000,
     "bannerUrl": "",
@@ -18816,6 +20156,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "an dercen"
+    ],
     "updatedAtSec": 1674776030,
     "lastAirDateSec": 1482408000,
     "bannerUrl": "",
@@ -18881,6 +20224,17 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "brain's base",
+      "dax production",
+      "nas",
+      "nihon ad systems",
+      "one week friends partners",
+      "pony canyon",
+      "scsk corporation",
+      "sentai filmworks",
+      "toho animation"
+    ],
     "updatedAtSec": 1674776087,
     "lastAirDateSec": 1403524800,
     "bannerUrl": "",
@@ -18968,6 +20322,12 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "aniplex",
+      "artland",
+      "delfi sound",
+      "kodansha"
+    ],
     "updatedAtSec": 1677782949,
     "lastAirDateSec": 1388836800,
     "bannerUrl": "",
@@ -19024,6 +20384,7 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [],
     "updatedAtSec": 1723220770,
     "lastAirDateSec": 1384603200,
     "bannerUrl": "",
@@ -19081,6 +20442,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "toshiba entertainment"
+    ],
     "updatedAtSec": 1674776590,
     "lastAirDateSec": 1411732800,
     "bannerUrl": "",
@@ -19173,6 +20537,20 @@
     "licensors": [
       "FAN"
     ],
+    "producers": [
+      "dentsu",
+      "fuji tv",
+      "fujipacific music",
+      "funimation",
+      "glovision",
+      "kyoraku industrial holdings",
+      "nitroplus",
+      "production i.g",
+      "sanzigen",
+      "sony music entertainment",
+      "sony pcl",
+      "toho animation"
+    ],
     "updatedAtSec": 1681326552,
     "lastAirDateSec": 1420804800,
     "bannerUrl": "",
@@ -19242,6 +20620,18 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "docomo anime store",
+      "funimation",
+      "kadokawa shoten",
+      "klockworx",
+      "lantis",
+      "madman entertainment",
+      "rakuonsha",
+      "the klockworx co., ltd.",
+      "tokyo mx",
+      "xebec"
+    ],
     "updatedAtSec": 1674776562,
     "lastAirDateSec": 1411819200,
     "bannerUrl": "",
@@ -19319,6 +20709,11 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "a.c.g.t.",
+      "funimation",
+      "media factory"
+    ],
     "updatedAtSec": 1709168808,
     "lastAirDateSec": 1401278400,
     "bannerUrl": "",
@@ -19405,6 +20800,15 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "brain's base",
+      "houbunsha",
+      "lantis",
+      "pony canyon",
+      "sentai filmworks",
+      "tbs",
+      "tokyo broadcasting system"
+    ],
     "updatedAtSec": 1677765322,
     "lastAirDateSec": 1403265600,
     "bannerUrl": "",
@@ -19487,6 +20891,14 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "at-x",
+      "funimation",
+      "genco",
+      "lerche",
+      "media factory",
+      "movic"
+    ],
     "updatedAtSec": 1721676558,
     "lastAirDateSec": 1401278400,
     "bannerUrl": "",
@@ -19563,6 +20975,12 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "shogakukan-shueisha productions",
+      "tms entertainment",
+      "toho",
+      "ytv"
+    ],
     "updatedAtSec": 1674776594,
     "lastAirDateSec": 1397908800,
     "bannerUrl": "",
@@ -19617,6 +21035,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "gainax"
+    ],
     "updatedAtSec": 1674826976,
     "lastAirDateSec": 1412078400,
     "bannerUrl": "",
@@ -19707,6 +21128,11 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "chara-ani.com",
+      "dax production",
+      "nihon falcom"
+    ],
     "updatedAtSec": 1674826984,
     "lastAirDateSec": 1396180800,
     "bannerUrl": "",
@@ -19790,6 +21216,18 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "arms",
+      "brynhildr in the darkness production committee",
+      "dax production",
+      "genco",
+      "nichinare",
+      "sentai filmworks",
+      "vap",
+      "yomiuri telecasting",
+      "yomiuri tv enterprise",
+      "ytv"
+    ],
     "updatedAtSec": 1674776093,
     "lastAirDateSec": 1404043200,
     "bannerUrl": "",
@@ -19868,6 +21306,16 @@
     "blockedIn": [],
     "licenseNameRu": "Радость восхождения 2",
     "licensors": [],
+    "producers": [
+      "ashisuto",
+      "earth star entertainment",
+      "good smile company",
+      "jinnan studio",
+      "radio osaka",
+      "tokyo mx",
+      "tsutaya",
+      "yomiuri tv enterprise"
+    ],
     "updatedAtSec": 1674776064,
     "lastAirDateSec": 1419422400,
     "bannerUrl": "",
@@ -19953,6 +21401,17 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "bandai channel",
+      "bandai namco games",
+      "bandai namco live creative",
+      "bandai visual",
+      "banpresto",
+      "buddy complex production committee",
+      "funimation",
+      "lantis",
+      "sunrise"
+    ],
     "updatedAtSec": 1674776400,
     "lastAirDateSec": 1396267200,
     "bannerUrl": "",
@@ -20038,6 +21497,16 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "a-1 pictures",
+      "broccoli",
+      "hakuhodo dy music & pictures",
+      "king records",
+      "mages.",
+      "movic",
+      "sentai filmworks",
+      "showgate"
+    ],
     "updatedAtSec": 1674776417,
     "lastAirDateSec": 1435492800,
     "bannerUrl": "",
@@ -20117,6 +21586,17 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "a-1 pictures",
+      "aic a.s.t.a.",
+      "aniplex of america",
+      "atlus",
+      "hakuhodo dy media partners",
+      "hakuhodo dy music & pictures",
+      "movic",
+      "persona 3 movie committee",
+      "yomiko advertising, inc."
+    ],
     "updatedAtSec": 1677783002,
     "lastAirDateSec": 1402142400,
     "bannerUrl": "",
@@ -20185,6 +21665,12 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "koei tecmo games co., ltd.",
+      "nas",
+      "tv tokyo",
+      "tyo animations"
+    ],
     "updatedAtSec": 1674826856,
     "lastAirDateSec": 1395403200,
     "bannerUrl": "",
@@ -20254,6 +21740,18 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "at-x",
+      "bones",
+      "dentsu inc.",
+      "funimation",
+      "kadokawa",
+      "madman entertainment",
+      "media factory",
+      "sony music communications",
+      "square enix",
+      "tv tokyo"
+    ],
     "updatedAtSec": 1751850982,
     "lastAirDateSec": 1404302400,
     "bannerUrl": "",
@@ -20335,6 +21833,20 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "diomedea",
+      "dmm.com",
+      "flying dog",
+      "kadokawa media house",
+      "kan colle production committee",
+      "klockworx",
+      "movic",
+      "aoshima bunka kyozai",
+      "c2 präparat co., ltd.",
+      "diomedéa",
+      "dmm",
+      "glovision"
+    ],
     "updatedAtSec": 1674776400,
     "lastAirDateSec": 1427371200,
     "bannerUrl": "",
@@ -20419,8 +21931,21 @@
       "Netflix",
       "Пионер"
     ],
+    "producers": [
+      "d-rights",
+      "dentsu inc.",
+      "disney platform distribution",
+      "gkids",
+      "hakuhodo dy media partners",
+      "kddi",
+      "madman entertainment",
+      "mitsubishi corporation",
+      "nippon television network corporation",
+      "studio ghibli",
+      "toho",
+      "walt disney studios"
+    ],
     "officialLinks": {
-      "ivi": "https://www.ivi.ru/watch/151445",
       "wink": "https://wink.ru/movies/vospominaniya-o-marni-year-2014"
     },
     "updatedAtSec": 1674776060,
@@ -20494,6 +22019,17 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "aniplex",
+      "biglobe",
+      "dentsu inc.",
+      "fuji television network",
+      "fuji tv",
+      "kadokawa",
+      "kyoraku industrial holdings co.,ltd.",
+      "movic",
+      "nanana's buried treasure partners"
+    ],
     "updatedAtSec": 1674826977,
     "lastAirDateSec": 1403265600,
     "bannerUrl": "",
@@ -20573,6 +22109,17 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "azeta pictures",
+      "brain's base",
+      "broccoli",
+      "frontier works",
+      "kadokawa",
+      "kamiaso partners",
+      "movic",
+      "sentai filmworks",
+      "showgate"
+    ],
     "updatedAtSec": 1677766259,
     "lastAirDateSec": 1403438400,
     "bannerUrl": "",
@@ -20654,6 +22201,17 @@
     "licensors": [
       "2x2"
     ],
+    "producers": [
+      "east japan marketing & communications, inc.",
+      "olm",
+      "oriental light and magic",
+      "pikachu project",
+      "shogakukan-shueisha productions",
+      "takara tomy",
+      "the pokemon company international",
+      "the pokémon company",
+      "tv tokyo"
+    ],
     "updatedAtSec": 1723077792,
     "lastAirDateSec": 1405771200,
     "bannerUrl": "",
@@ -20724,6 +22282,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "olm digital",
+      "the pokemon company international"
+    ],
     "updatedAtSec": 1674776512,
     "lastAirDateSec": 1405771200,
     "bannerUrl": "",
@@ -20793,6 +22355,14 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "bushiroad",
+      "kinyosha",
+      "mages.",
+      "memory-tech",
+      "satelight",
+      "starchild records"
+    ],
     "updatedAtSec": 1674826981,
     "lastAirDateSec": 1443268800,
     "bannerUrl": "",
@@ -20869,6 +22439,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "production i.g",
+      "steve n' steven"
+    ],
     "updatedAtSec": 1674826993,
     "lastAirDateSec": 1394712000,
     "bannerUrl": "",
@@ -20939,6 +22513,15 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "1st place",
+      "aniplex of america",
+      "bs11",
+      "mages.",
+      "nippon bs broadcasting corporation",
+      "shaft",
+      "tokyo mx"
+    ],
     "updatedAtSec": 1674776107,
     "lastAirDateSec": 1404043200,
     "bannerUrl": "",
@@ -21019,6 +22602,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "doga kobo",
+      "vap"
+    ],
     "updatedAtSec": 1697059974,
     "lastAirDateSec": 1399377600,
     "bannerUrl": "",
@@ -21081,6 +22668,13 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "kyoto animation",
+      "pony canyon",
+      "tbs",
+      "tokyo broadcasting system",
+      "usagiyama shopping district"
+    ],
     "updatedAtSec": 1697059664,
     "lastAirDateSec": 1398513600,
     "bannerUrl": "",
@@ -21136,6 +22730,11 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "grooove",
+      "starchild records",
+      "zexcs"
+    ],
     "updatedAtSec": 1674827079,
     "lastAirDateSec": 1394625600,
     "bannerUrl": "",
@@ -21207,6 +22806,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "aniplex",
+      "kadokawa shoten"
+    ],
     "updatedAtSec": 1674776029,
     "lastAirDateSec": 1409745600,
     "bannerUrl": "",
@@ -21275,6 +22878,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "media factory",
+      "silver link."
+    ],
     "updatedAtSec": 1674826995,
     "lastAirDateSec": 1406116800,
     "bannerUrl": "",
@@ -21343,6 +22950,20 @@
     "licenseNameRu": "Капитан Земля",
     "licensors": [
       "Русский Репортаж"
+    ],
+    "producers": [
+      "a-sketch",
+      "avex entertainment",
+      "avex pictures",
+      "bandai namco entertainment",
+      "bandai namco games",
+      "bones",
+      "captain earth committee",
+      "dentsu inc.",
+      "good smile company",
+      "lawson entertainment",
+      "mainichi broadcasting system",
+      "sentai filmworks"
     ],
     "updatedAtSec": 1674776283,
     "lastAirDateSec": 1411300800,
@@ -21441,6 +23062,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "project no.9"
+    ],
     "updatedAtSec": 1674776026,
     "lastAirDateSec": 1404129600,
     "bannerUrl": "",
@@ -21506,6 +23130,20 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "81 produce",
+      "at-x",
+      "avex entertainment",
+      "avex pictures",
+      "bandai namco games",
+      "dive ii entertainment",
+      "hanayamata production committee",
+      "houbunsha",
+      "madhouse",
+      "madman entertainment",
+      "movic",
+      "q-tec"
+    ],
     "updatedAtSec": 1674776423,
     "lastAirDateSec": 1411473600,
     "bannerUrl": "",
@@ -21582,6 +23220,12 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "bushiroad inc.",
+      "dentsu",
+      "sotsu agency",
+      "tms entertainment"
+    ],
     "updatedAtSec": 1674826869,
     "lastAirDateSec": 1413720000,
     "bannerUrl": "",
@@ -21685,6 +23329,16 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "donten ni warau production committee",
+      "funimation",
+      "nippon television network",
+      "vap",
+      "blade",
+      "kinoshita management",
+      "production i.g",
+      "shochiku"
+    ],
     "updatedAtSec": 1674826926,
     "lastAirDateSec": 1419076800,
     "bannerUrl": "",
@@ -21763,9 +23417,18 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
-    "officialLinks": {
-      "deep": "https://deep-ent.ru/anime/ryoma-vozrozhdenie-princa-tennisa"
-    },
+    "producers": [
+      "bandai visual",
+      "funimation",
+      "m.s.c",
+      "marvelous aql",
+      "marvelous entertainment",
+      "nas",
+      "nihon ad systems",
+      "production i.g",
+      "shueisha",
+      "tv tokyo"
+    ],
     "updatedAtSec": 1674776139,
     "lastAirDateSec": 1435320000,
     "bannerUrl": "",
@@ -21832,6 +23495,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "tv tokyo"
+    ],
     "updatedAtSec": 1674776561,
     "lastAirDateSec": 1393329600,
     "bannerUrl": "",
@@ -21893,6 +23559,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "tv tokyo"
+    ],
     "updatedAtSec": 1674826831,
     "lastAirDateSec": 1390910400,
     "bannerUrl": "",
@@ -21968,6 +23637,17 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "at-x",
+      "funimation",
+      "genco",
+      "kadokawa",
+      "lantis",
+      "penguin empire",
+      "showgate",
+      "tnk",
+      "milky animation label"
+    ],
     "updatedAtSec": 1674826978,
     "lastAirDateSec": 1403352000,
     "bannerUrl": "",
@@ -22048,6 +23728,12 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "a.c.g.t.",
+      "j.c.staff",
+      "kadokawa",
+      "sentai filmworks"
+    ],
     "updatedAtSec": 1674827190,
     "lastAirDateSec": 1403784000,
     "bannerUrl": "",
@@ -22127,6 +23813,12 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "cygames",
+      "funimation",
+      "mappa",
+      "nbcuniversal entertainment japan"
+    ],
     "updatedAtSec": 1711975238,
     "lastAirDateSec": 1419854400,
     "bannerUrl": "",
@@ -22209,6 +23901,14 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "feel.",
+      "funimation",
+      "gansis",
+      "starchild records",
+      "studio mausu",
+      "uchihama gakuen astronomy club"
+    ],
     "updatedAtSec": 1674826950,
     "lastAirDateSec": 1419076800,
     "bannerUrl": "",
@@ -22290,6 +23990,11 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "aniplex",
+      "kodansha",
+      "shaft"
+    ],
     "updatedAtSec": 1787072345,
     "lastAirDateSec": 1408190400,
     "bannerUrl": "",
@@ -22365,6 +24070,16 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "docomo anime store",
+      "frontier works",
+      "lantis",
+      "magic capsule",
+      "sentai filmworks",
+      "showgate",
+      "the klockworx co., ltd.",
+      "zexcs"
+    ],
     "updatedAtSec": 1674826817,
     "lastAirDateSec": 1403611200,
     "bannerUrl": "",
@@ -22448,6 +24163,11 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "tms entertainment",
+      "shogakukan",
+      "ytv"
+    ],
     "updatedAtSec": 0,
     "lastAirDateSec": 1419595200,
     "bannerUrl": "",
@@ -22515,6 +24235,20 @@
     "licenseNameRu": "Девчонка не промах",
     "licensors": [
       "Netflix"
+    ],
+    "producers": [
+      "bandai namco entertainment",
+      "biglobe",
+      "capcom",
+      "g-mode",
+      "good smile company",
+      "hi score girl production committee",
+      "klockworx",
+      "magic capsule",
+      "netflix",
+      "picona creative studio",
+      "pony canyon",
+      "real-t"
     ],
     "updatedAtSec": 1674776516,
     "lastAirDateSec": 1538222400,
@@ -22584,6 +24318,11 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "a-1 pictures",
+      "aniplex of america",
+      "i was a ballerina"
+    ],
     "updatedAtSec": 1710499884,
     "lastAirDateSec": 1398254400,
     "bannerUrl": "",
@@ -22668,6 +24407,15 @@
       "Wakanim",
       "Netflix",
       "FAN"
+    ],
+    "producers": [
+      "aniplex of america",
+      "ascii media works",
+      "bandai namco entertainment",
+      "bandai namco games",
+      "dax production",
+      "genco",
+      "sao project"
     ],
     "updatedAtSec": 1688197324,
     "lastAirDateSec": 1419076800,
@@ -22761,6 +24509,14 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "froebel-kan co., ltd.",
+      "nippon television network",
+      "shochiku-fuji ltd.",
+      "the yomiuri shimbun",
+      "tokyo movie shinsha",
+      "vap"
+    ],
     "updatedAtSec": 1674776309,
     "lastAirDateSec": 700574400,
     "bannerUrl": "",
@@ -22839,6 +24595,13 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "aniplex of america",
+      "artland",
+      "delfi sound",
+      "kodansha",
+      "aniplex"
+    ],
     "updatedAtSec": 1697024080,
     "lastAirDateSec": 1403352000,
     "bannerUrl": "",
@@ -22914,6 +24677,20 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "animatic",
+      "ao haru ride production committee",
+      "bs11",
+      "hakuhodo dy media partners",
+      "hakuhodo dy music & pictures",
+      "mainichi broadcasting system",
+      "movic",
+      "nippon bs broadcasting corporation",
+      "production i.g",
+      "sentai filmworks",
+      "shueisha",
+      "sony music entertainment"
+    ],
     "updatedAtSec": 1677764601,
     "lastAirDateSec": 1411473600,
     "bannerUrl": "",
@@ -23007,6 +24784,13 @@
     "licenseNameRu": "",
     "licensors": [
       "DEEP"
+    ],
+    "producers": [
+      "a-1 pictures",
+      "bridge",
+      "dentsu inc.",
+      "funimation",
+      "tv tokyo"
     ],
     "updatedAtSec": 1729625872,
     "lastAirDateSec": 1458993600,
@@ -23281,6 +25065,12 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "dax production",
+      "flying dog",
+      "funimation",
+      "production ims"
+    ],
     "updatedAtSec": 1674826966,
     "lastAirDateSec": 1403784000,
     "bannerUrl": "",
@@ -23351,6 +25141,11 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "aniplex",
+      "lay-duce",
+      "shogakukan"
+    ],
     "updatedAtSec": 1787072469,
     "lastAirDateSec": 1436961600,
     "bannerUrl": "",
@@ -23428,6 +25223,13 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "hakusensha",
+      "nippon television network corporation",
+      "sentai filmworks",
+      "studio pierrot",
+      "vap"
+    ],
     "updatedAtSec": 1677764972,
     "lastAirDateSec": 1404043200,
     "bannerUrl": "",
@@ -23509,6 +25311,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "production i.g"
+    ],
     "updatedAtSec": 1674776204,
     "lastAirDateSec": 1403265600,
     "bannerUrl": "",
@@ -23578,6 +25383,14 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "aniplex",
+      "dentsu inc.",
+      "fuji television network",
+      "fuji tv",
+      "kyoraku industrial holdings co.,ltd.",
+      "science saru"
+    ],
     "updatedAtSec": 1674827190,
     "lastAirDateSec": 1403265600,
     "bannerUrl": "",
@@ -23671,6 +25484,19 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "a-1 pictures",
+      "aniplex",
+      "asmik ace entertainment, inc.",
+      "dena",
+      "funimation",
+      "hakuhodo dy media partners",
+      "hakuhodo dy music & pictures",
+      "kuroshitsuji project",
+      "mainichi broadcasting system",
+      "movic",
+      "square enix"
+    ],
     "updatedAtSec": 1674472568,
     "lastAirDateSec": 1410523200,
     "bannerUrl": "",
@@ -23748,6 +25574,18 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "amabri rebirth committee",
+      "avex entertainment",
+      "avex pictures",
+      "dax production",
+      "flying dog",
+      "kyoto animation",
+      "mobcast",
+      "sentai filmworks",
+      "tbs",
+      "tokyo broadcasting system"
+    ],
     "updatedAtSec": 1674776042,
     "lastAirDateSec": 1419595200,
     "bannerUrl": "",
@@ -23827,6 +25665,20 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "daiichi kosho",
+      "dax international",
+      "dax production",
+      "docomo anime store",
+      "feel.",
+      "fuji creative corporation",
+      "i0plus inc.",
+      "ichijinsha",
+      "nippon columbia",
+      "overlap",
+      "sentai filmworks",
+      "sony music communications"
+    ],
     "updatedAtSec": 1674827198,
     "lastAirDateSec": 1411128000,
     "bannerUrl": "",
@@ -23924,6 +25776,20 @@
     ],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "akame ga kill production committee",
+      "animatsu entertainment",
+      "fields",
+      "hanabee entertainment",
+      "jinnan studio",
+      "nihon ad systems",
+      "q-tec",
+      "real-t",
+      "sentai filmworks",
+      "sony music entertainment",
+      "square enix",
+      "toho animation"
+    ],
     "updatedAtSec": 1677766045,
     "lastAirDateSec": 1418644800,
     "bannerUrl": "",
@@ -24008,6 +25874,12 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "flying dog",
+      "project no.9",
+      "sentai filmworks",
+      "tri-slash"
+    ],
     "updatedAtSec": 1674776584,
     "lastAirDateSec": 1411560000,
     "bannerUrl": "",
@@ -24087,6 +25959,15 @@
     "licensors": [
       "Crunchyroll"
     ],
+    "producers": [
+      "animation do",
+      "asahi broadcasting corporation",
+      "funimation",
+      "iwatobi high school swimming club es",
+      "kyoto animation",
+      "lantis",
+      "pony canyon"
+    ],
     "updatedAtSec": 1674776170,
     "lastAirDateSec": 1411646400,
     "bannerUrl": "",
@@ -24160,6 +26041,16 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "fuji television network",
+      "funimation",
+      "j.c. staff",
+      "j.c.staff",
+      "magic capsule",
+      "project selector",
+      "showgate",
+      "warner bros. japan"
+    ],
     "updatedAtSec": 1674472556,
     "lastAirDateSec": 1403265600,
     "bannerUrl": "",
@@ -24241,6 +26132,12 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "anpro",
+      "idea factory",
+      "kaga electronics",
+      "teamkg"
+    ],
     "updatedAtSec": 1674827074,
     "lastAirDateSec": 1417176000,
     "bannerUrl": "",
@@ -24330,6 +26227,14 @@
       "Netflix",
       "2x2"
     ],
+    "producers": [
+      "funimation",
+      "marvelous aql",
+      "marvelous, inc.",
+      "shueisha",
+      "studio pierrot",
+      "tc entertainment, inc."
+    ],
     "updatedAtSec": 1677444922,
     "lastAirDateSec": 1411128000,
     "bannerUrl": "",
@@ -24410,6 +26315,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "dax production",
+      "earth star entertainment"
+    ],
     "updatedAtSec": 1696290585,
     "lastAirDateSec": 1390564800,
     "bannerUrl": "",
@@ -24475,6 +26384,13 @@
     "blockedIn": [],
     "licenseNameRu": "Ронья, дочь разбойника",
     "licensors": [],
+    "producers": [
+      "dwango",
+      "gkids",
+      "nhk enterprises",
+      "polygon pictures",
+      "studio ghibli"
+    ],
     "updatedAtSec": 1674775975,
     "lastAirDateSec": 1427544000,
     "bannerUrl": "",
@@ -24559,6 +26475,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "bandai namco games",
+      "graphinica"
+    ],
     "updatedAtSec": 1674827075,
     "lastAirDateSec": 1394107200,
     "bannerUrl": "",
@@ -24624,6 +26544,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "cyclone graphics inc",
+      "nhk enterprises"
+    ],
     "updatedAtSec": 1674776015,
     "lastAirDateSec": 1395403200,
     "bannerUrl": "",
@@ -24705,6 +26629,13 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "bandai visual",
+      "lantis",
+      "production i.g",
+      "showgate",
+      "xebec"
+    ],
     "updatedAtSec": 1674826947,
     "lastAirDateSec": 1403438400,
     "bannerUrl": "",
@@ -24777,6 +26708,9 @@
     "blockedIn": [],
     "licenseNameRu": "Привет, Китти: Хайди",
     "licensors": [],
+    "producers": [
+      "sanrio"
+    ],
     "updatedAtSec": 1735236689,
     "lastAirDateSec": 745934400,
     "bannerUrl": "",
@@ -24836,6 +26770,9 @@
     "blockedIn": [],
     "licenseNameRu": "Привет, Китти: День, когда в городе остановились все часы",
     "licensors": [],
+    "producers": [
+      "sanrio"
+    ],
     "updatedAtSec": 1731401900,
     "lastAirDateSec": 711720000,
     "bannerUrl": "",
@@ -24900,6 +26837,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "sanrio"
+    ],
     "updatedAtSec": 1735381895,
     "lastAirDateSec": 1006516800,
     "bannerUrl": "",
@@ -24967,9 +26907,13 @@
     "licensors": [
       "DEEP"
     ],
-    "officialLinks": {
-      "deep": "https://deep-ent.ru/anime/inicial-di-finalnaya-stadiya"
-    },
+    "producers": [
+      "avex entertainment",
+      "avex pictures",
+      "kodansha",
+      "synergysp",
+      "wedge link"
+    ],
     "updatedAtSec": 1674776309,
     "lastAirDateSec": 1403438400,
     "bannerUrl": "",
@@ -25052,6 +26996,13 @@
     "licensors": [
       "FAN",
       "2x2"
+    ],
+    "producers": [
+      "forecast communications",
+      "kodansha",
+      "nippon television network corporation",
+      "sentai filmworks",
+      "vap"
     ],
     "updatedAtSec": 1677765593,
     "lastAirDateSec": 1427371200,
@@ -25146,6 +27097,11 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "ilca",
+      "sentai filmworks",
+      "tv tokyo"
+    ],
     "updatedAtSec": 1674826926,
     "lastAirDateSec": 1411992000,
     "bannerUrl": "",
@@ -25225,6 +27181,12 @@
     "licenseNameRu": "Клинок и душа",
     "licensors": [
       "DEEP"
+    ],
+    "producers": [
+      "gonzo",
+      "sentai filmworks",
+      "tbs",
+      "tokyo broadcasting system"
     ],
     "updatedAtSec": 1674776107,
     "lastAirDateSec": 1403870400,
@@ -25309,6 +27271,20 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "a-1 pictures",
+      "aniplex",
+      "asahi shimbun",
+      "chukyo tv broadcasting",
+      "chukyo tv. broadcasting co., ltd.",
+      "cork",
+      "dentsu inc.",
+      "fukuoka broadcasting corporation",
+      "fukuoka broadcasting system",
+      "hiroshima television",
+      "hiroshima tv",
+      "kodansha"
+    ],
     "updatedAtSec": 1674776160,
     "lastAirDateSec": 1407585600,
     "bannerUrl": "",
@@ -25365,6 +27341,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "shin-ei animation"
+    ],
     "updatedAtSec": 1755263987,
     "lastAirDateSec": 1310299200,
     "bannerUrl": "",
@@ -25441,6 +27420,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "banpresto"
+    ],
     "updatedAtSec": 1674776241,
     "lastAirDateSec": 1429704000,
     "bannerUrl": "",
@@ -25515,6 +27497,12 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "diomedea",
+      "funimation",
+      "madman entertainment",
+      "sotsu"
+    ],
     "updatedAtSec": 1729760425,
     "lastAirDateSec": 1427716800,
     "bannerUrl": "",
@@ -25599,6 +27587,20 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "animatic",
+      "good smile company",
+      "jinnan studio",
+      "lidenfilms",
+      "mages.",
+      "project terraformars",
+      "sanzigen",
+      "shueisha",
+      "ultra super pictures",
+      "viz media",
+      "warner bros. japan",
+      "warner bros."
+    ],
     "updatedAtSec": 1674776464,
     "lastAirDateSec": 1419076800,
     "bannerUrl": "",
@@ -25683,6 +27685,14 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "animatic",
+      "good smile company",
+      "lidenfilms",
+      "mages.",
+      "ultra super pictures",
+      "warner bros. japan"
+    ],
     "updatedAtSec": 1674776570,
     "lastAirDateSec": 1416398400,
     "bannerUrl": "",
@@ -25744,6 +27754,15 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "miracle bus",
+      "sanrio",
+      "sotsu",
+      "studio comet",
+      "tv tokyo medianet",
+      "we've, inc.",
+      "zexcs"
+    ],
     "updatedAtSec": 1674776163,
     "lastAirDateSec": 1427544000,
     "bannerUrl": "",
@@ -25865,6 +27884,20 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "a-1 pictures",
+      "aniplex of america",
+      "asahi broadcasting corporation",
+      "bs11",
+      "houbunsha",
+      "mages.",
+      "movic",
+      "nippon bs broadcasting corporation",
+      "nitroplus",
+      "olympus knights",
+      "project az",
+      "tokyo mx"
+    ],
     "updatedAtSec": 1679430544,
     "lastAirDateSec": 1411300800,
     "bannerUrl": "",
@@ -25941,6 +27974,7 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [],
     "updatedAtSec": 0,
     "lastAirDateSec": 1395748800,
     "bannerUrl": "",
@@ -26010,6 +28044,13 @@
     "licenseNameRu": "Граница пустоты: Благословение будущего — Дополнительная глава",
     "licensors": [
       "DEEP"
+    ],
+    "producers": [
+      "aniplex of america",
+      "kodansha",
+      "notes",
+      "star seas company",
+      "ufotable"
     ],
     "updatedAtSec": 1677782869,
     "lastAirDateSec": 1380369600,
@@ -26087,6 +28128,12 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "fuji tv",
+      "funimation",
+      "toei animation",
+      "fuji television network"
+    ],
     "updatedAtSec": 1674776147,
     "lastAirDateSec": 1435492800,
     "bannerUrl": "",
@@ -26213,6 +28260,14 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "barakamon production committee",
+      "funimation",
+      "kinema citrus",
+      "nippon television network corporation",
+      "square enix",
+      "vap"
+    ],
     "updatedAtSec": 1674776406,
     "lastAirDateSec": 1411905600,
     "bannerUrl": "",
@@ -26291,6 +28346,11 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "toei animation",
+      "yomiuri telecasting corporation",
+      "ytv"
+    ],
     "updatedAtSec": 1674776133,
     "lastAirDateSec": 1411819200,
     "bannerUrl": "",
@@ -26383,6 +28443,11 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "aikatsu the movie",
+      "bandai visual",
+      "sunrise"
+    ],
     "updatedAtSec": 1674827214,
     "lastAirDateSec": 1418472000,
     "bannerUrl": "",
@@ -26447,6 +28512,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "toei animation",
+      "tv asahi"
+    ],
     "updatedAtSec": 1674776336,
     "lastAirDateSec": 1411905600,
     "bannerUrl": "",
@@ -26536,6 +28605,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "asahi production"
+    ],
     "updatedAtSec": 1677765972,
     "lastAirDateSec": 1411992000,
     "bannerUrl": "",
@@ -26614,6 +28686,12 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "comix wave films",
+      "nintendo co. ltd.",
+      "the answer studio",
+      "the pokemon company international"
+    ],
     "updatedAtSec": 1674776321,
     "lastAirDateSec": 1393329600,
     "bannerUrl": "",
@@ -26677,6 +28755,7 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [],
     "updatedAtSec": 1681496157,
     "lastAirDateSec": 1392811200,
     "bannerUrl": "",
@@ -26748,6 +28827,14 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "genco",
+      "kadokawa",
+      "kddi",
+      "sentai filmworks",
+      "showgate",
+      "silver link."
+    ],
     "updatedAtSec": 1674776425,
     "lastAirDateSec": 1411819200,
     "bannerUrl": "",
@@ -26835,6 +28922,17 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "at-x",
+      "genco",
+      "kadokawa",
+      "madman entertainment",
+      "media factory",
+      "movic",
+      "sentai filmworks",
+      "showgate",
+      "tnk"
+    ],
     "updatedAtSec": 1674776413,
     "lastAirDateSec": 1411992000,
     "bannerUrl": "",
@@ -26911,6 +29009,20 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "amuse",
+      "bandai namco entertainment",
+      "bandai namco games",
+      "daiichi kosho co.",
+      "daiichi kosho company",
+      "daiichikosho",
+      "francesca production committee",
+      "heart-bit",
+      "heartbit",
+      "hokkaido azmacy co., ltd.",
+      "hokkaido cultural broadcasting co., ltd.",
+      "pony canyon"
+    ],
     "updatedAtSec": 1674827079,
     "lastAirDateSec": 1418644800,
     "bannerUrl": "",
@@ -26983,6 +29095,11 @@
     "licensors": [
       "Wakanim"
     ],
+    "producers": [
+      "aic plus+",
+      "funimation",
+      "production ims"
+    ],
     "updatedAtSec": 1751850670,
     "lastAirDateSec": 1418040000,
     "bannerUrl": "",
@@ -27048,6 +29165,15 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "marvelous aql",
+      "nas",
+      "nbcuniversal entertainment japan",
+      "nihon ad systems",
+      "sentai filmworks",
+      "studio deen",
+      "tv asahi music"
+    ],
     "updatedAtSec": 1674827189,
     "lastAirDateSec": 1410955200,
     "bannerUrl": "",
@@ -27136,6 +29262,15 @@
     "licensors": [
       "2x2"
     ],
+    "producers": [
+      "bones",
+      "shogakukan productions",
+      "shogakukan-shueisha productions",
+      "spin master ltd.",
+      "spin masters",
+      "tv tokyo",
+      "viz media"
+    ],
     "updatedAtSec": 1674826943,
     "lastAirDateSec": 1427544000,
     "bannerUrl": "",
@@ -27221,6 +29356,16 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "infinite",
+      "lantis",
+      "magic capsule",
+      "p.a. works",
+      "pony canyon",
+      "sentai filmworks",
+      "showgate",
+      "sotsu"
+    ],
     "updatedAtSec": 1674776122,
     "lastAirDateSec": 1411646400,
     "bannerUrl": "",
@@ -27298,6 +29443,13 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "asahi broadcasting corporation",
+      "asatsu-dk",
+      "kinoshita group holdings",
+      "toei animation",
+      "toei company, ltd."
+    ],
     "updatedAtSec": 1674776031,
     "lastAirDateSec": 1413028800,
     "bannerUrl": "",
@@ -27364,6 +29516,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "production i.g",
+      "viz media"
+    ],
     "updatedAtSec": 1757237516,
     "lastAirDateSec": 1380110400,
     "bannerUrl": "",
@@ -27428,6 +29584,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "tv tokyo"
+    ],
     "updatedAtSec": 1751851011,
     "lastAirDateSec": 1490702400,
     "bannerUrl": "",
@@ -27631,6 +29790,11 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "funimation",
+      "starchild records",
+      "zexcs"
+    ],
     "updatedAtSec": 1674776443,
     "lastAirDateSec": 1411819200,
     "bannerUrl": "",
@@ -27714,6 +29878,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "manglobe"
+    ],
     "updatedAtSec": 1674826977,
     "lastAirDateSec": 1418731200,
     "bannerUrl": "",
@@ -27792,6 +29959,16 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "aniplex of america",
+      "ascii media works",
+      "hakuhodo dy media partners",
+      "ikebukuro dollars",
+      "mainichi broadcasting system",
+      "movic",
+      "shuka",
+      "square enix"
+    ],
     "updatedAtSec": 1752195102,
     "lastAirDateSec": 1427544000,
     "bannerUrl": "",
@@ -27898,6 +30075,12 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "funimation",
+      "nippon television network corporation",
+      "telecom animation film",
+      "vap"
+    ],
     "updatedAtSec": 1674827116,
     "lastAirDateSec": 1411905600,
     "bannerUrl": "",
@@ -27976,6 +30159,19 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "bandai visual",
+      "cospa",
+      "good smile company",
+      "hakuhodo dy media partners",
+      "infinite",
+      "lantis",
+      "orange",
+      "sentai filmworks",
+      "showgate",
+      "sony pcl",
+      "sotsu co., ltd."
+    ],
     "updatedAtSec": 1674827118,
     "lastAirDateSec": 1419768000,
     "bannerUrl": "",
@@ -28050,6 +30246,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "dle"
+    ],
     "updatedAtSec": 1674827074,
     "lastAirDateSec": 1404475200,
     "bannerUrl": "",
@@ -28129,6 +30328,13 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "dax production",
+      "doga kobo",
+      "ichijinsha",
+      "mikakunin de shinkoukei production committee",
+      "toho animation"
+    ],
     "updatedAtSec": 1674826983,
     "lastAirDateSec": 1396008000,
     "bannerUrl": "",
@@ -28205,6 +30411,17 @@
     "licenseNameRu": "Моей сестрёнкой стала Повелительница демонов",
     "licensors": [
       "Crunchyroll"
+    ],
+    "producers": [
+      "at-x",
+      "funimation",
+      "kadokawa pictures japan",
+      "kadokawa shoten",
+      "klockworx",
+      "mobcast",
+      "nippon columbia",
+      "production ims",
+      "the klockworx co., ltd."
     ],
     "updatedAtSec": 1685913076,
     "lastAirDateSec": 1427371200,
@@ -28290,6 +30507,20 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "aic",
+      "bandai co., ltd.",
+      "bandai namco games",
+      "bandai visual",
+      "lantis",
+      "olm",
+      "production i.g",
+      "shochiku",
+      "space battleship yamato 2199 production committee",
+      "tohokushinsha film corporation",
+      "voyager entertainment",
+      "voyager holdings"
+    ],
     "updatedAtSec": 1674776088,
     "lastAirDateSec": 1417867200,
     "bannerUrl": "",
@@ -28358,6 +30589,19 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "at-x",
+      "frontier works",
+      "gugure! kokkuri-san production committee",
+      "kadokawa",
+      "media factory",
+      "nas",
+      "nihon ad systems",
+      "sentai filmworks",
+      "sony music communications",
+      "tms entertainment",
+      "tv tokyo"
+    ],
     "updatedAtSec": 1707987295,
     "lastAirDateSec": 1419249600,
     "bannerUrl": "",
@@ -28440,6 +30684,13 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "mainichi broadcasting system",
+      "one music",
+      "sotsu",
+      "sunrise music",
+      "tohokushinsha film corporation"
+    ],
     "updatedAtSec": 1751855095,
     "lastAirDateSec": 1427457600,
     "bannerUrl": "",
@@ -28532,6 +30783,15 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "axsiz",
+      "flying dog",
+      "genco",
+      "media factory",
+      "sentai filmworks",
+      "showgate",
+      "studio gokumi"
+    ],
     "updatedAtSec": 1674827164,
     "lastAirDateSec": 1434974400,
     "bannerUrl": "",
@@ -28627,6 +30887,20 @@
     "licensors": [
       "Синема Галэкси"
     ],
+    "producers": [
+      "a-1 pictures",
+      "aniplex of america",
+      "dentsu inc.",
+      "fuji television network",
+      "fuji tv",
+      "kansai telecasting corporation",
+      "kansai tv",
+      "kodansha",
+      "kyoraku industrial holdings co.,ltd.",
+      "lawson entertainment",
+      "lawson hmv entertainment",
+      "shigatsu wa kimi no uso production committee"
+    ],
     "updatedAtSec": 1677766048,
     "lastAirDateSec": 1426852800,
     "bannerUrl": "",
@@ -28721,6 +30995,20 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "aniplex",
+      "cospa",
+      "dentsu",
+      "fuji pacific music publishing",
+      "fuji television network",
+      "fuji tv",
+      "fujimi shobo",
+      "fujipacific music",
+      "good smile company",
+      "half h.p studio",
+      "kadokawa",
+      "kansai telecasting corporation"
+    ],
     "updatedAtSec": 1751850481,
     "lastAirDateSec": 1427457600,
     "bannerUrl": "",
@@ -28803,6 +31091,10 @@
       "Русский Репортаж",
       "2x2"
     ],
+    "producers": [
+      "funimation",
+      "twin engine"
+    ],
     "updatedAtSec": 1674775965,
     "lastAirDateSec": 1486123200,
     "bannerUrl": "",
@@ -28883,6 +31175,19 @@
     "licenseNameRu": "Психопаспорт 2",
     "licensors": [
       "FAN"
+    ],
+    "producers": [
+      "dentsu inc.",
+      "fuji television network",
+      "fuji tv",
+      "funimation",
+      "kyoraku industrial holdings co.,ltd.",
+      "nitroplus",
+      "production i.g",
+      "psycho pass production committee",
+      "sony music entertainment",
+      "tatsunoko production",
+      "toho animation"
     ],
     "updatedAtSec": 1756095796,
     "lastAirDateSec": 1418990400,
@@ -28970,6 +31275,17 @@
     "blockedIn": [],
     "licenseNameRu": "Эхо террора",
     "licensors": [],
+    "producers": [
+      "aniplex",
+      "dentsu inc.",
+      "fuji television network",
+      "fuji tv",
+      "funimation",
+      "kyoraku industrial holdings co.,ltd.",
+      "mappa",
+      "tohokushinsha film corporation",
+      "zankyō no terror production committee"
+    ],
     "updatedAtSec": 1677765798,
     "lastAirDateSec": 1411732800,
     "bannerUrl": "",
@@ -29048,6 +31364,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "fuji television network",
+      "studio colorido"
+    ],
     "updatedAtSec": 1724742127,
     "lastAirDateSec": 1395403200,
     "bannerUrl": "",
@@ -29117,6 +31437,17 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "at-x",
+      "dōga kōbō",
+      "frontier works",
+      "gekkan shōjo nozaki-kun production committee",
+      "kadokawa",
+      "media factory",
+      "sentai filmworks",
+      "sony music communications",
+      "tv tokyo"
+    ],
     "updatedAtSec": 1692634384,
     "lastAirDateSec": 1411387200,
     "bannerUrl": "",
@@ -29204,6 +31535,11 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "discotek media",
+      "tms entertainment",
+      "tms music"
+    ],
     "updatedAtSec": 1674775766,
     "lastAirDateSec": 1403352000,
     "bannerUrl": "",
@@ -29277,6 +31613,12 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "olm",
+      "oriental light and magic",
+      "the pokemon company international",
+      "tv tokyo"
+    ],
     "updatedAtSec": 1674776516,
     "lastAirDateSec": 1446120000,
     "bannerUrl": "",
@@ -29349,6 +31691,15 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "lantis",
+      "passione",
+      "pony canyon",
+      "projectrw!",
+      "sentai filmworks",
+      "tbs",
+      "tokyo broadcasting system"
+    ],
     "updatedAtSec": 1674776552,
     "lastAirDateSec": 1411128000,
     "bannerUrl": "",
@@ -29427,6 +31778,10 @@
     "licenseNameRu": "Гаро: Печать пламени",
     "licensors": [
       "FAN"
+    ],
+    "producers": [
+      "funimation",
+      "tohokushinsha film corporation"
     ],
     "updatedAtSec": 1674826942,
     "lastAirDateSec": 1427544000,
@@ -29528,6 +31883,19 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "a-1 pictures",
+      "aniplex",
+      "asmik ace entertainment, inc.",
+      "black butler ova project",
+      "dena",
+      "funimation",
+      "hakuhodo dy media partners",
+      "hakuhodo dy music & pictures",
+      "mainichi broadcasting system",
+      "movic",
+      "square enix"
+    ],
     "updatedAtSec": 1709504612,
     "lastAirDateSec": 1424865600,
     "bannerUrl": "",
@@ -29603,6 +31971,16 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "bandai visual",
+      "bushiroad",
+      "gargantia on the verdurous planet production committee",
+      "good smile company",
+      "lantis",
+      "nitroplus",
+      "production i.g",
+      "yomiuri tv enterprise"
+    ],
     "updatedAtSec": 1674776494,
     "lastAirDateSec": 1428148800,
     "bannerUrl": "",
@@ -29674,6 +32052,11 @@
     "licenseNameRu": "Log Horizon 2",
     "licensors": [
       "Crunchyroll"
+    ],
+    "producers": [
+      "nhk",
+      "sentai filmworks",
+      "studio deen"
     ],
     "updatedAtSec": 1787072496,
     "lastAirDateSec": 1427544000,
@@ -29763,6 +32146,18 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "bushiroad",
+      "klockworx",
+      "olm",
+      "project argevollen",
+      "sammy",
+      "sentai filmworks",
+      "showgate",
+      "the klockworx co., ltd.",
+      "warner bros. japan",
+      "xebec"
+    ],
     "updatedAtSec": 1674776199,
     "lastAirDateSec": 1418904000,
     "bannerUrl": "",
@@ -29862,6 +32257,19 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "adult swim",
+      "bandai namco entertainment",
+      "bandai namco games",
+      "bandai visual",
+      "bones",
+      "bs fuji",
+      "flying dog",
+      "funimation",
+      "hakuhodo dy media partners",
+      "hakuhodo dy music & pictures",
+      "project space dandy"
+    ],
     "updatedAtSec": 1674827000,
     "lastAirDateSec": 1411646400,
     "bannerUrl": "",
@@ -29943,6 +32351,19 @@
     ],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "at-x",
+      "avex entertainment",
+      "avex pictures",
+      "dive ii entertainment",
+      "movic",
+      "nas",
+      "naz",
+      "nitroplus",
+      "pony canyon",
+      "sentai filmworks",
+      "tv tokyo"
+    ],
     "updatedAtSec": 1674776391,
     "lastAirDateSec": 1411387200,
     "bannerUrl": "",
@@ -30017,6 +32438,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "brain's base",
+      "media factory"
+    ],
     "updatedAtSec": 1674827038,
     "lastAirDateSec": 1411387200,
     "bannerUrl": "",
@@ -30084,6 +32509,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "kyoto animation",
+      "sentai filmworks"
+    ],
     "updatedAtSec": 1701975062,
     "lastAirDateSec": 1404302400,
     "bannerUrl": "",
@@ -30142,6 +32571,12 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "shimogumi",
+      "simogumi",
+      "y.o.u.c",
+      "yamaha motor company"
+    ],
     "updatedAtSec": 1674827076,
     "lastAirDateSec": 1405684800,
     "bannerUrl": "",
@@ -30216,6 +32651,20 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "at-x",
+      "avex pictures",
+      "dax production",
+      "dive ii entertainment",
+      "fields corporation",
+      "lerche",
+      "movic",
+      "naz",
+      "q-tec",
+      "sentai filmworks",
+      "shueisha",
+      "sotsu co., ltd."
+    ],
     "updatedAtSec": 1674776197,
     "lastAirDateSec": 1411473600,
     "bannerUrl": "",
@@ -30291,6 +32740,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "hakusensha",
+      "soft garage"
+    ],
     "updatedAtSec": 1674776370,
     "lastAirDateSec": 1472472000,
     "bannerUrl": "",
@@ -30360,6 +32813,11 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "dax production",
+      "dream creation",
+      "seven"
+    ],
     "updatedAtSec": 1674826973,
     "lastAirDateSec": 1411732800,
     "bannerUrl": "",
@@ -30428,6 +32886,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "a-1 pictures"
+    ],
     "updatedAtSec": 1674826983,
     "lastAirDateSec": 1403611200,
     "bannerUrl": "",
@@ -30496,6 +32957,12 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "genco",
+      "geneon universal entertainment",
+      "j.c.staff",
+      "sentai filmworks"
+    ],
     "updatedAtSec": 1674776592,
     "lastAirDateSec": 1409313600,
     "bannerUrl": "",
@@ -30564,6 +33031,11 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "a-1 pictures",
+      "aniplex of america",
+      "flying dog"
+    ],
     "updatedAtSec": 1674827077,
     "lastAirDateSec": 1413374400,
     "bannerUrl": "",
@@ -30628,6 +33100,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "studio moriken"
+    ],
     "updatedAtSec": 1679875054,
     "lastAirDateSec": 1417694400,
     "bannerUrl": "",
@@ -30690,6 +33165,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "gathering",
+      "sanrio"
+    ],
     "updatedAtSec": 1785659700,
     "lastAirDateSec": 1703419200,
     "bannerUrl": "",
@@ -30768,6 +33247,11 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "dream creation",
+      "seven",
+      "studio chant"
+    ],
     "updatedAtSec": 1674826870,
     "lastAirDateSec": 1411473600,
     "bannerUrl": "",
@@ -30847,6 +33331,16 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "a-1 pictures",
+      "anime consortium japan",
+      "aniplex",
+      "bandai namco games",
+      "cygames",
+      "half h.p studio",
+      "nippon columbia",
+      "project cinderella"
+    ],
     "updatedAtSec": 1674472440,
     "lastAirDateSec": 1428753600,
     "bannerUrl": "",
@@ -30906,6 +33400,7 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [],
     "updatedAtSec": 1674827159,
     "lastAirDateSec": 0,
     "bannerUrl": "",
@@ -30994,6 +33489,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "daiei eizō"
+    ],
     "updatedAtSec": 1674776296,
     "lastAirDateSec": 627912000,
     "bannerUrl": "",
@@ -31064,6 +33562,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "nhk"
+    ],
     "updatedAtSec": 1674776158,
     "lastAirDateSec": 813758400,
     "bannerUrl": "",
@@ -31138,6 +33639,16 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "lantis",
+      "sentai filmworks",
+      "silver link.",
+      "tv tokyo",
+      "at-x",
+      "grooove",
+      "kadokawa",
+      "sony music communications"
+    ],
     "updatedAtSec": 1684185092,
     "lastAirDateSec": 1442923200,
     "bannerUrl": "",
@@ -31205,6 +33716,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "tezuka productions"
+    ],
     "updatedAtSec": 1722854700,
     "lastAirDateSec": 1090065600,
     "bannerUrl": "",
@@ -31270,6 +33784,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "tezuka productions"
+    ],
     "updatedAtSec": 1769622203,
     "lastAirDateSec": 964094400,
     "bannerUrl": "",
@@ -31338,6 +33855,17 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "nippon television network corporation",
+      "sentai filmworks",
+      "shueisha",
+      "tyo animations",
+      "vap",
+      "wolf girl and black prince production committee",
+      "yomiuri telecasting corporation",
+      "yomiuri tv enterprise",
+      "ytv"
+    ],
     "updatedAtSec": 1674776338,
     "lastAirDateSec": 1419163200,
     "bannerUrl": "",
@@ -31410,9 +33938,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
-    "officialLinks": {
-      "deep": "https://deep-ent.ru/anime/toradora"
-    },
+    "producers": [
+      "j.c.staff"
+    ],
     "updatedAtSec": 1705447011,
     "lastAirDateSec": 1241092800,
     "bannerUrl": "",
@@ -31478,6 +34006,17 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "501st joint fighter wing",
+      "glovision",
+      "kadokawa",
+      "klockworx",
+      "nippon columbia",
+      "ntt docomo",
+      "silver link.",
+      "sony pcl",
+      "the klockworx co., ltd."
+    ],
     "updatedAtSec": 1674827206,
     "lastAirDateSec": 1438344000,
     "bannerUrl": "",
@@ -31560,6 +34099,16 @@
     "licensors": [
       "Netflix",
       "DEEP"
+    ],
+    "producers": [
+      "aniplex",
+      "dentsu inc.",
+      "funimation",
+      "kodansha",
+      "mainichi broadcasting system",
+      "movic",
+      "the seven deadly sins production committee",
+      "a-1 pictures"
     ],
     "updatedAtSec": 1677765868,
     "lastAirDateSec": 1427630400,
@@ -31651,6 +34200,14 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "dentsu",
+      "kodansha",
+      "mainichi broadcasting system",
+      "pony canyon enterprises",
+      "production i.g",
+      "wit studio"
+    ],
     "updatedAtSec": 1705007631,
     "lastAirDateSec": 1416657600,
     "bannerUrl": "",
@@ -31733,6 +34290,15 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "dentsu",
+      "kodansha",
+      "mainichi broadcasting system",
+      "pony canyon enterprise",
+      "production i.g",
+      "pony canyon enterprises",
+      "wit studio"
+    ],
     "updatedAtSec": 1677975915,
     "lastAirDateSec": 1435406400,
     "bannerUrl": "",
@@ -31791,6 +34357,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "studio pierrot"
+    ],
     "updatedAtSec": 1695763044,
     "lastAirDateSec": 1397563200,
     "bannerUrl": "",
@@ -31852,6 +34421,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "studio pierrot"
+    ],
     "updatedAtSec": 1674827075,
     "lastAirDateSec": 1397563200,
     "bannerUrl": "",
@@ -31929,8 +34501,17 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "delfi sound",
+      "marvelous aql",
+      "movic",
+      "nbcuniversal entertainment japan",
+      "sentai filmworks",
+      "tbs",
+      "this production committee is wrong as i expected.",
+      "tokyo broadcasting system"
+    ],
     "officialLinks": {
-      "amediateka": "https://www.amediateka.ru/watch/series_62020_kak-i-ozhidalos-moja-shkolnaja-romanticheskaja-zhizn-ne-udalas-trizhdy",
       "wink": "https://wink.ru/series/kak-i-ozhidalos-moya-shkolnaya-romanticheskaya-zhizn-ne-udalas-trizhdy-year-2020"
     },
     "updatedAtSec": 1697024115,
@@ -32011,6 +34592,18 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "at-x",
+      "bushiroad inc.",
+      "bushiroad media",
+      "dax production",
+      "eswood",
+      "j.c. staff",
+      "j.c.staff",
+      "kodansha",
+      "pony canyon",
+      "s-wood"
+    ],
     "updatedAtSec": 1674775953,
     "lastAirDateSec": 1411560000,
     "bannerUrl": "",
@@ -32095,6 +34688,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "production reed"
+    ],
     "updatedAtSec": 1674776278,
     "lastAirDateSec": 1412942400,
     "bannerUrl": "",
@@ -32167,6 +34763,20 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "asahi shimbun",
+      "asatsu dk",
+      "asatsu-dk",
+      "bandai visual",
+      "dandelion animation studio llc",
+      "gkids",
+      "olm",
+      "production goodbook",
+      "production i.g",
+      "sunrise",
+      "the asahi shimbun company",
+      "tokyo theatres company"
+    ],
     "updatedAtSec": 1674827223,
     "lastAirDateSec": 1431172800,
     "bannerUrl": "",
@@ -32229,6 +34839,16 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "dax production",
+      "docomo anime store",
+      "klockworx",
+      "nichinare",
+      "pony canyon",
+      "ponycan usa",
+      "studio gokumi",
+      "tbs"
+    ],
     "updatedAtSec": 1674827195,
     "lastAirDateSec": 1450440000,
     "bannerUrl": "",
@@ -32308,6 +34928,16 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "avex pictures",
+      "comic umenohone",
+      "dax production",
+      "mobcast",
+      "pony canyon",
+      "ponycan usa",
+      "shin-ei animation",
+      "sotsu"
+    ],
     "updatedAtSec": 1674826994,
     "lastAirDateSec": 1418904000,
     "bannerUrl": "",
@@ -32380,6 +35010,16 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "fuji television network",
+      "funimation",
+      "j.c. staff",
+      "j.c.staff",
+      "magic capsule",
+      "project selector",
+      "showgate",
+      "warner bros. japan"
+    ],
     "updatedAtSec": 1787073152,
     "lastAirDateSec": 1419076800,
     "bannerUrl": "",
@@ -32465,6 +35105,17 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "a-1 pictures",
+      "aniplex of america",
+      "hakuhodo dy media partners",
+      "kadokawa",
+      "mainichi broadcasting system",
+      "movic",
+      "p4ga committee",
+      "sega",
+      "yomiko advertising, inc."
+    ],
     "updatedAtSec": 1787072877,
     "lastAirDateSec": 1411732800,
     "bannerUrl": "",
@@ -32544,6 +35195,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "toei animation"
+    ],
     "updatedAtSec": 1674776223,
     "lastAirDateSec": 741009600,
     "bannerUrl": "",
@@ -32605,6 +35259,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "daiei"
+    ],
     "updatedAtSec": 1684966137,
     "lastAirDateSec": 697723200,
     "bannerUrl": "",
@@ -32662,6 +35319,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "j.c.staff",
+      "kodansha"
+    ],
     "updatedAtSec": 1674776529,
     "lastAirDateSec": 756734400,
     "bannerUrl": "",
@@ -32725,6 +35386,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "iyasakadou film"
+    ],
     "updatedAtSec": 1741460345,
     "lastAirDateSec": 1348228800,
     "bannerUrl": "",
@@ -32799,6 +35463,14 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "glovision",
+      "heiwa",
+      "kadokawa media house",
+      "klockworx",
+      "mages.",
+      "silver link."
+    ],
     "updatedAtSec": 1677764287,
     "lastAirDateSec": 1450958400,
     "bannerUrl": "",
@@ -32876,6 +35548,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "fuji tv",
+      "pony canyon"
+    ],
     "updatedAtSec": 1674827198,
     "lastAirDateSec": 1411214400,
     "bannerUrl": "",
@@ -32954,6 +35630,19 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "production i.g",
+      "toho animation",
+      "animatic",
+      "bs11",
+      "hakuhodo dy music & pictures",
+      "mainichi broadcasting system",
+      "movic",
+      "shueisha",
+      "sony music entertainment",
+      "sony pcl",
+      "toho"
+    ],
     "updatedAtSec": 1751850224,
     "lastAirDateSec": 1418385600,
     "bannerUrl": "",
@@ -33033,6 +35722,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "seven arcs pictures"
+    ],
     "updatedAtSec": 1674827198,
     "lastAirDateSec": 1421409600,
     "bannerUrl": "",
@@ -33107,6 +35799,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "zexcs"
+    ],
     "updatedAtSec": 1674826976,
     "lastAirDateSec": 1424260800,
     "bannerUrl": "",
@@ -33180,6 +35875,11 @@
     ],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "asahi production",
+      "media factory",
+      "orefuro production committee"
+    ],
     "updatedAtSec": 1674827189,
     "lastAirDateSec": 1419854400,
     "bannerUrl": "",
@@ -33263,6 +35963,15 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "bones",
+      "chaika - the coffin princess avenging battle production partners",
+      "flying dog",
+      "fujimi shobo",
+      "hitsugi no chaika partners",
+      "kadokawa shoten",
+      "sentai filmworks"
+    ],
     "updatedAtSec": 1751852088,
     "lastAirDateSec": 1418299200,
     "bannerUrl": "",
@@ -33345,6 +36054,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "bones",
+      "sentai filmworks"
+    ],
     "updatedAtSec": 1674775985,
     "lastAirDateSec": 1425988800,
     "bannerUrl": "",
@@ -33414,6 +36127,10 @@
     "licenseNameRu": "Импульс мира",
     "licensors": [
       "Crunchyroll"
+    ],
+    "producers": [
+      "toei animation",
+      "tv asahi"
     ],
     "updatedAtSec": 1677764870,
     "lastAirDateSec": 1459684800,
@@ -33565,6 +36282,19 @@
     "licensors": [
       "Netflix"
     ],
+    "producers": [
+      "bandai visual",
+      "banpresto",
+      "bs11",
+      "graphinica",
+      "kuroko's basketball production committee",
+      "lantis",
+      "nas",
+      "nihon ad systems",
+      "nippon bs broadcasting corporation",
+      "production i.g",
+      "shueisha"
+    ],
     "updatedAtSec": 1690057283,
     "lastAirDateSec": 1435665600,
     "bannerUrl": "",
@@ -33659,6 +36389,16 @@
     "licensors": [
       "FAN"
     ],
+    "producers": [
+      "bones",
+      "kekkai sensen production committee",
+      "mainichi broadcasting system",
+      "nihon ad systems",
+      "shueisha",
+      "sony pcl",
+      "toho animation",
+      "toy's factory"
+    ],
     "updatedAtSec": 1677768361,
     "lastAirDateSec": 1443960000,
     "bannerUrl": "",
@@ -33745,6 +36485,17 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "at-x",
+      "bushiroad",
+      "funimation",
+      "kadokawa",
+      "madan no ō to vanadis production committee",
+      "media factory",
+      "movic",
+      "satelight",
+      "showgate"
+    ],
     "updatedAtSec": 1677774476,
     "lastAirDateSec": 1419681600,
     "bannerUrl": "",
@@ -33821,6 +36572,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "ufotable"
+    ],
     "updatedAtSec": 1674826949,
     "lastAirDateSec": 1419940800,
     "bannerUrl": "",
@@ -33888,6 +36642,12 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "banpresto",
+      "funimation",
+      "lantis",
+      "sunrise"
+    ],
     "updatedAtSec": 1674776400,
     "lastAirDateSec": 1412164800,
     "bannerUrl": "",
@@ -33953,9 +36713,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
-    "officialLinks": {
-      "deep": "https://deep-ent.ru/anime/hladnokrovnyj-hodzuki"
-    },
+    "producers": [
+      "starchild records"
+    ],
     "updatedAtSec": 1674776365,
     "lastAirDateSec": 1490270400,
     "bannerUrl": "",
@@ -34030,6 +36790,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "lantis",
+      "zexcs"
+    ],
     "updatedAtSec": 1771433938,
     "lastAirDateSec": 1417003200,
     "bannerUrl": "",
@@ -34105,6 +36869,12 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "animate film",
+      "bandai visual",
+      "movic",
+      "shueisha"
+    ],
     "updatedAtSec": 1674776258,
     "lastAirDateSec": 690638400,
     "bannerUrl": "",
@@ -34178,6 +36948,11 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "brain's base",
+      "shogakukan productions",
+      "shogakukan-shueisha productions"
+    ],
     "updatedAtSec": 1674827190,
     "lastAirDateSec": 1429099200,
     "bannerUrl": "",
@@ -34250,6 +37025,17 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "a-1 pictures",
+      "aic a.s.t.a.",
+      "aniplex of america",
+      "atlus",
+      "hakuhodo dy media partners",
+      "hakuhodo dy music & pictures",
+      "movic",
+      "persona 3 movie committee",
+      "yomiko advertising, inc."
+    ],
     "updatedAtSec": 1677783002,
     "lastAirDateSec": 1428148800,
     "bannerUrl": "",
@@ -34314,6 +37100,13 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "nozomi entertainment",
+      "sotsu agency",
+      "sotsu co., ltd.",
+      "sunrise",
+      "tv tokyo"
+    ],
     "updatedAtSec": 1674827159,
     "lastAirDateSec": 1427889600,
     "bannerUrl": "",
@@ -34409,9 +37202,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
-    "officialLinks": {
-      "deep": "https://deep-ent.ru/anime/yamada-i-sem-vedm"
-    },
+    "producers": [
+      "kodansha",
+      "lidenfilms"
+    ],
     "updatedAtSec": 1674775992,
     "lastAirDateSec": 1431691200,
     "bannerUrl": "",
@@ -34477,6 +37271,18 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "flying dog",
+      "houbunsha",
+      "kadokawa",
+      "koufuku graffiti production committee",
+      "movic",
+      "sentai filmworks",
+      "shaft",
+      "sony music communications",
+      "tbs",
+      "tokyo broadcasting system"
+    ],
     "updatedAtSec": 1674776400,
     "lastAirDateSec": 1427457600,
     "bannerUrl": "",
@@ -34561,6 +37367,11 @@
     "licensors": [
       "Wakanim"
     ],
+    "producers": [
+      "aic plus+",
+      "nippon columbia",
+      "production ims"
+    ],
     "updatedAtSec": 1677783041,
     "lastAirDateSec": 1440244800,
     "bannerUrl": "",
@@ -34634,6 +37445,11 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "arms",
+      "sentai filmworks",
+      "vap"
+    ],
     "updatedAtSec": 1727603347,
     "lastAirDateSec": 1411560000,
     "bannerUrl": "",
@@ -34700,6 +37516,13 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "ai muyo tenchi!",
+      "ai tenchi muyo! production committee",
+      "aic plus+",
+      "funimation",
+      "vap"
+    ],
     "updatedAtSec": 1674776274,
     "lastAirDateSec": 1419595200,
     "bannerUrl": "",
@@ -34827,6 +37650,12 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "aniplex of america",
+      "artland",
+      "delfi sound",
+      "kodansha"
+    ],
     "updatedAtSec": 1757782317,
     "lastAirDateSec": 1419163200,
     "bannerUrl": "",
@@ -34913,6 +37742,17 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "at-x",
+      "fujimi shobo",
+      "genco",
+      "high school dxd born production committee",
+      "kadokawa",
+      "lantis",
+      "memory-tech",
+      "movic",
+      "showgate"
+    ],
     "updatedAtSec": 1728671823,
     "lastAirDateSec": 1434801600,
     "bannerUrl": "",
@@ -34999,6 +37839,19 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "daiichi kosho",
+      "daiichikosho",
+      "dax production",
+      "funimation",
+      "pony canyon",
+      "production committee will become a twin tail",
+      "production ims",
+      "ray corporation",
+      "shogakukan",
+      "tbs",
+      "tokyo broadcasting system"
+    ],
     "updatedAtSec": 1674826997,
     "lastAirDateSec": 1419595200,
     "bannerUrl": "",
@@ -35074,6 +37927,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "lidenfilms",
+      "sanzigen"
+    ],
     "updatedAtSec": 1710172285,
     "lastAirDateSec": 1403006400,
     "bannerUrl": "",
@@ -35135,6 +37992,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "cruise",
+      "sunrise"
+    ],
     "updatedAtSec": 1674827066,
     "lastAirDateSec": 1404043200,
     "bannerUrl": "",
@@ -35209,6 +38070,12 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "nbcuniversal entertainment japan",
+      "nitroplus",
+      "school-live! production committee",
+      "sotsu"
+    ],
     "updatedAtSec": 1674826911,
     "lastAirDateSec": 1443096000,
     "bannerUrl": "",
@@ -35287,6 +38154,12 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "barnum studio",
+      "connect",
+      "sentai filmworks",
+      "silver link."
+    ],
     "updatedAtSec": 1674776377,
     "lastAirDateSec": 1424260800,
     "bannerUrl": "",
@@ -35376,6 +38249,20 @@
     ],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "avex pictures",
+      "dax production",
+      "dentsu",
+      "fuji tv",
+      "funimation",
+      "kansai tv",
+      "shueisha",
+      "studio hibari",
+      "assassination classroom production committee",
+      "dentsu inc.",
+      "fuji television network",
+      "kansai telecasting corporation"
+    ],
     "updatedAtSec": 1677765027,
     "lastAirDateSec": 1434801600,
     "bannerUrl": "",
@@ -35462,6 +38349,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "sunrise"
+    ],
     "updatedAtSec": 1674827074,
     "lastAirDateSec": 1411905600,
     "bannerUrl": "",
@@ -35535,6 +38425,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "bridge"
+    ],
     "updatedAtSec": 1676455338,
     "lastAirDateSec": 1344686400,
     "bannerUrl": "",
@@ -35601,6 +38494,14 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "age global networks",
+      "girl friend beta production committee",
+      "kadokawa",
+      "silver link.",
+      "tv tokyo",
+      "vap"
+    ],
     "updatedAtSec": 1674827074,
     "lastAirDateSec": 1419854400,
     "bannerUrl": "",
@@ -35678,6 +38579,20 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "daiichi kosho",
+      "daiichikosho",
+      "dax production",
+      "diomedea",
+      "diomedéa",
+      "japan narration acting institute",
+      "kodansha",
+      "nichinare",
+      "nichion",
+      "nippon columbia",
+      "ray corporation",
+      "tbs"
+    ],
     "updatedAtSec": 1674826973,
     "lastAirDateSec": 1427457600,
     "bannerUrl": "",
@@ -35762,6 +38677,14 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "kodansha",
+      "mainichi broadcasting system",
+      "polygon pictures",
+      "sentai filmworks",
+      "starchild records",
+      "studio mausu"
+    ],
     "updatedAtSec": 1674776409,
     "lastAirDateSec": 1435406400,
     "bannerUrl": "",
@@ -35840,6 +38763,16 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "asatsu dk",
+      "asatsu-dk",
+      "kids station",
+      "shin-ei animation",
+      "shogakukan-shueisha productions",
+      "shopro entertainment",
+      "tokyo mx",
+      "vega entertainment"
+    ],
     "updatedAtSec": 1674826829,
     "lastAirDateSec": 1420459200,
     "bannerUrl": "",
@@ -35919,6 +38852,11 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "dax production",
+      "sanzigen",
+      "sotsu"
+    ],
     "updatedAtSec": 1674827070,
     "lastAirDateSec": 1422705600,
     "bannerUrl": "",
@@ -35988,6 +38926,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "sanzigen",
+      "sotsu"
+    ],
     "updatedAtSec": 1674827046,
     "lastAirDateSec": 1443873600,
     "bannerUrl": "",
@@ -36056,8 +38998,12 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "madhouse",
+      "media factory",
+      "sentai filmworks"
+    ],
     "officialLinks": {
-      "deep": "https://deep-ent.ru/anime/net-igry-net-zhizni",
       "wink": "https://wink.ru/series/net-igry-net-zhizni-year-2014"
     },
     "updatedAtSec": 1701164155,
@@ -36130,6 +39076,16 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "ascii media works",
+      "bandai visual",
+      "bushiroad",
+      "graphinica",
+      "ilca",
+      "lantis",
+      "nis america, inc.",
+      "sunrise"
+    ],
     "updatedAtSec": 1789133154,
     "lastAirDateSec": 1434196800,
     "bannerUrl": "",
@@ -36215,9 +39171,19 @@
     "licensors": [
       "DEEP"
     ],
-    "officialLinks": {
-      "deep": "https://deep-ent.ru/anime/jona-na-zare"
-    },
+    "producers": [
+      "age global networks",
+      "akatsuki no yona production team",
+      "at-x",
+      "delfi sound",
+      "docomo anime store",
+      "hakusensha",
+      "marvelous aql",
+      "studio pierrot",
+      "tokyo mx",
+      "top-insight international co., ltd.",
+      "vap"
+    ],
     "updatedAtSec": 1674776569,
     "lastAirDateSec": 1427198400,
     "bannerUrl": "",
@@ -36310,6 +39276,11 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "kyoto animation",
+      "sentai filmworks",
+      "shochiku"
+    ],
     "updatedAtSec": 1674775988,
     "lastAirDateSec": 1426334400,
     "bannerUrl": "",
@@ -36375,6 +39346,12 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "animate film",
+      "aniplex",
+      "cbs sony group",
+      "movic"
+    ],
     "updatedAtSec": 1674776049,
     "lastAirDateSec": 641304000,
     "bannerUrl": "",
@@ -36442,6 +39419,12 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "animate film",
+      "aniplex",
+      "movic",
+      "sony music entertainment"
+    ],
     "updatedAtSec": 1674776318,
     "lastAirDateSec": 691588800,
     "bannerUrl": "",
@@ -36499,6 +39482,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "animaruya",
+      "japan home video"
+    ],
     "updatedAtSec": 1674776529,
     "lastAirDateSec": 710164800,
     "bannerUrl": "",
@@ -36572,6 +39559,20 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "at-x",
+      "bs fuji",
+      "contents seed",
+      "dentsu inc.",
+      "funimation",
+      "happinet pictures",
+      "ichijinsha",
+      "madman entertainment",
+      "mages.",
+      "memory-tech",
+      "showgate",
+      "silver link."
+    ],
     "updatedAtSec": 1674827195,
     "lastAirDateSec": 1450872000,
     "bannerUrl": "",
@@ -36644,6 +39645,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "a-1 pictures"
+    ],
     "updatedAtSec": 1674776317,
     "lastAirDateSec": 1417003200,
     "bannerUrl": "",
@@ -36727,6 +39731,20 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "at-x",
+      "avex pictures",
+      "dena",
+      "docomo anime store",
+      "kadokawa shoten",
+      "madman entertainment",
+      "plum",
+      "q-tec",
+      "sentai filmworks",
+      "seven arcs pictures",
+      "sotsu co., ltd.",
+      "studio mausu"
+    ],
     "updatedAtSec": 1677766050,
     "lastAirDateSec": 1419422400,
     "bannerUrl": "",
@@ -36811,6 +39829,20 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "81 produce",
+      "at-x",
+      "avex pictures",
+      "dive ii entertainment",
+      "furyu",
+      "half h.p studio",
+      "madman entertainment",
+      "manga entertainment",
+      "sb creative corp.",
+      "senkou high school literature club",
+      "sentai filmworks",
+      "sotsu co., ltd."
+    ],
     "updatedAtSec": 1674827000,
     "lastAirDateSec": 1419336000,
     "bannerUrl": "",
@@ -36891,6 +39923,11 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "fuji television network",
+      "funimation",
+      "toei animation"
+    ],
     "updatedAtSec": 1789133098,
     "lastAirDateSec": 1409400000,
     "bannerUrl": "",
@@ -36962,6 +39999,19 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "asahi broadcasting corporation",
+      "bandai visual",
+      "dax production",
+      "frontier works",
+      "funimation",
+      "gangsta. committee",
+      "hakuhodo dy media partners",
+      "lantis",
+      "manglobe",
+      "shinchosha",
+      "tokyo mx"
+    ],
     "updatedAtSec": 1674776406,
     "lastAirDateSec": 1443096000,
     "bannerUrl": "",
@@ -37037,6 +40087,12 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "c-station",
+      "sentai filmworks",
+      "toho animation",
+      "white fox"
+    ],
     "updatedAtSec": 0,
     "lastAirDateSec": 1418558400,
     "bannerUrl": "",
@@ -37106,6 +40162,13 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "e601 platoon",
+      "flying dog",
+      "funimation",
+      "glovision",
+      "kadokawa"
+    ],
     "updatedAtSec": 1674776541,
     "lastAirDateSec": 1443096000,
     "bannerUrl": "",
@@ -37189,6 +40252,10 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "kadokawa",
+      "tnk"
+    ],
     "updatedAtSec": 1714667639,
     "lastAirDateSec": 1425470400,
     "bannerUrl": "",
@@ -37260,6 +40327,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "haikyu!! production committee"
+    ],
     "updatedAtSec": 1679401960,
     "lastAirDateSec": 1425470400,
     "bannerUrl": "",
@@ -37335,6 +40405,9 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "sunrise"
+    ],
     "updatedAtSec": 1674776203,
     "lastAirDateSec": 1428062400,
     "bannerUrl": "",
@@ -37404,6 +40477,11 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "kodansha",
+      "madhouse",
+      "production i.g"
+    ],
     "updatedAtSec": 1674776202,
     "lastAirDateSec": 1426593600,
     "bannerUrl": "",
@@ -37484,6 +40562,20 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "bandai co., ltd.",
+      "bandai namco entertainment",
+      "evil line records",
+      "fox international productions japan",
+      "fuji television network",
+      "fuji tv",
+      "funimation",
+      "manga entertainment",
+      "shueisha",
+      "toei animation",
+      "toei company, ltd.",
+      "yomiko advertising, inc."
+    ],
     "updatedAtSec": 1789132701,
     "lastAirDateSec": 1429358400,
     "bannerUrl": "",
@@ -37548,6 +40640,11 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "shimogumi",
+      "simogumi",
+      "yamaha motor company"
+    ],
     "updatedAtSec": 1674827065,
     "lastAirDateSec": 1427457600,
     "bannerUrl": "",
@@ -37621,6 +40718,20 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "8 bit",
+      "8bit",
+      "amg entertainment",
+      "amusement media academy",
+      "at-x",
+      "feng",
+      "funimation",
+      "half h.p studio",
+      "kadokawa",
+      "media factory",
+      "nippon bs broadcasting corporation",
+      "showgate"
+    ],
     "updatedAtSec": 1677764275,
     "lastAirDateSec": 1427025600,
     "bannerUrl": "",
@@ -37705,6 +40816,16 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "arms",
+      "at-x",
+      "dax production",
+      "isuca production committee",
+      "kadokawa shoten",
+      "klockworx",
+      "mages.",
+      "the klockworx co., ltd."
+    ],
     "updatedAtSec": 1674775991,
     "lastAirDateSec": 1427544000,
     "bannerUrl": "",
@@ -37779,6 +40900,11 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "sega",
+      "sotsu agency",
+      "sotsu co., ltd."
+    ],
     "updatedAtSec": 1789134954,
     "lastAirDateSec": 1418904000,
     "bannerUrl": "",
@@ -37849,6 +40975,11 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "brain's base",
+      "funimation",
+      "nbcuniversal entertainment japan"
+    ],
     "updatedAtSec": 1674826990,
     "lastAirDateSec": 1423656000,
     "bannerUrl": "",
@@ -37917,6 +41048,11 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "madhouse",
+      "marvel entertainment",
+      "sony pictures entertainment"
+    ],
     "updatedAtSec": 1674776290,
     "lastAirDateSec": 1394539200,
     "bannerUrl": "",
@@ -37985,6 +41121,14 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "a-1 pictures",
+      "aniplex",
+      "dax production",
+      "tms entertainment",
+      "yomiuri telecasting corporation",
+      "ytv"
+    ],
     "updatedAtSec": 1674827001,
     "lastAirDateSec": 1427544000,
     "bannerUrl": "",
@@ -38075,6 +41219,18 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "dentsu inc.",
+      "kadokawa",
+      "klockworx",
+      "mainichi broadcasting system",
+      "movic",
+      "pony canyon",
+      "project2h",
+      "studio gokumi",
+      "the klock worx",
+      "the klockworx co., ltd."
+    ],
     "updatedAtSec": 1674827001,
     "lastAirDateSec": 1419595200,
     "bannerUrl": "",
@@ -38160,6 +41316,13 @@
     "licensors": [
       "Wakanim"
     ],
+    "producers": [
+      "aniplex",
+      "fate/stay night production committee",
+      "kadokawa",
+      "notes",
+      "ufotable"
+    ],
     "updatedAtSec": 1677782839,
     "lastAirDateSec": 1507982400,
     "bannerUrl": "",
@@ -38236,6 +41399,18 @@
     "blockedIn": [],
     "licenseNameRu": "",
     "licensors": [],
+    "producers": [
+      "dax production",
+      "dentsu",
+      "docomo anime store",
+      "funimation",
+      "hakusensha",
+      "kamisama hajimemashita 2015 production committee",
+      "pony canyon",
+      "sotsu",
+      "tms entertainment",
+      "tv tokyo"
+    ],
     "updatedAtSec": 1751850763,
     "lastAirDateSec": 1427803200,
     "bannerUrl": "",
@@ -38260,5 +41435,484 @@
     "totalEpisodes": 12,
     "airedEpisodes": 12,
     "yummyAlias": "ochen-priyatno-bog-tv-2"
+  },
+  {
+    "id": 7136,
+    "slugUrl": "dream:7136",
+    "name": "Приключения Дигимонов Три",
+    "rusName": "Приключения Дигимонов Три",
+    "engName": "Digimon Adventure tri. Reunion",
+    "coverUrl": "",
+    "coverFallbackUrl": "",
+    "status": "released",
+    "sourceTag": "dream",
+    "rating": 5.42307692261538,
+    "votes": 26,
+    "typeLabel": "movie",
+    "year": "2015",
+    "seasonIndex": 4,
+    "ageRating": "PG-13",
+    "description": "",
+    "genres": [
+      "Экшен",
+      "Приключения",
+      "Комедия",
+      "Драма"
+    ],
+    "genreIds": [
+      1,
+      2,
+      4,
+      8
+    ],
+    "tags": [],
+    "tagIds": [],
+    "anotherName": "Digimon tri. 1",
+    "ruNames": [
+      "Приключения Дигимонов Три",
+      "Приключения Дигимонов: Воссоединение"
+    ],
+    "enNames": [
+      "Digimon Adventure tri. Reunion",
+      "Digimon tri. 1",
+      "Digimon Adventure 03",
+      "Digimon Adventure Tri",
+      "Digimon Adventure Tri.",
+      "Digimon Adventure tri. 1: Saikai",
+      "Digimon: Digimon Adventure Tri.",
+      "digimontri",
+      "デジモンアドベンチャー",
+      "デジモンアドベンチャー tri.",
+      "デジモンアドベンチャー tri.(トライ)",
+      "数码宝贝大冒险tri."
+    ],
+    "shikimoriId": 25687,
+    "malId": 25687,
+    "isAgeRestricted": false,
+    "isLicensed": false,
+    "blockedIn": [],
+    "licenseNameRu": "",
+    "licensors": [],
+    "producers": [
+      "ai addiction",
+      "bandai",
+      "toei animation"
+    ],
+    "updatedAtSec": 1674775931,
+    "lastAirDateSec": 1448107200,
+    "bannerUrl": "",
+    "studio": "Toei Animation",
+    "director": "Мотонага Кэйтаро",
+    "sourceWork": "Оригинальная идея",
+    "releaseDate": "2015-01-01",
+    "episodeDates": [
+      1674775931,
+      1674775931,
+      1674775931,
+      1674775931,
+      1674775931,
+      1674775931,
+      1674775931,
+      1674775931,
+      1674775931,
+      1674775931,
+      1674775931,
+      1674775931,
+      1674775931,
+      1674775931,
+      1674775931,
+      1674775931
+    ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 16,
+    "yummyAlias": "priklyucheniya-digimonov-tri"
+  },
+  {
+    "id": 7139,
+    "slugUrl": "dream:7139",
+    "name": "Крест Анж: Рондо ангела и дракона",
+    "rusName": "Крест Анж: Рондо ангела и дракона",
+    "engName": "Cross Ange: Rondo of Angel and Dragon",
+    "coverUrl": "",
+    "coverFallbackUrl": "",
+    "status": "released",
+    "sourceTag": "dream",
+    "rating": 8.2419006473218,
+    "votes": 463,
+    "typeLabel": "tv",
+    "year": "2014",
+    "seasonIndex": 4,
+    "ageRating": "R-17+",
+    "description": "",
+    "genres": [
+      "Этти",
+      "Меха",
+      "Приключения",
+      "Фантастика",
+      "Фэнтези",
+      "Экшен",
+      "Военная тематика",
+      "Военное"
+    ],
+    "genreIds": [
+      11,
+      25,
+      32,
+      37,
+      42,
+      63,
+      76,
+      38
+    ],
+    "tags": [],
+    "tagIds": [],
+    "anotherName": "Крест Анж: Танец ангела с драконом / Перепутье Анж",
+    "ruNames": [
+      "Крест Анж: Рондо ангела и дракона"
+    ],
+    "enNames": [
+      "Cross Ange: Rondo of Angel and Dragon",
+      "Крест Анж: Танец ангела с драконом",
+      "Перепутье Анж",
+      "CROSS ANGE Rondo of Angel and Dragon",
+      "Cross Ange",
+      "Cross Ange Tenshi to Ryuu no Rondo",
+      "Cross Ange Tenshi to Ryū no Rondo",
+      "Cross Ange: Rondo of Angels and Dragons",
+      "Cross Ange: Tenshi to Ryū no Rondo",
+      "croan",
+      "Крест Анжи: Танец ангела с драконом",
+      "クロアン"
+    ],
+    "shikimoriId": 25731,
+    "malId": 25731,
+    "isAgeRestricted": true,
+    "isLicensed": false,
+    "blockedIn": [],
+    "licenseNameRu": "",
+    "licensors": [],
+    "producers": [
+      "bandai channel",
+      "bandai namco games",
+      "bandai namco live creative",
+      "docomo anime store",
+      "fields corporation",
+      "king records",
+      "project ange",
+      "sentai filmworks",
+      "starchild records",
+      "sunrise"
+    ],
+    "updatedAtSec": 1674826941,
+    "lastAirDateSec": 1427630400,
+    "bannerUrl": "",
+    "studio": "Sunrise",
+    "director": "Асино Ёсихару",
+    "sourceWork": "Оригинальная идея",
+    "releaseDate": "2014-01-01",
+    "episodeDates": [
+      1674826941,
+      1674826941,
+      1674826941,
+      1674826941,
+      1674826941,
+      1674826941,
+      1674826941,
+      1674826941,
+      1674826941,
+      1674826941,
+      1674826941,
+      1674826941,
+      1674826941,
+      1674826941,
+      1674826941,
+      1674826941,
+      1674826941,
+      1674826941,
+      1674826941,
+      1674826941,
+      1674826941,
+      1674826941,
+      1674826941,
+      1674826941,
+      1674826941
+    ],
+    "totalEpisodes": 25,
+    "airedEpisodes": 25,
+    "yummyAlias": "krest-anzhi"
+  },
+  {
+    "id": 7141,
+    "slugUrl": "dream:7141",
+    "name": "Трусливый велосипедист: Поездка с нуля",
+    "rusName": "Трусливый велосипедист: Поездка с нуля",
+    "engName": "Yowapeda Re:RIDE",
+    "coverUrl": "",
+    "coverFallbackUrl": "",
+    "status": "released",
+    "sourceTag": "dream",
+    "rating": 6.88571428531428,
+    "votes": 35,
+    "typeLabel": "movie",
+    "year": "2014",
+    "seasonIndex": 3,
+    "ageRating": "PG-13",
+    "description": "",
+    "genres": [
+      "Спорт",
+      "Сёнен"
+    ],
+    "genreIds": [
+      30,
+      27
+    ],
+    "tags": [],
+    "tagIds": [],
+    "anotherName": "",
+    "ruNames": [
+      "Трусливый велосипедист: Поездка с нуля"
+    ],
+    "enNames": [
+      "Yowapeda Re:RIDE",
+      "Gekijouban Yowamushi Pedal",
+      "YowaPeda Movie",
+      "YowaPeda Re:RIDE",
+      "YowaPeda Re:Ride",
+      "Yowamushi Pedal Movie",
+      "Yowamushi Pedal Re:RIDE",
+      "Yowamushi Pedal Re:Ride",
+      "Yowamushi Pedal: La Película",
+      "Yowamushi Pedal: Re:RIDE",
+      "Yowamushi Pedal: Re:Ride!",
+      "Yowapeda: Re:RIDE"
+    ],
+    "shikimoriId": 25755,
+    "malId": 25755,
+    "isAgeRestricted": false,
+    "isLicensed": false,
+    "blockedIn": [],
+    "licenseNameRu": "",
+    "licensors": [],
+    "producers": [
+      "toho animation"
+    ],
+    "updatedAtSec": 0,
+    "lastAirDateSec": 1411128000,
+    "bannerUrl": "",
+    "studio": "TMS Entertainment",
+    "director": "Набэсима Осаму",
+    "sourceWork": "Манга",
+    "releaseDate": "2014-01-01",
+    "episodeDates": [],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
+    "yummyAlias": "sozdano-s-dushoj-yaponskij-anime-ekspo"
+  },
+  {
+    "id": 7142,
+    "slugUrl": "dream:7142",
+    "name": "Атака титанов 2",
+    "rusName": "Атака титанов 2",
+    "engName": "Attack on Titan Season 2",
+    "coverUrl": "",
+    "coverFallbackUrl": "",
+    "status": "released",
+    "sourceTag": "dream",
+    "rating": 8.85764833962249,
+    "votes": 7348,
+    "typeLabel": "tv",
+    "year": "2017",
+    "seasonIndex": 2,
+    "ageRating": "R-17+",
+    "description": "Сотню лет человечество прячется за тремя исполинскими стенами от титанов — безмозглых великанов, что пожирают людей. После пробоя внешней стены юный Эрен Йегер вступает в Разведкорпус и вместе с соратниками идёт от обороны родного города до последнего раунда противостояния, которое зашито в самих основаниях этого мира.",
+    "genres": [
+      "Сёнэн",
+      "Драма",
+      "Приключения",
+      "Триллер",
+      "Фэнтези",
+      "Экшен",
+      "Суперспособности",
+      "Альтернативная история",
+      "Военная тематика",
+      "Сёнен",
+      "Военное"
+    ],
+    "genreIds": [
+      8,
+      15,
+      32,
+      35,
+      42,
+      63,
+      70,
+      72,
+      76,
+      27,
+      38
+    ],
+    "tags": [],
+    "tagIds": [],
+    "anotherName": "Вторжение гигантов 2 / Атакующий титан 2 / Вторжение титанов 2 / AoT 2",
+    "ruNames": [
+      "Атака титанов 2"
+    ],
+    "enNames": [
+      "Attack on Titan Season 2",
+      "Вторжение гигантов 2",
+      "Атакующий титан 2",
+      "Вторжение титанов 2",
+      "AoT 2",
+      "+מתקפת הטיטאנים עונה 2",
+      "Angreifende Riesen 2",
+      "AoT2",
+      "Ataque A Los Titanes Temporada 2",
+      "Ataque a los Titanes Temporada 2",
+      "Ataque a los Titanes: Secunda Temporada",
+      "Ataque a los Titanes: Temporada 2"
+    ],
+    "shikimoriId": 25777,
+    "malId": 25777,
+    "isAgeRestricted": true,
+    "isLicensed": false,
+    "blockedIn": [],
+    "licenseNameRu": "Атака титанов 2",
+    "licensors": [
+      "Wakanim",
+      "Crunchyroll",
+      "2x2",
+      "FAN"
+    ],
+    "producers": [
+      "dentsu inc.",
+      "funimation",
+      "kodansha",
+      "mad box",
+      "mainichi broadcasting system",
+      "pony canyon enterprises",
+      "production i.g",
+      "shingeki no kyojin team",
+      "techno sound"
+    ],
+    "updatedAtSec": 1678977588,
+    "lastAirDateSec": 1497700800,
+    "bannerUrl": "",
+    "studio": "Wit Studio",
+    "director": "Араки Тэцуро",
+    "sourceWork": "Манга",
+    "releaseDate": "2017-01-01",
+    "episodeDates": [
+      1678977588,
+      1678977588,
+      1678977588,
+      1678977588,
+      1678977588,
+      1678977588,
+      1678977588,
+      1678977588,
+      1678977588,
+      1678977588,
+      1678977588,
+      1678977588
+    ],
+    "totalEpisodes": 12,
+    "airedEpisodes": 12,
+    "yummyAlias": "vtorzhenie-gigantov-tv-2"
+  },
+  {
+    "id": 7143,
+    "slugUrl": "dream:7143",
+    "name": "Атака титанов: Выбор без сожалений",
+    "rusName": "Атака титанов: Выбор без сожалений",
+    "engName": "Attack on Titan: No Regrets",
+    "coverUrl": "",
+    "coverFallbackUrl": "",
+    "status": "released",
+    "sourceTag": "dream",
+    "rating": 8.61792220506547,
+    "votes": 2031,
+    "typeLabel": "ova",
+    "year": "2014",
+    "seasonIndex": 1,
+    "ageRating": "R-17+",
+    "description": "Сотню лет человечество прячется за тремя исполинскими стенами от титанов — безмозглых великанов, что пожирают людей. После пробоя внешней стены юный Эрен Йегер вступает в Разведкорпус и вместе с соратниками идёт от обороны родного города до последнего раунда противостояния, которое зашито в самих основаниях этого мира.",
+    "genres": [
+      "Сёнэн",
+      "Драма",
+      "Приключения",
+      "Триллер",
+      "Экшен",
+      "Альтернативная история"
+    ],
+    "genreIds": [
+      8,
+      15,
+      32,
+      35,
+      63,
+      72
+    ],
+    "tags": [],
+    "tagIds": [],
+    "anotherName": "Вторжение гигантов: Выбор без сожалений / Attack on Titan: No Regrets / Shingeki no Kyojin: Birth of Levi",
+    "ruNames": [
+      "Атака титанов: Выбор без сожалений"
+    ],
+    "enNames": [
+      "Attack on Titan: No Regrets",
+      "Вторжение гигантов: Выбор без сожалений",
+      "Shingeki no Kyojin: Birth of Levi",
+      "AoT",
+      "Ataque a los Titanes: Una elección de la que no te arrepientes",
+      "Attack on Titan Specialfolgen 4+5",
+      "Attack on Titan: Entscheidung ohne Reue",
+      "L’Attacco dei Giganti: No Regrets",
+      "L’Attaque des Titans : Une décision sans regrets",
+      "Shingeki no Kyojin Gaiden: Kuinaki Sentaku",
+      "SnK",
+      "Атака титанов: Выбор без сожалений"
+    ],
+    "shikimoriId": 25781,
+    "malId": 25781,
+    "isAgeRestricted": true,
+    "isLicensed": true,
+    "blockedIn": [
+      "RU",
+      "AZ",
+      "AM",
+      "KZ",
+      "KG",
+      "TJ",
+      "TM",
+      "UZ"
+    ],
+    "licenseNameRu": "Атака титанов: Выбор без сожалений",
+    "licensors": [
+      "Crunchyroll",
+      "DEEP",
+      "FAN"
+    ],
+    "producers": [
+      "attack on titan oad production committee",
+      "dentsu",
+      "kodansha",
+      "mainichi broadcasting system",
+      "pony canyon",
+      "production i.g"
+    ],
+    "updatedAtSec": 1683232441,
+    "lastAirDateSec": 1428580800,
+    "bannerUrl": "",
+    "studio": "Wit Studio",
+    "director": "Араки Тэцуро",
+    "sourceWork": "Манга",
+    "releaseDate": "2014-01-01",
+    "episodeDates": [
+      1682802971,
+      1683232441
+    ],
+    "totalEpisodes": 2,
+    "airedEpisodes": 2,
+    "yummyAlias": "vtorzhenie-gigantov-ova-2"
   }
 ]
