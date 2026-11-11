@@ -71,7 +71,8 @@
     "sizeMode": "inline",
     "maxHeightDp": 60,
     "minLaunchCount": 2,
-    "minSessionSec": 0
+    "minSessionSec": 0,
+    "placement": "info"
   },
   "catalogInterstitial": {
     "enabled": true,
