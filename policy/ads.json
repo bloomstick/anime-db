@@ -7,7 +7,8 @@
     "unitId": "R-M-20310729-2",
     "sizeMode": "inline",
     "maxHeightDp": 60,
-    "minLaunchCount": 0
+    "minLaunchCount": 0,
+    "minSessionSec": 0
   },
   "inline": {
     "enabled": true,
@@ -16,22 +17,28 @@
     "everyBlocks": 10,
     "maxPerSession": 3,
     "maxHeightDp": 60,
-    "minLaunchCount": 3
+    "minLaunchCount": 1,
+    "minSessionSec": 0
   },
   "interstitial": {
     "enabled": true,
     "unitId": "R-M-20310729-4",
-    "minFinishedEpisodes": 3,
-    "minGapSec": 240,
+    "triggerMode": "either",
+    "minFinishedEpisodes": 2,
+    "minWatchSec": 600,
+    "minGapSec": 300,
     "maxPerSession": 2,
-    "maxPerDay": 4,
-    "minLaunchCount": 3
+    "maxPerDay": 6,
+    "minLaunchCount": 2,
+    "minSessionSec": 0
   },
   "rewarded": {
     "enabled": true,
     "unitId": "R-M-20310729-5",
     "bannerFreeMinutes": 30,
-    "minLaunchCount": 3
+    "minLaunchCount": 1,
+    "maxPerDay": 10,
+    "cooldownSec": 0
   },
   "downloadGate": {
     "enabled": true,
@@ -47,14 +54,43 @@
     "enabled": true,
     "unitId": "R-M-20310729-7",
     "minBackgroundSec": 120,
-    "minGapSec": 21600,
-    "maxPerDay": 1,
-    "minLaunchCount": 3,
+    "minGapSec": 7200,
+    "maxPerDay": 2,
+    "maxPerSession": 2,
+    "minLaunchCount": 2,
     "portraitOnly": true
   },
   "fullscreen": {
     "minGapSec": 300,
-    "maxPerSession": 2,
-    "maxPerDay": 4
+    "maxPerSession": 3,
+    "maxPerDay": 6
+  },
+  "detailsBanner": {
+    "enabled": true,
+    "unitId": "R-M-20310729-8",
+    "sizeMode": "inline",
+    "maxHeightDp": 60,
+    "minLaunchCount": 2,
+    "minSessionSec": 0
+  },
+  "catalogInterstitial": {
+    "enabled": true,
+    "unitId": "R-M-20310729-9",
+    "minTabOpens": 2,
+    "minGapSec": 300,
+    "maxPerSession": 1,
+    "maxPerDay": 3,
+    "minLaunchCount": 2,
+    "minSessionSec": 30
+  },
+  "listsInterstitial": {
+    "enabled": true,
+    "unitId": "R-M-20310729-9",
+    "minTabOpens": 2,
+    "minGapSec": 300,
+    "maxPerSession": 1,
+    "maxPerDay": 3,
+    "minLaunchCount": 2,
+    "minSessionSec": 30
   }
 }
