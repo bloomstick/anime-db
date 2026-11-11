@@ -58,7 +58,11 @@
     "iframeUrl": "https://alloha.yani.tv/?token_movie=7f84132ab1ea4ed391d937c61e2167&translation=340&season=1&episode=5&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1794315350,
     "durationSec": 1372,
-    "translationId": 340
+    "translationId": 340,
+    "openingTime": 139,
+    "openingLength": 89,
+    "endingTime": 1295,
+    "endingLength": 89
   },
   {
     "episode": 6,
@@ -67,7 +71,11 @@
     "iframeUrl": "https://alloha.yani.tv/?token_movie=7f84132ab1ea4ed391d937c61e2167&translation=340&season=1&episode=6&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1794316279,
     "durationSec": 1372,
-    "translationId": 340
+    "translationId": 340,
+    "openingTime": 65,
+    "openingLength": 89,
+    "endingTime": 1273,
+    "endingLength": 99
   },
   {
     "episode": 1,
@@ -207,7 +215,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniLiberty&anime_id=62922&episode=6&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
     "date": 1794299282,
-    "durationSec": 1372
+    "durationSec": 1372,
+    "openingTime": 64,
+    "openingLength": 44,
+    "endingTime": 1306,
+    "endingLength": 59
   },
   {
     "episode": 1,
@@ -995,7 +1007,7 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%97%D0%B0%D0%BA%D0%B0%D0%B4%D1%80%D0%BE%D0%B2%D1%8B%D0%B9+%D0%9E%D1%82%D0%B4%D0%B5%D0%BB&anime_id=62922&episode=4&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%97%D0%B0%D0%BA%D0%B0%D0%B4%D1%80%D0%BE%D0%B2%D1%8B%D0%B9+%D0%9E%D1%82%D0%B4%D0%B5%D0%BB",
     "date": 1793381231,
-    "durationSec": 0
+    "durationSec": 1371
   },
   {
     "episode": 5,
@@ -1003,7 +1015,7 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%97%D0%B0%D0%BA%D0%B0%D0%B4%D1%80%D0%BE%D0%B2%D1%8B%D0%B9+%D0%9E%D1%82%D0%B4%D0%B5%D0%BB&anime_id=62922&episode=5&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%97%D0%B0%D0%BA%D0%B0%D0%B4%D1%80%D0%BE%D0%B2%D1%8B%D0%B9+%D0%9E%D1%82%D0%B4%D0%B5%D0%BB",
     "date": 1793729856,
-    "durationSec": 0
+    "durationSec": 1371
   },
   {
     "episode": 6,
@@ -1011,7 +1023,7 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%97%D0%B0%D0%BA%D0%B0%D0%B4%D1%80%D0%BE%D0%B2%D1%8B%D0%B9+%D0%9E%D1%82%D0%B4%D0%B5%D0%BB&anime_id=62922&episode=6&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%97%D0%B0%D0%BA%D0%B0%D0%B4%D1%80%D0%BE%D0%B2%D1%8B%D0%B9+%D0%9E%D1%82%D0%B4%D0%B5%D0%BB",
     "date": 1794224519,
-    "durationSec": 0
+    "durationSec": 1371
   },
   {
     "episode": 1,

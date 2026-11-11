@@ -172,7 +172,9 @@
     "iframeUrl": "https://alloha.yani.tv/?token_movie=cb51e17861b0b5cd2e854482a2d529&translation=340&season=1&episode=7&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1794315334,
     "durationSec": 1421,
-    "translationId": 340
+    "translationId": 340,
+    "openingTime": 163,
+    "openingLength": 89
   },
   {
     "episode": 1,
@@ -1386,6 +1388,14 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123152/66bf8d53e6e85438dfedc4a9902877ef/720p?translations=false&only_episode=true&only_season=true&episode=5",
     "date": 1793316053,
+    "durationSec": 0
+  },
+  {
+    "episode": 6,
+    "dub": "Озвучка DreamyVoice",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123152/66bf8d53e6e85438dfedc4a9902877ef/720p?translations=false&only_episode=true&only_season=true&episode=6",
+    "date": 1794429777,
     "durationSec": 0
   },
   {

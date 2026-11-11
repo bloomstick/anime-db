@@ -127,7 +127,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123679/dcf010ca03cca59702024e767d207d18/720p?translations=false&only_episode=true&only_season=true&episode=5",
     "date": 1794237982,
-    "durationSec": 1398
+    "durationSec": 1398,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1324,
+    "endingLength": 64
   },
   {
     "episode": 1,

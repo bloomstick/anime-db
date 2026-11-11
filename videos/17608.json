@@ -2127,7 +2127,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/92711/9ebfe50b6715709e39ff95747b862b43/720p?translations=false&only_episode=true&only_season=true&episode=178",
     "date": 1794316973,
-    "durationSec": 1219
+    "durationSec": 1219,
+    "openingTime": 0,
+    "openingLength": 144,
+    "endingTime": 1199,
+    "endingLength": 19
   },
   {
     "episode": 1,
@@ -7767,7 +7771,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/114719/7d3fca0e55ce6a95b3288037b89adc4b/720p?translations=false&only_episode=true&only_season=true&episode=178",
     "date": 1794055761,
-    "durationSec": 1177
+    "durationSec": 1177,
+    "openingTime": 0,
+    "openingLength": 134,
+    "endingTime": 1070,
+    "endingLength": 24
   },
   {
     "episode": 1,

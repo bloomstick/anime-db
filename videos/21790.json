@@ -49,7 +49,63 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123734/4eb1c5b0d0e2aaf9bcbca28b140ed7f8/720p?translations=false&only_episode=true&only_season=true&episode=5",
     "date": 1794331670,
-    "durationSec": 1364
+    "durationSec": 1364,
+    "openingTime": 36,
+    "openingLength": 69,
+    "endingTime": 1344,
+    "endingLength": 19
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка Dream Cast",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123785/dcc25df92a67bf5a6506b065b6220413/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1792022363,
+    "durationSec": 1428,
+    "openingTime": 30,
+    "openingLength": 89,
+    "endingTime": 1328,
+    "endingLength": 89
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка Dream Cast",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123785/dcc25df92a67bf5a6506b065b6220413/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1792692111,
+    "durationSec": 1428,
+    "openingTime": 59,
+    "openingLength": 89,
+    "endingTime": 1346,
+    "endingLength": 69
+  },
+  {
+    "episode": 3,
+    "dub": "Озвучка Dream Cast",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123785/dcc25df92a67bf5a6506b065b6220413/720p?translations=false&only_episode=true&only_season=true&episode=3",
+    "date": 1793213318,
+    "durationSec": 1428
+  },
+  {
+    "episode": 4,
+    "dub": "Озвучка Dream Cast",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123785/dcc25df92a67bf5a6506b065b6220413/720p?translations=false&only_episode=true&only_season=true&episode=4",
+    "date": 1793812598,
+    "durationSec": 1428,
+    "openingTime": 94,
+    "openingLength": 69,
+    "endingTime": 1329,
+    "endingLength": 59
+  },
+  {
+    "episode": 5,
+    "dub": "Озвучка Dream Cast",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123785/dcc25df92a67bf5a6506b065b6220413/720p?translations=false&only_episode=true&only_season=true&episode=5",
+    "date": 1794424286,
+    "durationSec": 1428
   },
   {
     "episode": 1,
@@ -147,51 +203,7 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123739/cb30e470ea323284288ef164ff999742/720p?translations=false&only_episode=true&only_season=true&episode=5",
     "date": 1794340851,
-    "durationSec": 0
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка Dream Cast",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123785/dcc25df92a67bf5a6506b065b6220413/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1792022363,
-    "durationSec": 1428,
-    "openingTime": 30,
-    "openingLength": 89,
-    "endingTime": 1328,
-    "endingLength": 89
-  },
-  {
-    "episode": 2,
-    "dub": "Озвучка Dream Cast",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123785/dcc25df92a67bf5a6506b065b6220413/720p?translations=false&only_episode=true&only_season=true&episode=2",
-    "date": 1792692111,
-    "durationSec": 1428,
-    "openingTime": 59,
-    "openingLength": 89,
-    "endingTime": 1346,
-    "endingLength": 69
-  },
-  {
-    "episode": 3,
-    "dub": "Озвучка Dream Cast",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123785/dcc25df92a67bf5a6506b065b6220413/720p?translations=false&only_episode=true&only_season=true&episode=3",
-    "date": 1793213318,
-    "durationSec": 1428
-  },
-  {
-    "episode": 4,
-    "dub": "Озвучка Dream Cast",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123785/dcc25df92a67bf5a6506b065b6220413/720p?translations=false&only_episode=true&only_season=true&episode=4",
-    "date": 1793812598,
-    "durationSec": 1428,
-    "openingTime": 94,
-    "openingLength": 69,
-    "endingTime": 1329,
-    "endingLength": 59
+    "durationSec": 1420
   },
   {
     "episode": 1,
