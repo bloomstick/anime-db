@@ -221,7 +221,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/121824/6444bc156a5ead6dabe1255b9c514a6e/720p?translations=false&only_episode=true&only_season=true&episode=19",
     "date": 1794321578,
-    "durationSec": 1220
+    "durationSec": 1220,
+    "endingTime": 1200,
+    "endingLength": 19
   },
   {
     "episode": 1,
@@ -381,167 +383,353 @@
   },
   {
     "episode": 1,
-    "dub": "Озвучка FumoDub",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=FumoDub&anime_id=62248&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+FumoDub",
-    "date": 1785970425,
-    "durationSec": 1319
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/121860/d7e67c34c0af1efad3983b49b2201add/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1784994610,
+    "durationSec": 1320,
+    "openingTime": 0,
+    "openingLength": 144,
+    "endingTime": 1285,
+    "endingLength": 14
   },
   {
     "episode": 2,
-    "dub": "Озвучка FumoDub",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=FumoDub&anime_id=62248&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+FumoDub",
-    "date": 1785970425,
-    "durationSec": 1182
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/121860/d7e67c34c0af1efad3983b49b2201add/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1785094438,
+    "durationSec": 1183,
+    "openingTime": 0,
+    "openingLength": 44,
+    "endingTime": 1049,
+    "endingLength": 14
   },
   {
     "episode": 3,
-    "dub": "Озвучка FumoDub",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=FumoDub&anime_id=62248&episode=3&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+FumoDub",
-    "date": 1785970425,
-    "durationSec": 1178
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/121860/d7e67c34c0af1efad3983b49b2201add/720p?translations=false&only_episode=true&only_season=true&episode=3",
+    "date": 1785161562,
+    "durationSec": 1179,
+    "openingTime": 15,
+    "openingLength": 114,
+    "endingTime": 1048,
+    "endingLength": 14
   },
   {
     "episode": 4,
-    "dub": "Озвучка FumoDub",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=FumoDub&anime_id=62248&episode=4&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+FumoDub",
-    "date": 1785970425,
-    "durationSec": 1174
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/121860/d7e67c34c0af1efad3983b49b2201add/720p?translations=false&only_episode=true&only_season=true&episode=4",
+    "date": 1785338896,
+    "durationSec": 914
   },
   {
     "episode": 5,
-    "dub": "Озвучка FumoDub",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=FumoDub&anime_id=62248&episode=5&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+FumoDub",
-    "date": 1785970425,
-    "durationSec": 1148
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/121860/d7e67c34c0af1efad3983b49b2201add/720p?translations=false&only_episode=true&only_season=true&episode=5",
+    "date": 1785872557,
+    "durationSec": 1149,
+    "openingTime": 0,
+    "openingLength": 134,
+    "endingTime": 1114,
+    "endingLength": 14
   },
   {
     "episode": 6,
-    "dub": "Озвучка FumoDub",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=FumoDub&anime_id=62248&episode=6&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+FumoDub",
-    "date": 1790076941,
-    "durationSec": 1165
-  },
-  {
-    "episode": 8,
-    "dub": "Озвучка FumoDub",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=FumoDub&anime_id=62248&episode=8&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+FumoDub",
-    "date": 1790076941,
-    "durationSec": 1258
-  },
-  {
-    "episode": 9,
-    "dub": "Озвучка FumoDub",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=FumoDub&anime_id=62248&episode=9&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+FumoDub",
-    "date": 1790076941,
-    "durationSec": 1258
-  },
-  {
-    "episode": 10,
-    "dub": "Озвучка FumoDub",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=FumoDub&anime_id=62248&episode=10&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+FumoDub",
-    "date": 1790076941,
-    "durationSec": 1272
-  },
-  {
-    "episode": 11,
-    "dub": "Озвучка FumoDub",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=FumoDub&anime_id=62248&episode=11&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+FumoDub",
-    "date": 1790076941,
-    "durationSec": 1256
-  },
-  {
-    "episode": 12,
-    "dub": "Озвучка FumoDub",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=FumoDub&anime_id=62248&episode=12&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+FumoDub",
-    "date": 1790076941,
-    "durationSec": 1314
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/121860/d7e67c34c0af1efad3983b49b2201add/720p?translations=false&only_episode=true&only_season=true&episode=6",
+    "date": 1786551079,
+    "durationSec": 1201,
+    "openingTime": 17,
+    "openingLength": 114,
+    "endingTime": 1148,
+    "endingLength": 19
   },
   {
     "episode": 7,
-    "dub": "Озвучка FumoDub",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=FumoDub&anime_id=62248&episode=7&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+FumoDub",
-    "date": 1790077936,
-    "durationSec": 1176
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/121860/d7e67c34c0af1efad3983b49b2201add/720p?translations=false&only_episode=true&only_season=true&episode=7",
+    "date": 1787146105,
+    "durationSec": 916
   },
   {
-    "episode": 15,
-    "dub": "Озвучка FumoDub",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=FumoDub&anime_id=62248&episode=15&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+FumoDub",
-    "date": 1791893771,
-    "durationSec": 1194
+    "episode": 8,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/121860/d7e67c34c0af1efad3983b49b2201add/720p?translations=false&only_episode=true&only_season=true&episode=8",
+    "date": 1787758570,
+    "durationSec": 933
+  },
+  {
+    "episode": 9,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/121860/d7e67c34c0af1efad3983b49b2201add/720p?translations=false&only_episode=true&only_season=true&episode=9",
+    "date": 1788358261,
+    "durationSec": 926
+  },
+  {
+    "episode": 10,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/121860/d7e67c34c0af1efad3983b49b2201add/720p?translations=false&only_episode=true&only_season=true&episode=10",
+    "date": 1788968910,
+    "durationSec": 933
+  },
+  {
+    "episode": 11,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/121860/d7e67c34c0af1efad3983b49b2201add/720p?translations=false&only_episode=true&only_season=true&episode=11",
+    "date": 1790124321,
+    "durationSec": 910
+  },
+  {
+    "episode": 12,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/121860/d7e67c34c0af1efad3983b49b2201add/720p?translations=false&only_episode=true&only_season=true&episode=12",
+    "date": 1790169234,
+    "durationSec": 982
   },
   {
     "episode": 13,
-    "dub": "Озвучка FumoDub",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=FumoDub&anime_id=62248&episode=13&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+FumoDub",
-    "date": 1791894784,
-    "durationSec": 1319
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/121860/d7e67c34c0af1efad3983b49b2201add/720p?translations=false&only_episode=true&only_season=true&episode=13",
+    "date": 1791356567,
+    "durationSec": 922,
+    "endingTime": 902,
+    "endingLength": 14
   },
   {
     "episode": 14,
-    "dub": "Озвучка FumoDub",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=FumoDub&anime_id=62248&episode=14&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+FumoDub",
-    "date": 1791894784,
-    "durationSec": 1391
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/121860/d7e67c34c0af1efad3983b49b2201add/720p?translations=false&only_episode=true&only_season=true&episode=14",
+    "date": 1791356567,
+    "durationSec": 1119
+  },
+  {
+    "episode": 15,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/121860/d7e67c34c0af1efad3983b49b2201add/720p?translations=false&only_episode=true&only_season=true&episode=15",
+    "date": 1791988625,
+    "durationSec": 942,
+    "endingTime": 922,
+    "endingLength": 19
   },
   {
     "episode": 16,
-    "dub": "Озвучка FumoDub",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=FumoDub&anime_id=62248&episode=16&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+FumoDub",
-    "date": 1792510316,
-    "durationSec": 1167,
-    "openingTime": 0,
-    "openingLength": 114,
-    "endingTime": 1133,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/121860/d7e67c34c0af1efad3983b49b2201add/720p?translations=false&only_episode=true&only_season=true&episode=16",
+    "date": 1792611280,
+    "durationSec": 915,
+    "endingTime": 895,
     "endingLength": 19
   },
   {
     "episode": 17,
-    "dub": "Озвучка FumoDub",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=FumoDub&anime_id=62248&episode=17&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+FumoDub",
-    "date": 1793098669,
-    "durationSec": 1166,
-    "openingTime": 0,
-    "openingLength": 124,
-    "endingTime": 1107,
-    "endingLength": 34
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/121860/d7e67c34c0af1efad3983b49b2201add/720p?translations=false&only_episode=true&only_season=true&episode=17",
+    "date": 1793188418,
+    "durationSec": 926
   },
   {
     "episode": 18,
-    "dub": "Озвучка FumoDub",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=FumoDub&anime_id=62248&episode=18&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+FumoDub",
-    "date": 1793104713,
-    "durationSec": 1194,
-    "openingTime": 0,
-    "openingLength": 129,
-    "endingTime": 1134,
-    "endingLength": 44
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/121860/d7e67c34c0af1efad3983b49b2201add/720p?translations=false&only_episode=true&only_season=true&episode=18",
+    "date": 1793730964,
+    "durationSec": 914
   },
   {
     "episode": 19,
-    "dub": "Озвучка FumoDub",
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/121860/d7e67c34c0af1efad3983b49b2201add/720p?translations=false&only_episode=true&only_season=true&episode=19",
+    "date": 1794416939,
+    "durationSec": 989
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AnimeVost",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=FumoDub&anime_id=62248&episode=19&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+FumoDub",
-    "date": 1794319258,
-    "durationSec": 998
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=62248&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
+    "date": 1785970425,
+    "durationSec": 1320,
+    "openingTime": 0,
+    "openingLength": 114,
+    "endingTime": 1201,
+    "endingLength": 19
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=62248&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
+    "date": 1785970425,
+    "durationSec": 1183,
+    "openingTime": 0,
+    "openingLength": 99,
+    "endingTime": 1051,
+    "endingLength": 19
+  },
+  {
+    "episode": 3,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=62248&episode=3&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
+    "date": 1785970425,
+    "durationSec": 1179,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1047,
+    "endingLength": 14
+  },
+  {
+    "episode": 4,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=62248&episode=4&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
+    "date": 1785970425,
+    "durationSec": 914
+  },
+  {
+    "episode": 5,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=62248&episode=5&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
+    "date": 1785970425,
+    "durationSec": 1150,
+    "openingTime": 15,
+    "openingLength": 104,
+    "endingTime": 1045,
+    "endingLength": 19
+  },
+  {
+    "episode": 6,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=62248&episode=6&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
+    "date": 1786803058,
+    "durationSec": 1201,
+    "openingTime": 34,
+    "openingLength": 39,
+    "endingTime": 1047,
+    "endingLength": 14
+  },
+  {
+    "episode": 7,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=62248&episode=7&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
+    "date": 1787160959,
+    "durationSec": 942
+  },
+  {
+    "episode": 8,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=62248&episode=8&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
+    "date": 1787758923,
+    "durationSec": 933
+  },
+  {
+    "episode": 9,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=62248&episode=9&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
+    "date": 1788389896,
+    "durationSec": 926
+  },
+  {
+    "episode": 10,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=62248&episode=10&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
+    "date": 1788966381,
+    "durationSec": 933
+  },
+  {
+    "episode": 11,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=62248&episode=11&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
+    "date": 1789566142,
+    "durationSec": 910
+  },
+  {
+    "episode": 12,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=62248&episode=12&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
+    "date": 1790179753,
+    "durationSec": 982
+  },
+  {
+    "episode": 13,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=62248&episode=13&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
+    "date": 1790710873,
+    "durationSec": 922
+  },
+  {
+    "episode": 14,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=62248&episode=14&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
+    "date": 1791324768,
+    "durationSec": 1119
+  },
+  {
+    "episode": 15,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=62248&episode=15&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
+    "date": 1791983227,
+    "durationSec": 942
+  },
+  {
+    "episode": 16,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=62248&episode=16&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
+    "date": 1792579349,
+    "durationSec": 915
+  },
+  {
+    "episode": 17,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=62248&episode=17&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
+    "date": 1793177771,
+    "durationSec": 926
+  },
+  {
+    "episode": 18,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=62248&episode=18&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
+    "date": 1793725852,
+    "durationSec": 914
+  },
+  {
+    "episode": 19,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=62248&episode=19&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
+    "date": 1794416176,
+    "durationSec": 989
   },
   {
     "episode": 1,
@@ -742,338 +930,176 @@
     "durationSec": 1166
   },
   {
-    "episode": 1,
-    "dub": "Озвучка AnimeVost",
+    "episode": 19,
+    "dub": "Озвучка FumoDub",
     "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/121860/d7e67c34c0af1efad3983b49b2201add/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1784994610,
-    "durationSec": 1320,
-    "openingTime": 0,
-    "openingLength": 144,
-    "endingTime": 1285,
-    "endingLength": 14
+    "iframeUrl": "https://kodikplayer.com/season/121823/5d842a2c1f967956f34210d410ac9f70/720p?translations=false&only_episode=true&only_season=true&episode=19",
+    "date": 1794384841,
+    "durationSec": 1257
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка FumoDub",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=FumoDub&anime_id=62248&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+FumoDub",
+    "date": 1785970425,
+    "durationSec": 1319
   },
   {
     "episode": 2,
-    "dub": "Озвучка AnimeVost",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/121860/d7e67c34c0af1efad3983b49b2201add/720p?translations=false&only_episode=true&only_season=true&episode=2",
-    "date": 1785094438,
-    "durationSec": 1183,
-    "openingTime": 0,
-    "openingLength": 44,
-    "endingTime": 1049,
-    "endingLength": 14
+    "dub": "Озвучка FumoDub",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=FumoDub&anime_id=62248&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+FumoDub",
+    "date": 1785970425,
+    "durationSec": 1182
   },
   {
     "episode": 3,
-    "dub": "Озвучка AnimeVost",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/121860/d7e67c34c0af1efad3983b49b2201add/720p?translations=false&only_episode=true&only_season=true&episode=3",
-    "date": 1785161562,
-    "durationSec": 1179,
-    "openingTime": 15,
-    "openingLength": 114,
-    "endingTime": 1048,
-    "endingLength": 14
+    "dub": "Озвучка FumoDub",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=FumoDub&anime_id=62248&episode=3&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+FumoDub",
+    "date": 1785970425,
+    "durationSec": 1178
   },
   {
     "episode": 4,
-    "dub": "Озвучка AnimeVost",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/121860/d7e67c34c0af1efad3983b49b2201add/720p?translations=false&only_episode=true&only_season=true&episode=4",
-    "date": 1785338896,
-    "durationSec": 914
+    "dub": "Озвучка FumoDub",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=FumoDub&anime_id=62248&episode=4&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+FumoDub",
+    "date": 1785970425,
+    "durationSec": 1174
   },
   {
     "episode": 5,
-    "dub": "Озвучка AnimeVost",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/121860/d7e67c34c0af1efad3983b49b2201add/720p?translations=false&only_episode=true&only_season=true&episode=5",
-    "date": 1785872557,
-    "durationSec": 1149,
-    "openingTime": 0,
-    "openingLength": 134,
-    "endingTime": 1114,
-    "endingLength": 14
+    "dub": "Озвучка FumoDub",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=FumoDub&anime_id=62248&episode=5&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+FumoDub",
+    "date": 1785970425,
+    "durationSec": 1148
   },
   {
     "episode": 6,
-    "dub": "Озвучка AnimeVost",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/121860/d7e67c34c0af1efad3983b49b2201add/720p?translations=false&only_episode=true&only_season=true&episode=6",
-    "date": 1786551079,
-    "durationSec": 1201,
-    "openingTime": 17,
-    "openingLength": 114,
-    "endingTime": 1148,
-    "endingLength": 19
-  },
-  {
-    "episode": 7,
-    "dub": "Озвучка AnimeVost",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/121860/d7e67c34c0af1efad3983b49b2201add/720p?translations=false&only_episode=true&only_season=true&episode=7",
-    "date": 1787146105,
-    "durationSec": 916
+    "dub": "Озвучка FumoDub",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=FumoDub&anime_id=62248&episode=6&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+FumoDub",
+    "date": 1790076941,
+    "durationSec": 1165
   },
   {
     "episode": 8,
-    "dub": "Озвучка AnimeVost",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/121860/d7e67c34c0af1efad3983b49b2201add/720p?translations=false&only_episode=true&only_season=true&episode=8",
-    "date": 1787758570,
-    "durationSec": 933
+    "dub": "Озвучка FumoDub",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=FumoDub&anime_id=62248&episode=8&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+FumoDub",
+    "date": 1790076941,
+    "durationSec": 1258
   },
   {
     "episode": 9,
-    "dub": "Озвучка AnimeVost",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/121860/d7e67c34c0af1efad3983b49b2201add/720p?translations=false&only_episode=true&only_season=true&episode=9",
-    "date": 1788358261,
-    "durationSec": 926
+    "dub": "Озвучка FumoDub",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=FumoDub&anime_id=62248&episode=9&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+FumoDub",
+    "date": 1790076941,
+    "durationSec": 1258
   },
   {
     "episode": 10,
-    "dub": "Озвучка AnimeVost",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/121860/d7e67c34c0af1efad3983b49b2201add/720p?translations=false&only_episode=true&only_season=true&episode=10",
-    "date": 1788968910,
-    "durationSec": 933
+    "dub": "Озвучка FumoDub",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=FumoDub&anime_id=62248&episode=10&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+FumoDub",
+    "date": 1790076941,
+    "durationSec": 1272
   },
   {
     "episode": 11,
-    "dub": "Озвучка AnimeVost",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/121860/d7e67c34c0af1efad3983b49b2201add/720p?translations=false&only_episode=true&only_season=true&episode=11",
-    "date": 1790124321,
-    "durationSec": 910
+    "dub": "Озвучка FumoDub",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=FumoDub&anime_id=62248&episode=11&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+FumoDub",
+    "date": 1790076941,
+    "durationSec": 1256
   },
   {
     "episode": 12,
-    "dub": "Озвучка AnimeVost",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/121860/d7e67c34c0af1efad3983b49b2201add/720p?translations=false&only_episode=true&only_season=true&episode=12",
-    "date": 1790169234,
-    "durationSec": 982
+    "dub": "Озвучка FumoDub",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=FumoDub&anime_id=62248&episode=12&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+FumoDub",
+    "date": 1790076941,
+    "durationSec": 1314
   },
   {
-    "episode": 13,
-    "dub": "Озвучка AnimeVost",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/121860/d7e67c34c0af1efad3983b49b2201add/720p?translations=false&only_episode=true&only_season=true&episode=13",
-    "date": 1791356567,
-    "durationSec": 922,
-    "endingTime": 902,
-    "endingLength": 14
-  },
-  {
-    "episode": 14,
-    "dub": "Озвучка AnimeVost",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/121860/d7e67c34c0af1efad3983b49b2201add/720p?translations=false&only_episode=true&only_season=true&episode=14",
-    "date": 1791356567,
-    "durationSec": 1119
+    "episode": 7,
+    "dub": "Озвучка FumoDub",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=FumoDub&anime_id=62248&episode=7&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+FumoDub",
+    "date": 1790077936,
+    "durationSec": 1176
   },
   {
     "episode": 15,
-    "dub": "Озвучка AnimeVost",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/121860/d7e67c34c0af1efad3983b49b2201add/720p?translations=false&only_episode=true&only_season=true&episode=15",
-    "date": 1791988625,
-    "durationSec": 942,
-    "endingTime": 922,
-    "endingLength": 19
+    "dub": "Озвучка FumoDub",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=FumoDub&anime_id=62248&episode=15&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+FumoDub",
+    "date": 1791893771,
+    "durationSec": 1194
+  },
+  {
+    "episode": 13,
+    "dub": "Озвучка FumoDub",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=FumoDub&anime_id=62248&episode=13&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+FumoDub",
+    "date": 1791894784,
+    "durationSec": 1319
+  },
+  {
+    "episode": 14,
+    "dub": "Озвучка FumoDub",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=FumoDub&anime_id=62248&episode=14&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+FumoDub",
+    "date": 1791894784,
+    "durationSec": 1391
   },
   {
     "episode": 16,
-    "dub": "Озвучка AnimeVost",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/121860/d7e67c34c0af1efad3983b49b2201add/720p?translations=false&only_episode=true&only_season=true&episode=16",
-    "date": 1792611280,
-    "durationSec": 915,
-    "endingTime": 895,
+    "dub": "Озвучка FumoDub",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=FumoDub&anime_id=62248&episode=16&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+FumoDub",
+    "date": 1792510316,
+    "durationSec": 1167,
+    "openingTime": 0,
+    "openingLength": 114,
+    "endingTime": 1133,
     "endingLength": 19
   },
   {
     "episode": 17,
-    "dub": "Озвучка AnimeVost",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/121860/d7e67c34c0af1efad3983b49b2201add/720p?translations=false&only_episode=true&only_season=true&episode=17",
-    "date": 1793188418,
-    "durationSec": 926
+    "dub": "Озвучка FumoDub",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=FumoDub&anime_id=62248&episode=17&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+FumoDub",
+    "date": 1793098669,
+    "durationSec": 1166,
+    "openingTime": 0,
+    "openingLength": 124,
+    "endingTime": 1107,
+    "endingLength": 34
   },
   {
     "episode": 18,
-    "dub": "Озвучка AnimeVost",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/121860/d7e67c34c0af1efad3983b49b2201add/720p?translations=false&only_episode=true&only_season=true&episode=18",
-    "date": 1793730964,
-    "durationSec": 914
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка AnimeVost",
+    "dub": "Озвучка FumoDub",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=62248&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
-    "date": 1785970425,
-    "durationSec": 1320,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=FumoDub&anime_id=62248&episode=18&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+FumoDub",
+    "date": 1793104713,
+    "durationSec": 1194,
     "openingTime": 0,
-    "openingLength": 114,
-    "endingTime": 1201,
-    "endingLength": 19
+    "openingLength": 129,
+    "endingTime": 1134,
+    "endingLength": 44
   },
   {
-    "episode": 2,
-    "dub": "Озвучка AnimeVost",
+    "episode": 19,
+    "dub": "Озвучка FumoDub",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=62248&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
-    "date": 1785970425,
-    "durationSec": 1183,
-    "openingTime": 0,
-    "openingLength": 99,
-    "endingTime": 1051,
-    "endingLength": 19
-  },
-  {
-    "episode": 3,
-    "dub": "Озвучка AnimeVost",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=62248&episode=3&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
-    "date": 1785970425,
-    "durationSec": 1179,
-    "openingTime": 0,
-    "openingLength": 89,
-    "endingTime": 1047,
-    "endingLength": 14
-  },
-  {
-    "episode": 4,
-    "dub": "Озвучка AnimeVost",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=62248&episode=4&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
-    "date": 1785970425,
-    "durationSec": 914
-  },
-  {
-    "episode": 5,
-    "dub": "Озвучка AnimeVost",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=62248&episode=5&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
-    "date": 1785970425,
-    "durationSec": 1150,
-    "openingTime": 15,
-    "openingLength": 104,
-    "endingTime": 1045,
-    "endingLength": 19
-  },
-  {
-    "episode": 6,
-    "dub": "Озвучка AnimeVost",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=62248&episode=6&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
-    "date": 1786803058,
-    "durationSec": 1201,
-    "openingTime": 34,
-    "openingLength": 39,
-    "endingTime": 1047,
-    "endingLength": 14
-  },
-  {
-    "episode": 7,
-    "dub": "Озвучка AnimeVost",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=62248&episode=7&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
-    "date": 1787160959,
-    "durationSec": 942
-  },
-  {
-    "episode": 8,
-    "dub": "Озвучка AnimeVost",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=62248&episode=8&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
-    "date": 1787758923,
-    "durationSec": 933
-  },
-  {
-    "episode": 9,
-    "dub": "Озвучка AnimeVost",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=62248&episode=9&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
-    "date": 1788389896,
-    "durationSec": 926
-  },
-  {
-    "episode": 10,
-    "dub": "Озвучка AnimeVost",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=62248&episode=10&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
-    "date": 1788966381,
-    "durationSec": 933
-  },
-  {
-    "episode": 11,
-    "dub": "Озвучка AnimeVost",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=62248&episode=11&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
-    "date": 1789566142,
-    "durationSec": 910
-  },
-  {
-    "episode": 12,
-    "dub": "Озвучка AnimeVost",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=62248&episode=12&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
-    "date": 1790179753,
-    "durationSec": 982
-  },
-  {
-    "episode": 13,
-    "dub": "Озвучка AnimeVost",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=62248&episode=13&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
-    "date": 1790710873,
-    "durationSec": 922
-  },
-  {
-    "episode": 14,
-    "dub": "Озвучка AnimeVost",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=62248&episode=14&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
-    "date": 1791324768,
-    "durationSec": 1119
-  },
-  {
-    "episode": 15,
-    "dub": "Озвучка AnimeVost",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=62248&episode=15&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
-    "date": 1791983227,
-    "durationSec": 942
-  },
-  {
-    "episode": 16,
-    "dub": "Озвучка AnimeVost",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=62248&episode=16&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
-    "date": 1792579349,
-    "durationSec": 915
-  },
-  {
-    "episode": 17,
-    "dub": "Озвучка AnimeVost",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=62248&episode=17&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
-    "date": 1793177771,
-    "durationSec": 926
-  },
-  {
-    "episode": 18,
-    "dub": "Озвучка AnimeVost",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=62248&episode=18&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
-    "date": 1793725852,
-    "durationSec": 914
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=FumoDub&anime_id=62248&episode=19&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+FumoDub",
+    "date": 1794319258,
+    "durationSec": 998
   },
   {
     "episode": 1,

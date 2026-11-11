@@ -97,6 +97,54 @@
   },
   {
     "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123680/e46bdc76e09b0eb7062c192fcb779f95/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1791822611,
+    "durationSec": 1417
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123680/e46bdc76e09b0eb7062c192fcb779f95/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1792423584,
+    "durationSec": 1417
+  },
+  {
+    "episode": 3,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123680/e46bdc76e09b0eb7062c192fcb779f95/720p?translations=false&only_episode=true&only_season=true&episode=3",
+    "date": 1793037555,
+    "durationSec": 1417
+  },
+  {
+    "episode": 4,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123680/e46bdc76e09b0eb7062c192fcb779f95/720p?translations=false&only_episode=true&only_season=true&episode=4",
+    "date": 1793633537,
+    "durationSec": 1417
+  },
+  {
+    "episode": 5,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123680/e46bdc76e09b0eb7062c192fcb779f95/720p?translations=false&only_episode=true&only_season=true&episode=5",
+    "date": 1794235375,
+    "durationSec": 1417
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniDUB",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniDUB&anime_id=64505&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniDUB",
+    "date": 1792091925,
+    "durationSec": 1417
+  },
+  {
+    "episode": 1,
     "dub": "Субтитры Crunchyroll",
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123607/feda1a5c2b2fbfa7dee1706280bb3efd/720p?translations=false&only_episode=true&only_season=true&episode=1",
@@ -188,54 +236,6 @@
     "dub": "Озвучка AniStar",
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniStar&anime_id=64505&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniStar",
-    "date": 1792091925,
-    "durationSec": 1417
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка AniDUB",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123680/e46bdc76e09b0eb7062c192fcb779f95/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1791822611,
-    "durationSec": 1417
-  },
-  {
-    "episode": 2,
-    "dub": "Озвучка AniDUB",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123680/e46bdc76e09b0eb7062c192fcb779f95/720p?translations=false&only_episode=true&only_season=true&episode=2",
-    "date": 1792423584,
-    "durationSec": 1417
-  },
-  {
-    "episode": 3,
-    "dub": "Озвучка AniDUB",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123680/e46bdc76e09b0eb7062c192fcb779f95/720p?translations=false&only_episode=true&only_season=true&episode=3",
-    "date": 1793037555,
-    "durationSec": 1417
-  },
-  {
-    "episode": 4,
-    "dub": "Озвучка AniDUB",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123680/e46bdc76e09b0eb7062c192fcb779f95/720p?translations=false&only_episode=true&only_season=true&episode=4",
-    "date": 1793633537,
-    "durationSec": 1417
-  },
-  {
-    "episode": 5,
-    "dub": "Озвучка AniDUB",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/123680/e46bdc76e09b0eb7062c192fcb779f95/720p?translations=false&only_episode=true&only_season=true&episode=5",
-    "date": 1794235375,
-    "durationSec": 1417
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка AniDUB",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniDUB&anime_id=64505&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniDUB",
     "date": 1792091925,
     "durationSec": 1417
   },

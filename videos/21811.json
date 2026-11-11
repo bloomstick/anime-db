@@ -157,7 +157,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123245/970a8edce7800f7de66814638cb88af0/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 1792417808,
-    "durationSec": 1418
+    "durationSec": 1418,
+    "openingTime": 59,
+    "openingLength": 89,
+    "endingTime": 1322,
+    "endingLength": 89
   },
   {
     "episode": 4,

@@ -61,17 +61,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123337/671e7332622c089351458dfb062312b4/720p?translations=false&only_episode=true&only_season=true&episode=6",
     "date": 1794327081,
-    "durationSec": 1423
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка NDA Studio",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=NDA+Studio&anime_id=63431&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+NDA+Studio",
-    "date": 1791805617,
-    "durationSec": 1420,
-    "endingTime": 1324,
-    "endingLength": 69
+    "durationSec": 1423,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1403,
+    "endingLength": 19
   },
   {
     "episode": 1,
@@ -137,7 +131,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123358/5f4868f03e38e3dab1341a5873442329/720p?translations=false&only_episode=true&only_season=true&episode=6",
     "date": 1794331671,
-    "durationSec": 1420
+    "durationSec": 1420,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1400,
+    "endingLength": 19
   },
   {
     "episode": 1,
@@ -203,7 +201,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=63431&episode=6&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
     "date": 1794333305,
-    "durationSec": 1420
+    "durationSec": 1420,
+    "openingTime": 0,
+    "openingLength": 59,
+    "endingTime": 1284,
+    "endingLength": 99
   },
   {
     "episode": 1,
@@ -267,6 +269,58 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123336/250aa331a697b0ea31881efb470d10c4/720p?translations=false&only_episode=true&only_season=true&episode=6",
     "date": 1794328001,
+    "durationSec": 1420,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1400,
+    "endingLength": 19
+  },
+  {
+    "episode": 1,
+    "dub": "Субтитры Crunchyroll",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Crunchyroll&anime_id=63431&episode=1&dubbing=%D0%A1%D1%83%D0%B1%D1%82%D0%B8%D1%82%D1%80%D1%8B+Crunchyroll",
+    "date": 1794420174,
+    "durationSec": 1420
+  },
+  {
+    "episode": 2,
+    "dub": "Субтитры Crunchyroll",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Crunchyroll&anime_id=63431&episode=2&dubbing=%D0%A1%D1%83%D0%B1%D1%82%D0%B8%D1%82%D1%80%D1%8B+Crunchyroll",
+    "date": 1794420174,
+    "durationSec": 1420
+  },
+  {
+    "episode": 3,
+    "dub": "Субтитры Crunchyroll",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Crunchyroll&anime_id=63431&episode=3&dubbing=%D0%A1%D1%83%D0%B1%D1%82%D0%B8%D1%82%D1%80%D1%8B+Crunchyroll",
+    "date": 1794420174,
+    "durationSec": 0
+  },
+  {
+    "episode": 4,
+    "dub": "Субтитры Crunchyroll",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Crunchyroll&anime_id=63431&episode=4&dubbing=%D0%A1%D1%83%D0%B1%D1%82%D0%B8%D1%82%D1%80%D1%8B+Crunchyroll",
+    "date": 1794420174,
+    "durationSec": 0
+  },
+  {
+    "episode": 5,
+    "dub": "Субтитры Crunchyroll",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Crunchyroll&anime_id=63431&episode=5&dubbing=%D0%A1%D1%83%D0%B1%D1%82%D0%B8%D1%82%D1%80%D1%8B+Crunchyroll",
+    "date": 1794420174,
+    "durationSec": 0
+  },
+  {
+    "episode": 6,
+    "dub": "Субтитры Crunchyroll",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=Crunchyroll&anime_id=63431&episode=6&dubbing=%D0%A1%D1%83%D0%B1%D1%82%D0%B8%D1%82%D1%80%D1%8B+Crunchyroll",
+    "date": 1794421167,
     "durationSec": 1420
   },
   {
@@ -337,6 +391,54 @@
   },
   {
     "episode": 1,
+    "dub": "Озвучка AniMaunt",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniMaunt&anime_id=63431&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniMaunt",
+    "date": 1794419178,
+    "durationSec": 0
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniMaunt",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniMaunt&anime_id=63431&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniMaunt",
+    "date": 1794419178,
+    "durationSec": 0
+  },
+  {
+    "episode": 3,
+    "dub": "Озвучка AniMaunt",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniMaunt&anime_id=63431&episode=3&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniMaunt",
+    "date": 1794419178,
+    "durationSec": 0
+  },
+  {
+    "episode": 4,
+    "dub": "Озвучка AniMaunt",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniMaunt&anime_id=63431&episode=4&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniMaunt",
+    "date": 1794419178,
+    "durationSec": 0
+  },
+  {
+    "episode": 5,
+    "dub": "Озвучка AniMaunt",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniMaunt&anime_id=63431&episode=5&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniMaunt",
+    "date": 1794419178,
+    "durationSec": 0
+  },
+  {
+    "episode": 6,
+    "dub": "Озвучка AniMaunt",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniMaunt&anime_id=63431&episode=6&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniMaunt",
+    "date": 1794419178,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
     "dub": "Озвучка Дублированная",
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=8a1f8284bfcb2cbd228d64391f9867&translation=66&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
@@ -399,12 +501,44 @@
     "endingLength": 19
   },
   {
+    "episode": 1,
+    "dub": "Дубляж NDA Studio",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=NDA+Studio&anime_id=63431&episode=1&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+NDA+Studio",
+    "date": 1794427180,
+    "durationSec": 0
+  },
+  {
     "episode": 2,
     "dub": "Дубляж NDA Studio",
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=NDA+Studio&anime_id=63431&episode=2&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+NDA+Studio",
-    "date": 1792697787,
-    "durationSec": 1420
+    "date": 1794427180,
+    "durationSec": 0
+  },
+  {
+    "episode": 4,
+    "dub": "Дубляж NDA Studio",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=NDA+Studio&anime_id=63431&episode=4&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+NDA+Studio",
+    "date": 1794427180,
+    "durationSec": 0
+  },
+  {
+    "episode": 5,
+    "dub": "Дубляж NDA Studio",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=NDA+Studio&anime_id=63431&episode=5&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+NDA+Studio",
+    "date": 1794427180,
+    "durationSec": 0
+  },
+  {
+    "episode": 3,
+    "dub": "Дубляж NDA Studio",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=NDA+Studio&anime_id=63431&episode=3&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+NDA+Studio",
+    "date": 1794428176,
+    "durationSec": 0
   },
   {
     "episode": 1,

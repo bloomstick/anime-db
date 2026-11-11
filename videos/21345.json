@@ -185,7 +185,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/117741/556e9916c3990330c8c6971f72761f0a/720p?translations=false&only_episode=true&only_season=true&episode=8",
     "date": 1794313317,
-    "durationSec": 1506
+    "durationSec": 1506,
+    "openingTime": 20,
+    "openingLength": 89,
+    "endingTime": 1486,
+    "endingLength": 19
   },
   {
     "episode": 1,
@@ -266,6 +270,14 @@
     "openingLength": 89,
     "endingTime": 1318,
     "endingLength": 29
+  },
+  {
+    "episode": 8,
+    "dub": "Озвучка AniLibria",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniLiberty&anime_id=61469&episode=8&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniLibria",
+    "date": 1794405171,
+    "durationSec": 1506
   },
   {
     "episode": 1,
@@ -2065,7 +2077,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/117758/f417fc969092a923bb2196abab96a235/720p?translations=false&only_episode=true&only_season=true&episode=6",
     "date": 1792997868,
-    "durationSec": 1514
+    "durationSec": 1514,
+    "openingTime": 146,
+    "openingLength": 89,
+    "endingTime": 1420,
+    "endingLength": 89
   },
   {
     "episode": 7,
@@ -2073,7 +2089,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/117758/f417fc969092a923bb2196abab96a235/720p?translations=false&only_episode=true&only_season=true&episode=7",
     "date": 1793557446,
-    "durationSec": 1504
+    "durationSec": 1504,
+    "openingTime": 175,
+    "openingLength": 89,
+    "endingTime": 1437,
+    "endingLength": 49
   },
   {
     "episode": 8,
@@ -2739,7 +2759,7 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/117738/7d7b5167885a2f30a74bf18106050184/720p?translations=false&only_episode=true&only_season=true&episode=8",
     "date": 1794239961,
-    "durationSec": 0
+    "durationSec": 1512
   },
   {
     "episode": 1,
@@ -3029,7 +3049,7 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/124231/1890a624200ef6ec04abf4b6be7f9837/720p?translations=false&only_episode=true&only_season=true&episode=7",
     "date": 1794168438,
-    "durationSec": 0
+    "durationSec": 1424
   },
   {
     "episode": 1,

@@ -226,7 +226,11 @@
     "iframeUrl": "https://alloha.yani.tv/?token_movie=a0ddb90d299cc6bd2e02abbe0c9028&translation=340&season=1&episode=5&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1794316282,
     "durationSec": 1375,
-    "translationId": 340
+    "translationId": 340,
+    "openingTime": 202,
+    "openingLength": 89,
+    "endingTime": 1278,
+    "endingLength": 89
   },
   {
     "episode": 1,
@@ -518,7 +522,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123697/8bdac314cfbfef8e62f1acdce6fc2fbf/720p?translations=false&only_episode=true&only_season=true&episode=5",
     "date": 1794259232,
-    "durationSec": 1375
+    "durationSec": 1375,
+    "openingTime": 203,
+    "openingLength": 89,
+    "endingTime": 1279,
+    "endingLength": 89
   },
   {
     "episode": 1,
@@ -852,7 +860,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=OnWave&anime_id=63293&episode=4&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+OnWave",
     "date": 1793385276,
-    "durationSec": 1389
+    "durationSec": 1389,
+    "openingTime": 40,
+    "openingLength": 89,
+    "endingTime": 1291,
+    "endingLength": 19
   },
   {
     "episode": 5,
@@ -1448,7 +1460,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123529/693e80caa8568e9a407b45bdc454fb68/720p?translations=false&only_episode=true&only_season=true&episode=4",
     "date": 1793430768,
-    "durationSec": 1381
+    "durationSec": 1381,
+    "openingTime": 35,
+    "openingLength": 89,
+    "endingTime": 1286,
+    "endingLength": 89
   },
   {
     "episode": 5,
@@ -2061,7 +2077,7 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123577/9aea9e85f3d399e7514fab1b54ccb096/720p?translations=false&only_episode=true&only_season=true&episode=4",
     "date": 1794074834,
-    "durationSec": 0
+    "durationSec": 1378
   },
   {
     "episode": 5,
@@ -2553,6 +2569,46 @@
   },
   {
     "episode": 1,
+    "dub": "Озвучка RedHeadSound",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=RedHeadSound&anime_id=63293&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+RedHeadSound",
+    "date": 1794427183,
+    "durationSec": 0
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка RedHeadSound",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=RedHeadSound&anime_id=63293&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+RedHeadSound",
+    "date": 1794427183,
+    "durationSec": 0
+  },
+  {
+    "episode": 3,
+    "dub": "Озвучка RedHeadSound",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=RedHeadSound&anime_id=63293&episode=3&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+RedHeadSound",
+    "date": 1794427183,
+    "durationSec": 0
+  },
+  {
+    "episode": 4,
+    "dub": "Озвучка RedHeadSound",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=RedHeadSound&anime_id=63293&episode=4&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+RedHeadSound",
+    "date": 1794427183,
+    "durationSec": 0
+  },
+  {
+    "episode": 5,
+    "dub": "Озвучка RedHeadSound",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=RedHeadSound&anime_id=63293&episode=5&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+RedHeadSound",
+    "date": 1794427183,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
     "dub": "Озвучка StudioBand",
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/124081/5474acb6112e7373558494aca43d9550/720p?translations=false&only_episode=true&only_season=true&episode=1",
@@ -2593,7 +2649,7 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/124081/5474acb6112e7373558494aca43d9550/720p?translations=false&only_episode=true&only_season=true&episode=4",
     "date": 1794347272,
-    "durationSec": 0
+    "durationSec": 1375
   },
   {
     "episode": 1,
@@ -2621,7 +2677,7 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123693/4a22a63f48513e2398a836d7a494bc05/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 1793956444,
-    "durationSec": 0
+    "durationSec": 1398
   },
   {
     "episode": 4,
@@ -2629,7 +2685,7 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123693/4a22a63f48513e2398a836d7a494bc05/720p?translations=false&only_episode=true&only_season=true&episode=4",
     "date": 1794161094,
-    "durationSec": 0
+    "durationSec": 1398
   },
   {
     "episode": 1,
@@ -3518,14 +3574,6 @@
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=KOTODAMA+studio&anime_id=63293&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+KOTODAMA+studio",
     "date": 1793717876,
     "durationSec": 0
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка RedHeadSound",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=RedHeadSound&anime_id=63293&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+RedHeadSound",
-    "date": 1792011555,
-    "durationSec": 1375
   },
   {
     "episode": 1,
