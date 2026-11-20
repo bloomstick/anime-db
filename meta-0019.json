@@ -1,76 +1,5 @@
 [
   {
-    "id": 22724,
-    "slugUrl": "dream:22724",
-    "name": "Кастлвания 2",
-    "rusName": "Кастлвания 2",
-    "engName": "",
-    "coverUrl": "",
-    "coverFallbackUrl": "",
-    "status": "released",
-    "sourceTag": "dream",
-    "rating": 8.49078341007828,
-    "votes": 434,
-    "typeLabel": "tv",
-    "year": "2018",
-    "seasonIndex": 4,
-    "ageRating": "R-17+",
-    "description": "Когда разъярённый сожжением жены Влад Дракула объявляет войну всей Валахии, последний из охотников на вампиров Тревор Бельмонт, учёная Сифа и полувампир Алукард встают между армиями ночи и обречёнными городами. Мрачное тёмное фэнтези о вере, мести и цене человечности.",
-    "genres": [
-      "Драма",
-      "Приключения",
-      "Ужасы",
-      "Вампиры",
-      "Темное фэнтези",
-      "Экшен",
-      "Не японское"
-    ],
-    "genreIds": [
-      15,
-      32,
-      36,
-      46,
-      56,
-      63,
-      101
-    ],
-    "tags": [],
-    "tagIds": [],
-    "anotherName": "",
-    "ruNames": [
-      "Кастлвания 2"
-    ],
-    "enNames": [],
-    "shikimoriId": 0,
-    "malId": 0,
-    "isAgeRestricted": true,
-    "isLicensed": false,
-    "blockedIn": [],
-    "licenseNameRu": "",
-    "licensors": [],
-    "producers": [],
-    "updatedAtSec": 1705736119,
-    "lastAirDateSec": 0,
-    "bannerUrl": "",
-    "studio": "Frederator Studios",
-    "director": "Сэм Дитс",
-    "sourceWork": "Игра",
-    "releaseDate": "2018-01-01",
-    "episodeDates": [
-      1705736119,
-      1705736119,
-      1705736119,
-      1705736119,
-      1705736119,
-      1705736119,
-      1705736119,
-      1705736119
-    ],
-    "totalEpisodes": 0,
-    "airedEpisodes": 8,
-    "yummyAlias": "kaslvaniya-2"
-  },
-  {
     "id": 22725,
     "slugUrl": "dream:22725",
     "name": "Кастлвания 4",
@@ -43495,5 +43424,90 @@
     "totalEpisodes": 1,
     "airedEpisodes": 1,
     "yummyAlias": "mastera-mecha-onlayn-alisizatsiya-rekap"
+  },
+  {
+    "id": 23768,
+    "slugUrl": "dream:23768",
+    "name": "Драгон Квест: Твоя история",
+    "rusName": "Драгон Квест: Твоя история",
+    "engName": "DRAGON QUEST YOUR STORY",
+    "coverUrl": "",
+    "coverFallbackUrl": "",
+    "status": "released",
+    "sourceTag": "dream",
+    "rating": 5.27999999999999,
+    "votes": 25,
+    "typeLabel": "movie",
+    "year": "2019",
+    "seasonIndex": 3,
+    "ageRating": "PG-13",
+    "description": "",
+    "genres": [
+      "Приключения",
+      "Комедия",
+      "Фэнтези",
+      "Демоны",
+      "Боевые искусства"
+    ],
+    "genreIds": [
+      2,
+      4,
+      10,
+      6,
+      17
+    ],
+    "tags": [],
+    "tagIds": [],
+    "anotherName": "",
+    "ruNames": [
+      "Драгон Квест: Твоя история"
+    ],
+    "enNames": [
+      "DRAGON QUEST YOUR STORY",
+      "DRAGON QUEST-YOUR STORY-",
+      "Deine Geschichte in Dragon Quest",
+      "Dragon Quest Movie: Your Story",
+      "Dragon Quest V: Hand of the Heavenly Bride",
+      "Dragon Quest Your Story",
+      "חפש את הדרקון",
+      "ドラゴンクエスト ユア・ストーリー",
+      "ラゴンクエスト ユア・ストーリー"
+    ],
+    "shikimoriId": 39274,
+    "malId": 39274,
+    "isAgeRestricted": false,
+    "isLicensed": false,
+    "blockedIn": [],
+    "licenseNameRu": "Dragon Quest: Твоя история",
+    "licensors": [
+      "Netflix"
+    ],
+    "producers": [
+      "abe shuuji jimusho",
+      "amuse",
+      "chukyo tv broadcasting",
+      "chukyo tv. broadcasting co., ltd.",
+      "culture entertainment",
+      "dentsu inc.",
+      "fukuoka broadcasting corporation",
+      "fukuoka broadcasting system",
+      "gyao!",
+      "hiroshima television",
+      "hiroshima tv",
+      "kddi"
+    ],
+    "updatedAtSec": 1674826847,
+    "lastAirDateSec": 1564747200,
+    "bannerUrl": "",
+    "studio": "Shirogumi",
+    "director": "Ямадзаки Такаси",
+    "sourceWork": "Игра",
+    "releaseDate": "2019-01-01",
+    "episodeDates": [
+      1674826847
+    ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
+    "yummyAlias": "dragon-quest-tvoya-istoriya"
   }
 ]

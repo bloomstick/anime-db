@@ -2681,7 +2681,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniDub+Online&anime_id=59459&episode=4&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniDUB+Online",
     "date": 1759707905,
-    "durationSec": 1444
+    "durationSec": 1444,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1342,
+    "endingLength": 49
   },
   {
     "episode": 5,
@@ -2689,7 +2693,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniDub+Online&anime_id=59459&episode=5&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniDUB+Online",
     "date": 1759707905,
-    "durationSec": 1444
+    "durationSec": 1444,
+    "openingTime": 19,
+    "openingLength": 89,
+    "endingTime": 1343,
+    "endingLength": 89
   },
   {
     "episode": 6,
@@ -3251,7 +3259,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/112009/e861205225b18ba7e62782b241e1c7a2/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1753559491,
-    "durationSec": 1440
+    "durationSec": 1440,
+    "openingTime": 44,
+    "openingLength": 89,
+    "endingTime": 1342,
+    "endingLength": 39
   },
   {
     "episode": 3,
@@ -3561,6 +3573,110 @@
     "iframeUrl": "https://kodikplayer.com/season/111581/3228258372c8edec81ea15a5202430e7/720p?translations=false&only_episode=true&only_season=true&episode=13",
     "date": 1760032385,
     "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Дубляж ТО Дубляжная",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D0%9E+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6%D0%BD%D0%B0%D1%8F&anime_id=59459&episode=1&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D0%9E+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6%D0%BD%D0%B0%D1%8F",
+    "date": 1792701577,
+    "durationSec": 1442
+  },
+  {
+    "episode": 2,
+    "dub": "Дубляж ТО Дубляжная",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D0%9E+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6%D0%BD%D0%B0%D1%8F&anime_id=59459&episode=2&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D0%9E+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6%D0%BD%D0%B0%D1%8F",
+    "date": 1792701577,
+    "durationSec": 1442
+  },
+  {
+    "episode": 3,
+    "dub": "Дубляж ТО Дубляжная",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D0%9E+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6%D0%BD%D0%B0%D1%8F&anime_id=59459&episode=3&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D0%9E+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6%D0%BD%D0%B0%D1%8F",
+    "date": 1792701577,
+    "durationSec": 1441
+  },
+  {
+    "episode": 4,
+    "dub": "Дубляж ТО Дубляжная",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D0%9E+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6%D0%BD%D0%B0%D1%8F&anime_id=59459&episode=4&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D0%9E+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6%D0%BD%D0%B0%D1%8F",
+    "date": 1792701577,
+    "durationSec": 1442
+  },
+  {
+    "episode": 5,
+    "dub": "Дубляж ТО Дубляжная",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D0%9E+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6%D0%BD%D0%B0%D1%8F&anime_id=59459&episode=5&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D0%9E+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6%D0%BD%D0%B0%D1%8F",
+    "date": 1792701577,
+    "durationSec": 1442
+  },
+  {
+    "episode": 6,
+    "dub": "Дубляж ТО Дубляжная",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D0%9E+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6%D0%BD%D0%B0%D1%8F&anime_id=59459&episode=6&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D0%9E+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6%D0%BD%D0%B0%D1%8F",
+    "date": 1792701577,
+    "durationSec": 1442
+  },
+  {
+    "episode": 7,
+    "dub": "Дубляж ТО Дубляжная",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D0%9E+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6%D0%BD%D0%B0%D1%8F&anime_id=59459&episode=7&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D0%9E+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6%D0%BD%D0%B0%D1%8F",
+    "date": 1792701577,
+    "durationSec": 1442
+  },
+  {
+    "episode": 8,
+    "dub": "Дубляж ТО Дубляжная",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D0%9E+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6%D0%BD%D0%B0%D1%8F&anime_id=59459&episode=8&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D0%9E+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6%D0%BD%D0%B0%D1%8F",
+    "date": 1792701577,
+    "durationSec": 1441
+  },
+  {
+    "episode": 9,
+    "dub": "Дубляж ТО Дубляжная",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D0%9E+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6%D0%BD%D0%B0%D1%8F&anime_id=59459&episode=9&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D0%9E+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6%D0%BD%D0%B0%D1%8F",
+    "date": 1792701577,
+    "durationSec": 1441
+  },
+  {
+    "episode": 10,
+    "dub": "Дубляж ТО Дубляжная",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D0%9E+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6%D0%BD%D0%B0%D1%8F&anime_id=59459&episode=10&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D0%9E+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6%D0%BD%D0%B0%D1%8F",
+    "date": 1792701577,
+    "durationSec": 1437
+  },
+  {
+    "episode": 11,
+    "dub": "Дубляж ТО Дубляжная",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D0%9E+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6%D0%BD%D0%B0%D1%8F&anime_id=59459&episode=11&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D0%9E+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6%D0%BD%D0%B0%D1%8F",
+    "date": 1792701577,
+    "durationSec": 1471
+  },
+  {
+    "episode": 12,
+    "dub": "Дубляж ТО Дубляжная",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D0%9E+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6%D0%BD%D0%B0%D1%8F&anime_id=59459&episode=12&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D0%9E+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6%D0%BD%D0%B0%D1%8F",
+    "date": 1792701577,
+    "durationSec": 1442
+  },
+  {
+    "episode": 13,
+    "dub": "Дубляж ТО Дубляжная",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D0%9E+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6%D0%BD%D0%B0%D1%8F&anime_id=59459&episode=13&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D0%9E+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6%D0%BD%D0%B0%D1%8F",
+    "date": 1792701577,
+    "durationSec": 1440
   },
   {
     "episode": 1,
@@ -3980,115 +4096,11 @@
   },
   {
     "episode": 1,
-    "dub": "Озвучка Дубляж ТО Дубляжная",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=todublyazhnaya&anime_id=59459&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D0%9E+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6%D0%BD%D0%B0%D1%8F",
-    "date": 1789145767,
-    "durationSec": 0
-  },
-  {
-    "episode": 2,
-    "dub": "Озвучка Дубляж ТО Дубляжная",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=todublyazhnaya&anime_id=59459&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D0%9E+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6%D0%BD%D0%B0%D1%8F",
-    "date": 1789145767,
-    "durationSec": 0
-  },
-  {
-    "episode": 3,
-    "dub": "Озвучка Дубляж ТО Дубляжная",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=todublyazhnaya&anime_id=59459&episode=3&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D0%9E+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6%D0%BD%D0%B0%D1%8F",
-    "date": 1789145767,
-    "durationSec": 0
-  },
-  {
-    "episode": 4,
-    "dub": "Озвучка Дубляж ТО Дубляжная",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=todublyazhnaya&anime_id=59459&episode=4&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D0%9E+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6%D0%BD%D0%B0%D1%8F",
-    "date": 1789145767,
-    "durationSec": 0
-  },
-  {
-    "episode": 5,
-    "dub": "Озвучка Дубляж ТО Дубляжная",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=todublyazhnaya&anime_id=59459&episode=5&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D0%9E+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6%D0%BD%D0%B0%D1%8F",
-    "date": 1789145767,
-    "durationSec": 0
-  },
-  {
-    "episode": 6,
-    "dub": "Озвучка Дубляж ТО Дубляжная",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=todublyazhnaya&anime_id=59459&episode=6&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D0%9E+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6%D0%BD%D0%B0%D1%8F",
-    "date": 1789145767,
-    "durationSec": 0
-  },
-  {
-    "episode": 7,
-    "dub": "Озвучка Дубляж ТО Дубляжная",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=todublyazhnaya&anime_id=59459&episode=7&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D0%9E+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6%D0%BD%D0%B0%D1%8F",
-    "date": 1789145767,
-    "durationSec": 0
-  },
-  {
-    "episode": 8,
-    "dub": "Озвучка Дубляж ТО Дубляжная",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=todublyazhnaya&anime_id=59459&episode=8&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D0%9E+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6%D0%BD%D0%B0%D1%8F",
-    "date": 1789145767,
-    "durationSec": 0
-  },
-  {
-    "episode": 9,
-    "dub": "Озвучка Дубляж ТО Дубляжная",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=todublyazhnaya&anime_id=59459&episode=9&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D0%9E+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6%D0%BD%D0%B0%D1%8F",
-    "date": 1789145767,
-    "durationSec": 0
-  },
-  {
-    "episode": 10,
-    "dub": "Озвучка Дубляж ТО Дубляжная",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=todublyazhnaya&anime_id=59459&episode=10&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D0%9E+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6%D0%BD%D0%B0%D1%8F",
-    "date": 1789145767,
-    "durationSec": 0
-  },
-  {
-    "episode": 11,
-    "dub": "Озвучка Дубляж ТО Дубляжная",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=todublyazhnaya&anime_id=59459&episode=11&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D0%9E+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6%D0%BD%D0%B0%D1%8F",
-    "date": 1789145767,
-    "durationSec": 0
-  },
-  {
-    "episode": 12,
-    "dub": "Озвучка Дубляж ТО Дубляжная",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=todublyazhnaya&anime_id=59459&episode=12&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D0%9E+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6%D0%BD%D0%B0%D1%8F",
-    "date": 1789145767,
-    "durationSec": 0
-  },
-  {
-    "episode": 13,
-    "dub": "Озвучка Дубляж ТО Дубляжная",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=todublyazhnaya&anime_id=59459&episode=13&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D0%9E+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6%D0%BD%D0%B0%D1%8F",
-    "date": 1789145767,
-    "durationSec": 0
-  },
-  {
-    "episode": 1,
     "dub": "Озвучка TapTapDub",
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/112661/5a5f65110d0b12b9f65bfa99df654d71/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1754598114,
-    "durationSec": 0
+    "durationSec": 1440
   },
   {
     "episode": 2,
@@ -4136,6 +4148,14 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/112661/5a5f65110d0b12b9f65bfa99df654d71/720p?translations=false&only_episode=true&only_season=true&episode=7",
     "date": 1758909314,
+    "durationSec": 0
+  },
+  {
+    "episode": 9,
+    "dub": "Озвучка TapTapDub",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/112062/0f2c00f155443514a42b3ae20b16247b/720p?translations=false&only_episode=true&only_season=true&episode=9",
+    "date": 1793803031,
     "durationSec": 0
   },
   {

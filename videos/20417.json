@@ -1565,7 +1565,9 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniMy+%2F+RuChiMe&anime_id=59410&episode=183&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniMy+%2F+RuChiMe",
     "date": 1781107716,
-    "durationSec": 436
+    "durationSec": 436,
+    "endingTime": 416,
+    "endingLength": 19
   },
   {
     "episode": 184,
@@ -1699,7 +1701,9 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniMy+%2F+RuChiMe&anime_id=59410&episode=198&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniMy+%2F+RuChiMe",
     "date": 1786916476,
-    "durationSec": 436
+    "durationSec": 436,
+    "endingTime": 417,
+    "endingLength": 14
   },
   {
     "episode": 199,
@@ -1823,7 +1827,9 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniMy+%2F+RuChiMe&anime_id=59410&episode=213&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniMy+%2F+RuChiMe",
     "date": 1789243850,
-    "durationSec": 455
+    "durationSec": 455,
+    "endingTime": 435,
+    "endingLength": 19
   },
   {
     "episode": 214,
@@ -1952,6 +1958,30 @@
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniMy+%2F+RuChiMe&anime_id=59410&episode=230&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniMy+%2F+RuChiMe",
     "date": 1794109728,
     "durationSec": 445
+  },
+  {
+    "episode": 231,
+    "dub": "Озвучка AniMy / RuChiMe",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniMy+%2F+RuChiMe&anime_id=59410&episode=231&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniMy+%2F+RuChiMe",
+    "date": 1794512765,
+    "durationSec": 476
+  },
+  {
+    "episode": 232,
+    "dub": "Озвучка AniMy / RuChiMe",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniMy+%2F+RuChiMe&anime_id=59410&episode=232&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniMy+%2F+RuChiMe",
+    "date": 1794583323,
+    "durationSec": 462
+  },
+  {
+    "episode": 233,
+    "dub": "Озвучка AniMy / RuChiMe",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniMy+%2F+RuChiMe&anime_id=59410&episode=233&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniMy+%2F+RuChiMe",
+    "date": 1794807495,
+    "durationSec": 439
   },
   {
     "episode": 1,
@@ -3784,52 +3814,28 @@
     "durationSec": 420
   },
   {
-    "episode": 1,
-    "dub": "Озвучка ПВА ШОУ",
+    "episode": 231,
+    "dub": "Озвучка Animy",
     "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/118797/f8cbd8e443f830cf2e6c7263b30b6771/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1777904905,
-    "durationSec": 440
+    "iframeUrl": "https://kodikplayer.com/season/103087/222a89d276a9809d408cd96545ca7cf6/720p?translations=false&only_episode=true&only_season=true&episode=231",
+    "date": 1794516073,
+    "durationSec": 452
   },
   {
-    "episode": 2,
-    "dub": "Озвучка ПВА ШОУ",
+    "episode": 232,
+    "dub": "Озвучка Animy",
     "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/118797/f8cbd8e443f830cf2e6c7263b30b6771/720p?translations=false&only_episode=true&only_season=true&episode=2",
-    "date": 1778100482,
-    "durationSec": 440
+    "iframeUrl": "https://kodikplayer.com/season/103087/222a89d276a9809d408cd96545ca7cf6/720p?translations=false&only_episode=true&only_season=true&episode=232",
+    "date": 1794586714,
+    "durationSec": 438
   },
   {
-    "episode": 3,
-    "dub": "Озвучка ПВА ШОУ",
+    "episode": 233,
+    "dub": "Озвучка Animy",
     "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/118797/f8cbd8e443f830cf2e6c7263b30b6771/720p?translations=false&only_episode=true&only_season=true&episode=3",
-    "date": 1778348339,
-    "durationSec": 440
-  },
-  {
-    "episode": 4,
-    "dub": "Озвучка ПВА ШОУ",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/118797/f8cbd8e443f830cf2e6c7263b30b6771/720p?translations=false&only_episode=true&only_season=true&episode=4",
-    "date": 1778348339,
-    "durationSec": 440
-  },
-  {
-    "episode": 5,
-    "dub": "Озвучка ПВА ШОУ",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/118797/f8cbd8e443f830cf2e6c7263b30b6771/720p?translations=false&only_episode=true&only_season=true&episode=5",
-    "date": 1778446614,
-    "durationSec": 440
-  },
-  {
-    "episode": 6,
-    "dub": "Озвучка ПВА ШОУ",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/118797/f8cbd8e443f830cf2e6c7263b30b6771/720p?translations=false&only_episode=true&only_season=true&episode=6",
-    "date": 1779019146,
-    "durationSec": 440
+    "iframeUrl": "https://kodikplayer.com/season/103087/222a89d276a9809d408cd96545ca7cf6/720p?translations=false&only_episode=true&only_season=true&episode=233",
+    "date": 1794836453,
+    "durationSec": 415
   },
   {
     "episode": 1,
@@ -3878,5 +3884,53 @@
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%9F%D0%92%D0%90+%D0%A8%D0%9E%D0%A3&anime_id=59410&episode=6&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%9F%D0%92%D0%90+%D0%A8%D0%9E%D0%A3",
     "date": 1779139369,
     "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка ПВА ШОУ",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/118797/f8cbd8e443f830cf2e6c7263b30b6771/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1777904905,
+    "durationSec": 440
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка ПВА ШОУ",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/118797/f8cbd8e443f830cf2e6c7263b30b6771/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1778100482,
+    "durationSec": 440
+  },
+  {
+    "episode": 3,
+    "dub": "Озвучка ПВА ШОУ",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/118797/f8cbd8e443f830cf2e6c7263b30b6771/720p?translations=false&only_episode=true&only_season=true&episode=3",
+    "date": 1778348339,
+    "durationSec": 440
+  },
+  {
+    "episode": 4,
+    "dub": "Озвучка ПВА ШОУ",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/118797/f8cbd8e443f830cf2e6c7263b30b6771/720p?translations=false&only_episode=true&only_season=true&episode=4",
+    "date": 1778348339,
+    "durationSec": 440
+  },
+  {
+    "episode": 5,
+    "dub": "Озвучка ПВА ШОУ",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/118797/f8cbd8e443f830cf2e6c7263b30b6771/720p?translations=false&only_episode=true&only_season=true&episode=5",
+    "date": 1778446614,
+    "durationSec": 440
+  },
+  {
+    "episode": 6,
+    "dub": "Озвучка ПВА ШОУ",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/118797/f8cbd8e443f830cf2e6c7263b30b6771/720p?translations=false&only_episode=true&only_season=true&episode=6",
+    "date": 1779019146,
+    "durationSec": 440
   }
 ]

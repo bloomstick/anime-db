@@ -487,7 +487,11 @@
     "iframeUrl": "https://alloha.yani.tv/?token_movie=9bc6fda5279189966592ec6b752abe&translation=66&season=1&episode=2&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677776354,
     "durationSec": 1287,
-    "translationId": 66
+    "translationId": 66,
+    "openingTime": 74,
+    "openingLength": 39,
+    "endingTime": 1219,
+    "endingLength": 14
   },
   {
     "episode": 3,
@@ -496,7 +500,11 @@
     "iframeUrl": "https://alloha.yani.tv/?token_movie=9bc6fda5279189966592ec6b752abe&translation=66&season=1&episode=3&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677776354,
     "durationSec": 1283,
-    "translationId": 66
+    "translationId": 66,
+    "openingTime": 0,
+    "openingLength": 129,
+    "endingTime": 1220,
+    "endingLength": 54
   },
   {
     "episode": 4,
@@ -505,7 +513,11 @@
     "iframeUrl": "https://alloha.yani.tv/?token_movie=9bc6fda5279189966592ec6b752abe&translation=66&season=1&episode=4&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1677776354,
     "durationSec": 1285,
-    "translationId": 66
+    "translationId": 66,
+    "openingTime": 0,
+    "openingLength": 49,
+    "endingTime": 1219,
+    "endingLength": 64
   },
   {
     "episode": 5,
@@ -1011,6 +1023,8 @@
     "iframeUrl": "https://kodikplayer.com/season/46882/d3a610fc9bee08db0122a733c6117f75/720p?translations=false&only_episode=true&only_season=true&episode=8",
     "date": 1674827225,
     "durationSec": 1286,
+    "openingTime": 0,
+    "openingLength": 109,
     "endingTime": 1223,
     "endingLength": 14
   },
@@ -1031,6 +1045,8 @@
     "iframeUrl": "https://kodikplayer.com/season/46882/d3a610fc9bee08db0122a733c6117f75/720p?translations=false&only_episode=true&only_season=true&episode=10",
     "date": 1674827225,
     "durationSec": 1279,
+    "openingTime": 48,
+    "openingLength": 39,
     "endingTime": 1213,
     "endingLength": 54
   },
@@ -1140,7 +1156,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/46882/d3a610fc9bee08db0122a733c6117f75/720p?translations=false&only_episode=true&only_season=true&episode=20",
     "date": 1674827225,
-    "durationSec": 1267
+    "durationSec": 1267,
+    "openingTime": 0,
+    "openingLength": 104,
+    "endingTime": 1203,
+    "endingLength": 14
   },
   {
     "episode": 21,
@@ -1362,378 +1382,378 @@
   },
   {
     "episode": 1,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
-    "durationSec": 1266
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=1&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
+    "durationSec": 0
   },
   {
     "episode": 2,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=2&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   },
   {
     "episode": 3,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=3&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=3&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   },
   {
     "episode": 4,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=4&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=4&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   },
   {
     "episode": 5,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=5&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=5&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   },
   {
     "episode": 6,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=6&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=6&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   },
   {
     "episode": 7,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=7&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=7&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   },
   {
     "episode": 8,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=8&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=8&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   },
   {
     "episode": 9,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=9&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=9&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   },
   {
     "episode": 10,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=10&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=10&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   },
   {
     "episode": 11,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=11&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=11&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   },
   {
     "episode": 12,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=12&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=12&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   },
   {
     "episode": 13,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=13&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=13&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   },
   {
     "episode": 14,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=14&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=14&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   },
   {
     "episode": 15,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=15&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=15&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   },
   {
     "episode": 16,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=16&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=16&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   },
   {
     "episode": 17,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=17&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=17&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   },
   {
     "episode": 18,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=18&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=18&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   },
   {
     "episode": 19,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=19&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=19&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   },
   {
     "episode": 20,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=20&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=20&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   },
   {
     "episode": 21,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=21&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=21&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   },
   {
     "episode": 22,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=22&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=22&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   },
   {
     "episode": 23,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=23&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=23&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   },
   {
     "episode": 24,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=24&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=24&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   },
   {
     "episode": 25,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=25&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=25&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   },
   {
     "episode": 26,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=26&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=26&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   },
   {
     "episode": 27,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=27&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=27&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   },
   {
     "episode": 28,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=28&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=28&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   },
   {
     "episode": 29,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=29&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=29&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   },
   {
     "episode": 30,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=30&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=30&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   },
   {
     "episode": 31,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=31&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=31&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   },
   {
     "episode": 32,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=32&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=32&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   },
   {
     "episode": 33,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=33&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=33&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   },
   {
     "episode": 34,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=34&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=34&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   },
   {
     "episode": 35,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=35&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=35&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   },
   {
     "episode": 36,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=36&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=36&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   },
   {
     "episode": 37,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=37&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=37&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   },
   {
     "episode": 38,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=38&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=38&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   },
   {
     "episode": 39,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=39&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=39&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   },
   {
     "episode": 40,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=40&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=40&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   },
   {
     "episode": 42,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=42&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=42&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   },
   {
     "episode": 44,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=44&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=44&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   },
   {
     "episode": 46,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=46&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=46&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   },
   {
     "episode": 48,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=48&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=48&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   },
   {
     "episode": 49,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=49&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=49&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   },
   {
     "episode": 50,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=50&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=50&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   },
   {
     "episode": 51,
-    "dub": "Озвучка Дубляж Тренд Медиа Сервис",
+    "dub": "Дубляж Тренд Медиа Сервис",
     "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=trendmediaservice&anime_id=31049&episode=51&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
-    "date": 1789144857,
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81&anime_id=31049&episode=51&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+%D0%A2%D1%80%D0%B5%D0%BD%D0%B4+%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81",
+    "date": 1792700681,
     "durationSec": 0
   }
 ]
