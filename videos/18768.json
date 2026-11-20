@@ -410,6 +410,8 @@
     "iframeUrl": "https://kodikplayer.com/season/90577/99cf2ce353e19c8dac90447f072d4722/720p?translations=false&only_episode=true&only_season=true&episode=16",
     "date": 1697060123,
     "durationSec": 837,
+    "openingTime": 0,
+    "openingLength": 199,
     "endingTime": 732,
     "endingLength": 24
   },
@@ -1539,7 +1541,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/90675/22592f0c7c580ae3cbb566a04587f0e8/720p?translations=false&only_episode=true&only_season=true&episode=21",
     "date": 1711471747,
-    "durationSec": 960
+    "durationSec": 960,
+    "endingTime": 835,
+    "endingLength": 19
   },
   {
     "episode": 22,
@@ -1548,6 +1552,256 @@
     "iframeUrl": "https://kodikplayer.com/season/90675/22592f0c7c580ae3cbb566a04587f0e8/720p?translations=false&only_episode=true&only_season=true&episode=22",
     "date": 1711471747,
     "durationSec": 1398
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniStar & DEEP",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=1",
+    "date": 1743548616,
+    "durationSec": 755,
+    "endingTime": 650,
+    "endingLength": 89
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniStar & DEEP",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=2",
+    "date": 1743548616,
+    "durationSec": 789,
+    "endingTime": 721,
+    "endingLength": 49
+  },
+  {
+    "episode": 3,
+    "dub": "Озвучка AniStar & DEEP",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=3",
+    "date": 1743548616,
+    "durationSec": 788,
+    "openingTime": 0,
+    "openingLength": 114,
+    "endingTime": 684,
+    "endingLength": 89
+  },
+  {
+    "episode": 4,
+    "dub": "Озвучка AniStar & DEEP",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=4",
+    "date": 1743548616,
+    "durationSec": 783,
+    "openingTime": 0,
+    "openingLength": 239,
+    "endingTime": 710,
+    "endingLength": 54
+  },
+  {
+    "episode": 5,
+    "dub": "Озвучка AniStar & DEEP",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=5",
+    "date": 1743548616,
+    "durationSec": 728,
+    "openingTime": 0,
+    "openingLength": 99,
+    "endingTime": 674,
+    "endingLength": 34
+  },
+  {
+    "episode": 6,
+    "dub": "Озвучка AniStar & DEEP",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=6",
+    "date": 1743548616,
+    "durationSec": 771,
+    "openingTime": 0,
+    "openingLength": 179,
+    "endingTime": 633,
+    "endingLength": 119
+  },
+  {
+    "episode": 7,
+    "dub": "Озвучка AniStar & DEEP",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=7",
+    "date": 1743548616,
+    "durationSec": 780,
+    "openingTime": 136,
+    "openingLength": 39,
+    "endingTime": 717,
+    "endingLength": 44
+  },
+  {
+    "episode": 8,
+    "dub": "Озвучка AniStar & DEEP",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=8",
+    "date": 1743548616,
+    "durationSec": 763,
+    "openingTime": 56,
+    "openingLength": 39,
+    "endingTime": 732,
+    "endingLength": 19
+  },
+  {
+    "episode": 9,
+    "dub": "Озвучка AniStar & DEEP",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=9",
+    "date": 1743548616,
+    "durationSec": 830,
+    "openingTime": 0,
+    "openingLength": 59,
+    "endingTime": 760,
+    "endingLength": 49
+  },
+  {
+    "episode": 10,
+    "dub": "Озвучка AniStar & DEEP",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=10",
+    "date": 1743548616,
+    "durationSec": 950,
+    "endingTime": 885,
+    "endingLength": 44
+  },
+  {
+    "episode": 11,
+    "dub": "Озвучка AniStar & DEEP",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=11",
+    "date": 1743548616,
+    "durationSec": 728,
+    "endingTime": 623,
+    "endingLength": 89
+  },
+  {
+    "episode": 12,
+    "dub": "Озвучка AniStar & DEEP",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=12",
+    "date": 1743548616,
+    "durationSec": 837,
+    "openingTime": 0,
+    "openingLength": 184,
+    "endingTime": 788,
+    "endingLength": 29
+  },
+  {
+    "episode": 13,
+    "dub": "Озвучка AniStar & DEEP",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=13",
+    "date": 1743548616,
+    "durationSec": 756,
+    "endingTime": 712,
+    "endingLength": 24
+  },
+  {
+    "episode": 14,
+    "dub": "Озвучка AniStar & DEEP",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=14",
+    "date": 1743548616,
+    "durationSec": 781,
+    "endingTime": 732,
+    "endingLength": 29
+  },
+  {
+    "episode": 15,
+    "dub": "Озвучка AniStar & DEEP",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=15",
+    "date": 1743548616,
+    "durationSec": 726,
+    "openingTime": 0,
+    "openingLength": 99,
+    "endingTime": 699,
+    "endingLength": 14
+  },
+  {
+    "episode": 16,
+    "dub": "Озвучка AniStar & DEEP",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=16",
+    "date": 1743548616,
+    "durationSec": 837,
+    "openingTime": 163,
+    "openingLength": 39,
+    "endingTime": 773,
+    "endingLength": 44
+  },
+  {
+    "episode": 17,
+    "dub": "Озвучка AniStar & DEEP",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=17",
+    "date": 1743548616,
+    "durationSec": 785,
+    "openingTime": 0,
+    "openingLength": 69,
+    "endingTime": 729,
+    "endingLength": 39
+  },
+  {
+    "episode": 18,
+    "dub": "Озвучка AniStar & DEEP",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=18",
+    "date": 1743548616,
+    "durationSec": 814,
+    "openingTime": 96,
+    "openingLength": 39,
+    "endingTime": 733,
+    "endingLength": 64
+  },
+  {
+    "episode": 19,
+    "dub": "Озвучка AniStar & DEEP",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=19",
+    "date": 1743548616,
+    "durationSec": 931,
+    "openingTime": 0,
+    "openingLength": 49,
+    "endingTime": 855,
+    "endingLength": 59
+  },
+  {
+    "episode": 20,
+    "dub": "Озвучка AniStar & DEEP",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=20",
+    "date": 1743548616,
+    "durationSec": 760,
+    "openingTime": 0,
+    "openingLength": 129,
+    "endingTime": 717,
+    "endingLength": 24
+  },
+  {
+    "episode": 21,
+    "dub": "Озвучка AniStar & DEEP",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=21",
+    "date": 1743548616,
+    "durationSec": 960,
+    "openingTime": 0,
+    "openingLength": 149,
+    "endingTime": 901,
+    "endingLength": 39
+  },
+  {
+    "episode": 22,
+    "dub": "Озвучка AniStar & DEEP",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=22",
+    "date": 1743548616,
+    "durationSec": 1398,
+    "endingTime": 1330,
+    "endingLength": 49
   },
   {
     "episode": 1,
@@ -1913,7 +2167,7 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=7",
     "date": 1697030971,
-    "durationSec": 0
+    "durationSec": 780
   },
   {
     "episode": 8,
@@ -1921,7 +2175,7 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=8",
     "date": 1697030971,
-    "durationSec": 0
+    "durationSec": 763
   },
   {
     "episode": 1,
@@ -2005,250 +2259,6 @@
   },
   {
     "episode": 1,
-    "dub": "Озвучка AniStar & DEEP",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=1",
-    "date": 1743548616,
-    "durationSec": 755,
-    "endingTime": 650,
-    "endingLength": 89
-  },
-  {
-    "episode": 2,
-    "dub": "Озвучка AniStar & DEEP",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=2",
-    "date": 1743548616,
-    "durationSec": 789,
-    "endingTime": 721,
-    "endingLength": 49
-  },
-  {
-    "episode": 3,
-    "dub": "Озвучка AniStar & DEEP",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=3",
-    "date": 1743548616,
-    "durationSec": 788,
-    "openingTime": 0,
-    "openingLength": 114,
-    "endingTime": 684,
-    "endingLength": 89
-  },
-  {
-    "episode": 4,
-    "dub": "Озвучка AniStar & DEEP",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=4",
-    "date": 1743548616,
-    "durationSec": 783,
-    "openingTime": 0,
-    "openingLength": 239,
-    "endingTime": 710,
-    "endingLength": 54
-  },
-  {
-    "episode": 5,
-    "dub": "Озвучка AniStar & DEEP",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=5",
-    "date": 1743548616,
-    "durationSec": 728,
-    "endingTime": 674,
-    "endingLength": 34
-  },
-  {
-    "episode": 6,
-    "dub": "Озвучка AniStar & DEEP",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=6",
-    "date": 1743548616,
-    "durationSec": 771,
-    "openingTime": 0,
-    "openingLength": 179,
-    "endingTime": 633,
-    "endingLength": 119
-  },
-  {
-    "episode": 7,
-    "dub": "Озвучка AniStar & DEEP",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=7",
-    "date": 1743548616,
-    "durationSec": 780,
-    "endingTime": 717,
-    "endingLength": 44
-  },
-  {
-    "episode": 8,
-    "dub": "Озвучка AniStar & DEEP",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=8",
-    "date": 1743548616,
-    "durationSec": 763,
-    "openingTime": 56,
-    "openingLength": 39,
-    "endingTime": 732,
-    "endingLength": 19
-  },
-  {
-    "episode": 9,
-    "dub": "Озвучка AniStar & DEEP",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=9",
-    "date": 1743548616,
-    "durationSec": 830,
-    "openingTime": 0,
-    "openingLength": 59,
-    "endingTime": 760,
-    "endingLength": 49
-  },
-  {
-    "episode": 10,
-    "dub": "Озвучка AniStar & DEEP",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=10",
-    "date": 1743548616,
-    "durationSec": 950,
-    "endingTime": 885,
-    "endingLength": 44
-  },
-  {
-    "episode": 11,
-    "dub": "Озвучка AniStar & DEEP",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=11",
-    "date": 1743548616,
-    "durationSec": 728,
-    "endingTime": 623,
-    "endingLength": 89
-  },
-  {
-    "episode": 12,
-    "dub": "Озвучка AniStar & DEEP",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=12",
-    "date": 1743548616,
-    "durationSec": 837,
-    "openingTime": 0,
-    "openingLength": 184,
-    "endingTime": 788,
-    "endingLength": 29
-  },
-  {
-    "episode": 13,
-    "dub": "Озвучка AniStar & DEEP",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=13",
-    "date": 1743548616,
-    "durationSec": 756,
-    "endingTime": 712,
-    "endingLength": 24
-  },
-  {
-    "episode": 14,
-    "dub": "Озвучка AniStar & DEEP",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=14",
-    "date": 1743548616,
-    "durationSec": 781,
-    "endingTime": 732,
-    "endingLength": 29
-  },
-  {
-    "episode": 15,
-    "dub": "Озвучка AniStar & DEEP",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=15",
-    "date": 1743548616,
-    "durationSec": 726,
-    "openingTime": 0,
-    "openingLength": 99,
-    "endingTime": 699,
-    "endingLength": 14
-  },
-  {
-    "episode": 16,
-    "dub": "Озвучка AniStar & DEEP",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=16",
-    "date": 1743548616,
-    "durationSec": 837,
-    "openingTime": 163,
-    "openingLength": 39,
-    "endingTime": 773,
-    "endingLength": 44
-  },
-  {
-    "episode": 17,
-    "dub": "Озвучка AniStar & DEEP",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=17",
-    "date": 1743548616,
-    "durationSec": 785,
-    "openingTime": 0,
-    "openingLength": 69,
-    "endingTime": 729,
-    "endingLength": 39
-  },
-  {
-    "episode": 18,
-    "dub": "Озвучка AniStar & DEEP",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=18",
-    "date": 1743548616,
-    "durationSec": 814,
-    "openingTime": 96,
-    "openingLength": 39,
-    "endingTime": 733,
-    "endingLength": 64
-  },
-  {
-    "episode": 19,
-    "dub": "Озвучка AniStar & DEEP",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=19",
-    "date": 1743548616,
-    "durationSec": 931,
-    "openingTime": 0,
-    "openingLength": 49,
-    "endingTime": 855,
-    "endingLength": 59
-  },
-  {
-    "episode": 20,
-    "dub": "Озвучка AniStar & DEEP",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=20",
-    "date": 1743548616,
-    "durationSec": 760,
-    "endingTime": 717,
-    "endingLength": 24
-  },
-  {
-    "episode": 21,
-    "dub": "Озвучка AniStar & DEEP",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=21",
-    "date": 1743548616,
-    "durationSec": 960,
-    "openingTime": 0,
-    "openingLength": 149,
-    "endingTime": 901,
-    "endingLength": 39
-  },
-  {
-    "episode": 22,
-    "dub": "Озвучка AniStar & DEEP",
-    "player": "Плеер Kodik",
-    "iframeUrl": "https://kodikplayer.com/season/90575/4a12fc643d3d7e49f5ae70137368ea40/720p?translations=false&only_episode=true&only_season=true&episode=22",
-    "date": 1743548616,
-    "durationSec": 1398,
-    "endingTime": 1330,
-    "endingLength": 49
-  },
-  {
-    "episode": 1,
     "dub": "Озвучка AniPlague",
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/90710/dcf58ebdcda48509eb3b54e576304852/720p?translations=false&only_episode=true&only_season=true&episode=1",
@@ -2273,7 +2283,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/90710/dcf58ebdcda48509eb3b54e576304852/720p?translations=false&only_episode=true&only_season=true&episode=3",
     "date": 1682713143,
-    "durationSec": 0
+    "durationSec": 0,
+    "endingTime": 682,
+    "endingLength": 29
   },
   {
     "episode": 4,
@@ -2313,7 +2325,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/90710/dcf58ebdcda48509eb3b54e576304852/720p?translations=false&only_episode=true&only_season=true&episode=7",
     "date": 1683992107,
-    "durationSec": 0
+    "durationSec": 0,
+    "endingTime": 674,
+    "endingLength": 19
   },
   {
     "episode": 8,
@@ -2337,7 +2351,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/90710/dcf58ebdcda48509eb3b54e576304852/720p?translations=false&only_episode=true&only_season=true&episode=10",
     "date": 1684616894,
-    "durationSec": 0
+    "durationSec": 0,
+    "endingTime": 843,
+    "endingLength": 24
   },
   {
     "episode": 11,
@@ -2671,7 +2687,7 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=503ae8174eff1c768577e87ae4d729&translation=123&season=1&episode=10&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1685197420,
-    "durationSec": 0,
+    "durationSec": 947,
     "translationId": 123
   },
   {
@@ -2698,7 +2714,7 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=503ae8174eff1c768577e87ae4d729&translation=123&season=1&episode=9&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1685199270,
-    "durationSec": 0,
+    "durationSec": 827,
     "translationId": 123
   },
   {
@@ -2716,7 +2732,7 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=503ae8174eff1c768577e87ae4d729&translation=123&season=1&episode=12&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1685690736,
-    "durationSec": 0,
+    "durationSec": 834,
     "translationId": 123
   },
   {
@@ -2734,7 +2750,7 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=503ae8174eff1c768577e87ae4d729&translation=123&season=1&episode=14&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1686433569,
-    "durationSec": 0,
+    "durationSec": 778,
     "translationId": 123
   },
   {
@@ -2743,7 +2759,7 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=503ae8174eff1c768577e87ae4d729&translation=123&season=1&episode=15&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1686993572,
-    "durationSec": 0,
+    "durationSec": 723,
     "translationId": 123
   },
   {
@@ -2752,7 +2768,7 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=503ae8174eff1c768577e87ae4d729&translation=123&season=1&episode=16&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1686993572,
-    "durationSec": 0,
+    "durationSec": 834,
     "translationId": 123
   },
   {
@@ -2761,7 +2777,7 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=503ae8174eff1c768577e87ae4d729&translation=123&season=1&episode=17&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1687536058,
-    "durationSec": 0,
+    "durationSec": 782,
     "translationId": 123
   },
   {
@@ -2770,7 +2786,7 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=503ae8174eff1c768577e87ae4d729&translation=123&season=1&episode=18&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1687536058,
-    "durationSec": 0,
+    "durationSec": 811,
     "translationId": 123
   },
   {

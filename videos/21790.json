@@ -56,6 +56,18 @@
     "endingLength": 19
   },
   {
+    "episode": 6,
+    "dub": "Озвучка StudioBand",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123734/4eb1c5b0d0e2aaf9bcbca28b140ed7f8/720p?translations=false&only_episode=true&only_season=true&episode=6",
+    "date": 1794941432,
+    "durationSec": 1364,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1345,
+    "endingLength": 19
+  },
+  {
     "episode": 1,
     "dub": "Озвучка Dream Cast",
     "player": "Плеер Kodik",
@@ -105,6 +117,18 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123785/dcc25df92a67bf5a6506b065b6220413/720p?translations=false&only_episode=true&only_season=true&episode=5",
     "date": 1794424286,
+    "durationSec": 1428,
+    "openingTime": 42,
+    "openingLength": 69,
+    "endingTime": 1326,
+    "endingLength": 29
+  },
+  {
+    "episode": 6,
+    "dub": "Озвучка Dream Cast",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123785/dcc25df92a67bf5a6506b065b6220413/720p?translations=false&only_episode=true&only_season=true&episode=6",
+    "date": 1795113006,
     "durationSec": 1428
   },
   {
@@ -114,6 +138,8 @@
     "iframeUrl": "https://kodikplayer.com/season/123732/506d57fc3d79dbe6a6fe67510474ec04/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1791938552,
     "durationSec": 1420,
+    "openingTime": 28,
+    "openingLength": 89,
     "endingTime": 1400,
     "endingLength": 19
   },
@@ -155,6 +181,18 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123732/506d57fc3d79dbe6a6fe67510474ec04/720p?translations=false&only_episode=true&only_season=true&episode=5",
     "date": 1794329835,
+    "durationSec": 1420,
+    "openingTime": 33,
+    "openingLength": 69,
+    "endingTime": 1319,
+    "endingLength": 89
+  },
+  {
+    "episode": 6,
+    "dub": "Субтитры Crunchyroll",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123732/506d57fc3d79dbe6a6fe67510474ec04/720p?translations=false&only_episode=true&only_season=true&episode=6",
+    "date": 1794941432,
     "durationSec": 1420
   },
   {
@@ -206,6 +244,14 @@
     "durationSec": 1420
   },
   {
+    "episode": 6,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123739/cb30e470ea323284288ef164ff999742/720p?translations=false&only_episode=true&only_season=true&episode=6",
+    "date": 1794941432,
+    "durationSec": 1420
+  },
+  {
     "episode": 1,
     "dub": "Озвучка SHIZA Project",
     "player": "Плеер Kodik",
@@ -219,7 +265,7 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123793/df76cc54ee7b17ea207f65250e617b78/720p?translations=false&only_episode=true&only_season=true&episode=2",
     "date": 1792770217,
-    "durationSec": 0
+    "durationSec": 1421
   },
   {
     "episode": 3,
@@ -235,6 +281,22 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123793/df76cc54ee7b17ea207f65250e617b78/720p?translations=false&only_episode=true&only_season=true&episode=4",
     "date": 1793860482,
+    "durationSec": 1420
+  },
+  {
+    "episode": 5,
+    "dub": "Озвучка SHIZA Project",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123793/df76cc54ee7b17ea207f65250e617b78/720p?translations=false&only_episode=true&only_season=true&episode=5",
+    "date": 1794468333,
+    "durationSec": 1420
+  },
+  {
+    "episode": 6,
+    "dub": "Озвучка SHIZA Project",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123793/df76cc54ee7b17ea207f65250e617b78/720p?translations=false&only_episode=true&only_season=true&episode=6",
+    "date": 1795026805,
     "durationSec": 1420
   }
 ]
