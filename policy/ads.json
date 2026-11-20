@@ -27,8 +27,8 @@
     "minFinishedEpisodes": 1,
     "minWatchSec": 180,
     "minGapSec": 600,
-    "maxPerSession": 2,
-    "maxPerDay": 6,
+    "maxPerSession": 3,
+    "maxPerDay": 10,
     "minLaunchCount": 2,
     "minSessionSec": 0
   },
@@ -62,8 +62,8 @@
   },
   "fullscreen": {
     "minGapSec": 300,
-    "maxPerSession": 3,
-    "maxPerDay": 6
+    "maxPerSession": 4,
+    "maxPerDay": 10
   },
   "detailsBanner": {
     "enabled": true,
