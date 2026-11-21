@@ -17,7 +17,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/83732/1a6a97782d697939a1e5767c40d612ee/720p?translations=false&only_episode=true&only_season=true&episode=61",
     "date": 1703277270,
-    "durationSec": 1359
+    "durationSec": 1359,
+    "openingTime": 0,
+    "openingLength": 104,
+    "endingTime": 1306,
+    "endingLength": 34
   },
   {
     "episode": 3,
@@ -7279,7 +7283,7 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/77733/56f5ebe5acf6f62d18a7b92312ba223a/720p?translations=false&only_episode=true&only_season=true&episode=11",
     "date": 1703542306,
-    "durationSec": 0
+    "durationSec": 1344
   },
   {
     "episode": 12,
@@ -7287,7 +7291,7 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/77733/56f5ebe5acf6f62d18a7b92312ba223a/720p?translations=false&only_episode=true&only_season=true&episode=12",
     "date": 1703542306,
-    "durationSec": 0
+    "durationSec": 1294
   },
   {
     "episode": 13,
@@ -8704,6 +8708,14 @@
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=HORIZON&anime_id=56524&episode=161&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+HORIZON",
     "date": 1794066417,
     "durationSec": 1169
+  },
+  {
+    "episode": 162,
+    "dub": "Озвучка HORIZON",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=HORIZON&anime_id=56524&episode=162&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+HORIZON",
+    "date": 1795187751,
+    "durationSec": 0
   },
   {
     "episode": 161,

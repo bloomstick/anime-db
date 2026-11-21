@@ -212,7 +212,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123453/692a5ff95995146ad9d86943577f0e12/720p?translations=false&only_episode=true&only_season=true&episode=8",
     "date": 1795105660,
-    "durationSec": 1425
+    "durationSec": 1425,
+    "openingTime": 122,
+    "openingLength": 89,
+    "endingTime": 1360,
+    "endingLength": 44
   },
   {
     "episode": 1,

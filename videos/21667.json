@@ -1125,7 +1125,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/121823/5d842a2c1f967956f34210d410ac9f70/720p?translations=false&only_episode=true&only_season=true&episode=16",
     "date": 1793787824,
-    "durationSec": 1167
+    "durationSec": 1167,
+    "openingTime": 0,
+    "openingLength": 99,
+    "endingTime": 1049,
+    "endingLength": 14
   },
   {
     "episode": 17,
@@ -1133,7 +1137,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/121823/5d842a2c1f967956f34210d410ac9f70/720p?translations=false&only_episode=true&only_season=true&episode=17",
     "date": 1793787824,
-    "durationSec": 1166
+    "durationSec": 1166,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1047,
+    "endingLength": 19
   },
   {
     "episode": 18,
