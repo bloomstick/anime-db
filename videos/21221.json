@@ -149,7 +149,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123132/c8325a7e14f1697234a2274b1c96f1a7/720p?translations=false&only_episode=true&only_season=true&episode=7",
     "date": 1794991407,
-    "durationSec": 1440
+    "durationSec": 1440,
+    "openingTime": 59,
+    "openingLength": 89,
+    "endingTime": 1361,
+    "endingLength": 19
   },
   {
     "episode": 1,
@@ -267,7 +271,7 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=3ebf006d3d859b27912ad5d89f79c5&translation=340&season=1&episode=7&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1795027763,
-    "durationSec": 0,
+    "durationSec": 1435,
     "translationId": 340
   },
   {
@@ -732,7 +736,7 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniLiberty&anime_id=61140&episode=1&dubbing=%D0%A1%D1%83%D0%B1%D1%82%D0%B8%D1%82%D1%80%D1%8B+AniLibria",
     "date": 1794468880,
-    "durationSec": 0
+    "durationSec": 3030
   },
   {
     "episode": 2,

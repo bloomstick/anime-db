@@ -895,7 +895,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/118565/53d9790654061d539fd05dc50842e333/720p?translations=false&only_episode=true&only_season=true&episode=30",
     "date": 1792671903,
-    "durationSec": 1150
+    "durationSec": 1150,
+    "openingTime": 0,
+    "openingLength": 64,
+    "endingTime": 995,
+    "endingLength": 19
   },
   {
     "episode": 31,

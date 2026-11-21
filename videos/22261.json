@@ -50,7 +50,7 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=0c67f87c1bb1766f34a10048a8cfac&translation=215&season=1&episode=6&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1795181388,
-    "durationSec": 0,
+    "durationSec": 1420,
     "translationId": 215
   },
   {
@@ -59,7 +59,7 @@
     "player": "Плеер Alloha",
     "iframeUrl": "https://alloha.yani.tv/?token_movie=0c67f87c1bb1766f34a10048a8cfac&translation=215&season=1&episode=7&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
     "date": 1795181388,
-    "durationSec": 0,
+    "durationSec": 1427,
     "translationId": 215
   },
   {
@@ -606,49 +606,12 @@
     "durationSec": 1420
   },
   {
-    "episode": 1,
+    "episode": 6,
     "dub": "Озвучка DreamyVoice",
-    "player": "Плеер Alloha",
-    "iframeUrl": "https://alloha.yani.tv/?token_movie=0c67f87c1bb1766f34a10048a8cfac&translation=376&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
-    "date": 1793610816,
-    "durationSec": 1421,
-    "translationId": 376
-  },
-  {
-    "episode": 2,
-    "dub": "Озвучка DreamyVoice",
-    "player": "Плеер Alloha",
-    "iframeUrl": "https://alloha.yani.tv/?token_movie=0c67f87c1bb1766f34a10048a8cfac&translation=376&season=1&episode=2&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
-    "date": 1793610816,
-    "durationSec": 1420,
-    "translationId": 376
-  },
-  {
-    "episode": 3,
-    "dub": "Озвучка DreamyVoice",
-    "player": "Плеер Alloha",
-    "iframeUrl": "https://alloha.yani.tv/?token_movie=0c67f87c1bb1766f34a10048a8cfac&translation=376&season=1&episode=3&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
-    "date": 1793610816,
-    "durationSec": 1420,
-    "translationId": 376
-  },
-  {
-    "episode": 4,
-    "dub": "Озвучка DreamyVoice",
-    "player": "Плеер Alloha",
-    "iframeUrl": "https://alloha.yani.tv/?token_movie=0c67f87c1bb1766f34a10048a8cfac&translation=376&season=1&episode=4&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
-    "date": 1793610816,
-    "durationSec": 1420,
-    "translationId": 376
-  },
-  {
-    "episode": 5,
-    "dub": "Озвучка DreamyVoice",
-    "player": "Плеер Alloha",
-    "iframeUrl": "https://alloha.yani.tv/?token_movie=0c67f87c1bb1766f34a10048a8cfac&translation=376&season=1&episode=5&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
-    "date": 1794323711,
-    "durationSec": 0,
-    "translationId": 376
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=DreamyVoice&anime_id=63754&episode=6&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+DreamyVoice",
+    "date": 1795198997,
+    "durationSec": 0
   },
   {
     "episode": 1,
@@ -701,5 +664,58 @@
     "iframeUrl": "https://kodikplayer.com/season/123692/bf8fdd94f91e3c207b670326cca5c7e6/720p?translations=false&only_episode=true&only_season=true&episode=5",
     "date": 1794251890,
     "durationSec": 1420
+  },
+  {
+    "episode": 6,
+    "dub": "Озвучка DreamyVoice",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123692/bf8fdd94f91e3c207b670326cca5c7e6/720p?translations=false&only_episode=true&only_season=true&episode=6",
+    "date": 1795201930,
+    "durationSec": 1420
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка DreamyVoice",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=0c67f87c1bb1766f34a10048a8cfac&translation=376&season=1&episode=1&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1793610816,
+    "durationSec": 1421,
+    "translationId": 376
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка DreamyVoice",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=0c67f87c1bb1766f34a10048a8cfac&translation=376&season=1&episode=2&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1793610816,
+    "durationSec": 1420,
+    "translationId": 376
+  },
+  {
+    "episode": 3,
+    "dub": "Озвучка DreamyVoice",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=0c67f87c1bb1766f34a10048a8cfac&translation=376&season=1&episode=3&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1793610816,
+    "durationSec": 1420,
+    "translationId": 376
+  },
+  {
+    "episode": 4,
+    "dub": "Озвучка DreamyVoice",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=0c67f87c1bb1766f34a10048a8cfac&translation=376&season=1&episode=4&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1793610816,
+    "durationSec": 1420,
+    "translationId": 376
+  },
+  {
+    "episode": 5,
+    "dub": "Озвучка DreamyVoice",
+    "player": "Плеер Alloha",
+    "iframeUrl": "https://alloha.yani.tv/?token_movie=0c67f87c1bb1766f34a10048a8cfac&translation=376&season=1&episode=5&token=8b5512267a2a52e9de06d67d342e0c&hidden=translation,season,episode",
+    "date": 1794323711,
+    "durationSec": 1420,
+    "translationId": 376
   }
 ]

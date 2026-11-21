@@ -12181,7 +12181,7 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AnimeVost&anime_id=51039&episode=162&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AnimeVost",
     "date": 1793009537,
-    "durationSec": 0
+    "durationSec": 1263
   },
   {
     "episode": 163,
@@ -13275,7 +13275,9 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/84190/5ab8117e9010f3af275e5458d21fe57f/720p?translations=false&only_episode=true&only_season=true&episode=54",
     "date": 1792335017,
-    "durationSec": 1273
+    "durationSec": 1273,
+    "endingTime": 1156,
+    "endingLength": 14
   },
   {
     "episode": 55,
