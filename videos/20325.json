@@ -73,7 +73,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123406/eff28d8ef3df98707e74ff1847aaae09/720p?translations=false&only_episode=true&only_season=true&episode=7",
     "date": 1795031395,
-    "durationSec": 1389
+    "durationSec": 1389,
+    "openingTime": 0,
+    "openingLength": 89,
+    "endingTime": 1369,
+    "endingLength": 19
   },
   {
     "episode": 1,
