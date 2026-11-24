@@ -1,171 +1,5 @@
 [
   {
-    "id": 517,
-    "slugUrl": "dream:517",
-    "name": "Легенда о ниндзя драконьего меча",
-    "rusName": "Легенда о ниндзя драконьего меча",
-    "engName": "Ninja Gaiden",
-    "coverUrl": "",
-    "coverFallbackUrl": "",
-    "status": "released",
-    "sourceTag": "dream",
-    "rating": 6.1874999994375,
-    "votes": 16,
-    "typeLabel": "ova",
-    "year": "1991",
-    "seasonIndex": 4,
-    "ageRating": "R-17+",
-    "description": "",
-    "genres": [
-      "Экшен",
-      "Фантастика",
-      "Сверхъестественное",
-      "Триллер",
-      "Демоны"
-    ],
-    "genreIds": [
-      1,
-      24,
-      37,
-      41,
-      6
-    ],
-    "tags": [],
-    "tagIds": [],
-    "anotherName": "Ninja Ryukenden / Tale of Ninja Ryuuken / Ninja Ryu: The Dragon Sword Story",
-    "ruNames": [
-      "Легенда о ниндзя драконьего меча",
-      "Легенда о ниндзя Рюкэне"
-    ],
-    "enNames": [
-      "Ninja Gaiden",
-      "Ninja Ryukenden",
-      "Tale of Ninja Ryuuken",
-      "Ninja Ryu: The Dragon Sword Story",
-      "Ninja Gaiden OVA",
-      "Ninja Ryūkenden",
-      "Tale of Ninja Ryuken",
-      "忍者龍剣伝"
-    ],
-    "shikimoriId": 619,
-    "malId": 619,
-    "isAgeRestricted": true,
-    "isLicensed": false,
-    "blockedIn": [],
-    "licenseNameRu": "",
-    "licensors": [],
-    "producers": [
-      "sms corporation",
-      "studio junio"
-    ],
-    "updatedAtSec": 1674827034,
-    "lastAirDateSec": 690811200,
-    "bannerUrl": "",
-    "studio": "Studio Junio",
-    "director": "Камбэ Мамору",
-    "sourceWork": "Игра",
-    "releaseDate": "1991-01-01",
-    "episodeDates": [
-      1674827034
-    ],
-    "totalEpisodes": 1,
-    "airedEpisodes": 1,
-    "yummyAlias": "legenda-o-nindzya-ryukene"
-  },
-  {
-    "id": 518,
-    "slugUrl": "dream:518",
-    "name": "Лес русалок",
-    "rusName": "Лес русалок",
-    "engName": "Mermaid Forest",
-    "coverUrl": "",
-    "coverFallbackUrl": "",
-    "status": "released",
-    "sourceTag": "dream",
-    "rating": 7.14634146341463,
-    "votes": 41,
-    "typeLabel": "tv",
-    "year": "2003",
-    "seasonIndex": 4,
-    "ageRating": "R-17+",
-    "description": "",
-    "genres": [
-      "Драма",
-      "Фэнтези",
-      "Ужасы",
-      "Детектив",
-      "Сёнен"
-    ],
-    "genreIds": [
-      8,
-      10,
-      14,
-      7,
-      27
-    ],
-    "tags": [],
-    "tagIds": [],
-    "anotherName": "Mermaid Forest TV / Ningyo no Mori TV / Rumic Theater: Mermaid Forest",
-    "ruNames": [
-      "Лес русалок",
-      "Театр Румико Такахаси: Лес русалок"
-    ],
-    "enNames": [
-      "Mermaid Forest",
-      "Mermaid Forest TV",
-      "Ningyo no Mori TV",
-      "Rumic Theater: Mermaid Forest",
-      "A Saga da Sereia",
-      "La Foresta delle Sirene",
-      "La Saga de la Sirena",
-      "La Selva de Sirenas",
-      "La saga de la sirena",
-      "La saga delle sirene",
-      "MF",
-      "Mermaid Forest (2003)"
-    ],
-    "shikimoriId": 620,
-    "malId": 620,
-    "isAgeRestricted": true,
-    "isLicensed": false,
-    "blockedIn": [],
-    "licenseNameRu": "",
-    "licensors": [],
-    "producers": [
-      "geneon entertainment usa",
-      "prime direction",
-      "shogakukan-shueisha productions",
-      "studio 4°c",
-      "tms entertainment",
-      "tv tokyo"
-    ],
-    "updatedAtSec": 1674826899,
-    "lastAirDateSec": 1072008000,
-    "bannerUrl": "",
-    "studio": "TMS Entertainment",
-    "director": "Окуваки Масахару",
-    "sourceWork": "Манга",
-    "releaseDate": "2003-01-01",
-    "episodeDates": [
-      1674826899,
-      1674826899,
-      1674826899,
-      1674826899,
-      1674826899,
-      1674826899,
-      1674826899,
-      1674826899,
-      1674826899,
-      1674826899,
-      1674826899,
-      1674826899,
-      1674826899
-    ],
-    "totalEpisodes": 11,
-    "airedEpisodes": 13,
-    "yummyAlias": "les-rusalok-tv"
-  },
-  {
     "id": 519,
     "slugUrl": "dream:519",
     "name": "Ночной странник",
@@ -1308,7 +1142,7 @@
     "year": "2004",
     "seasonIndex": 1,
     "ageRating": "G",
-    "description": "",
+    "description": "Школьник Хикару Синдо находит старую доску для го, в которой живёт дух древнего игрока Фудзивары-но Сая. Под его наставлением Хикару начинает путь в мир профессионального го.",
     "genres": [
       "Сёнен"
     ],
@@ -1637,7 +1471,7 @@
     "year": "1995",
     "seasonIndex": 4,
     "ageRating": "PG-13",
-    "description": "",
+    "description": "В Чикаго оружейница Ралли Винсент и её напарница Минни Мэй совмещают мастерскую с охотой за головами, а параллельно легендарный водитель Бин Бандит мчится по тем же улицам. Перестрелки, погони и мафия сплетаются в единую историю о мастерстве, риске и свободе.",
     "genres": [
       "Сэйнэн",
       "Комедия",
@@ -1881,7 +1715,7 @@
     "year": "2005",
     "seasonIndex": 4,
     "ageRating": "R-17+",
-    "description": "",
+    "description": "Гений маджонга Акаги бросает вызов якудза в смертельных партиях. Холодный расчёт и психологическое давление. Суровая драма о мастерстве и риске.",
     "genres": [
       "Триллер",
       "Психологическое",
@@ -5246,7 +5080,7 @@
     "year": "1993",
     "seasonIndex": 2,
     "ageRating": "PG-13",
-    "description": "",
+    "description": "Старшеклассник вспоминает переводную ученицу и запутанный любовный треугольник. Ностальгическая история о юности и невысказанных чувствах.",
     "genres": [
       "Драма",
       "Романтика",
@@ -6008,7 +5842,9 @@
     "malId": 761,
     "isAgeRestricted": false,
     "isLicensed": false,
-    "blockedIn": [],
+    "blockedIn": [
+      "RU"
+    ],
     "licenseNameRu": "",
     "licensors": [],
     "producers": [
@@ -11066,7 +10902,7 @@
     "year": "1993",
     "seasonIndex": 2,
     "ageRating": "R-17+",
-    "description": "",
+    "description": "Двое переведённых хулиганов — крашеный Мицухаси и колючий Ито — наводят шороху в новой школе: драки, розыгрыши и кодекс чести. Культовая хулиганская комедия девяностых.",
     "genres": [
       "Сёнэн",
       "Комедия",
@@ -11149,7 +10985,7 @@
     "year": "1995",
     "seasonIndex": 4,
     "ageRating": "PG-13",
-    "description": "",
+    "description": "Вселенная начинается с «Повести о соседях» — будней школы искусств, а «Райский поцелуй» продолжает её спустя годы: отличница Юкари становится моделью студенческого ателье и влюбляется в его дерзкого лидера Дзёдзи. Подиумы, ткани и первая любовь на фоне Токио. Стильная мелодрама о поиске себя.",
     "genres": [
       "Сёдзё",
       "Комедия",
@@ -11482,7 +11318,7 @@
     "year": "2006",
     "seasonIndex": 2,
     "ageRating": "R-17+",
-    "description": "",
+    "description": "Безымянный странник в маске приходит в себя в деревне среди людей со звериными ушами и хвостами. Он становится их лидером и втягивается в войны. Фэнтезийная эпопея с драмой и битвами.",
     "genres": [
       "Экшен",
       "Драма",
@@ -11592,7 +11428,7 @@
     "year": "2006",
     "seasonIndex": 2,
     "ageRating": "R+",
-    "description": "",
+    "description": "Подросток открывает для себя моторизованные ролики «Эйр Трек» и вступает в команду, чтобы соревноваться в воздушных гонках. Экшен о свободе и скорости.",
     "genres": [
       "Экшен",
       "Этти",
@@ -13697,7 +13533,7 @@
     "year": "1985",
     "seasonIndex": 4,
     "ageRating": "PG-13",
-    "description": "",
+    "description": "В опустошённом мире девушка хранит таинственное яйцо, а странник в чёрных доспехах сопровождает её в молчаливом путешествии. Фильм строится на образах и атмосфере, а не на диалогах. Медитативное фэнтези с философским подтекстом.",
     "genres": [
       "Безумие",
       "Драма",
@@ -16405,7 +16241,7 @@
     "year": "1989",
     "seasonIndex": 1,
     "ageRating": "R+",
-    "description": "",
+    "description": "В Чикаго оружейница Ралли Винсент и её напарница Минни Мэй совмещают мастерскую с охотой за головами, а параллельно легендарный водитель Бин Бандит мчится по тем же улицам. Перестрелки, погони и мафия сплетаются в единую историю о мастерстве, риске и свободе.",
     "genres": [
       "Сэйнэн",
       "Экшен",
@@ -17812,7 +17648,9 @@
     "malId": 936,
     "isAgeRestricted": false,
     "isLicensed": false,
-    "blockedIn": [],
+    "blockedIn": [
+      "RU"
+    ],
     "licenseNameRu": "",
     "licensors": [],
     "producers": [
@@ -23512,7 +23350,7 @@
     "year": "2004",
     "seasonIndex": 1,
     "ageRating": "PG-13",
-    "description": "",
+    "description": "В мире, где волки считаются вымершими, они способны принимать человеческий облик. Стая во главе с Кибой отправляется на поиски легендарного рая. Мрачная притча о надежде, инстинктах и конце света.",
     "genres": [
       "Приключения",
       "Драма",
@@ -23894,7 +23732,7 @@
     "year": "1991",
     "seasonIndex": 3,
     "ageRating": "PG-13",
-    "description": "",
+    "description": "Тридцатилетняя Такэко едет в деревню и вспоминает детство — мечты, обиды и моменты, что сформировали её. Ностальгическая драма о взрослении и выборе пути. Классика студии Ghibli.",
     "genres": [
       "Драма",
       "Романтика",
@@ -24135,7 +23973,7 @@
     "year": "2001",
     "seasonIndex": 3,
     "ageRating": "PG-13",
-    "description": "",
+    "description": "Пожилая актриса Тиёко Фудзивара рассказывает журналисту историю своей жизни и карьеры, а воспоминания сливаются с ролями. Фильм Кон Сатоси переплетает кино, любовь и время. Поэтическая драма о памяти и искусстве.",
     "genres": [
       "Драма",
       "Приключения",
@@ -25390,7 +25228,7 @@
     "year": "2003",
     "seasonIndex": 4,
     "ageRating": "R+",
-    "description": "",
+    "description": "Одинокий стрелок бродит по бесконечному мегаструктурному городу в поисках человека с «генами сетевого терминала», способного вернуть порядок. Мрачная научная фантастика о бесконечности и одиночестве.",
     "genres": [
       "Фантастика",
       "Меха"
@@ -26365,7 +26203,9 @@
     "malId": 1074,
     "isAgeRestricted": false,
     "isLicensed": false,
-    "blockedIn": [],
+    "blockedIn": [
+      "RU"
+    ],
     "licenseNameRu": "",
     "licensors": [],
     "producers": [
@@ -28804,7 +28644,7 @@
     "year": "1987",
     "seasonIndex": 2,
     "ageRating": "R+",
-    "description": "",
+    "description": "Агенты Чёрной стражи Таки и Маки должны защитить подписанта мирного договора между людьми и демонами во время его визита в Токио. Мрачный городской экшен-хоррор о границе миров.",
     "genres": [
       "Экшен",
       "Приключения",
@@ -40908,7 +40748,7 @@
     "year": "2003",
     "seasonIndex": 2,
     "ageRating": "R-17+",
-    "description": "",
+    "description": "Девять короткометражных историй, расширяющих вселенную «Матрицы»: от зарождения машинного восстания до повседневной жизни людей в реальном мире. Каждый эпизод — отдельный взгляд на войну человека и машин.",
     "genres": [
       "Экшен",
       "Драма",
@@ -44853,5 +44693,175 @@
     "totalEpisodes": 1,
     "airedEpisodes": 1,
     "yummyAlias": "zvezdnyy-gerb-kompilyaciya"
+  },
+  {
+    "id": 1078,
+    "slugUrl": "dream:1078",
+    "name": "Король храбрецов Гаогайгар: Финал OVA",
+    "rusName": "Король храбрецов Гаогайгар: Финал OVA",
+    "engName": "GaoGaiGar Final",
+    "coverUrl": "",
+    "coverFallbackUrl": "",
+    "status": "released",
+    "sourceTag": "dream",
+    "rating": 4.5,
+    "votes": 16,
+    "typeLabel": "ova",
+    "year": "2000",
+    "seasonIndex": 1,
+    "ageRating": "PG-13",
+    "description": "",
+    "genres": [
+      "Сёнен",
+      "Приключения",
+      "Драма",
+      "Фантастика",
+      "Меха"
+    ],
+    "genreIds": [
+      27,
+      2,
+      8,
+      24,
+      18
+    ],
+    "tags": [],
+    "tagIds": [],
+    "anotherName": "Brave King GaoGaiGar Final / King of Braves GaoGaiGar Final / Yuusha Ou GaoGaiGar Final / Yuusha-Oh GaoGaiGar Final",
+    "ruNames": [
+      "Король храбрецов Гаогайгар: Финал OVA",
+      "Король храбрецов Гаогайгар: Финал"
+    ],
+    "enNames": [
+      "GaoGaiGar Final",
+      "Brave King GaoGaiGar Final",
+      "King of Braves GaoGaiGar Final",
+      "Yuusha Ou GaoGaiGar Final",
+      "Yuusha-Oh GaoGaiGar Final",
+      "勇者王ガオガイガーFINAL",
+      "Brave King GaoGaiGar OVA",
+      "GGG Final",
+      "GaoGaiGar OVA",
+      "The King of Braves GaoGaiGar Final",
+      "The King of Braves: GaoGaiGar Final",
+      "Yuusha-Ou GaoGaiGar FINAL"
+    ],
+    "shikimoriId": 1382,
+    "malId": 1382,
+    "isAgeRestricted": false,
+    "isLicensed": false,
+    "blockedIn": [],
+    "licenseNameRu": "",
+    "licensors": [],
+    "producers": [
+      "sunrise",
+      "victor entertainment"
+    ],
+    "updatedAtSec": 1674776210,
+    "lastAirDateSec": 1048248000,
+    "bannerUrl": "",
+    "studio": "Sunrise",
+    "director": "Ёнэтани Ёситомо",
+    "sourceWork": "Оригинальная идея",
+    "releaseDate": "2000-01-01",
+    "episodeDates": [
+      1674776210,
+      1674776210,
+      1674776210,
+      1674776210,
+      1674776210,
+      1674776210,
+      1674776210,
+      1674776210
+    ],
+    "totalEpisodes": 8,
+    "airedEpisodes": 8,
+    "yummyAlias": "korol-hrabrecov-gaogaygar-final-ova"
+  },
+  {
+    "id": 1079,
+    "slugUrl": "dream:1079",
+    "name": "Принцесса-вампир Мию — OVA",
+    "rusName": "Принцесса-вампир Мию — OVA",
+    "engName": "Vampire Princess Miyu",
+    "coverUrl": "",
+    "coverFallbackUrl": "",
+    "status": "released",
+    "sourceTag": "dream",
+    "rating": 6.42307692307692,
+    "votes": 26,
+    "typeLabel": "ova",
+    "year": "1988",
+    "seasonIndex": 3,
+    "ageRating": "PG-13",
+    "description": "",
+    "genres": [
+      "Сёдзё",
+      "Экшен",
+      "Драма",
+      "Ужасы",
+      "Демоны",
+      "Вампиры"
+    ],
+    "genreIds": [
+      25,
+      1,
+      8,
+      14,
+      6,
+      32
+    ],
+    "tags": [],
+    "tagIds": [],
+    "anotherName": "Kyuuketsu Hime Miyu / Kyuuketsuki Miyu",
+    "ruNames": [
+      "Принцесса-вампир Мию — OVA",
+      "Принцесса-вампир Мию OVA"
+    ],
+    "enNames": [
+      "Vampire Princess Miyu",
+      "Kyuuketsu Hime Miyu",
+      "Kyuuketsuki Miyu",
+      "Kyuuketsu-hime Miyu",
+      "Kyūketsuki Miyu",
+      "Miyu ova",
+      "Miyu, la princesa vampir",
+      "Princesse vampire Miyu",
+      "Vampire Miyu",
+      "Vampire Princess",
+      "Vampire Princess Miyu (OVA)",
+      "Vampire Princess Miyu OAV"
+    ],
+    "shikimoriId": 1384,
+    "malId": 1384,
+    "isAgeRestricted": false,
+    "isLicensed": false,
+    "blockedIn": [],
+    "licenseNameRu": "",
+    "licensors": [],
+    "producers": [
+      "aic",
+      "animeigo",
+      "pony canyon",
+      "soei shinsha",
+      "soeishinsha",
+      "sōeishinsha"
+    ],
+    "updatedAtSec": 1674827020,
+    "lastAirDateSec": 609163200,
+    "bannerUrl": "",
+    "studio": "AIC",
+    "director": "Хирано Тосики",
+    "sourceWork": "Оригинальная идея",
+    "releaseDate": "1988-01-01",
+    "episodeDates": [
+      1674827020,
+      1674827020,
+      1674827020,
+      1674827020
+    ],
+    "totalEpisodes": 4,
+    "airedEpisodes": 4,
+    "yummyAlias": "princessa-vampir-miyu-ova"
   }
 ]
