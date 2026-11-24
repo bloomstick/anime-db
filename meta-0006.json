@@ -6489,107 +6489,6 @@
     "yummyAlias": "bitvy-malenkih-gigantov"
   },
   {
-    "id": 3621,
-    "slugUrl": "dream:3621",
-    "name": "Князь тьмы с задней парты",
-    "rusName": "Князь тьмы с задней парты",
-    "engName": "Demon King Daimao",
-    "coverUrl": "",
-    "coverFallbackUrl": "",
-    "status": "released",
-    "sourceTag": "dream",
-    "rating": 6.93445692826471,
-    "votes": 1602,
-    "typeLabel": "tv",
-    "year": "2010",
-    "seasonIndex": 2,
-    "ageRating": "R+",
-    "description": "Акуто Сай мечтает творить добро и занять высокий пост в магическом обществе, но школьное предсказание судьбы объявляет его будущим князем тьмы. С этого момента его жизнь в академии наполняется недоразумениями, поклонницами и попытками доказать, что пророчество его не определяет.",
-    "genres": [
-      "Экшен",
-      "Комедия",
-      "Фэнтези",
-      "Этти",
-      "Гарем",
-      "Школа"
-    ],
-    "genreIds": [
-      1,
-      4,
-      10,
-      9,
-      35,
-      23
-    ],
-    "tags": [],
-    "tagIds": [],
-    "anotherName": "Ichiban Ushiro no Dai Mao",
-    "ruNames": [
-      "Князь тьмы с задней парты"
-    ],
-    "enNames": [
-      "Demon King Daimao",
-      "Ichiban Ushiro no Dai Mao",
-      "Color Wars",
-      "Daimao",
-      "El Gran Rey Demonio",
-      "El Rey Demonio del Pupitre de Atrás",
-      "En Arka Sıradaki Şeytan Kral",
-      "Ichiban",
-      "Ichiban Ushiro no Daimao",
-      "Ichiban Ushiro no Daimaō",
-      "Rei Demônio Daimao",
-      "Князь темряви з останньої парти"
-    ],
-    "shikimoriId": 7088,
-    "malId": 7088,
-    "isAgeRestricted": true,
-    "isLicensed": true,
-    "blockedIn": [
-      "RU"
-    ],
-    "licenseNameRu": "",
-    "licensors": [],
-    "producers": [
-      "artland",
-      "at-x",
-      "delfi sound",
-      "delphi sound",
-      "genco",
-      "good smile company",
-      "hobby japan",
-      "hobbyjapan",
-      "lantis",
-      "marvelous entertainment",
-      "media factory",
-      "sentai filmworks"
-    ],
-    "updatedAtSec": 1677765075,
-    "lastAirDateSec": 1276948800,
-    "bannerUrl": "",
-    "studio": "Artland",
-    "director": "Ватанабэ Такаси",
-    "sourceWork": "Ранобэ",
-    "releaseDate": "2010-01-01",
-    "episodeDates": [
-      1677765075,
-      1677765075,
-      1677765075,
-      1677765075,
-      1677765075,
-      1677765075,
-      1677765075,
-      1677765075,
-      1677765075,
-      1677765075,
-      1677765075,
-      1677765075
-    ],
-    "totalEpisodes": 12,
-    "airedEpisodes": 12,
-    "yummyAlias": "knyaz-tmy-s-zadnej-party"
-  },
-  {
     "id": 3623,
     "slugUrl": "dream:3623",
     "name": "Волшебный поезд: Добро пожаловать на линию Оэдо",
@@ -40900,5 +40799,76 @@
     "totalEpisodes": 1,
     "airedEpisodes": 1,
     "yummyAlias": "ovosch-supergeroy-morkkorm"
+  },
+  {
+    "id": 4617,
+    "slugUrl": "dream:4617",
+    "name": "Обитатели комода",
+    "rusName": "Обитатели комода",
+    "engName": "Drawer Hobs",
+    "coverUrl": "",
+    "coverFallbackUrl": "",
+    "status": "released",
+    "sourceTag": "dream",
+    "rating": 6.86206896520691,
+    "votes": 29,
+    "typeLabel": "short-movie",
+    "year": "2011",
+    "seasonIndex": 2,
+    "ageRating": "G",
+    "description": "",
+    "genres": [
+      "Комедия",
+      "Повседневность",
+      "Сверхъестественное"
+    ],
+    "genreIds": [
+      4,
+      36,
+      37
+    ],
+    "tags": [],
+    "tagIds": [],
+    "anotherName": "Малыши из комода / Wakate Animator Ikusei Project / 2010 Young Animator Training Project / Anime Mirai 2010 / Wardrobe Dwellers / Project A",
+    "ruNames": [
+      "Обитатели комода"
+    ],
+    "enNames": [
+      "Drawer Hobs",
+      "Малыши из комода",
+      "Wakate Animator Ikusei Project",
+      "2010 Young Animator Training Project",
+      "Anime Mirai 2010",
+      "Wardrobe Dwellers",
+      "Project A",
+      "Anime Mirai Project 2011",
+      "Des Esprits pas Commodes",
+      "Des esprits pas commodes",
+      "PROJECT A",
+      "Tansuwarashi"
+    ],
+    "shikimoriId": 10502,
+    "malId": 10502,
+    "isAgeRestricted": false,
+    "isLicensed": false,
+    "blockedIn": [],
+    "licenseNameRu": "",
+    "licensors": [],
+    "producers": [
+      "production i.g"
+    ],
+    "updatedAtSec": 1674827088,
+    "lastAirDateSec": 1299326400,
+    "bannerUrl": "",
+    "studio": "Production I.G",
+    "director": "Кисэ Кадзутика",
+    "sourceWork": "Оригинал",
+    "releaseDate": "2011-01-01",
+    "episodeDates": [
+      1674827088
+    ],
+    "totalEpisodes": 1,
+    "airedEpisodes": 1,
+    "yummyAlias": "obitateli-komoda"
   }
 ]
