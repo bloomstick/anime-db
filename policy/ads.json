@@ -24,9 +24,9 @@
     "enabled": true,
     "unitId": "R-M-20310729-4",
     "triggerMode": "either",
-    "minFinishedEpisodes": 1,
-    "minWatchSec": 180,
-    "minGapSec": 600,
+    "minFinishedEpisodes": 2,
+    "minWatchSec": 600,
+    "minGapSec": 1800,
     "maxPerSession": 3,
     "maxPerDay": 10,
     "minLaunchCount": 2,
@@ -61,7 +61,7 @@
     "portraitOnly": true
   },
   "fullscreen": {
-    "minGapSec": 300,
+    "minGapSec": 420,
     "maxPerSession": 4,
     "maxPerDay": 10
   },
@@ -87,7 +87,7 @@
   "listsInterstitial": {
     "enabled": true,
     "unitId": "R-M-20310729-9",
-    "minTabOpens": 2,
+    "minTabOpens": 10,
     "minGapSec": 300,
     "maxPerSession": 1,
     "maxPerDay": 3,
