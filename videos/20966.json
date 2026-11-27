@@ -60,6 +60,8 @@
     "iframeUrl": "https://kodikplayer.com/season/123827/266dc9f1cdbe565dc25a69148a9c9a84/720p?translations=false&only_episode=true&only_season=true&episode=6",
     "date": 1793297646,
     "durationSec": 1111,
+    "openingTime": 42,
+    "openingLength": 89,
     "endingTime": 1081,
     "endingLength": 19
   },
@@ -81,7 +83,11 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/123827/266dc9f1cdbe565dc25a69148a9c9a84/720p?translations=false&only_episode=true&only_season=true&episode=8",
     "date": 1793877114,
-    "durationSec": 1161
+    "durationSec": 1161,
+    "openingTime": 21,
+    "openingLength": 89,
+    "endingTime": 1043,
+    "endingLength": 99
   },
   {
     "episode": 9,
@@ -122,6 +128,22 @@
     "iframeUrl": "https://kodikplayer.com/season/123827/266dc9f1cdbe565dc25a69148a9c9a84/720p?translations=false&only_episode=true&only_season=true&episode=13",
     "date": 1795101988,
     "durationSec": 1235
+  },
+  {
+    "episode": 14,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123827/266dc9f1cdbe565dc25a69148a9c9a84/720p?translations=false&only_episode=true&only_season=true&episode=14",
+    "date": 1795697705,
+    "durationSec": 1185
+  },
+  {
+    "episode": 15,
+    "dub": "Озвучка AniStar",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/123827/266dc9f1cdbe565dc25a69148a9c9a84/720p?translations=false&only_episode=true&only_season=true&episode=15",
+    "date": 1795703204,
+    "durationSec": 1180
   },
   {
     "episode": 1,

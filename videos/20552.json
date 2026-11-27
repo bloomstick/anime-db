@@ -252,6 +252,18 @@
     "endingLength": 19
   },
   {
+    "episode": 22,
+    "dub": "Озвучка NDA Studio",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/120923/f48dc023d67a7a6df95ae6e5fb543dd8/720p?translations=false&only_episode=true&only_season=true&episode=22",
+    "date": 1795711456,
+    "durationSec": 1423,
+    "openingTime": 208,
+    "openingLength": 89,
+    "endingTime": 1403,
+    "endingLength": 19
+  },
+  {
     "episode": 1,
     "dub": "Озвучка AnimeVost",
     "player": "Плеер Kodik",
@@ -497,6 +509,18 @@
     "date": 1795110247,
     "durationSec": 1421,
     "openingTime": 134,
+    "openingLength": 89,
+    "endingTime": 1401,
+    "endingLength": 19
+  },
+  {
+    "episode": 22,
+    "dub": "Озвучка AnimeVost",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/120936/a6a4e7a84bfaced9a30e6e799b23322b/720p?translations=false&only_episode=true&only_season=true&episode=22",
+    "date": 1795717884,
+    "durationSec": 1421,
+    "openingTime": 204,
     "openingLength": 89,
     "endingTime": 1401,
     "endingLength": 19
@@ -956,6 +980,18 @@
     "endingLength": 19
   },
   {
+    "episode": 22,
+    "dub": "Субтитры Crunchyroll",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/120922/a1af8c2a5b4fff74914b4bb70ad05f41/720p?translations=false&only_episode=true&only_season=true&episode=22",
+    "date": 1795711456,
+    "durationSec": 1420,
+    "openingTime": 203,
+    "openingLength": 89,
+    "endingTime": 1400,
+    "endingLength": 19
+  },
+  {
     "episode": 1,
     "dub": "Субтитры Crunchyroll",
     "player": "Плеер CVH",
@@ -1326,6 +1362,14 @@
     "endingLength": 39
   },
   {
+    "episode": 22,
+    "dub": "Озвучка AniMaunt",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/120941/236648286429e1289949b5f7f1586e59/720p?translations=false&only_episode=true&only_season=true&episode=22",
+    "date": 1795726141,
+    "durationSec": 1420
+  },
+  {
     "episode": 1,
     "dub": "Озвучка AniMaunt",
     "player": "Плеер CVH",
@@ -1549,7 +1593,7 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/121202/d205b6d0bb861a8b63d18580c0f94700/720p?translations=false&only_episode=true&only_season=true&episode=13",
     "date": 1792430672,
-    "durationSec": 0
+    "durationSec": 1427
   },
   {
     "episode": 14,
@@ -1557,7 +1601,7 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/121202/d205b6d0bb861a8b63d18580c0f94700/720p?translations=false&only_episode=true&only_season=true&episode=14",
     "date": 1792430672,
-    "durationSec": 0
+    "durationSec": 1427
   },
   {
     "episode": 15,
@@ -1581,7 +1625,7 @@
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/121202/d205b6d0bb861a8b63d18580c0f94700/720p?translations=false&only_episode=true&only_season=true&episode=17",
     "date": 1793912786,
-    "durationSec": 0
+    "durationSec": 1427
   },
   {
     "episode": 18,
@@ -1592,12 +1636,24 @@
     "durationSec": 1427
   },
   {
+    "episode": 19,
+    "dub": "Озвучка Fronda Studio",
+    "player": "Плеер Kodik",
+    "iframeUrl": "https://kodikplayer.com/season/121202/d205b6d0bb861a8b63d18580c0f94700/720p?translations=false&only_episode=true&only_season=true&episode=19",
+    "date": 1795533591,
+    "durationSec": 1427
+  },
+  {
     "episode": 1,
     "dub": "Дубляж NDA Studio",
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=NDA+Studio&anime_id=59741&episode=1&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+NDA+Studio",
     "date": 1792697737,
-    "durationSec": 1420
+    "durationSec": 1420,
+    "openingTime": 0,
+    "openingLength": 144,
+    "endingTime": 1294,
+    "endingLength": 89
   },
   {
     "episode": 2,
@@ -1675,7 +1731,11 @@
     "player": "Плеер CVH",
     "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=NDA+Studio&anime_id=59741&episode=8&dubbing=%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6+NDA+Studio",
     "date": 1792697737,
-    "durationSec": 1424
+    "durationSec": 1424,
+    "openingTime": 0,
+    "openingLength": 154,
+    "endingTime": 1394,
+    "endingLength": 19
   },
   {
     "episode": 9,
@@ -1882,6 +1942,70 @@
   {
     "episode": 1,
     "dub": "Озвучка AniHope",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniHope&anime_id=59741&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniHope",
+    "date": 1786916387,
+    "durationSec": 1420
+  },
+  {
+    "episode": 2,
+    "dub": "Озвучка AniHope",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniHope&anime_id=59741&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniHope",
+    "date": 1786916387,
+    "durationSec": 1420
+  },
+  {
+    "episode": 3,
+    "dub": "Озвучка AniHope",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniHope&anime_id=59741&episode=3&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniHope",
+    "date": 1786916387,
+    "durationSec": 1420
+  },
+  {
+    "episode": 4,
+    "dub": "Озвучка AniHope",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniHope&anime_id=59741&episode=4&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniHope",
+    "date": 1786916387,
+    "durationSec": 1420
+  },
+  {
+    "episode": 5,
+    "dub": "Озвучка AniHope",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniHope&anime_id=59741&episode=5&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniHope",
+    "date": 1787181704,
+    "durationSec": 1420
+  },
+  {
+    "episode": 6,
+    "dub": "Озвучка AniHope",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniHope&anime_id=59741&episode=6&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniHope",
+    "date": 1789864683,
+    "durationSec": 1420
+  },
+  {
+    "episode": 7,
+    "dub": "Озвучка AniHope",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniHope&anime_id=59741&episode=7&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniHope",
+    "date": 1791203319,
+    "durationSec": 0
+  },
+  {
+    "episode": 8,
+    "dub": "Озвучка AniHope",
+    "player": "Плеер CVH",
+    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniHope&anime_id=59741&episode=8&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniHope",
+    "date": 1791205301,
+    "durationSec": 0
+  },
+  {
+    "episode": 1,
+    "dub": "Озвучка AniHope",
     "player": "Плеер Kodik",
     "iframeUrl": "https://kodikplayer.com/season/121047/ecd9f233465cea6d324f46214ecfb7ff/720p?translations=false&only_episode=true&only_season=true&episode=1",
     "date": 1783235641,
@@ -1944,70 +2068,6 @@
     "iframeUrl": "https://kodikplayer.com/season/121047/ecd9f233465cea6d324f46214ecfb7ff/720p?translations=false&only_episode=true&only_season=true&episode=8",
     "date": 1791182529,
     "durationSec": 1420
-  },
-  {
-    "episode": 1,
-    "dub": "Озвучка AniHope",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniHope&anime_id=59741&episode=1&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniHope",
-    "date": 1786916387,
-    "durationSec": 1420
-  },
-  {
-    "episode": 2,
-    "dub": "Озвучка AniHope",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniHope&anime_id=59741&episode=2&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniHope",
-    "date": 1786916387,
-    "durationSec": 1420
-  },
-  {
-    "episode": 3,
-    "dub": "Озвучка AniHope",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniHope&anime_id=59741&episode=3&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniHope",
-    "date": 1786916387,
-    "durationSec": 1420
-  },
-  {
-    "episode": 4,
-    "dub": "Озвучка AniHope",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniHope&anime_id=59741&episode=4&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniHope",
-    "date": 1786916387,
-    "durationSec": 1420
-  },
-  {
-    "episode": 5,
-    "dub": "Озвучка AniHope",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniHope&anime_id=59741&episode=5&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniHope",
-    "date": 1787181704,
-    "durationSec": 1420
-  },
-  {
-    "episode": 6,
-    "dub": "Озвучка AniHope",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniHope&anime_id=59741&episode=6&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniHope",
-    "date": 1789864683,
-    "durationSec": 1420
-  },
-  {
-    "episode": 7,
-    "dub": "Озвучка AniHope",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniHope&anime_id=59741&episode=7&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniHope",
-    "date": 1791203319,
-    "durationSec": 0
-  },
-  {
-    "episode": 8,
-    "dub": "Озвучка AniHope",
-    "player": "Плеер CVH",
-    "iframeUrl": "https://ru.yummyani.me/iframeCVH.html?dubbing_code=AniHope&anime_id=59741&episode=8&dubbing=%D0%9E%D0%B7%D0%B2%D1%83%D1%87%D0%BA%D0%B0+AniHope",
-    "date": 1791205301,
-    "durationSec": 0
   },
   {
     "episode": 1,
